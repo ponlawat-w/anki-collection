@@ -5,6 +5,7 @@ abends,Adv.,ตอนเย็น ค่ำ,y
 aber,Konj.,แต่ (a),y
 abfahren,V.,ออกเดินทาง,y
 abholen,V.,ไปรับ,y
+abwaschen,V.,ล้างออก,y
 ähnlich,Adj.,ใกล้เคียง คล้ายกัน,y
 all,Pron.,ทุกคน,y
 allein,Adj.,คนเดียว,y
@@ -42,6 +43,7 @@ aufwachen,V.,ตื่น (รู้สึกตัว) (a),y
 aufwarten,V.,รอคอย (บางอย่าง),y
 ausgeben,V.,ใช้จ่าย,y
 ausgezeichnet,Adj.,ยอดเยี่ยม (a),y
+ausleeren,V.,ทำให้ว่างเปล่า เอาออก ขจัด,y
 ausmachen,[Trennbare] V.,ปิด (สวิตช์),y
 auspacken,V.,แกะของ เปิดกระเป๋า,y
 ausschalten,V.,ปิดสวิตช์ (as),y
@@ -86,6 +88,7 @@ braun,Adj.,สีน้ำตาล,y
 breit,Adj.,กว้าง,y
 bringen,V.,เอาไป,y
 buchstabieren,V.,สะกด,y
+bügeln,V.,รีดผ้า,y
 da,,ตอนนั้น,y
 dabeihaben,V.,มีอยู่กับตัว,y
 dafür sein,V.,เห็นด้วย (!e),y
@@ -141,6 +144,7 @@ es gibt,,มี (ไม่ระบุประธาน),y
 etwas,,บางอย่าง,y
 explodieren,V.,ระเบิด,y
 fahren,V.,ไป (f),y
+falsch,Adj.,ผิด ที่ไม่ถูกต้อง,y
 fantastisch,Adj.,ยอดเยี่ยม (fantastic),y
 fast,Adv.,เกือบ (f),y
 faul,Adj.,ขี้เกียจ,y
@@ -187,6 +191,7 @@ gerade,Adv.,เพิ่ง,y
 geschieden,Adj.,หย่า,y
 gespannt sein,V.,ตั้งหน้าตั้งตารอ น่าสนุก 楽しみ,y
 gestern,Adv.,เมื่อวาน,y
+gestresst,Adj.,เครียด,y
 getrent,Adv.,แยกกัน (จ่ายแยก),y
 gewinnen,V.,ชนะ,y
 glauben,V.,เชื่อ,y
@@ -298,6 +303,7 @@ meinen,V.,หมายถึง (ref),y
 meistens,Adv.,ส่วนใหญ่,y
 merken,V.,สังเกตเห็น,y
 mieten,V.,เช่า,y
+mischen,V.,ผสม สลับ,y
 mitbringen,V.,เอาไปด้วย(กับ) (!n),y
 mit dem Hund Gassi gehen,,พาหมาไปเดินเล่น,y
 miteinander,Adv.,ด้วยกัน (en: together),y
@@ -354,6 +360,7 @@ prima,Adj.,เยี่ยม วิเศษ (p),y
 probieren,V.,ลอง ชิม,y
 problematisch,Adj.,ที่มีปัญหา,y
 pünktlich,Adj.,ตรงเวลา,y
+putzen,V.,ทำความสะอาด (สิ่งของ),y
 rauchen,V.,สูบบุหรี่,y
 recht,Adj.,ขวามือ ขวา ถูกต้อง,y
 reden,V.,พูด (r),y
@@ -408,7 +415,7 @@ seit,Präp.,ตั้งแต่,y
 selb,Adj.,เดียวกัน เหมือนกัน (en: same),y
 selbst,Adv.,ด้วยตัวเอง,y
 selten,Adv.,นาน ๆ ที แทบจะไม่,y
-"ser<span style=""color: var(--field-fg); background: var(--field-bg);"">vieren</span>",V.,เสิร์ฟ,y
+servieren,V.,เสิร์ฟ,y
 shoppen,V.,ชอปปิง ซื้อของ,y
 sich bedanken,V.,กล่าวคำขอบคุณ,y
 sich beeilen,V.,รีบ เร่ง,y

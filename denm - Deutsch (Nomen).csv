@@ -123,7 +123,7 @@ das Licht,Licht,die Lichter,ไฟ แสง,y
 das Lieblingsessen,Lieblingsessen,die Lieblingsessen,อาหารโปรด,y
 das Lieblingsgetränk,Lieblingsgetränk,die Lieblingsgetränke,เครื่องดื่มโปรด,y
 das Lied,Lied,die Lieder,เพลง,y
-<div>das Magengeschwür</div>,,,โรคกระเพาะ,y
+das Magengeschwür,,,โรคกระเพาะ,y
 das Mal,Mal,die Mäle,ครั้ง,y
 das Medikament,Medikament,die Medikamente,ยา การรักษา,y
 das Meer,Meer,die Meere,ทะเล,y
@@ -384,6 +384,7 @@ der Mond,Mond,die Monde,ดวงจันทร์,y
 der Montag,,,วันจันทร์,y
 der Morgen,Morgen,die Morgen,ตอนเช้า,y
 der Motor,Motor,die Motoren,เครื่องยนต์,y
+der Mülleimer,Mülleimer,die Mülleimer,ถังขยะ,y
 der Mund,Mund,die Münder,ปาก,y
 der Mut,Mut,,ความกล้าหาญ ความพยายาม,y
 der Nachbarn,Nachbarn,die Nachbarn,เพื่อนบ้าน,y
@@ -651,6 +652,7 @@ die Kanne,Kanne,die Kannen,กระป๋อง,y
 die Kantine,Kantine,die Kantinen,โรงอาหาร (!M),y
 die Karotte,Karotte,die Karotten,แครอท,y
 die Karte,Karte,die Karten,บัตร เมนู,y
+die Kartei,Kartei,die Karteien,ไฟล์,y
 die Kartoffel,Kartoffel,die Kartoffeln,มันฝรั่ง,y
 die Kasse,Kasse,die Kassen,เคาเตอร์แคชเชียร์,y
 die Katze,Katze,die Katzen,แมว,y
@@ -688,8 +690,10 @@ die Last,Last,die Lasten,น้ำหนัก สัมภาระ,y
 die Lehrerin,,die Lehrerinnen,ครู (ญ),y
 die Leitzahl,Leitzahl,,รหัส,y
 die Leute,Leute,,ผู้คน,y
+die Lieferung,,die Lieferungen,การส่งพัสดุ การขนส่งสินค้า,y
 die Lippe,Lippe,die Lippen,ริมฝีปาก,y
 die Lösung,Lösung,die Lösungen,คำตอบ (L),y
+die Lücke,Lücke,die Lücken,ช่องว่าง หลุม,y
 die Lust,Lust,,ความอยาก ความปรารถนา (สนใจทำอะไรสักอย่าง),y
 die Mahlzeit,Mahlzeit,die Mahlzeiten,มื้ออาหาร (!S),y
 die Mailbox,Mailbox,die Mailboxen,กล่องจดหมาย,y
@@ -749,6 +753,7 @@ die Rolltreppe,,,บันไดเลื่อน,y
 die Rosine,Rosine,die Rosinen,ลูกเกด,y
 die Routine,Routine,die Routinen,กิจวัตร,y
 die Rückkehr,Rückkehr,,การกลับ การย้อนกลับ,y
+die Rückseite,Rückseite,die Rückseiten,ด้านหลัง,y
 die Ruhe,,,ความสงบเสงี่ยม,y
 die Sache,Sache,die Sachen,ของ สิ่งของ,y
 die Säge,Säge,die Sägen,เลื่อย,y
