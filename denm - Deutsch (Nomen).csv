@@ -251,7 +251,7 @@ der Boden,Boden,die Böden,พื้น,y
 der Brief,Brief,die Briefe,จดหมาย,y
 der Brotladen,,,ร้านขายขนมปัง,y
 der Bruder,Bruder,die Brüder,พี่ชาย น้องชาย,y
-der Buchstabe,Buchstabe,die Buchstaben,ตัวอักษร,y
+der Buchstabe,Buchstabe,die Buchstaben,ตัวอักษร (!S),y
 der Bus,Bus,die Busse,รถบัส รถประจำทาง,y
 der Cappuccino,Cappuccino,die Cappuccinos,คาปูชิโน,y
 der Champagner,Champagner,die Champagner,แชมเปญ,y
@@ -268,6 +268,7 @@ der Dienstag,,,วันอังคาร,y
 der Dolmetscher,Dolmetscher,,ล่าม (อาชีพ),y
 der Dom,Dom,die Dome,โบสถ์ใหญ่ (คาธีดรัล),y
 der Donnerstag,,,วันพฤหัสบดี,y
+der Drachen,Drachen,die Drachen,ว่าว มังกร,die Drachen
 der Durchfall,Durchfall,,ท้องเสีย,y
 der Durst,Durst,,ความกระหายน้ำ,y
 der Ehemann,,,สามี,y
@@ -416,6 +417,7 @@ der Polizist,Polizist,die Polizisten,ตำรวจ (เจ้าพนัก�
 der Porsche,Porsche,,รถปอร์เช,y
 der Präsident,Präsident,die Präsidenten,ประธานาธิบดี,y
 der Preis,Preis,die Preise,ราคา (คำนาม),y
+der Prinz,Prinz,die Prinzen,เจ้าชาย,y
 der Programmierer,,,โปรแกรมเมอร์,y
 der Pullover,Pullover,die Pullover,เสื้อกันหนาว,y
 der Punkt,Punkt,die Punkte,จุด ช่วงเวลา,y
@@ -741,6 +743,7 @@ die Pommes,Pommes,,มันฝรั่งทอด,y
 die Post,Post,,ไปรษณีย์,y
 die Postleitzahl,Postleitzahl,,รหัสไปรษณีย์,y
 die Praxis,Praxis,die Praxen,การฝึกหัด (!Ü),y
+die Prinzessin,Prinzessin,die Prinzessinnen,เจ้าหญิง,y
 die Prüfung,Prüfung,,การสอบ การทดสอบ (ทั่วไป),y
 die Puppe,Puppe,die Puppen,ตุ๊กตา,y
 die Rechnung,Rechnung,die Rechnungen,บิล ใบแจ้งหนี้,y
