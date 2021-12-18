@@ -458,6 +458,7 @@ teuer,Adj.,แพง,y
 toll,Adj.,ยอดเยี่ยม (t),y
 töten,V.,ฆ่า ทำลาย,y
 tragen,V.,แบก หาม สวม,y
+träumen,V.,ฝัน,y
 treffen,V.,เจอ พบ,y
 trocken,Adj.,แห้ง,y
 trotzdem,Adv.,ถึงอย่างนั้น แม้อย่างนั้น (!o),y
@@ -525,6 +526,7 @@ wachsen,V.,เติบโต,y
 wach werden,V.,ตื่น ลุกขึ้น (ww),y
 wahr,Adj.,จริง (๑),y
 während,Konj.,ในขณะที่ ระหว่างที่ (w),y
+wahrscheinlich,Adv./Adj.,เป็นไปได้ คาดว่า ที่น่าจะเป็นไปได้ น่าจะ,y
 wandern,V.,ปีนเขา ไฮกิ้ง,y
 wann,Adv.,เมื่อไหร่,y
 warm,Adj.,อุ่น,y
@@ -553,6 +555,7 @@ wichtig,Adj.,สำคัญ,y
 wieder,Adv.,อีกครั้ง (๑),y
 wiederholen,V.,ทำซ้ำ,y
 wiedersehen,V.,พบกันอีกครั้ง พบกันใหม่,y
+wie hoch,,สูงเท่าไหร่ แพงเท่าไหร่,y
 wie viel,,มากเท่าไหร่,y
 wirklich,Adj.,จริง ๆ (๒),y
 wissen,V.,รู้,y
