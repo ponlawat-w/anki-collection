@@ -118,7 +118,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เช้าวันหนึ่งมีพายุ,Eines Morgens gibt es ein Gewitter.,
 เพื่อนคนหนึ่งได้ลองเปลี่ยนยางรถยนต์ดู,Ein Freund hat probiert den Reifen zu wechseln.,- Perfekt
 ขอโทษนะคะ รถไฟขบวนถัดไปที่จะไป Dessau ออกเมื่อไหร่,"Entschuldigung, wann fährt der nächste Zug nach Dessau ab?",
-เขาทำงานในบริษัทแห่งหนึ่งเป็นโปรแกรมเมอร์,Er arbeitet in einem Büro als Programmierer.,
+เขาทำงานในบริษัท(!F)แห่งหนึ่งเป็นโปรแกรมเมอร์,Er arbeitet in einem Büro als Programmierer.,
 เขาทำงานในมหาวิทยาลัยตั้งแต่ปี 1984,Er arbeitet seit neunzehn-vierundachtzig an der Universität.,
 เขา(ช)ไป(g)งานแต่งงานวันนี้,Er geht heute auf die Hochzeit.,
 เขาเอามัน(ช)ให้เธอ(๓),Er gibt ihn ihr.,
@@ -126,7 +126,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เขาจ่ายหมดเลย,Er hat alles bezahlt.,- Perfekt
 วันนี้เขาไม่ได้มีโทรศัพท์มือถือ<b><i><u>ของเขา</u></i></b>อยู่กับตัว มันวางอยู่บนโต๊ะตรงนี้,Er hat heute sein Handy nicht dabei. Es liegt hier auf dem Tisch.,
 เขาลงมืออบมัน(ช)ด้วยตัวเอง,Er hat ihn selber gebacken.,- perfekt
-เขาเรียนภาษาอังกฤษและสเปนมาจากในโรงเรียน,Er hat in der Schule Englisch und Spanisch gelernt.,- Perfekt
+เขาเรียน(!s)ภาษาอังกฤษและสเปนมาจากในโรงเรียน,Er hat in der Schule Englisch und Spanisch gelernt.,- Perfekt
 เขาไม่ได้เลี้ยงสุนัข แต่เลี้ยงแมวต่างหาก,"Er hat keinen Hund, sondern eine Katze.",
 เขาไม่มีเวลา,Er hat keine Zeit.,er
 เขาเคยเล่าเรื่องเขา(คนนั้น)กับฉัน แต่แทบจะไม่บ่อยเลย,"Er hat mir von ihm erzählt, aber ganz selten.",- Perfekt
@@ -144,7 +144,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เขาไม่ได้อยู่ในห้องครัว แต่อยู่ในห้องนั่งเล่น,"Er ist nicht in der Küche, sondern im Wohnzimmer.",er
 เขาไม่แก่เท่า Franka,Er ist nicht so alt wie Franka.,
 เขาอายุ 24 ปี,Er ist vierundzwanzig Jahre alt.,
-เขามาแฟรงก์เฟิร์ตได้สองเดือนแล้วละยังไม่รู้จักใครที่นี่เลย,Er ist von zwei Monaten nach Frankfurt gekommen und kennt hier noch keinen Menschen.,
+เขามาแฟรงก์เฟิร์ตได้สองเดือนแล้วละยังไม่รู้จักใครที่นี่เลย,Er ist vor zwei Monaten nach Frankfurt gekommen und kennt hier noch keinen Menschen.,
 เขาวิ่งช้ากว่า,Er läuft langsamer.,
 เขาไม่ชอบกีฬา,Er mag keinen Sport.,er
 เขาเปิด(!m)ประตู และตอนนี้มันเปิดอยู่,Er öffnet die Tür. Jetzt ist sie auf.,
@@ -541,7 +541,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เปิดตั้งแต่ 11:00 ถึง 23:00,von elf Uhr bis dreiundzwanzig Uhr geöffnet,- ไม่ใช่ประโยค
 วันจันทร์ถึงวันศุกร์เธอ(๓)ต้องทำงาน,Von Montag bis Freitag muss sie arbeiten.,
 ตอนสี่ถึงห้าโมงเย็นฉันซื้อของ จากนั้นก็นอนงีบสั้น ๆ,Von vier bis fünf Uhr habe ich eingekauft. Danach habe ich kurz geschlafen.,perfekt / umgamgsprachlich
-เธอไปได้สร้อยคอที่สวยงามเส้นนี้จากใครมา,Von wem hast du die schöne Kette bekommen?,
+เธอไปได้สร้อยคอที่สวยงามเส้นนี้จากใครมา,Von wem hast du die schöne Kette bekommen?,- Perfekt
 ตอน 12:00 ถึง 13:00 น.เราพักกลางวัน,Von zwölf bis dreizehn Uhr haben wir Mittagspause.,offiziell
 หน้าเธอ(๓)มีลูกกระต่ายนั่งอยู่ตัวหนึ่ง,Vor ihr sitzt ein Häschen.,- ขึ้นประโยคด้วยบุพบท
 เมื่อไม่นานมานี้ฉันได้รู้แล้วว่าเขาอยู่ที่ไหน,"Vor Kurzem fand ich heraus, wo er ist.",präteritum
