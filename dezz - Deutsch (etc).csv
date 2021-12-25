@@ -198,7 +198,7 @@ gewinnen,V.,ชนะ,y
 glauben,V.,เชื่อ,y
 gleich (adj),Adj.,เกือบ ใกล้เคียง คล้าย ๆ,y
 gleich (adv),Adv.,เดี๋ยว อีกแปป,y
-gleifalls,,เช่นกัน,y
+gleifalls,,เช่นกัน (!gn),y
 glücklich,Adj.,มีความสุข,y
 groß,Adj.,ใหญ่,y
 grün,Adj.,สีเขียว,y
@@ -218,13 +218,13 @@ helfen,V.,ช่วยเหลือ,y
 hell,Adj.,สว่าง,y
 herausfinden,V.,ค้นพบ พบว่า ได้รู้เรื่อง,y
 herausholen,V.,เอาออก เอาออกมา,y
-herein,Adv.,ด้านใน,
+herein,Adv.,ด้านใน (นี้),
 herkommen,V.,มาที่นี่,y
 hervor,Adv.,มาข้างหน้า ไปทางข้างหน้า,y
 herzen,V.,กอด (แน่น),y
 herzlich,Adj.,จากใจ อย่างเป็นมิตร,y
 heute,Adv.,วันนี้,y
-hinein,Adv.,ข้างใน เข้าไปข้างใน,y
+hinein,Adv.,ข้างใน เข้าไปข้างใน (นั้น),y
 hineingehen,V.,เข้าไปข้างใน (~g),y
 hinfahren,V.,ไปที่นั่น,y
 hinfallen,V.,ล้มลง,y
@@ -526,7 +526,7 @@ wachsen,V.,เติบโต,y
 wach werden,V.,ตื่น ลุกขึ้น (ww),y
 wahr,Adj.,จริง (๑),y
 während,Konj.,ในขณะที่ ระหว่างที่ (w),y
-wahrscheinlich,Adv./Adj.,เป็นไปได้ คาดว่า ที่น่าจะเป็นไปได้ น่าจะ,y
+wahrscheinlich,Adv./Adj.,เป็นไปได้ คาดว่า ที่น่าจะเป็นไปได้ น่าจะ (!m),y
 wandern,V.,ปีนเขา ไฮกิ้ง,y
 wann,Adv.,เมื่อไหร่,y
 warm,Adj.,อุ่น,y
