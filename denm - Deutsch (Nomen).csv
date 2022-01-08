@@ -23,6 +23,7 @@ das Betttuch,,,ผ้าปูที่นอน (!l),y
 das Bier,Bier,die Biere,เบียร์,y
 das Bild,Bild,die Bilder,รูปวาด รูปภาพ,y
 das Blatt,Blatt,die Blätter,ใบไม้,y
+das Boot,Boot,die Boote,เรือ (!S),y
 das Brot,Brot,die Brote,ขนมปัง,y
 das Brötchen,Brötchen,die Brötchen,ขนมปังก้อน,y
 das Buch,Buch,die Bücher,หนังสือ,y
@@ -162,7 +163,7 @@ das Rind,Rind,die Rinder,วัว เนื้อวัว,y
 das Rindersteak,Rindersteak,die Rindersteaks,สเต็กเนื้อวัว,y
 (das) Russland,Russland,,ประเทศรัสเซีย,y
 das Schach,Schach,,หมากรุก,y
-das Schiff,,die Schiffen,เรือ,y
+das Schiff,,die Schiffen,เรือ (!B),y
 das Schild,Schild,die Schilder,ป้าย,y
 das Schlafzimmer,,,ห้องนอน,y
 das Schloss,Schloss,die Schlosses,ปราสาท,y
@@ -224,6 +225,7 @@ der Arzt,Arzt,die Ärzte,แพทย์,y
 der Aufenthalt,Aufenthalt,die Aufenthalte,การอยู่ การพักอาศัย,y
 der Aufzug,Aufzug,,ลิฟต์,y
 der August,August,,สิงหาคม,y
+der Ausflug,Ausflug,die Ausflüge,ทริป การเดินทาง,y
 der Außenminister,Außenminister,,รัฐมนตรีต่างประเทศ,y
 der Austauschstudent,,,นักเรียนแลกเปลี่ยน,y
 der Ausweis,Ausweis,die Ausweise,บัตรประจำตัว หลักฐานประจำตัว หนังสือเดินทาง ใบรับรอง,y
@@ -531,9 +533,10 @@ der Wunsch,Wunsch,die Wünsche,ความปรารถนา คำอธิ
 der Zahn,Zahn,die Zähne,ฟัน,y
 der Zahnarzt,,,ทันตแพทย์,y
 der Zeigefinger,,,นิ้วชี้,y
+der Zettel,Zettel,die Zettel,เศษกระดาษ กระดาษโน้ต,y
 der Zucker,Zucker,,น้ำตาล,y
 der Zufall,Zufall,die Zufälle,ความบังเอิญ,y
-der Zug,Zug,die Züge,รถไฟ,y
+der Zug,Zug,die Züge,รถไฟ (!B),y
 die Abteilung,,,แผนก,y
 die Adresse,Adresse,die Adressen,ที่อยู่,y
 die Ahnung,Ahnung,die Ahnungen,ความคิด ความรู้เหตุการณ์,y
@@ -553,6 +556,7 @@ die Ausbildung,,die Ausbildungen,การฝึกงาน (!P),y
 die Ausstellung,,,มหกรรม งานแสดง แฟร์,y
 die Bäckerei,Bäckerei,die Bäckereien,เบเกอรี่,y
 die Badewanne,Badewanne,die Badewannen,อ่างอาบน้ำ,y
+die Bahn,Bahn,die Bahnen,รถไฟ (!Z),y
 die Banane,Banane,die Bananen,กล้วย,y
 die Bank,Bank,die Bänke,ธนาคาร,y
 die Bar,Bar,die Bars,บาร์ ผับ,y
