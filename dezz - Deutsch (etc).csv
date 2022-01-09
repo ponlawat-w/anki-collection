@@ -7,7 +7,7 @@ abfahren,V.,ออกเดินทาง,y
 abgeben,V.,ส่ง นำส่ง ยื่น(เอกสาร),y
 abholen,V.,ไปรับ,y
 abwaschen,V.,ล้างออก,y
-ähnlich,Adj.,ใกล้เคียง คล้ายกัน,y
+ähnlich,Adj.,ใกล้เคียง คล้ายกัน (!g),y
 all,Pron.,ทุกคน,y
 allein,Adj.,คนเดียว,y
 Alles Gute,Int.,ขอแสดงความยินดี,y
@@ -199,7 +199,7 @@ gestresst,Adj.,เครียด,y
 getrent,Adv.,แยกกัน (จ่ายแยก),y
 gewinnen,V.,ชนะ,y
 glauben,V.,เชื่อ,y
-gleich (adj),Adj.,เกือบ ใกล้เคียง คล้าย ๆ,y
+gleich (adj),Adj.,เกือบ ใกล้เคียง คล้าย ๆ (!a),y
 gleich (adv),Adv.,เดี๋ยว อีกแปป,y
 gleifalls,,เช่นกัน (!gn),y
 glücklich,Adj.,มีความสุข,y
