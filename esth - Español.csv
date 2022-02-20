@@ -126,7 +126,7 @@ audaz,กล้าหาญ,
 averiado,พัง ชำรุด (a),y
 averiguar,ค้นพบ หาเจอ,y
 a vuelapluma,อย่างรวดเร็วแบบไม่คิดอะไร ทำไปลวก ๆ,
-balbucear,พูดตะกุกตะกัก (!v),y
+balbucear,พูดตะกุกตะกัก (!v!t),y
 banal,ที่น่าเบื่อ,y
 barrer,กวาด,y
 basto,ที่หยาบ,y
@@ -457,6 +457,7 @@ el carboncillo,ดินสอถ่าน,y
 el carril,เลน ช่องทางเดินรถ,y
 el carrillón,ระฆังชุด,y
 el carrito,รถเข็น,y
+el carterista,นักล้วงกระเป๋า,y
 el cartílago,กระดูกอ่อน,y
 el cartón,กระดาษลัง,y
 el casco antiguo,ย่านเมืองเก่า,y
@@ -819,7 +820,7 @@ el mojón,อุจจาระ,
 el molde,แม่พิมพ์,y
 el molinillo de café,เครื่องบดเมล็ดกาแฟ,y
 el molino,เครื่องโม่,y
-el monasterio,วัด อาราม อาคารทางศาสนา,y
+el monasterio,วัด อาราม อาคารทางศาสนา (!s),y
 el moño,มวยผม,y
 el montañismo,การปีนเขา,y
 el Monte Kilimanjaro,เทือกเขาคิลิมันจาโร,y
@@ -1250,6 +1251,7 @@ guiñar,ขยิบตา วิ้ง (!กระพริบตา),y
 haber gato encerrado,น่าสงสัย มีลับลมคมใน (สำนวน),y
 hacer el equipaje,จัดกระเป๋า,y
 hacer furor,มีอิทธิพลต่อคนส่วนมาก,
+hacer pellas,โดดเรียน,y
 heredar,สืบทอด,
 hervir,ต้ม,y
 heterodoxo,ที่ไม่เห็นด้วยกับความเชื่อทางศาสนา ที่ไม่เป็นไปตามกฤษฎี ที่นอกคอก,y
@@ -1299,7 +1301,7 @@ la aceitera,ที่ใส่น้ำมัน,y
 la acequia,รางน้ำ คูน้ำ,y
 la acrofobia,โรคกลัวความสูง,y
 la acuarela,สีน้ำ,y
-la agarradera,ที่จับ,y
+la agarradera,ที่จับ (!m),y
 la aguja,เข็มเย็บผ้า,y
 la ala,ปีก,y
 la alacena,ตู้ ชั้นวาง,y
@@ -1456,6 +1458,7 @@ la costilla,ซี่โครง,y
 la costra,ขอบ ชั้น (เช่น ผิวชีส),y
 la crema de avellanas y chocolate,ครีมถัวเฮเซลนัทช็อกโกแลต (นูเทลลา),y
 la cremallera,ซิป,y
+la cresta (de gallo),หงอนไก่,y
 la crisis,วิกฤต,y
 la cruz (de la moneda),ด้านก้อยของเหรียญ,y
 la cuchara,ช้อน,y
@@ -1882,7 +1885,7 @@ la viga,คาน,y
 la virtud,จุดด้อย,y
 la viscosidad,ความเหนียว ความหนืด,y
 la vitrina,ตู้โชว์ ตู้แช่ (กระจก) (เช่นที่ใส่เค้ก ขนมปัง),y
-la vitrocerámica,เตาไฟฟ้า (กระจกแก้ว),y
+la vitrocerámica,เตาไฟฟ้า (กระจกแก้ว / เหนี่ยวนำ),y
 la vocación,ความเป็นไปที่โชคชะตาฟ้ากำหนด อาชีพ,y
 la vuelta al mundo,การเดินทางรอบโลก,y
 la xilografía,ศิลปะการแกะสลักไม้,y
@@ -1904,6 +1907,7 @@ llevarse bien (con alguien),สนิทกับ…,y
 llevarse mal (con alguien),ไม่สนิทกับ…,y
 llover a cántaros,ฝนตกหนักมาก (สำนวน),y
 lluvioso,ที่มีฝนตก,y
+lo barato sale caro,(สำนวน) เสียน้อยเสียยาก เสียมากเสียง่าย,y
 longevo,ที่มีอายุยืนยาว,y
 los abdominales,กล้ามหน้าท้อง (ซิกแพ็ก),y
 los autos de choque,รถบั๊ม,y
