@@ -47,6 +47,7 @@ das Esszimmer,,,ห้องรับประทานอาหาร,y
 das Fähnchen,,,ธง (ผืนเล็ก),y
 das Fahrrad,Fahrrad,die Fahrräder,รถจักรยาน,y
 das Fenster,Fenster,,หน้าต่าง,y
+das Feuer,Feuer,die Feuer,ไฟ,y
 das Fieber,Fieber,,ไข้,y
 das Fläschchen,Fläschchen,die Fläschchen,ขวดขนาดเล็ก,y
 das Fleisch,Fleisch,,เนื้อ,y
@@ -87,6 +88,7 @@ das Haar,Haar,die Haare,ผม (เส้นผม),y
 das Hähnchen,Hähnchen,die Hähnchen,ไก่ เนื้อไก่,y
 das Halstuch,Halstuch,die Halstücher,ผ้าพันคอ (H),y
 das Handtuch,,,ผ้าเช็ดมือ,y
+das Handwerk,,,งานศลิปหัตถกรรม งานทำมือ,y
 das Handy,Handy,die Handys,โทรศัพท์มือถือ,y
 das Häschen,Häschen,die Häschen,ลูกกระต่าย,y
 das Haus,Haus,die Häuser,บ้าน,y
@@ -98,6 +100,7 @@ das Hemd,Hemd,die Hemden,เสื้อเชิต,y
 das Herz,Herz,die Herzen,หัวใจ,y
 das Hobby,Hobby,die Hobbys,งานอดิเรก,y
 das Hochhaus,Hochhaus,,ตึกสูง อาคารหลายชั้น,y
+das Holz,Holz,die Hölzer,ไม้,y
 das Huhn,Huhn,die Hühner,ไก่ตัวเมีย,y
 das Interesse,Interesse,die Interessen,ความสนใจ,y
 das Jahr,Jahr,die Jahre,ปี,y
@@ -200,6 +203,7 @@ das Waschbecken,Waschbecken,,อ่างล้างมือ,y
 das Waschmittel,Waschmittel,die Waschmittel,ผงซักฟอก,y
 das Waschzeug,Waschzeug,,ผ้าซัก,y
 das Weiblein,Weiblein,,เพศหญิง,y
+das Werk,Werk,die Werke,ผลงาน ชิ้นงาน โรงงาน,y
 das Wetter,Wetter,,สภาพอากาศ (!K),y
 das Wochenende,Wochenende,die Wochenenden,สุดสัปดาห์,y
 das Wohnzimmer,,,ห้องนั่งเล่น,y
@@ -563,6 +567,7 @@ die Bar,Bar,die Bars,บาร์ ผับ,y
 die Bauchschmerzen,,,ปวดท้อง,y
 die Bedienung,Bedienung,die Bedienungen,ผู้ให้บริการ บริกร (server),y
 die Beratung,,die Beratungen,คำแนะนำ คำปรึกษา (!A),y
+die Bevölkerung,,,ประชากร,y
 die Bibel,Bibel,die Bibeln,พระคัมภีร์,y
 die Bibliothek,Bibliothek,die Bibliotheken,ห้องสมุด,y
 die Biologie,Biologie,,ชีววิทยา,y
@@ -608,6 +613,7 @@ die Farbe,Farbe,die Farben,สี,y
 die Fehler,Fehler,die Fehler,ข้อผิดพลาด,y
 die Ferien,Ferien,,วันหยุด ช่วงว่าง ช่วงหยุดพัก,y
 die Fernbedienung,Fernbedienung,die Fernbedienungen,รีโมทคอนโทรล,y
+die Festplatte,,,ฮาร์ดดิสก์,y
 die Firma,Firma,die Firmen,บริษัท,y
 die Flasche,Flasche,die Flaschen,ขวด,y
 die Flöte,Flöte,die Flöten,ขลุ่ย,y
@@ -745,6 +751,7 @@ die Pfanne,Pfanne,die Pfannen,กระทะ,y
 die Pflanze,Pflanze,die Pflanzen,พืช,y
 die Physik,Physik,,ฟิสิกส์,y
 die Pizza,Pizza,die Pizzen,พิซซ่า,y
+die Platte,Platte,die Platten,แผ่น ชีท ใบ,y
 die Polizei,Polizei,,ตำรวจ (กรม องค์กร),y
 die Pommes,Pommes,,มันฝรั่งทอด,y
 die Post,Post,,ไปรษณีย์,y
@@ -849,6 +856,7 @@ die Wäsche,Wäsche,die Wäschen,การล้าง การซักผ้�
 die Waschmaschine,Waschmaschine,die Waschmaschinen,เครื่องซักผ้า,y
 die Weihnacht,Weihnacht,die Weihnachten,คริสต์มาส,y
 die Welle,Welle,die Wellen,คลื่น,y
+die Wiese,Wiese,die Wiesen,สนามหญ้า,y
 die Wissenschaft,Wissenschaft,die Wissenschaften,วิทยาศาสตร์,y
 die Woche,Woche,die Wochen,สัปดาห์,y
 die Wohngemeinschaft,,,อพาร์ตเมนต์แบบแชร์,y

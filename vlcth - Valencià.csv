@@ -256,6 +256,7 @@ el menjador,โรงอาหาร,y
 el mercat,ตลาด,y
 el mestre,อาจารย์ (m ผู้ชาย),y
 el migdia,เที่ยงวัน,y
+el miler,พัน จำนวนพัน (คำนาม),y
 el militar,ทหาร (m),y
 el miner,คนทำเหมืองผู้ชาย,y
 el mirall,กระจก (m),y
@@ -474,6 +475,7 @@ la cantant,นักร้องผู้หญิง,y
 la capatassa,หัวหน้าคนงานผู้หญิง,y
 la cara,ใบหน้า,y
 la carlota,แครอท,y
+la carn,เนื้อสัตว์,y
 la carnissera,คนขายเนื้อสัตว์ผู้หญิง,y
 la carnisseria,ร้านขายเนื้อ,y
 la carpeta,แฟ้ม,y
@@ -492,11 +494,13 @@ la clau,กุญแจ,y
 la claveguera,ท่อระบายน้ำ,y
 la comoditat,การอำนวยความสะดวก สิ่งอำนวยความสะดวก,y
 la companya,เพื่อนร่วมชั้น เพื่อนร่วมงาน (หญิง),y
+la competència,การแข่งขัน,y
 la conductora,คนขับรถผู้หญิง,y
 la contable,นักบัญชีผู้หญิง,y
 la cortina,ผ้าม่าน,y
 la cosina,ลูกพี่ลูกน้องผู้หญิง,y
 la creïlla,มันฝรั่ง (!p),y
+la cuina,ห้องครัว,y
 la cuinera,คนทำอาหารผู้หญิง กุ๊กผู้หญิง,y
 la cuixa,น่อง,y
 la cullera,ช้อน,y
@@ -627,6 +631,7 @@ la química,วิชาเคมี,y
 la rasqueta,คราด,y
 la remolatxa,บีตรูต,y
 la rentadora,เครื่องซักผ้า,y
+la resposta,คำตอบ,y
 la reunió,การรวมตัว การประชุม,y
 la roba,เสื้อผ้า,y
 la rosada,เหมย,y
@@ -651,6 +656,7 @@ la tesi,วิทยานิพนธ์,y
 la tia,ป้า น้าอาผู้หญิง,y
 la tomaca,มะเขือเทศ,y
 la torrada,ขนมปังปิ้ง,y
+la tortuga,เต่า,y
 la tovallola,ผ้าเช็ดตัว,y
 la trobada,การพบเจอ,y
 la truita,ตอร์ติยา,y
@@ -738,12 +744,14 @@ Mèxic,ประเทศเม็กซิโก,y
 (m.) l'estadi,สเตเดียม,y
 (m.) l'estel,ดวงดาว,y
 (m.) l'estiu,ฤดูร้อน,y
+(m.) l'estómac,ท้อง,y
 (m.) l'estòmac,ท้อง,y
 (m.) l'hivern,ฤดูหนาว,y
 (m.) l'home,ผู้ชาย,y
 (m.) l'hort,สวนผักผลไม้ในบ้าน,y
 (m.) l'ioga,โยคะ,y
 (m.) l'obrer,คนงานผู้ชาย,y
+(m.) l'ocell,นก,y
 (m.) l'octubre,ตุลาคม,y
 (m.) l'oli,น้ำมัน (ทำอาหาร),y
 (m.) l'oncle,ลุง น้าอาผู้ชาย,y
@@ -780,6 +788,7 @@ pentinar-se,หวีผม (คำกริยา),y
 pesar,ชั่งน้ำหนัก,y
 pessimist,มองโลกในแง่ลบ,y
 petit,เล็ก (p),y
+ple,เต็ม,y
 plorar,ร้องไห้,y
 ploure,(ฝน)ตก,y
 ploure a bots i barrals,ฝนตกหนักมาก (สำนวน),y
@@ -805,7 +814,7 @@ relaxar-se,พักผ่อน,y
 rentar,แปรง ขัด (คำกริยา rt),y
 rentar-se les dents,แปรงฟัน,y
 República Checa,สาธารณรัฐเช็ก,y
-roig,สีแดง,y
+roig,สีแดง (!v),y
 ros,(ผม) สีทอง บลอนด์,y
 rosa,สีชมพู,y
 russa,เกี่ยวกับรัสเซีย (ญ),y
@@ -825,9 +834,11 @@ sota,ด้านล่าง ด้านใต้ (s),y
 sovint,บ่อย ๆ,y
 sueca,เกี่ยวกับสวีเดน (ญ),y
 Suècia,ประเทศสวีเดน,y
+sumar,บวก รวม,y
 tailandesa,เกี่ยวกับไทย (ญ),y
 Tailàndia,ประเทศไทย,y
 tallar,ตัด,y
+tant de bo,ขอให้… (es: ojalá),y
 taronja,สีส้ม,y
 tercer,ที่สาม,y
 tindre,มี,y
@@ -850,6 +861,7 @@ v. dur,สวมใส่ (แว่นตา…) / มี (หนวด…) / (
 vell,เก่า แก่,y
 Veneçuela,ประเทศเวเนซุเอลา,y
 verd,สีเขียว,y
+vermell,สีแดง (!r),y
 vestir-se,แต่งตัว,y
 veure/vore,ดู,y
 viatjar,ท่องเที่ยว (กริยา),y
