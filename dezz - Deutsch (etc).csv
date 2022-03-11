@@ -118,6 +118,7 @@ durchqueren,V.,เดินตัด,y
 dürfen,V.,อนุญาต,y
 duschen,V.,อาบน้ำ (ฝักบัว),y
 egal,Adj.,ไม่สำคัญ เท่า ๆ กัน พอ ๆ กัน,y
+eher,Adv.,เช้ากว่า เร็วกว่า ชอบมากกว่า,y
 eigentlich,Adv.,ว่าแต่ จริง ๆ แล้ว (!ü),y
 ein bisschen,,นิดหน่อย,y
 einfach,Adj.,ง่าย,y
@@ -236,8 +237,10 @@ hinten,Adv.,ที่ด้านหลัง,y
 hinter,Präp.,ด้านหลัง,y
 hin und her,,ไป ๆ มา ๆ,y
 hinwollen,V.,ตั้งใจจะไป,y
+hoch,Adj.,สูง (!a),y
 hoffentlich,Adv.,หวังเป็นอย่างยิ่ง,y
 höflich,Adj.,สุภาพ,y
+höher,,สูงกว่า (ขั้นกว่าของ hoch),y
 holen,V.,ถือ เอามา เรียก พามา,y
 hören,V.,ได้ยิน,y
 hübsch,Adj.,น่ารัก,y
@@ -283,7 +286,7 @@ laden,V.,ชวน,y
 langsam,Adj.,ช้า (ความเร็ว),y
 langweilig,Adj.,น่าเบื่อ,y
 lassen,V.,ออก ทิ้งไว้,y
-laufen,V.,วิ่ง,y
+laufen,V.,วิ่ง (!r),y
 laut,Adj.,เสียงดัง,y
 lecker,Adj.,อร่อย,y
 ledig,Adj.,โสด,y
@@ -377,6 +380,7 @@ reich,Adj.,รวย,y
 reinigen,V.,ทำความสะอาด (ทำให้สะอาด),y
 reinkommen,V.,เข้า<b><i><u>มา</u></i></b>ข้างใน,y
 reiten,V.,ขี่,y
+rennen,V.,วิ่ง (!l),y
 retten,V.,ช่วยชีวิต ช่วยเหลือ,y
 richtig,Adj.,ถูกต้อง,y
 riechen,V.,มีกลิ่น,y
@@ -559,6 +563,7 @@ welch,,อันไหน ใด,y
 wem,,ใคร (Dativ),y
 wenig,pron.,เล็กน้อย ไม่มาก นิดเดียว (w),y
 werfen,V.,ทิ้ง ขว้าง โยน,y
+wert,Adj.,มีค่า,y
 wichtig,Adj.,สำคัญ,y
 wieder,Adv.,อีกครั้ง (๑),y
 wiederholen,V.,ทำซ้ำ,y

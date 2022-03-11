@@ -2,6 +2,7 @@ Deutsch,Deutsch (ohne Artikel),Deutsch (Plural),Thailändisch,Thäilandisch (Rev
 Brasilien,,,ประเทศบราซิล,y
 das Abendessen,,die Abendessen,อาหารเย็น,y
 das Abenteuer,Abenteuer,die Abenteuer,การผจญภัย,y
+das All,All,,จักรวาล,y
 das Alter,Alter,,อายุ,y
 das Angebot,Angebot,die Angebote,การช่วยเหลือ ข้อเสนอ คำแนะนำ (!B),y
 das Arbeitszimmer,,,ห้องทำงาน,y
@@ -47,7 +48,7 @@ das Esszimmer,,,ห้องรับประทานอาหาร,y
 das Fähnchen,,,ธง (ผืนเล็ก),y
 das Fahrrad,Fahrrad,die Fahrräder,รถจักรยาน,y
 das Fenster,Fenster,,หน้าต่าง,y
-das Feuer,Feuer,die Feuer,ไฟ,y
+das Feuer,Feuer,die Feuer,ไฟ (!แสง),y
 das Fieber,Fieber,,ไข้,y
 das Fläschchen,Fläschchen,die Fläschchen,ขวดขนาดเล็ก,y
 das Fleisch,Fleisch,,เนื้อ,y
@@ -82,6 +83,7 @@ das Getränk,Getränk,die Getränke,เครื่องดื่ม,y
 das Gewitter,Gewitter,die Gewitter,พายุ (!S),y
 das Glas,Glas,die Gläser,"แก้ว (copa, vaso)",y
 das Glück,Glück,,โชค,y
+das Gold,Gold,,ทองคำ,y
 das Gramm,Gramm,,กรัม,y
 das Gras,Gras,die Gräser,หญ้า,y
 das Haar,Haar,die Haare,ผม (เส้นผม),y
@@ -481,15 +483,19 @@ der Spiegel,Spiegel,die Spiegel,กระจก,y
 der Spion,Spion,die Spione,สายลับ,y
 der Sport,Sport,,กีฬา,y
 der Staat,Staat,die Staaten,ประเทศ รัฐ,y
+der Stahl,Stahl,,เหล็ก,y
 der Stand,Stand,die Stände,สถานะ,y
 der Staub,Staub,die Staube,ฝุ่น,y
 der Stecker,Stecker,die Steckers,ปลั๊กไฟเต้าเสียบ,y
+der Stein,Stein,die Steine,ก้อนหิน,y
+der Stern,Stern,die Sterne,ดวงดาว,y
 der Stiefel,Stiefel,die Stiefel,รองเท้าบูต,y
 der Stift,Stift,die Stifte,ปากกา (S),y
 der Stock,Stock,die Stock,ชั้น (s),y
 der Strand,Strand,die Strände,ชายหาด,y
 der Straßenname,,,ชื่อถนน,y
 der Stress,Stress,,ความเครียด,y
+der Strom,Strom,,ไฟฟ้า พลังงาน,y
 der Stuhl,Stuhl,die Stühle,เก้าอี้,y
 der Sturm,Sturm,die Stürme,พายุ (!G),y
 der Süden,Süden,,ทิศใต้,y
@@ -521,6 +527,7 @@ der Vorhang,Vorhang,die Vorhänge,ผ้าม่าน,y
 der Vormittag,Vormittag,die Vormittage,ตอนสาย,y
 der Vorname,Vorname,die Vornamen,ชื่อจริง,y
 der Wagen,Wagen,die Wagen,รถ,y
+der Wald,Wald,die Wälder,ป่า,y
 der Wasserhahn,Wasserhahn,die Wasserhähne,ก๊อกน้ำ,y
 der Wecker,Wecker,die Wecker,นาฬิกาปลุก,y
 der Weg,Weg,die Wege,ทาง หนทาง,y
@@ -553,6 +560,7 @@ die Apotheke,Apotheke,die Apotheken,ร้านขายยา,y
 die Aprikose,Aprikose,die Aprikosen,อพริคอต,y
 die Architektin,,die Architektinnen,สถาปนิก (ญ),y
 die Armbanduhr,,,นาฬิกาข้อมือ,y
+die Atmosphäre,Atmosphäre,die Atmosphären,ชั้นบรรยากาศ,y
 die Aufenthaltserlaubnis,,,การอนุญาตให้พักอาศัย,y
 die Aufgabe,Aufgabe,die Aufgaben,งาน หน้าที่ ภาระ,y
 die Augenfarbe,Augenfarbe,,สีของดวงตา,y
@@ -602,6 +610,7 @@ die Enkelkinder,Enkelkinder,,หลาน ๆ ของปู่ย่าตา�
 die Ente,Ente,die Enten,เป็ด,y
 die Entschuldigung,Entschuldigung,die Entschuldigungen,การขอโทษ,y
 die Erdbeere,Erdbeere,die Erdbeeren,สตรอว์เบอร์รี,y
+die Erde,Erde,die Erden,ดิน โลก,y
 die Erinnerung,Erinnerung,die Erinnerungen,ความทรงจำ,y
 die Erlaubnis,Erlaubnis,die Erlaubnisse,การอนุญาต,y
 die Etage,Etage,die Etagen,ชั้น (E),y
@@ -709,6 +718,7 @@ die Lieferung,,die Lieferungen,การส่งพัสดุ การขน
 die Lippe,Lippe,die Lippen,ริมฝีปาก,y
 die Lösung,Lösung,die Lösungen,คำตอบ (L),y
 die Lücke,Lücke,die Lücken,ช่องว่าง หลุม,y
+die Luft,Luft,,อากาศ,y
 die Lust,Lust,,ความอยาก ความปรารถนา (สนใจทำอะไรสักอย่าง),y
 die Mahlzeit,Mahlzeit,die Mahlzeiten,มื้ออาหาร (!S),y
 die Mailbox,Mailbox,die Mailboxen,กล่องจดหมาย,y
@@ -838,6 +848,7 @@ die Überraschung,,,การเซอร์ไพรส์,y
 die Überwachung,,,การสำรวจ การเฝ้าระวัง การจับตาดู การควบคุม,y
 die Überwachungskamera,,,กล้องวงจรปิด,y
 die Uhrzeit,Uhrzeit,die Uhrzeiten,เวลา (時刻),y
+die Umwelt,Umwelt,die Umwelten,สภาพแวดล้อม สิ่งแวดล้อม,y
 die Universität,Universität,die Universitäten,มหาวิทยาลัย,y
 (die) USA,USA,,สหรัฐอเมริกา,y
 die Vase,Vase,die Vasen,แจกัน,y
@@ -856,6 +867,7 @@ die Wäsche,Wäsche,die Wäschen,การล้าง การซักผ้�
 die Waschmaschine,Waschmaschine,die Waschmaschinen,เครื่องซักผ้า,y
 die Weihnacht,Weihnacht,die Weihnachten,คริสต์มาส,y
 die Welle,Welle,die Wellen,คลื่น,y
+die Welt,Welt,die Welten,โลก,y
 die Wiese,Wiese,die Wiesen,สนามหญ้า,y
 die Wissenschaft,Wissenschaft,die Wissenschaften,วิทยาศาสตร์,y
 die Woche,Woche,die Wochen,สัปดาห์,y
