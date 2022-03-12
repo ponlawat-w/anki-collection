@@ -56,6 +56,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 โทรศัพท์(มือถือ)ดัง(รอสาย)สามครั้งและ Julia ก็รับสาย,Das Handy klingelt drei Mal und Julia antwortet.,
 โรงแรมสะอาดและใหญ่ ห้องของพวกเราแพงแต่มันมีระเบียงพร้อมกับวิวทะเล,"Das Hotel ist sauber und groß. Unser Zimmer ist teuer, aber es hat einen Balkon mit Meerblick.",
 นั่นคือผู้ชายที่น้องชายของเขามีลูกสองคน,"Das ist der Mann, dessen Bruder zwei Kinder hat.",
+นี่คือคุณผู้หญิงของบ้าน,Das ist die Dame des hauses.,
 นี่คือชั่วโมงสุดท้ายของวัน,Das ist die letzte Stunde des Tages.,
 นี่คือปราสาท ปราสาทชื่อว่า Neuschwanstein มันสวยมากและมีชื่อเสียงมาก,Das ist ein Schloss. Das Schloss heißt Neuschwanstein. Es ist sehr schön und sehr bekannt.,
 นี่ไม่ใช่หมา นี่คือแมว,"Das ist kein Hund, das ist eine Katze.",
@@ -77,6 +78,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 โทรทัศน์<b><u><i>เปิด</i></u></b>อยู่,Der Fernseher ist an.,
 ปลา(เอก)กินพืช(พหู),Der Fisch isst die Pflanzen.,
 สนามบินตั้งอยู่ทางทิศใต้ของแฟรงก์เฟิร์ต,Der Flughafen liegt südlich von Frankfurt.,
+ท้องฟ้าเต็มไปด้วยดวงดาว,Der Himmel ist voll mit Sternen.,
 หมากิน(f)เนื้อ,Der Hund frisst Fleisch.,
 เด็กผู้ชายนอนหลับตลอดเที่ยวบิน,Der Junge schläft während des Fluges.,
 กระเป๋าเดินทางเป็นของเพื่อน(ญ)ของฉัน Ute พรุ่งนี้พวกเราจะไปปราก คืนนี้ Ute จะพักที่นี่,Der Koffer gehört meiner Freundin Ute. Wir fahren morgen nach Prag. Ute übernachtet heute hier.,
@@ -112,6 +114,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 วัวกินหญ้า,Die Kuh isst das Gras.,
 โคมไฟมีหลอดไฟสองดวง,Die Lampe hat zwei Glühbirnen.,
 ดนตรีถูกใจฉันมาก,Die Musik gefällt mir gut.,
+ดอกไม้สีแดงไม่ได้อยู่ที่นั่น,Die rote Blume ist nicht da.,
 หมดฤดูกาล,Die Saison ist zu Ende.,
 พี่สาวของเพื่อน(ญ)ของฉันแต่งงานแล้ว,Die Schwester von meiner Freundin ist schon verheiratet.,
 รถบัส(สาย)นี้ปกติแล้วคนจะแน่นมากเลยนะ,Dieser Bus ist normalerweise sehr voll.,
@@ -322,6 +325,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันเปิดประตู,Ich mache die Tür auf.,- Trennbare Verb
 ฉันปิดประตู,Ich mache die Tür zu.,- Trennbare Verben
 ฉันชอบเขามาก ดังนั้นฉันจึงอยากซื้อของขวัญที่ดี(สวยงาม)ให้กับเขา,Ich mag ihn sehr. Deshalb möchte ich ihm ein schönes Geschenk kaufen.,
+ฉันไม่ชอบหมวกเหล่านี้เลยสักใบ,Ich mag keinen diese Hüte.,
 ฉันก็อยากไปกินซูชิกับพวกเธอ,Ich möchte auch mit euch Sushi essen.,ihr
 ฉันขอไส้กรอกแกงกะหรี่หนึ่งกับน้ำแร่หนึ่ง,Ich möchte bitte eine Currywurst und ein Mineralwasser.,bitte
 ฉันอยากไปร้านอาหารมากกว่า,Ich möchte lieber ins Restaurant gehen.,
@@ -371,6 +375,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ในอีกสองเดือนจะเป็นการสอบ(p)ภาษาเยอรมันของเธอ(๓),In zwei Monaten ist ihre Deutschprüfung.,
 กินอาหารดี(มีสุขภาพ)ไหม,Isst du gesund?,
 ปลามีค่ามากกว่าทองคำหรือไม่,Ist der Fisch mehr wert als Gold?,
+นี่เขาเป็นลูกชายของพวกเขาจริง ๆ เลยหรอ,Ist er überhaupt dessen Sohn?,
 มัน(ช)อยู่ใต้โต๊ะหรือเปล่า หรือว่ามันอยู่หลังโซฟา,Ist er unter dem Tisch? Oder ist er hinter dem Sofa?,
 มีอะไรไม่ดีเกิดขึ้นหรอ,Ist etwas Schkimmes passiert?,- perfekt
 มัน(ญ)อยู่ในกระเป๋าถือหรือเปล่า หรือว่าในกระเป๋าเป้,Ist sie in der Handtasche? Oder im Rucksack?,
@@ -509,6 +514,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 พวกเขาขับ(รถ)รอบ ๆ เมือง,Sie fahren um die Stadt.,
 เธอ(๓)ไปตามถนน Koch,Sie fährt die Kochstraße entlang.,
 พวกเขาแทบจะไม่ออก(บ้าน)โดยไม่มีลูก ๆ ของพวกเขาเลย ส่วนใหญ่เขามักจะเอาลูกของพวกเขาไปด้วยเสมอ,"Sie gehen selten ohne ihre Kinder aus, meistens nehmen sie ihre Kinder mit.",
+พวกเขาไปยังบ้านของพ่อของฉัน,Sie gehen zum Haus meines Vaters.,
 เธอ(๓)ไป(g)รอบ ๆ โต๊ะ,Sie geht um den Tisch.,
 พวกเขาเดินตัดสวน Görlitzer และได้มาถึงร้านไอศกรีมบนถนน Flackenstein,Sie haben den Görlitzer Park durch quert und sind im Eiscafé in der Flackensteinstraße angekommen.,- Perfekt
 เธอ(๓)สวม(ah)เสื้อแจ็กเก็ตสวยตัวหนึ่ง,Sie hat eine schöne Jacke an.,
