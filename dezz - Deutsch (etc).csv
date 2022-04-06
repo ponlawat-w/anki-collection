@@ -8,6 +8,7 @@ abgeben,V.,ส่ง นำส่ง ยื่น(เอกสาร),y
 abholen,V.,ไปรับ,y
 abwaschen,V.,ล้างออก,y
 ähnlich,Adj.,ใกล้เคียง คล้ายกัน (!g),y
+aktuell,Adj.,ที่เป็นปัจจุบัน ที่ล่าสุด,y
 all,Pron.,ทุกคน,y
 allein,Adj.,คนเดียว,y
 Alles Gute,Int.,ขอแสดงความยินดี,y
@@ -25,7 +26,7 @@ ankommen,V.,มาถึง,y
 anmachen,[Trennbare] V.,เปิด (สวิตช์),y
 annehmen,V.,ตอบรับ ตอบตกลง (!sein),y
 anrufen,V.,โทรหา,y
-ansehen,V.,ดู มอง,
+ansehen,V.,ดู มอง (!s),
 an sein,V.,เปิดอยู่ (สวิตช์),y
 anstarren,V.,จ้องมอง (~s~),y
 anziehen,V.,สวมใส่ (!h),y
@@ -119,6 +120,7 @@ dürfen,V.,อนุญาต,y
 duschen,V.,อาบน้ำ (ฝักบัว),y
 egal,Adj.,ไม่สำคัญ เท่า ๆ กัน พอ ๆ กัน,y
 eher,Adv.,เช้ากว่า เร็วกว่า ชอบมากกว่า,y
+eigen,Adj.,ของเอง ที่เป็นของตัวเอง,y
 eigentlich,Adv.,ว่าแต่ จริง ๆ แล้ว (!ü),y
 ein bisschen,,นิดหน่อย,y
 einfach,Adj.,ง่าย,y
@@ -128,6 +130,7 @@ einmal,Adv.,ครั้งหนึ่ง คราวหนึ่ง,y
 einschalten,V.,เปิด (สวิตช์) <b><i><u>(ไม่ใช่ machen)</u></i></b>,y
 einschlafen,V.,หลับ (ผลอยหลับ),y
 einverstanden sein,V.,เห็นด้วย (!d),y
+einzeln,Adj.,ที่เป็นของเฉพาะคน ที่เป็นแต่ละส่วนตัว (en: individual),y
 einziehen,V.,ย้ายเข้ามาอยู่,y
 eiskalt,Adj.,หนาวมาก หนาวจนแข็ง,y
 empfehlen,V.,แนะนำ,y
@@ -194,6 +197,7 @@ genießen,V.,สนุกสนาน มีความสุขไปกับ
 genug,Adv.,เพียงพอ,y
 gerade,Adv.,เพิ่ง,y
 geradeaus,Adv.,ตรงไป ตรงหน้า ด้านหน้า (!v),y
+gesamte,Adj.,ทั้งหมด ทั้งอัน,y
 geschieden,Adj.,หย่า,y
 gespannt sein,V.,ตั้งหน้าตั้งตารอ น่าสนุก 楽しみ,y
 gestern,Adv.,เมื่อวาน,y
@@ -257,6 +261,7 @@ inzwischen,Adv.,ในขณะนั้น (en: meanwhile),y
 irgendwie,Adv.,ไม่ทางใดก็ทางหนึ่ง (en: somehow),y
 jemand,pron.,ใครบางคน สักคน,y
 joggen,V.,วิ่งออกกำลังกาย,y
+jugendlich,Adj.,ที่เป็นวัยรุ่น,y
 kalt,Adj.,หนาว,y
 kaputt,Adj.,พัง ชำรุด,y
 kaufen,V.,ซื้อ,y
@@ -266,6 +271,7 @@ klar,Adj.,แน่นอน ชัดเจน,y
 klassisch,Adj.,แบบคลาสสิก,y
 klein,Adj.,เล็ก สั้น,y
 klingeln,V.,กดกริ่ง กระดิ่งดัง,y
+knapp,Adj.,แทบไม่พอ น้อย,y
 kochen,V.,ทำอาหาร,y
 komisch,Adj.,แปลก ๆ (k),y
 kompliziert,Adj.,ซับซ้อน,y
@@ -351,12 +357,14 @@ niemand,pron.,ไม่มีใคร ไม่เลยสักคน,y
 noch,,ยัง อีก,y
 noch mal,Adv.,อีกครั้ง (๒),y
 normalerweise,Adv.,โดยปกติแล้ว,y
-nötig,Adj.,ที่จำเป็น,y
+nötig,Adj.,ที่จำเป็น (๒),y
+notwendig,Adj.,จำเป็น (๓),y
 nützlich,Adj.,"มีประโยชน์ เป็นพระคุณ (en: useful, helpful)",y
 ob,Konj.,ว่า…หรือไม่ (en: whether),y
 oben,Adv.,ข้างบน (!ü),y
 obwohl,Konj.,แม้ว่า (!t),y
 oder,Konj.,หรือ (o),y
+öffentlich,Adj.,สาธารณะ,y
 öffnen,V.,เปิด,y
 oft,Adv.,บ่อย ๆ (!m),y
 ohne,Adv.,ไม่เอา ปราศจาก 無しで,y
@@ -387,6 +395,7 @@ riechen,V.,มีกลิ่น,y
 riesig,Adj.,ใหญ่มาก ใหญ่หลวง มหึมา,y
 roh,Adj.,ดิบ,y
 ruhig,Adj.,เงียบ,y
+rund,Adj.,กลม,y
 sächlich,Adj.,เพศกลาง,y
 sagen,V.,บอก,y
 salzig,Adj.,เค็ม,y
@@ -398,7 +407,7 @@ schade,Adj.,น่าเสียดาย,y
 schaden,V.,ทำลาย,y
 schälen,V.,ปอกเปลือก,y
 scharf,Adj.,เผ็ด,y
-schauen,V.,มอง,y
+schauen,V.,มอง (!a),y
 scheinen,V.,(ดวงอาทิตย์)ส่องแสง ปรากฏ,y
 schick,Adj.,ชิค มีสไตล์,y
 schkimm,Adj.,แย่ ไม่พึงประสงค์,y
@@ -462,6 +471,7 @@ suchen,V.,หา,y
 südlich,Adj.,ทางทิศใต้,y
 süß,Adj.,หวาน,y
 tanzen,V.,เต้น,y
+tatsächlich,Adv.,จริง ๆ เป็นความจริง (t),y
 tausend,num.,พัน,y
 teilmöbliert,Adj.,พร้อมเฟอร์นิเจอร์บางส่วน,y
 teuer,Adj.,แพง,y
@@ -505,6 +515,7 @@ verbessern,V.,แก้ไข ทำให้<b><u>ดีขึ้น</u></b>,y
 verbinden,V.,เชื่อมต่อ สมาน,y
 verboten,V.,ห้าม,y
 verdienen,V.,มีรายได้,y
+verfügbar,Adj.,ที่มีอยู่ ที่จัดหาให้ได้ (en: available),y
 vergessen,V.,ลืม,y
 vergleichnen,V.,เปรียบเทียบ,y
 verheiraten,V.,แต่งงาน,y
@@ -592,9 +603,11 @@ zu Fuß gehen,V.,เดินไป,y
 zuhören,V.,ฟัง,y
 zumachen,[Trennbare] V.,ปิด (ไม่ใช่ไฟฟ้า),y
 zum Beispiel,,ยกตัวอย่าง เช่น,y
+zunehmen,V.,เพิ่มขึ้น ขยายขึ้น มากขึ้น,y
 zurück,Adv.,กลับ ย้อน,y
 zurufen,V.,เรียก,y
 zusammen,Adv.,ด้วยกัน (จ่ายรวม),y
+zusätzlich,Adj.,ที่เพิ่มเติม,y
 zu sein,V.,ปิดอยู่ (ไม่ใช้ไฟฟ้า),y
 zuverlässig,Adj.,เชื่อถือได้ (!s),y
 zwischen,Präp.,ระหว่าง,y
