@@ -214,7 +214,7 @@ das Wort,Wort,die Wörter,คำ,y
 das Wörterbuch,Wörterbuch,die Wörterbücher,พจนานุกรม,y
 das Zentrum,Zentrum,die Zentren,ศูนย์กลาง,y
 das Zertifikat,Zertifikat,die Zertifikate,ประกาศนียบัตร,y
-das Zimmer,Zimmer,die Zimmer,ห้อง,y
+das Zimmer,Zimmer,die Zimmer,ห้อง (!R),y
 der Abend,Abend,die Abende,ตอนเย็น ค่ำ,y
 der Abfall,Abfall,die Abfälle,ขยะ,y
 der Akku,Akku,die Akkus,แบตเตอรี,y
@@ -232,7 +232,7 @@ der Arzt,Arzt,die Ärzte,แพทย์,y
 der Aufenthalt,Aufenthalt,die Aufenthalte,การอยู่ การพักอาศัย,y
 der Aufzug,Aufzug,,ลิฟต์,y
 der August,August,,สิงหาคม,y
-der Ausflug,Ausflug,die Ausflüge,ทริป การเดินทาง (!R),y
+der Ausflug,Ausflug,die Ausflüge,ทริป การเดินทาง (!R!F),y
 der Außenminister,Außenminister,,รัฐมนตรีต่างประเทศ,y
 der Austauschstudent,,,นักเรียนแลกเปลี่ยน,y
 der Ausweis,Ausweis,die Ausweise,บัตรประจำตัว หลักฐานประจำตัว หนังสือเดินทาง ใบรับรอง,y
@@ -328,6 +328,7 @@ der Hase,Hase,die Hasen,กระต่ายป่า,y
 der Herbst,Herbst,die Herbste,ฤดูใบไม้ร่วง,y
 der Herd,Herd,die Herde,เตา,y
 der Himmel,Himmel,,ท้องฟ้า,y
+der Honig,Honig,,น้ำผึ้ง,y
 der Hund,Hund,die Hunde,สุนัข,y
 der Hunger,Hunger,,ความหิว,y
 der Husten,Husten,,อาการไอ,y
@@ -436,6 +437,7 @@ der Putsch,Putsch,,การทำรัฐประหาร,y
 der Pyjama,Pyjama,die Pyjamas,ชุดนอน,y
 der Rahmen,Rahmen,die Rahmen,กรอบ (รอบ ๆ),y
 der Rauch,Rauch,,ควัน,y
+der Raum,Raum,die Räume,ห้อง (!Z),y
 der Redakteur,,,บรรณาธิการ,y
 der Regen,Regen,die Regen,ฝน,y
 der Regenschirm,,,ร่มกันฝน,y
@@ -546,9 +548,11 @@ der Zahn,Zahn,die Zähne,ฟัน,y
 der Zahnarzt,,,ทันตแพทย์,y
 der Zeigefinger,,,นิ้วชี้,y
 der Zettel,Zettel,die Zettel,เศษกระดาษ กระดาษโน้ต,y
+der Zoll,Zoll,die Zölle,ศุลกาการ,y
 der Zucker,Zucker,,น้ำตาล,y
 der Zufall,Zufall,die Zufälle,ความบังเอิญ,y
 der Zug,Zug,die Züge,รถไฟ (!B),y
+der Zwilling,Zwilling,die Zwillinge,ฝาแฝด,y
 die Abteilung,,,แผนก,y
 die Adresse,Adresse,die Adressen,ที่อยู่,y
 die Ahnung,Ahnung,die Ahnungen,ความคิด ความรู้เหตุการณ์,y
@@ -625,7 +629,7 @@ die Fehler,Fehler,die Fehler,ข้อผิดพลาด,y
 die Ferien,Ferien,,วันหยุด ช่วงว่าง ช่วงหยุดพัก,y
 die Fernbedienung,Fernbedienung,die Fernbedienungen,รีโมทคอนโทรล,y
 die Festplatte,,,ฮาร์ดดิสก์,y
-die Feuerwehr,Feuerwehr,die Feuerweheren,ดับเพลิง,y
+die Feuerwehr,Feuerwehr,die Feuerwehren,ดับเพลิง,y
 die Firma,Firma,die Firmen,บริษัท,y
 die Flasche,Flasche,die Flaschen,ขวด,y
 die Flöte,Flöte,die Flöten,ขลุ่ย,y
