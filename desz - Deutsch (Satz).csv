@@ -51,7 +51,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 อาหารไม่ได้เรื่อง,Das Essen ist schlecht.,
 อาหารอร่อยมาก อาหารทะเลก็สดมาก,Das Essen schmeckt sehr gut. Die Meeresfrüchte sind so frisch.,
 เครื่องบินออกตอน 12:00 น.,Das Flugzeug fliegt um zwölf Uhr ab.,
-เครื่องบินออกบินเริ่มออกจากแฟรงก์ฟวร์ตเวลา 8 โมง,Das Flugzeug ist um acht Uhr in Frankfurt gestartet.,- Perfekt
+เครื่องบินออกบินเริ่มที่แฟรงก์ฟวร์ตเวลา 8 โมง,Das Flugzeug ist um acht Uhr in Frankfurt gestartet.,- Perfekt
 ของขวัญ(นี้)เพื่อเธอ,Das Geschenk ist für dich.,
 สิ่งนั้น(ก)ฉันไม่ได้กินมาเป็นเดือน<b><u><i>แล้ว</i></u></b>,Das habe ich schon seit Monaten nicht gegessen.,- Perfekt
 โทรศัพท์(มือถือ)ดัง(รอสาย)สามครั้งและ Julia ก็รับสาย,Das Handy klingelt drei Mal und Julia antwortet.,
@@ -130,7 +130,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เก้าอี้ดูทันสมัยและสวย,Die Stühle sind modern und schön.,พหูพจน์
 ค่าเช่ารวมทั้งหมด 450 ยูโรต่อเดือน,Die Warmmiete ist vierhundertfünfzig Euro pro Monat.,
 บ้านอยู่ในอาคารสูง<sub>(แห่งหนึ่ง)</sub>ที่มีนักศึกษาหลายคนอาศัยอยู่,"Die Wohnung ist in einem Hochhaus, wo viele Studenten wohnen.",
-เธอเป็นลูกของพวกเขา,Du bist deren Sohn.,
+เธอ(๒)เป็นลูกชายของพวกเขา,Du bist deren Sohn.,
 เธอห้ามยอมแพ้เด็ดขาด,Du darfst nie aufgeben.,
 คุณ(d)สามารถมองเห็นม้า(พหู)ได้จากในรูป(B),Du kannst Pferde auf dem Bild sehen.,
 เธอควรภูมิใจในตัวเอง,Du sollst stolz auf dich sein.,
@@ -386,11 +386,11 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ในอีกสองเดือนจะเป็นการสอบ(p)ภาษาเยอรมันของเธอ(๓),In zwei Monaten ist ihre Deutschprüfung.,
 กินอาหารดี(มีสุขภาพ)ไหม,Isst du gesund?,
 ปลามีค่ามากกว่าทองคำหรือไม่,Ist der Fisch mehr wert als Gold?,
-นี่เขาเป็นลูกชายของพวกเขาจริง ๆ เลยหรอ,Ist er überhaupt dessen Sohn?,
+นี่เขาเป็นลูกชายของเขา(ช/ก)จริง ๆ เลยหรอ,Ist er überhaupt dessen Sohn?,
 มัน(ช)อยู่ใต้โต๊ะหรือเปล่า หรือว่ามันอยู่หลังโซฟา,Ist er unter dem Tisch? Oder ist er hinter dem Sofa?,
 มีอะไรไม่ดีเกิดขึ้นหรอ,Ist etwas Schkimmes passiert?,- perfekt
 มัน(ญ)อยู่ในกระเป๋าถือหรือเปล่า หรือว่าในกระเป๋าเป้,Ist sie in der Handtasche? Oder im Rucksack?,
-- Gibt es hier ein Telefon?<br>- มี ๆ มีตรงนี้หนึ่งเครื่อง<br>,"Ja, hier ist eins.",
+- Gibt es hier ein Telefon?<br>- มี ๆ มีตรงนี้หนึ่งเครื่อง,"Ja, hier ist eins.",
 - Gibt es hier zwei Stühle?<br>- มี ๆ มีตรงนี้อยู่หลายตัว,"Ja, hier sind welche.",
 ใช่ ฉันเห็นด้วย,"Ja, ich bin dafür.",
 <div>- Habt ihr hier Telefon?</div><div>- มี <u>เรามี</u>อยู่เครื่องหนึ่ง</div>,"Ja, wir haben eins.",
