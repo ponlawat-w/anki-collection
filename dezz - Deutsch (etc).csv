@@ -93,7 +93,7 @@ buchstabieren,V.,สะกด,y
 bügeln,V.,รีดผ้า,y
 da,,ตอนนั้น,y
 dabeihaben,V.,มีอยู่กับตัว,y
-dafür sein,V.,เห็นด้วย (!e),y
+dafür sein,V.,เห็นด้วย (sein),y
 dagegen sein,V.,ไม่เห็นด้วย,y
 damals,Adv.,(ย้อนไป)ครั้งนั้น,y
 danach,Adv.,หลังจากนั้น (dn),y
@@ -121,7 +121,7 @@ duschen,V.,อาบน้ำ (ฝักบัว),y
 egal,Adj.,ไม่สำคัญ เท่า ๆ กัน พอ ๆ กัน,y
 eher,Adv.,เช้ากว่า เร็วกว่า ชอบมากกว่า,y
 eigen,Adj.,ของเอง ที่เป็นของตัวเอง,y
-eigentlich,Adv.,ว่าแต่ จริง ๆ แล้ว (!ü),y
+eigentlich,Adj.Adv.,"จริง ๆ ว่าแต่ (en: actually, really)<br>หลัก ๆ (en: main, primary)",y
 ein bisschen,,นิดหน่อย,y
 einfach,Adj.,ง่าย,y
 einige,pron.,บ้าง 2 - 3,y
@@ -547,6 +547,7 @@ vormittags,Adv.,ตอนสาย,y
 vorne,Adv.,ต่อหน้า ด้านหน้า (!g),y
 vorsichtig,Adj.,ซึ่งระมัดระวัง,y
 vorstellen,V.,แนะนำ ทำให้รู้จัก,y
+wach,Adj.,ที่ตื่นอยู่,y
 wachsen,V.,เติบโต,y
 wach werden,V.,ตื่น ลุกขึ้น (ww),y
 wahr,Adj.,จริง (๑),y
@@ -576,7 +577,7 @@ welch,,อันไหน ใด,y
 wem,,ใคร (Dativ),y
 wenig,pron.,เล็กน้อย ไม่มาก นิดเดียว (w),y
 werfen,V.,ทิ้ง ขว้าง โยน,y
-wert,Adj.,มีค่า,y
+wert,Adj.,มีค่า (๑),y
 wichtig,Adj.,สำคัญ,y
 wieder,Adv.,อีกครั้ง (๑),y
 wiederholen,V.,ทำซ้ำ,y
