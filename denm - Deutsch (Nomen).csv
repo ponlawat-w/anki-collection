@@ -14,6 +14,7 @@ das Auto,Auto,die Autos,รถยนต์,y
 das Baby,Baby,die Babys,เด็กทารก,y
 das Bad,Bad,die Bäder,ห้องอาบน้ำ (ไม่ Zimmer),y
 das Badezimmer,,,ห้องอาบน้ำ (zimmer),y
+das Bau,Bau,die Bauten,การก่อสร้าง อาคารบ้านเรือน,y
 das Becken,Becken,,อ่าง ถัง,y
 das Bein,Bein,die Beine,ขา,y
 das Beispiel,Beispiel,die Beispiele,ตัวอย่าง,y
@@ -182,6 +183,7 @@ das Seminar,Seminar,die Seminare,สัมมนา,y
 das Sofa,Sofa,die Sofas,โซฟา,y
 das Souvenir,Souvenir,die Souvenires,ของฝาก,y
 das Spaghetti,Spaghetti,,สปาเกตตี,y
+das Spielzeug,Spielzeug,die Spielzeuge,ของเล่น (sz),y
 das Stadion,Stadion,die Stadien,สเตเดียม,y
 das Stadtviertel,,,เขต ตำบล ย่าน,y
 das Stadtzentrum,,,ใจกลางเมือง,y
@@ -316,6 +318,7 @@ der Garten,Garten,die Gärten,สวน,y
 der Gast,Gast,die Gäste,แขก,y
 der Geburtsort,Geburtsort,die Geburtsorte,สถานที่เกิด,y
 der Geburtstag,Geburtstag,die Geburtstage,วันเกิด,y
+der Gegner,Gegner,die Gegner,คู่แข่ง,y
 der Geldschein,Geldschein,,ธนบัตร,y
 der Großvater,Großvater,die Großväter,ปู่ ตา (ß),y
 der Gruß,Gruß,die Grüße,การทักทาย คำทักทาย,y
@@ -504,6 +507,7 @@ der Sturm,Sturm,die Stürme,พายุ (!G),y
 der Süden,Süden,,ทิศใต้,y
 der Tag,Tag,die Tage,วัน,y
 der Tee,Tee,die Tees,ชา,y
+der Teilnehmer,Teilnehmer,die Teilnehmer,ผู้เข้าร่วม,y
 der Teller,Teller,,จาน,y
 der Teppich,Teppich,die Teppiche,พรม,y
 der Termin,Termin,die Termine,การประชุม การนัดหมาย,y
@@ -584,6 +588,7 @@ die Bevölkerung,,,ประชากร,y
 die Beziehung,,,ความสัมพันธ์,y
 die Bibel,Bibel,die Bibeln,พระคัมภีร์,y
 die Bibliothek,Bibliothek,die Bibliotheken,ห้องสมุด,y
+die Biene,Biene,die Bienen,ผึ้ง,y
 die Biologie,Biologie,,ชีววิทยา,y
 die Birne,Birne,die Birnen,ลูกแพร,y
 die Blume,Blume,die Blumen,ดอกไม้,y
@@ -859,6 +864,7 @@ die Überwachungskamera,,,กล้องวงจรปิด,y
 die Uhrzeit,Uhrzeit,die Uhrzeiten,เวลา (時刻),y
 die Umwelt,Umwelt,die Umwelten,สภาพแวดล้อม สิ่งแวดล้อม,y
 die Universität,Universität,die Universitäten,มหาวิทยาลัย,y
+die Untersuchung,Untersuchung,die Untersuchungen,การสอบ,
 (die) USA,USA,,สหรัฐอเมริกา,y
 die Vase,Vase,die Vasen,แจกัน,y
 die Veranstaltung,Veranstaltung,die Veranstaltungen,งาน อีเวนต์,y

@@ -147,6 +147,7 @@ erwarten,V.,ตั้งหน้าตั้งตาคอย,y
 erzählen,V.,เล่า,y
 es gibt,,มี (ไม่ระบุประธาน),y
 etwas,,บางอย่าง,y
+europäsich,Adj.,ที่เกี่ยวยุโรป ที่เป็นคนยุโรป,y
 explodieren,V.,ระเบิด,y
 fahren,V.,ไป (f),y
 falsch,Adj.,ผิด ที่ไม่ถูกต้อง,y
@@ -274,13 +275,14 @@ klingeln,V.,กดกริ่ง กระดิ่งดัง,y
 knapp,Adj.,แทบไม่พอ น้อย,y
 kochen,V.,ทำอาหาร,y
 komisch,Adj.,แปลก ๆ (k),y
+komplett,Adj.,เสร็จสมบูรณ์ เต็มทั้งหมด (en: complete),y
 kompliziert,Adj.,ซับซ้อน,y
 können,V.,สามารถ,y
 kontrollieren,V.,ควบคุม บังคับ,y
 korrigieren,V.,แก้ไข ทำให้ถูกต้อง,y
 kosten,V.,มีราคา,y
 kostenlos,Adj.,ฟรี,y
-kräftig,Adj.,แข็งแรง,y
+kräftig,Adj.,แข็งแรง (!s),y
 krank,Adj.,ป่วย,y
 kreuzen,V.,ข้าม ตัดผ่าน (ถนน),y
 kühl,Adj.,เย็น,y
@@ -459,6 +461,7 @@ spielen,V.,เล่น,y
 Sport treiben,V.,เล่นกีฬา,y
 springen,V.,กระโดด,y
 spülen,V.,ล้าง (s),y
+stark,Adj.,รุนแรง แข็งแรง (!k),y
 stecken,V.,เสียบ,y
 stehen,V.,ยืน,y
 steigen,V.,ขึ้นไป เข้าไป ขึ้น(รถ),y
@@ -517,6 +520,7 @@ verbinden,V.,เชื่อมต่อ สมาน,y
 verboten,V.,ห้าม,y
 verdienen,V.,มีรายได้,y
 verfügbar,Adj.,ที่มีอยู่ ที่จัดหาให้ได้ (en: available),y
+vergangen,Adj.,ที่เป็นอดีต,y
 vergessen,V.,ลืม,y
 vergleichnen,V.,เปรียบเทียบ,y
 verheiraten,V.,แต่งงาน,y
@@ -529,6 +533,7 @@ verpacken,V.,ห่อ แพ็ค,y
 verpassen,V.,พลาดไป (พลาดโอกาส),y
 verreist,Adj.,ไม่อยู่,y
 verrückt,Adj.,บ้าบอ บ้าบิ่น,y
+verschieden,Adj.,แตกต่าง,y
 verschwunden,Adj.,ที่หายตัวไป ขาดหายไป,y
 verstecken,V.,หลบ ซ่อน,y
 verstehen,V.,เข้าใจ,y
@@ -600,6 +605,7 @@ zögern,V.,ลังเล,y
 zu ~ gratulieren,V.,เฉลิมฉลองเนื่องในโอกาส ~,y
 zubereiten,V.,เตรียม (อาหาร),y
 zuerst,Adv.,…ก่อนอื่น อันดับแรก,y
+zufällig,Adj.,ที่บังเอิญ,y
 zufrieden,Adj.,เป็นที่น่าพอใจ,y
 zu Fuß gehen,V.,เดินไป,y
 zuhören,V.,ฟัง,y
@@ -611,5 +617,6 @@ zurufen,V.,เรียก,y
 zusammen,Adv.,ด้วยกัน (จ่ายรวม),y
 zusätzlich,Adj.,ที่เพิ่มเติม,y
 zu sein,V.,ปิดอยู่ (ไม่ใช้ไฟฟ้า),y
+zuständig,Adj.,ที่รับผิดชอบ ที่เกี่ยวข้อง ที่มีหน้าที่/อำนาจ,y
 zuverlässig,Adj.,เชื่อถือได้ (!s),y
 zwischen,Präp.,ระหว่าง,y

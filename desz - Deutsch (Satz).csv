@@ -61,6 +61,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 นี่คือชั่วโมงสุดท้ายของวัน,Das ist die letzte Stunde des Tages.,
 นี่คือห้องน้ำสาธารณะ(แห่งหนึ่ง),Das ist eine öffentliche Toilette.,
 นี่คือปราสาท ปราสาทชื่อว่า Neuschwanstein มันสวยมากและมีชื่อเสียงมาก,Das ist ein Schloss. Das Schloss heißt Neuschwanstein. Es ist sehr schön und sehr bekannt.,
+นี่เป็นช่วงเวลาที่บังเอิญ,Das ist ein zufälliger Moment.,
 นี่ไม่ใช่หมา นี่คือแมว,"Das ist kein Hund, das ist eine Katze.",
 นี่ไม่ใช่บ้าน(!H)ของฉันคนเดียว แต่เป็นบ้านของพวกเรานะ,"Das ist nicht meine Wohnung, sondern unsere Wohnung.",
 ฉันชอบชุดเดรสตัวนี้นะ แต่ฉันคิดว่ามันแพงเกินไป,Das Kleid gefällt mir ganz gut. Aber ich finde es zu teuer.,△. △.
@@ -104,8 +105,10 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 รถไฟใกล้จะออกแล้ว,Der Zug fährt gleich ab.,
 เยอรมันเล่น(แมทช์)แข่งกับบราซิล,Deutschland spielt gegen Brasilien.,
 ร้านเบเกอรีอยู่ไม่ไกล มันอยู่ตรงหัวมุมนี้เอง,"Die Bäckerei ist nicht weit, sie liegt gleich um die Ecke.",
+ผึ้งชอบดอกไม้(พหู)ที่บาน,Die Biene mag die offenen Blumen.,
 เสื้อเชิตผู้หญิงแพงพอ ๆ กันกับกางเกง,Die Bluse ist so teuer wie die Hose.,
 เสื้อเชิตผู้หญิงแพงเกินไป,Die Bluse ist zu teuer.,
+งานก่อสร้างของยุโรปนั้นสมบูรณ์แบบ,Die europäischen Bauten sind perfekt.,
 การเดินทางใช้เวลา 45 นาที,Die Fahrt dauert fünfundvierzig Minuten.,
 "สีของกระโปรงตัว<u style=""font-weight: bold;"">นี้</u>(!Artikel)ไม่ใช้สีเหลือง",Die Farbe dieses Rocks ist nicht gelb.,
 ฉันคิดว่าปลา(พหู)น่าเบื่อ,Die Fische finde ich langweilig.,
@@ -396,6 +399,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 <div>- Habt ihr hier Telefon?</div><div>- มี <u>เรามี</u>อยู่เครื่องหนึ่ง</div>,"Ja, wir haben eins.",
 ทุกวันฉันเตรียมอาหารเช้า,Jeden Tag bereite ich das Frühstück zu.,
 <u>ทุกวัน</u>ฉันตื่นนอนตอนหกโมง,Jeden Tag stehe ich um sechs Uhr auf.,offiziell
+ผู้เข้าร่วมแต่ละคนต่างก็นำคำถามของตัวเองมา,Jeder Teilnehmer bringt seine eigene Frage.,
 Julia <u>ก็</u>มีผมสีน้ำตาล แต่ยาวกว่า<u>ของฉัน</u>,Julia hat auch braunes Haar. Es ist aber länger als meines.,
 Julia เป็นน้องสาวของฉัน และเราอาศัยอยู่ในบ้านหลังเดียวกันในลอนดอน,Julia ist meine Schwester und wir leben im selben Haus in London.,
 Julia เรียกฉันจากที่<b><u>หน้า</u></b>ประตูบ้าน,Julia ruft mir von der Haustür zu.,
@@ -448,6 +452,7 @@ Luki กระโดดข้ามหน้าต่าง,Luki springt durch d
 บ้านฉันสวยและสว่าง ห้องนอนของฉันค่อนข้างใหญ่,Meine Wohnung ist schön und hell. Mein Schlafzimmer ist ziemlich groß.,บ้าน - W~
 เพื่อนของฉัน Michael มารอพวกเราอยู่ที่ทางออกของสนามบิน,Mein Freund Michael erwartet uns am Ausgang des Flughafens.,
 โทรศัพท์ฉันแบตฯ หมด,Mein Handy hat keinen Akku mehr.,
+เสื้อเชิตของฉันมีสี(พหู)ที่แตกต่าง,Mein Hemd hat verschiedene Farben.,
 ฉันปวดท้อง<sub>(กระเพาะ)</sub>ตลอดเลย,Mein Magen tut immer weh.,
 สามีของฉันอยากซื้อรถคันใหญ่แล้วตอนนี้,Mein Mann möchte ein großes Auto gerne schon jetzt kaufen.,
 "ลูกชายของฉันอายุสิบขวบ เขากินเยอะ<u style="""">มาก</u>และนอนทุกวันวันละสิบชั่วโมง เขาโตเอาโตเอา เขายังชอบเล่นเทนนิสและชอบอ่าน(หนังสือ)ด้วย",Mein Sohn ist zehn Jahre alt. Er isst sehr viel und schläft jeden Tag zehn Stunden. Er wächst und wächst. Er spielt gern Tennis und liest auch gern.,
@@ -530,6 +535,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 พวกเขาไปยัง(z)บ้านของพ่อของฉัน,Sie gehen zum Haus meines Vaters.,
 เธอ(๓)ไป(g)รอบ ๆ โต๊ะ,Sie geht um den Tisch.,
 พวกเขาเดินตัดสวน Görlitzer และได้มาถึงร้านไอศกรีมบนถนน Flackenstein,Sie haben den Görlitzer Park durch quert und sind im Eiscafé in der Flackensteinstraße angekommen.,- Perfekt
+เธอ(๓)มีชื่อเฉพาะส่วนหัวให้สำหรับเขา,Sie hat einen persönlichen Namen für ihn.,
 เธอ(๓)สวม(ah)เสื้อแจ็กเก็ตสวยตัวหนึ่ง,Sie hat eine schöne Jacke an.,
 เธอ(๓)มีชุดเดรสใหม่สีแดง,Sie hat ein neues rotes Kleid.,
 เธอ(๓)เอามัน(ก)ให้(s)เด็ก(เอก),Sie hat es dem Kind geschenkt.,- perfekt

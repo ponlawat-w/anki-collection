@@ -13,6 +13,7 @@ acertar,ทายถูก ตรงเป้า,y
 aciago,อัปมงคล อัปโชค ที่ไม่ดี,y
 acicalar,ทำความสะอาด ไซร้เห็บเหา,y
 acoger,ยอมรับ ให้การยอมรับ รองรับการลี้ภัย,y
+acojonar,ทำให้กลัว,
 a condición de que,โดยมีข้อแม้คือ…,y
 acongojado,เครียด กดดัน กลัว,
 acoplarse,อยู่ด้วยกัน ปรับตัวเข้าด้วยกัน,
@@ -176,6 +177,7 @@ casero,ที่เกี่ยวกับบ้าน โฮมเมด,y
 casposo,เต็มไปด้วยรังแค,y
 castaño,(ผม)สีน้ำตาล,y
 castigar,ลงโทษ (คำกริยา),y
+castrar,ทำหมัน (ตัด),y
 catear,(ภาษาพูด) สอบตก ไม่ผ่าน,y
 ceder,เสียสละ ยอม (c),y
 ceder el paso,ให้ทาง,y
@@ -253,6 +255,7 @@ deletrear,สะกด พูดทีละพยางค์,y
 delinear,ร่าง(ภาพวาด) ดราฟต์,y
 demorar,กินเวลา ดีเลย์ (กริยา),y
 de puntillas,(เดิน)เขย่งปลายเท้า,y
+derramar,ทำหก,y
 derrapar,ดริฟต์ (คำกริยา),y
 derrochar,ใช้จ่ายอย่างสุรุ่ยสุร่าย,y
 derrumbarse,พัง ทลาย,
@@ -362,6 +365,7 @@ el anfibio,สัตว์ครึ่งบกครึ่งน้ำ,y
 el anfitrión,เจ้าบ้าน เจ้าของบ้าน,y
 el anillo de crecimiento,วงปี,y
 el año bisiesto,ปีอธิกสุรทิน,y
+el antifaz,หน้ากาก (บริเวณตา),y
 el antiséptico,ยาฆ่าเชื้อ (ภายนอก),y
 el anular,นิ้วนาง,y
 el anzuelo,ตะขอ ขอเบ็ด,y
@@ -454,6 +458,9 @@ el buitre,นกแร้ง,y
 el bulo,ข่าวปลอม,y
 el burdel,ซ่อง (!l),y
 el buríl,สิ่ว ที่แกะสลัก,y
+el burro,ลา,y
+el butanero,คนส่งแก๊ส,y
+el butano,ก๊าซบิวเทน,y
 el caballo,ม้า,y
 el cabellete del tejado,ครอบสันหลังคา,y
 el cabestrillo,ผ้าคล้องแขน,y
@@ -838,6 +845,7 @@ el mármol,หินอ่อน,y
 el Mar Muerto,ทะเลสาบเดดซี,y
 el Mar Negro,ทะเลดำ,y
 el Mar Rojo,ทะเลแดง,y
+el martillo,ค้อน,y
 el mártir,ผู้ที่ยอมพลีชีพเพื่อความเชื่อ/ศาสนาของตน,y
 el maté,เครื่องดื่มละลายน้ำทางละตินอเมริกา,y
 el matorral,กอไม้ (!พุ่มไม้),y
@@ -1128,6 +1136,7 @@ el tejado,หลังคา,y
 el tejido,ผ้าถัก,y
 el telar,เครื่องทอผ้า,y
 el telefonillo,โทรศัพท์ (หน้าประตูบ้าน),y
+el telón,ผ้าม่านโรงละคร,y
 el temporizador,ที่ตั้งเวลา (เครื่องใช้ไฟฟ้า),y
 el tendedero,ราวตากผ้า,y
 el tenedor,ส้อม,y
@@ -1325,6 +1334,7 @@ heredar,สืบทอด,
 hervir,ต้ม,y
 heterodoxo,ที่ไม่เห็นด้วยกับความเชื่อทางศาสนา ที่ไม่เป็นไปตามกฤษฎี ที่นอกคอก,y
 hidráulico,ไฮดรอลิก,y
+hinchar,เป่าลม,y
 hispalense,ที่มาจาก Sevilla / คำคุณศัพท์ของ Sevilla,y
 holgazanear,นั่ง ๆ นอน ๆ ไม่ทำอะไร ทำตัวขี้เกียจ,y
 hortera,รสนิยมต่ำ ไร้ค่า,y
@@ -1530,6 +1540,7 @@ la comitiva,กลุ่มผู้ติดตาม,y
 la comodidad,การอำนวยความสะดวก สิ่งอำนวยความสะดวก,y
 la competencia,การแข่งขัน,y
 la compostura,การซ่อมแซม,
+la conífera,พืชจำพวกสน,
 la conmoción,ช็อก สภาวะตกใจ,y
 la contraventana,บานเกล็ดหน้าต่าง,y
 la contusión,ช้ำใน,y
@@ -2234,6 +2245,7 @@ sacar la basura,เอาขยะไปทิ้ง,y
 sacar la lengua,แลบลิ้น,y
 sagrado,ศักดิ์สิทธิ์,y
 salir el tiro por la culata,พลิกล็อก (สำนวน),y
+salpicar,สาด ปาด ทำให้พุ่ง,y
 saltarse algo a la torera,เยาะเย้ย ดูหมิ่น เหยียดหยาม (สำนวน),y
 saltarse el semáforo,ฝ่าไฟแดง,y
 sangrar,เพิ่มย่อหน้า (tab) (คำกริยา),y
@@ -2253,7 +2265,7 @@ si bien,แม้ว่า ในขณะที่,
 siempre que,ตราบใดที่ ก็ต่อเมื่อ,y
 sigiloso,(adj.) ที่แอบ ๆ ลับ ๆ,y
 sirio,คุณศัพท์ของซีเรีย,y
-sobrecoger,ทำให้กลัว ทำให้สะดุ้ง,
+sobrecoger,ทำให้สะดุ้ง ทำให้กลัว,
 sobresalir,ยื่นออก โผล่ออก โดดเด่น แตกต่าง,y
 solemne,เคร่งขึม ขึงขัง,
 solidario,มีน้ำใจ ชอบช่วยเหลือ (s),y

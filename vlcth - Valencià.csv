@@ -39,6 +39,7 @@ arrivar,ไปถึง,y
 Àsia,ทวีปเอเชีย,y
 assecar,ทำให้แห้ง,y
 assolellat,ที่โดนแดด,y
+aturar,จับกุม หยุด,y
 a vegades,บางครั้ง,y
 avorrit,เบื่อ,y
 baix,เตี้ย ต่ำ,y
@@ -160,6 +161,7 @@ el cirurgià,ศัลยแพทย์ (ช),y
 el clau,ตะปู,y
 el cobertor,ผ้าปู ผ้าคลุม,y
 el cobrellit,ผ้าคลุมเตียง,y
+el codi,รหัส,y
 el cognom,นามสกุล,y
 el coixí,เบาะ,y
 el coll,คอ,y
@@ -246,6 +248,7 @@ el llapis,ดินสอ,y
 el llar,ที่อยู่อาศัย,y
 el llavis,ริมฝีปาก,y
 el llençol,ผ้าปูเตียง,y
+el lleó,สิงโต,y
 el llibre,หนังสือ,y
 el llit,เตียง,y
 el lloguer,การให้เช่า,y
@@ -255,6 +258,7 @@ el mapa,แผนที่ (m),y
 el març,มีนาคม,y
 el mariner,กะลาสีเรือผู้ชาย,y
 el marit,สามี (m),y
+el martell,ค้อน,y
 el matí,ตอนเช้า,y
 el mecànic,ช่างเครื่องยนต์ผู้ชาย,y
 el mege,แพทย์ผู้ชาย,y
@@ -343,6 +347,7 @@ el restaurant,ร้านอาหาร,y
 el riu,แม่น้ำ,y
 el rotulador,ปากกาเมจิก,y
 el rovelló,เห็ดสน,y
+el ruc,ลา,y
 el rumb,ทาง เส้นทาง,y
 el rus,ภาษารัสเซีย / คนรัสเซีย (ช),y
 el sabó,สบู่,y
@@ -376,6 +381,7 @@ el trellat,เหตุผล,y
 el tren,รถไฟ,y
 el tro,ฟ้าผ่า,y
 el turc,ภาษาตุรกี / คนตุรกี (ช),y
+el vaixell,เรือ (!b),y
 el valencià,ภาษาวาเลนเซีย / คนวาเลนเซีย (ช),y
 el veí,เพื่อนบ้าน (ผู้ชาย),y
 el vi,ไวน์,y
@@ -387,6 +393,7 @@ el xinés,ภาษาจีน / คนจีน (ช),y
 el yayo,ปู่ ตา (y),y
 empényer,ผลัก,y
 endreçat,ที่สะอาด รักความเป็นระเบียบ,y
+enlloc,(ไม่)ที่ไหนสักที่,y
 enmig,ท่ามกลาง,y
 ensucrat,ซึ่งใส่น้ำตาล,y
 entelar-se,ขึ้นฝ้า,y
@@ -403,6 +410,7 @@ estret,แคบ คับ,y
 estúpid,โง่,y
 Europa,ทวีปยุโรป,y
 fer,ทำ,y
+fer l'efecte,ให้ความรู้สึก… (es: parecer),y
 fer pudor,ส่งกลิ่นเหม็น,y
 Filipines,ประเทศฟิลิปปินส์,y
 (f.) l'abraçada,(นาม)กอด,y
@@ -448,6 +456,7 @@ fosc,มืด,y
 França,ประเทศฝรั่งเศส,y
 francesa,เกี่ยวกับฝรั่งเศส (ญ),y
 fregar,ถู (พื้น) [คำกริยา],y
+gairebé,เกือบ,y
 generós,ใจดี ใจกว้าง,y
 gens de,ไม่สักนิด แม้แต่น้อย (นามนับไม่ได้),y
 grega,เกี่ยวกับกรีก (ญ),y
@@ -466,7 +475,7 @@ la banquera,พนักงานธนาคารผู้หญิง,y
 la banya,เขาสัตว์,y
 la banyera,อ่างอาบน้ำ,y
 la barba,เครา,y
-la barca,เรือ,y
+la barca,เรือ (!v),y
 la beguda,เครื่องดื่ม,y
 la bicicleta,รถจักรยาน,y
 la biologia,ชีววิทยา,y
@@ -654,6 +663,7 @@ la reunió,การรวมตัว การประชุม,y
 la roba,เสื้อผ้า,y
 la rosada,เหมย,y
 la sala menjador,ห้องรับประทานอาหาร,y
+la samarreta,เสื้อยืด,y
 la sang,เลือด,y
 la secretaria,เลขาผู้หญิง,y
 la sèrie,ซีรีส์,y
@@ -764,6 +774,7 @@ Mèxic,ประเทศเม็กซิโก,y
 (m.) l'estiu,ฤดูร้อน,y
 (m.) l'estómac,ท้อง,y
 (m.) l'estòmac,ท้อง,y
+(m.) l'èxit,ความสำเร็จ,y
 (m.) l'hivern,ฤดูหนาว,y
 (m.) l'home,ผู้ชาย,y
 (m.) l'hort,สวนผักผลไม้ในบ้าน,y
@@ -833,6 +844,7 @@ relaxar-se,พักผ่อน,y
 rentar,แปรง ขัด (คำกริยา rt),y
 rentar-se les dents,แปรงฟัน,y
 República Checa,สาธารณรัฐเช็ก,y
+riure,หัวเราะ,y
 roig,สีแดง (!v),y
 ros,(ผม) สีทอง บลอนด์,y
 rosa,สีชมพู,y
