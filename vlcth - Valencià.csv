@@ -41,6 +41,7 @@ assecar,ทำให้แห้ง,y
 assolellat,ที่โดนแดด,y
 aturar,จับกุม หยุด,y
 a vegades,บางครั้ง,y
+aviat,เร็ว (เช้า),y
 avorrit,เบื่อ,y
 baix,เตี้ย ต่ำ,y
 baixar,ลง,y
@@ -235,6 +236,7 @@ el iogurt,โยเกิร์ต,y
 el italià,ภาษาอิตาลี / คนอิตาลี (ช),y
 el japonés,ภาษาญี่ปุ่น / คนญี่ปุ่น (ช),y
 el joc,เกม,y
+el judici,การพิพากษา,y
 el juliol,กรกฎาคม,y
 el juny,มิถุนายน,y
 el jutge,ผู้พิพากษา,y
@@ -308,6 +310,7 @@ el pegament,กาว,y
 el peix,ปลา,y
 el pèl,เส้นผม (p),y
 el peluquer,ช่างตัดผมผู้ชาย,y
+el perill,อันตราย (คำนาม),y
 el periòdic,หนังสือพิมพ์,y
 el periodiste,นักข่าวผู้ชาย,y
 el pèsol,ถั่วลันเตา,y
@@ -348,7 +351,7 @@ el restaurant,ร้านอาหาร,y
 el riu,แม่น้ำ,y
 el rotulador,ปากกาเมจิก,y
 el rovelló,เห็ดสน,y
-el ruc,ลา (สัตว์),y
+el ruc,ลา (สัตว์ !a),y
 el rumb,ทาง เส้นทาง,y
 el rus,ภาษารัสเซีย / คนรัสเซีย (ช),y
 el sabó,สบู่,y
@@ -463,6 +466,7 @@ gens de,ไม่สักนิด แม้แต่น้อย (นามน
 grega,เกี่ยวกับกรีก (ญ),y
 groc,สีเหลือง,y
 gros,อ้วน หนา,y
+guanyar,ชนะ,y
 holandesa,เกี่ยวกับดัตช์ (ญ),y
 incloure,รวม (es: incluir),y
 infringir,ละเมิด,y
@@ -637,6 +641,7 @@ la perseverança,การทำเป็นประจำ,y
 la perxa,ไม้แขวนเสื้อ,y
 la pinta,หวี (คำนาม),y
 la pintora,นักวาดภาพผู้หญิง,y
+la pintura,ภาพวาด,y
 la pinya,สับปะรด,y
 la pissarra,กระดานดำ,y
 la plaça,ลานกว้าง พลาซา,y
@@ -700,7 +705,6 @@ les ceres,สีเทียน,y
 les ciències naturals,วิทยาศาสตร์ธรรมชาติ,y
 les llengües,วิชาภาษา,y
 les matemàtiques,คณิตศาสตร์,y
-les pintures,ภาพวาด,y
 les sabates,รองเท้า,y
 les sandàlies,รองเท้าแตะ (สำหรับใส่ออกไปข้างนอก),y
 les tisores,กรรไกร,y
@@ -754,7 +758,7 @@ Mèxic,ประเทศเม็กซิโก,y
 (m.) l'armari,ตู้เสื้อผ้า,y
 (m.) l'arquitect,สถาปนิก,y
 (m.) l'arròs,ข้าว,y
-(m.) l'as,ลา (สัตว์),y
+(m.) l'as,ลา (สัตว์ !r),y
 (m.) l'assecador,ไดร์เป่าผม,y
 (m.) l'atleta,นักกีฬา (a),y
 (m.) l'autobús,รถประจำทาง,y
@@ -900,7 +904,7 @@ vestir-se,แต่งตัว,y
 veure/vore,ดู,y
 viatjar,ท่องเที่ยว (กริยา),y
 vindre,มา,y
-viure,อาศัย,z
+viure,อาศัย มีชีวิต,y
 xerraire,ช่างพูด,y
 xicotet,เล็ก (x),y
 Xina,ประเทศจีน,y
