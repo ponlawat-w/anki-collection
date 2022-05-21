@@ -2,7 +2,7 @@ Thailändisch,Deutsch,หมายเหตุ
 ตอนเย็นผมดูทีวี,Abends sehe ich fern.,
 ตั้งแต่พรุ่งนี้ฉันจะไม่สูบบุหรี่อีก,Ab morgen rauche ich nicht mehr.,
 Alex ไปนอนตอน 21:00น. เขาหลับลงไปในทันที,"Alex geht um einundzwanzig Uhr ins Bett, er schläft sofort ein.",präsen / offiziel
-เครื่องมือช่างทั้งหมดนี้เป็นของฉัน,All diese Werkzeuge gehören mir.,
+เครื่องมือช่างทั้งหมดนี้เป็นของฉัน,All diese Werkzeuge gehören mir.,"- กริยา ""เป็นของ"""
 ทุกคนหัวเราะ และฉันก็(หัวเราะตาม)ในที่สุด,"Alle lachen, und ich am Ende auch.",
 ทุกคนชอบ(m)สถานที่แห่งนี้,Alle mögen diesen Ort.,
 โอเคล่ะ (en: All right!),Alles klar!,
@@ -62,6 +62,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 นี่คือชั่วโมงสุดท้ายของวัน,Das ist die letzte Stunde des Tages.,
 นี่คือห้องน้ำสาธารณะ(แห่งหนึ่ง),Das ist eine öffentliche Toilette.,
 นี่คือปราสาท ปราสาทชื่อว่า Neuschwanstein มันสวยมากและมีชื่อเสียงมาก,Das ist ein Schloss. Das Schloss heißt Neuschwanstein. Es ist sehr schön und sehr bekannt.,
+นั่นเป็นเพื่อนอีกคนของ(v)ฉัน,Das ist ein weiterer Freund von mir.,
 นี่เป็นช่วงเวลาที่บังเอิญ,Das ist ein zufälliger Moment.,
 นี่ไม่ใช่หมา นี่คือแมว,"Das ist kein Hund, das ist eine Katze.",
 นี่ไม่ใช่บ้าน(!H)ของฉันคนเดียว แต่เป็นบ้านของพวกเรานะ,"Das ist nicht meine Wohnung, sondern unsere Wohnung.",
@@ -145,6 +146,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เพื่อนคนหนึ่งได้ลองเปลี่ยนยางรถยนต์ดู,Ein Freund hat probiert den Reifen zu wechseln.,- Perfekt
 สัตว์สองสามตัวเล่นกันอยู่บนสนามหญ้า,Ein paar Tiere spielen auf der Wiese.,
 ก้อนหิน(ก้อนหนึ่ง)ไม่ลอยน้ำ,Ein Stein schwimmt nicht.,
+อีกแค่หนึ่งเดือนแล้วฉันจะเป็นอิสระเหมือนดั่งสายลม,Ein weiterer Monat und ich bin frei wie der Wind.,
 ขอโทษนะคะ รถไฟขบวนถัดไปที่จะไป Dessau ออกเมื่อไหร่,"Entschuldigung, wann fährt der nächste Zug nach Dessau ab?",
 เขาทำงานในบริษัท(!F)แห่งหนึ่งเป็นโปรแกรมเมอร์,Er arbeitet in einem Büro als Programmierer.,
 เขาทำงานในมหาวิทยาลัยตั้งแต่ปี 1984,Er arbeitet seit neunzehn-vierundachtzig an der Universität.,
@@ -523,6 +525,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 คิดในแง่ดีหน่อย!,Sei positiv!,- du!
 เป็นเวลาหนึ่งปีแล้วที่ฉันอาศัยอยู่ที่ฮัมบวร์ก,Seit einem Jahr wohne ich in Hamburg.,
 เธออาศัยอยู่ที่ฮัมบวร์กตั้งแต่เมื่อไหร่,Seit wann wohnst du in Hamburg?,
+เธอ(๓)ตกลงรับช็อกโกแลตฟรี,Sie akzeptiert die kostenlose Schokolade.,
 เธอ(๓)ทำงานทั้งวันและตอนเย็นเธอไป(g→z)เรียนคอร์สเยอรมัน,Sie arbeitet den ganzen Tag und abends geht sie zum Deutschkurs.,- ไปเรียน = ไปคอร์สเรียนเยอรมัน
 เขา(ญ)ทำงานวันพฤหัสตอนเย็นตั้งแต่หกโมงถึงสี่ทุ่ม,Sie arbeitet Donnerstagabend von sechs bis zehn Uhr.,sie / umgangssprachlich
 พวกเขาเยี่ยมคุณลุง,Sie besuchen den Onkel.,
@@ -532,7 +535,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 พวกเขาขับ(รถ)ตัดเมือง,Sie fahren durch die Stadt.,
 พวกเขาขับ(รถ)รอบ ๆ เมือง,Sie fahren um die Stadt.,
 เธอ(๓)ไปตามถนน Koch,Sie fährt die Kochstraße entlang.,
-พวกเขาแทบจะไม่ออก(บ้าน)โดยไม่มีลูก ๆ ของพวกเขาเลย ส่วนใหญ่เขามักจะเอาลูกของพวกเขาไปด้วยเสมอ,"Sie gehen selten ohne ihre Kinder aus, meistens nehmen sie ihre Kinder mit.",
+พวกเขาแทบจะไม่ออก(บ้าน:ag)โดยไม่มีลูก ๆ ของพวกเขาเลย ส่วนใหญ่เขามักจะเอาลูกของพวกเขาไปด้วยเสมอ,"Sie gehen selten ohne ihre Kinder aus, meistens nehmen sie ihre Kinder mit.",
 พวกเขาไปยัง(z)บ้านของพ่อของฉัน,Sie gehen zum Haus meines Vaters.,
 เธอ(๓)ไป(g)รอบ ๆ โต๊ะ,Sie geht um den Tisch.,
 พวกเขาเดินตัดสวน Görlitzer และได้มาถึงร้านไอศกรีมบนถนน Flackenstein,Sie haben den Görlitzer Park durch quert und sind im Eiscafé in der Flackensteinstraße angekommen.,- Perfekt

@@ -70,7 +70,7 @@ das Gehirn,Gehirn,die Gehirne,สมอง,y
 das Geld,Geld,die Gelder,เงิน,y
 das Gemüse,Gemüse,die Gemüse,ผัก,y
 das Gepäck,Gepäck,,กระเป๋าเดินทาง สัมภาระ (G),y
-das Gerät,Gerät,die Geräte,อุปกรณ์ เครื่องมือ,y
+das Gerät,Gerät,die Geräte,อุปกรณ์ เครื่องมือ (!Wz),y
 das Gericht,Gericht,,ศาล,y
 das Geschäft,Geschäft,die Geschäfte,ร้าน (ธุรกิจ),y
 das Geschenk,Geschenk,die Geschenke,ของขวัญ,y
@@ -869,6 +869,7 @@ die Untersuchung,Untersuchung,die Untersuchungen,การสอบ,
 (die) USA,USA,,สหรัฐอเมริกา,y
 die Vase,Vase,die Vasen,แจกัน,y
 die Veranstaltung,Veranstaltung,die Veranstaltungen,งาน อีเวนต์,y
+die Verbindung,,,การเชื่อมต่อ,y
 die Vergangenheit,Vergangenheit,,อดีต,y
 die Verspätung,Verspätung,,ความล่าช้า,y
 die Vokabel,Vokabel,die Vokabeln,คำศัพท์,y
