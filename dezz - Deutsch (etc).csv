@@ -1,4 +1,8 @@
 Deutsch,Wortart,Thailändisch,Add Reverse
+Alles Gute,Int.,ขอแสดงความยินดี,y
+Bock haben,V.,มีอารมณ์ รู้สึกอยาก(ทำ),y
+Grüßen senden,V.,ส่งคำทักทาย,y
+Sport treiben,V.,เล่นกีฬา,y
 ab,Präp.,ตั้งแต่ จาก (บุพบท) (a),y
 abbiegen,V.,เลี้ยว โค้ง,y
 abends,Adv.,ตอนเย็น ค่ำ,y
@@ -7,17 +11,15 @@ abfahren,V.,ออกเดินทาง,y
 abgeben,V.,ส่ง นำส่ง ยื่น(เอกสาร),y
 abholen,V.,ไปรับ,y
 abwaschen,V.,ล้างออก,y
-ähnlich,Adj.,ใกล้เคียง คล้ายกัน (!g),y
 aktuell,Adj.,ที่เป็นปัจจุบัน ที่ล่าสุด,y
 all,Pron.,ทุกคน,y
 allein,Adj.,คนเดียว,y
-Alles Gute,Int.,ขอแสดงความยินดี,y
 als,Konj.,กว่า ในขณะที่,y
 alt,Adj.,เก่า แก่,y
+an sein,V.,เปิดอยู่ (สวิตช์),y
 an ~ teilnehmen,V.,เข้าร่วม ~,y
 anbieten,V.,เสนอ,y
 ander,Adj.,อื่น,y
-ändern,V.,เปลี่ยน,y
 anfangen,V.,เริ่ม (a),y
 angeln,V.,ตกปลา,y
 anhaben,V.,"สวมใส่ (!t, !az)",y
@@ -27,22 +29,21 @@ anmachen,[Trennbare] V.,เปิด (สวิตช์),y
 annehmen,V.,ตอบรับ ตอบตกลง (!sein),y
 anrufen,V.,โทรหา,y
 ansehen,V.,ดู มอง (!s),
-an sein,V.,เปิดอยู่ (สวิตช์),y
 anstarren,V.,จ้องมอง (~s~),y
 anziehen,V.,สวมใส่ (!h),y
-ärgerlich,Adj.,หงุดหงิด อารมณ์เสีย โกรธ,y
 arm,Adj.,จน,y
 auf,präp.,บน,y
+auf sein,V.,เปิดอยู่ (ไม่ใช้ไฟฟ้า),y
 aufgeben,V.,ยอมแพ้,y
 aufhören,V.,หยุด (a),y
 aufmachen,[Trennbare] V.,เปิด (ไม่ใช่ไฟฟ้า),y
 aufpassen,V.,ระวัง ดูดี ๆ ตั้งใจดู,y
 aufräumen,V.,จัด ทำความสะอาด,y
 aufschreiben,V.,จด,y
-auf sein,V.,เปิดอยู่ (ไม่ใช้ไฟฟ้า),y
 aufstehen,V.,ตื่นนอน (ลุกจากที่นอน),y
 aufwachen,V.,ตื่น (รู้สึกตัว) (a),y
 aufwarten,V.,รอคอย (บางอย่าง),y
+aus sein,V.,ปิดอยู่ (สวิตช์),y
 ausgeben,V.,ใช้จ่าย,y
 ausgezeichnet,Adj.,ยอดเยี่ยม (a),y
 ausleeren,V.,ทำให้ว่างเปล่า เอาออก ขจัด,y
@@ -50,11 +51,10 @@ ausmachen,[Trennbare] V.,ปิด (สวิตช์),y
 auspacken,V.,แกะของ เปิดกระเป๋า,y
 ausschalten,V.,ปิดสวิตช์ (as),y
 aussehen,V.,ดูเหมือนกับว่า ดูสีท่า,y
-aus sein,V.,ปิดอยู่ (สวิตช์),y
-außen,Adv.,ข้างนอก ภายนอก (a),y
 aussteigen,V.,ลง (จากยานพาหนะ),y
 ausstellen,V.,ปิดสวิตช์ ดับเครื่อง,y
 ausziehen,V.,ดึง เอาออก ย้ายออก ถอดออก,y
+außen,Adv.,ข้างนอก ภายนอก (a),y
 backen,V.,อบ,y
 baden,V.,แช่น้ำ เล่นน้ำ ว่ายน้ำ,y
 bald,Adv.,เร็ว ๆ นี้ (ที่จะถึงนี้) (!k),y
@@ -84,7 +84,6 @@ billig,Adj.,(ราคา)ถูก [ราคาต่ำ],y
 bis,Präp.,จนถึง จนกระทั่ง (迄),y
 bitter,Adj.,ขม,y
 bleiben,V.,อยู่,y
-Bock haben,V.,มีอารมณ์ รู้สึกอยาก(ทำ),y
 braten,V.,ผัด ย่าง,y
 brauchen,V.,ต้องการ,y
 braun,Adj.,สีน้ำตาล,y
@@ -117,8 +116,8 @@ dumm,Adj.,โง่,y
 dunkel,Adj.,มืด,y
 durch,Präp.,ผ่านทาง,y
 durchqueren,V.,เดินตัด,y
-dürfen,V.,อนุญาต,y
 duschen,V.,อาบน้ำ (ฝักบัว),y
+dürfen,V.,อนุญาต,y
 egal,Adj.,ไม่สำคัญ เท่า ๆ กัน พอ ๆ กัน,y
 ehemalig,Adj.,เก่า (ex),y
 eher,Adv.,เช้ากว่า เร็วกว่า ชอบมากกว่า,y
@@ -142,8 +141,8 @@ entlangfahren,V.,ไปตามแนว,y
 entschuldigen,V.,ยกโทษ ให้อภัย,y
 ergänzen,V.,เติม ทำให้สมบูรณ์,y
 erinnern,V.,จำ ทำให้ระลึก,y
-erkältet,Adj.,หวัด,y
 erklären,V.,อธิบาย,y
+erkältet,Adj.,หวัด,y
 erst,Adj.,ที่หนึ่ง แรก,y
 erwarten,V.,ตั้งหน้าตั้งตาคอย,y
 erzählen,V.,เล่า,y
@@ -181,13 +180,13 @@ frisch,Adj.,สด (新鮮),y
 fröhlich,Adj.,[คำคุณศัพท์] ยินดี ปรีดา มีความสุข (!g),y
 früh,Adj.,เช้า ไว,y
 frühmorgens,Adv.,เช้าตรู่,y
-fühlen,V.,รู้สึก,y
 funkeln,V.,สะท้อนแสง เป็นระยิบระยับ,y
+fühlen,V.,รู้สึก,y
 ganz,A.,ทั้ง ทั้งหมด เต็ม ๆ,y
 geboren,V.,เกิด,y
 geduldig,Adj.,อดทน,y
-gefährlich,Adj.,อันตราย,y
 gefallen,V.,ทำให้ชอบ (es: gustar),y
+gefährlich,Adj.,อันตราย,y
 gegen,,(ช่วงเวลา)ประมาณ,y
 gegen (Position),Präp.,มุ่งหน้าไปยัง (บุพบท),y
 gehen,V.,ไป,y
@@ -214,12 +213,10 @@ gleifalls,,เช่นกัน (!gn),y
 glücklich,Adj.,มีความสุข,y
 groß,Adj.,ใหญ่,y
 grün,Adj.,สีเขียว,y
-Grüßen senden,V.,ส่งคำทักทาย,y
 gucken,V.,จ้องมอง (g),y
 günstig,Adj.,(ราคา)ถูก [มีความคุ้มค่า],y
 halb,Adj.,ครึ่งหนึ่ง,y
 halten,V.,หยุด (h),y
-hängen,V.,แขวน,y
 hassen,V.,เกลียดชัง,y
 heimfahren,V.,กลับบ้าน (ไปบ้าน),y
 heimlich,Adj.,ที่เป็นความลับ,y
@@ -236,30 +233,31 @@ hervor,Adv.,มาข้างหน้า,y
 herzen,V.,กอด (แน่น),y
 herzlich,Adj.,จากใจ อย่างเป็นมิตร,y
 heute,Adv.,วันนี้,y
+hin und her,,ไป ๆ มา ๆ,y
 hinein,Adv.,ข้างใน เข้าไปข้างใน (นั้น),y
 hineingehen,V.,เข้าไปข้างใน (~g),y
 hinfahren,V.,ไปที่นั่น,y
 hinfallen,V.,ล้มลง,y
 hinten,Adv.,ที่ด้านหลัง,y
 hinter,Präp.,ด้านหลัง,y
-hin und her,,ไป ๆ มา ๆ,y
 hinwollen,V.,ตั้งใจจะไป,y
 hoch,Adj.,สูง,y
 hoffentlich,Adv.,หวังเป็นอย่างยิ่ง,y
+holen,V.,ถือ เอามา เรียก พามา,y
+hundert,num.,ร้อย,y
+hängen,V.,แขวน,y
 höflich,Adj.,สุภาพ,y
 höher,,สูงกว่า (ขั้นกว่าของ hoch),y
-holen,V.,ถือ เอามา เรียก พามา,y
 hören,V.,ได้ยิน,y
 hübsch,Adj.,น่ารัก,y
-hundert,num.,ร้อย,y
 im Internet surfen,V.,เล่นอินเทอร์เน็ต,y
 im Kreis drehen,,หันหลัง กลับหลังหัน,y
-immer,Adv.,เสมอ ๆ,y
 im Stress sein,V.,เครียด,y
+immer,Adv.,เสมอ ๆ,y
 in Bett gehen,V.,ไปนอน,y
+in Ordnung,,โอเค ปกติดี,y
 in den Abfall werfen,V.,ทิ้งขยะ ทิ้งลงถังขยะ,y
 informieren,V.,ให้ข้อมูล,y
-in Ordnung,,โอเค ปกติดี,y
 inzwischen,Adv.,ในขณะนั้น (en: meanwhile),y
 irgendwie,Adv.,ไม่ทางใดก็ทางหนึ่ง (en: somehow),y
 jemand,pron.,ใครบางคน สักคน,y
@@ -279,19 +277,18 @@ kochen,V.,ทำอาหาร,y
 komisch,Adj.,แปลก ๆ (k),y
 komplett,Adj.,เสร็จสมบูรณ์ เต็มทั้งหมด (en: complete),y
 kompliziert,Adj.,ซับซ้อน,y
-können,V.,สามารถ,y
 kontrollieren,V.,ควบคุม บังคับ,y
 korrigieren,V.,แก้ไข ทำให้ถูกต้อง,y
 kosten,V.,มีราคา,y
 kostenlos,Adj.,ฟรี,y
-kräftig,Adj.,แข็งแรง (!s),y
 krank,Adj.,ป่วย,y
 kreuzen,V.,ข้าม ตัดผ่าน (ถนน),y
-kühl,Adj.,เย็น,y
+kräftig,Adj.,แข็งแรง (!s),y
 kurz,Adj.,สั้น ใกล้,y
+können,V.,สามารถ,y
+kühl,Adj.,เย็น,y
 kürzlich,Adv.,เร็ว ๆ นี้ ช่วงนี้ (k),y
-lächeln,V.,ยิ้ม,y
-lachen,V.,หัวเราะ,y
+lachen,"V. ",หัวเราะ,y
 laden,V.,ชวน,y
 langsam,Adj.,ช้า (ความเร็ว),y
 langweilig,Adj.,น่าเบื่อ,y
@@ -311,40 +308,39 @@ lieber,Adv.,…ชอบกว่า (ขั้นกว่าของ gern),y
 liegen,V.,นอน (en: lay down),y
 link,Adj.,ซ้าย,y
 loben,V.,ชม (ja: 褒める),y
-löschen,V.,ลบ ดับ(ไฟ),y
 losgehen,V.,ออกไป เริ่มเดินทาง (~g),y
-lügen,V.,โกหก,y
 lustig,Adj.,ตลก ขำขัน,y
+lächeln,V.,ยิ้ม,y
+löschen,V.,ลบ ดับ(ไฟ),y
+lügen,V.,โกหก,y
 machen,V.,ทำ,y
 malen,V.,วาดรูประบายสี,y
 manch,Pron.,บ้าง บาง(อัน),
 manchmal,Adv.,บางครั้ง,y
-männlich,Adj.,เพศชาย,y
 meinen,V.,หมายถึง (ref),y
 meistens,Adv.,ส่วนใหญ่,y
 merken,V.,สังเกตเห็น,y
 mieten,V.,เช่า,y
 mischen,V.,ผสม สลับ,y
-mitbringen,V.,เอาไปด้วย(กับ) (!n),y
 mit dem Hund Gassi gehen,,พาหมาไปเดินเล่น,y
+mitbringen,V.,เอาไปด้วย(กับ) (!n),y
 miteinander,Adv.,ด้วยกัน (en: together),y
 mitkommen,V.,มาด้วย,y
 mittags,Adv.,ตอนเที่ยง,y
 mitternachts,Adv.,ช่วงเที่ยงคืน,y
+morgen,Adv.,พรุ่งนี้,y
+morgens,Adv.,ตอนเช้า,y
+muskulös,Adj.,เป็นกล้าม มีกล้าม,y
+männlich,Adj.,เพศชาย,y
 möbliert,Adj.,พร้อมเฟอร์นิเจอร์,y
 möchten,V.,เอา ขอ อยากได้,y
 mögen,V.,ชอบ (มัก),y
 möglich,Adj.,เป็นไปได้,y
-morgen,Adv.,พรุ่งนี้,y
-morgens,Adv.,ตอนเช้า,y
 müde,Adj.,ง่วง เพลีย,y
-muskulös,Adj.,เป็นกล้าม มีกล้าม,y
 müssen,V.,ต้อง,y
 nachmittags,Adv.,ตอนบ่าย,y
-nächst,Adj.,ถัดไป,y
 nachts,Adv.,ตอนกลางคืน,y
 nah,Adj.,ใกล้,y
-nämlich,Adv.,คือว่า แบบว่า เพราะว่า,y
 nass,Adj.,เปียก,y
 natürlich,Adv.,แน่นอน (n),y
 neben,Präp.,ข้าง ๆ ถัดไป ถัดจาก,y
@@ -362,15 +358,15 @@ niemand,pron.,ไม่มีใคร ไม่เลยสักคน,y
 noch,,ยัง อีก,y
 noch mal,Adv.,อีกครั้ง (๒),y
 normalerweise,Adv.,โดยปกติแล้ว,y
-nötig,Adj.,ที่จำเป็น (๒),y
 notwendig,Adj.,จำเป็น (๓),y
+nächst,Adj.,ถัดไป,y
+nämlich,Adv.,คือว่า แบบว่า เพราะว่า,y
+nötig,Adj.,ที่จำเป็น (๒),y
 nützlich,Adj.,"มีประโยชน์ เป็นพระคุณ (en: useful, helpful)",y
 ob,Konj.,ว่า…หรือไม่ (en: whether),y
 oben,Adv.,ข้างบน (!ü),y
 obwohl,Konj.,แม้ว่า (!t),y
 oder,Konj.,หรือ (o),y
-öffentlich,Adj.,สาธารณะ,y
-öffnen,V.,เปิด,y
 oft,Adv.,บ่อย ๆ (!m),y
 ohne,Adv.,ไม่เอา ปราศจาก 無しで,y
 passend,Adj.,ที่เหมาะสม,y
@@ -383,8 +379,8 @@ preiswert,Adj.,สมเหตุสมผล,y
 prima,Adj.,เยี่ยม วิเศษ (p),y
 probieren,V.,ลอง ชิม,y
 problematisch,Adj.,ที่มีปัญหา,y
-pünktlich,Adj.,ตรงเวลา,y
 putzen,V.,ทำความสะอาด (สิ่งของ),y
+pünktlich,Adj.,ตรงเวลา,y
 rauchen,V.,สูบบุหรี่,y
 recht,Adj.,ขวามือ ขวา ถูกต้อง,y
 reden,V.,พูด (r),y
@@ -402,7 +398,6 @@ riesig,Adj.,ใหญ่มาก ใหญ่หลวง มหึมา,y
 roh,Adj.,ดิบ,y
 ruhig,Adj.,เงียบ,y
 rund,Adj.,กลม,y
-sächlich,Adj.,เพศกลาง,y
 sagen,V.,บอก,y
 salzig,Adj.,เค็ม,y
 sammeln,V.,รวบรวม เก็บสะสม,y
@@ -411,17 +406,16 @@ sauber,Adj.,สะอาด,y
 sauer,Adj.,เปรี้ยว,y
 schade,Adj.,น่าเสียดาย,y
 schaden,V.,ทำลาย,y
-schälen,V.,ปอกเปลือก,y
 scharf,Adj.,เผ็ด,y
 schauen,V.,มอง (!a),y
 scheinen,V.,(ดวงอาทิตย์)ส่องแสง ปรากฏ,y
 schick,Adj.,ชิค มีสไตล์,y
 schkimm,Adj.,แย่ ไม่พึงประสงค์,y
 schlafen,V.,นอนหลับ,y
-schläfrig,Adj.,ง่วง อยากนอน,y
 schlank,Adj.,ผอม,y
 schlecht,Adj.,แย่ ห่วย ไม่ได้เรื่อง,y
 schließen,V.,ปิด,y
+schläfrig,"Adj. ",ง่วง อยากนอน,y
 schmecken,V.,มีรสชาติ,y
 schmutzig,Adj.,สกปรก (!d),y
 schneiden,V.,ตัด,y
@@ -430,13 +424,14 @@ schnell,Adj.,เร็ว,y
 schon,Adv.,แล้ว,y
 schreiben,V.,เขียน,y
 schreien,V.,กรี๊ด ตะโกน,y
-schüchtern,Adj.,เขิน ขี้อาย,y
 schwach,Adj.,อ่อนแอ,y
 schwarz,Adj.,ดำ,y
 schwer,Adj.,ยาก หนัก,y
 schwimmen,V.,ว่ายน้ำ,y
 schwul,Adj.,เกย์,y
 schwül,Adj.,ชื้น,y
+schälen,V.,ปอกเปลือก,y
+schüchtern,Adj.,เขิน ขี้อาย,y
 sehen,V.,เห็น,y
 seit,Präp.,ตั้งแต่,y
 selb,Adj.,เดียวกัน เหมือนกัน (en: same),y
@@ -447,8 +442,8 @@ shoppen,V.,ชอปปิง ซื้อของ,y
 sich bedanken,V.,กล่าวคำขอบคุณ,y
 sich beeilen,V.,รีบ เร่ง,y
 sich bewegen,V.,เคลื่อนไหว,
-sicher,Adj.,ปลอดภัย เชื่อถือได้ ไว้วางใจได้,y
 sich unterhalten,V.,สนทนา,y
+sicher,Adj.,ปลอดภัย เชื่อถือได้ ไว้วางใจได้,y
 siebt,Adj.,ที่เจ็ด,y
 simpel,Adj.,ง่าย (ซิมเปิล),y
 sitzen,V.,นั่ง,y
@@ -457,12 +452,11 @@ sollen,V.,ควร,y
 sondern,Konj.,แต่ (s),y
 sonst,Adv.,มิฉะนั้น ไม่งั้น,y
 sparen,V.,เก็บ รักษาไว้ (en: save),y
-spät,Adj.,ช้า (มาทีหลัง),y
-später,Adv.,หลังจากนั้น สายกว่า (s),y
 spazieren,V.,เดินเล่น,y
 spielen,V.,เล่น,y
-Sport treiben,V.,เล่นกีฬา,y
 springen,V.,กระโดด,y
+spät,Adj.,ช้า (มาทีหลัง),y
+später,Adv.,หลังจากนั้น สายกว่า (s),y
 spülen,V.,ล้าง (s),y
 stark,Adj.,รุนแรง แข็งแรง (!k),y
 stecken,V.,เสียบ,y
@@ -472,9 +466,10 @@ stellen,V.,วาง เอาวาง (สิ่งของ),y
 sterben,V.,เสียชีวิต,y
 stolz,Adj.,ภูมิใจ,y
 stoppen,V.,หยุด (s),y
-stören,V.,รบกวน,y
 stundenlang,Adj.,นานหลายชั่วโมง,y
+stören,V.,รบกวน,y
 suchen,V.,หา,y
+sächlich,Adj.,เพศกลาง,y
 südlich,Adj.,ทางทิศใต้,y
 süß,Adj.,หวาน,y
 tanzen,V.,เต้น,y
@@ -483,29 +478,18 @@ tausend,num.,พัน,y
 teilmöbliert,Adj.,พร้อมเฟอร์นิเจอร์บางส่วน,y
 teuer,Adj.,แพง,y
 toll,Adj.,ยอดเยี่ยม (t),y
-töten,V.,ฆ่า ทำลาย,y
 tragen,V.,แบก หาม สวม,y
-träumen,V.,ฝัน,y
 treffen,V.,เจอ พบ,y
 trocken,Adj.,แห้ง,y
 trotz,Präp.,แม้ว่า (+ คำนาม),y
 trotzdem,Adv.,ถึงอย่างนั้น แม้อย่างนั้น (!o),y
+träumen,V.,ฝัน,y
 tun,V.,ทำ จัดการ เอาไป,y
 tut mir Leid,,โทษที,y
-über,Präp.,อยู่เหนือ อยู่บน (!o),y
-überfluten,V.,(น้ำ)ท่วม,y
-überhaupt,Part.,เลย ว่าแต่ สุด,y
-überlegen,V.,คิด พิจารณา,y
-übermorgen,Adv.,มะรืนนี้,y
-übernachten,V.,ค้างคืน,y
-überqueren,V.,เดินข้าม (เหนือ),y
-überraschen,V.,ทำให้ประหลาดใจ (en: surprise),y
-überrascht,Adj.,(ที่)รู้สึกตกใจ,y
-übersetzen,V.,แปล,y
-übrigens,Adv.,ว่าแต่ (!e),y
+töten,V.,ฆ่า ทำลาย,y
 um,präp.,ณ เวลา,y
-umarmen,V.,กอด,y
 um (Position),Präp.,รอบ ๆ (บุพบท),y
+umarmen,V.,กอด,y
 umsteigen,V.,เปลี่ยนรถ ต่อรถ เปลี่ยนเครื่อง,y
 umziehen,V.,ย้ายที่อยู่ ย้ายบ้าน,y
 unbedingt wollen,V.,ต้องการมาก ๆ ต้องการจริง ๆ,y
@@ -529,9 +513,9 @@ vergleichnen,V.,เปรียบเทียบ,y
 verheiraten,V.,แต่งงาน,y
 verheiratet,Adj.,สมรส(แล้ว),y
 verkaufen,V.,ขาย,y
-verlängern,V.,ขยาย เลื่อนออก ทำให้ยายขึ้น,y
 verlassen,V.,ออกจาก (~l),y
 verlieren,V.,ทำหาย,y
+verlängern,V.,ขยาย เลื่อนออก ทำให้ยายขึ้น,y
 verpacken,V.,ห่อ แพ็ค,y
 verpassen,V.,พลาดไป (พลาดโอกาส),y
 verreist,Adj.,ไม่อยู่,y
@@ -541,25 +525,24 @@ verschwunden,Adj.,ที่หายตัวไป ขาดหายไป,y
 verstecken,V.,หลบ ซ่อน,y
 verstehen,V.,เข้าใจ,y
 viel,Adj.,เยอะแยะ มาก,y
-vielleicht,Adv.,บางที อาจจะ,y
-viel los sein,V.,มีอะไรเกิดขึ้นมากมาย,y
 viel Spaß!,,ขอให้สนุก,y
+viel los sein,V.,มีอะไรเกิดขึ้นมากมาย,y
+vielleicht,Adv.,บางที อาจจะ,y
 voll,Adj.,เต็ม,y
 vor,Präp.,ด้านหน้า,y
+vor Kurzem,(วลี),เร็ว ๆ นี้ ช่วงนี้,y
 vor allem,,โดยเฉพาะอย่างยิ่ง (va),y
 vorbei,Adv.,จบแล้ว เป็นอดีตไปแล้ว,y
 vorbereiten,V.,เตรียมตัว,y
 vorhaben,V.,มีแผน,y
-vor Kurzem,(วลี),เร็ว ๆ นี้ ช่วงนี้,y
 vormittags,Adv.,ตอนสาย,y
 vorne,Adv.,ต่อหน้า ด้านหน้า (!g),y
 vorsichtig,Adj.,ซึ่งระมัดระวัง,y
 vorstellen,V.,แนะนำ ทำให้รู้จัก,y
 wach,Adj.,ที่ตื่นอยู่,y
-wachsen,V.,เติบโต,y
 wach werden,V.,ตื่น ลุกขึ้น (ww),y
+wachsen,V.,เติบโต,y
 wahr,Adj.,จริง (๑),y
-während,Konj.,ในขณะที่ ระหว่างที่ (w),y
 wahrscheinlich,Adv./Adj.,เป็นไปได้ คาดว่า ที่น่าจะเป็นไปได้ น่าจะ (!m),y
 wandern,V.,ปีนเขา ไฮกิ้ง,y
 wann,Adv.,เมื่อไหร่,y
@@ -578,48 +561,65 @@ weich,Adj.,นุ่ม,y
 weil,Konj.,เพราะว่า,y
 weinen,V.,ร้องไห้,y
 weit,Adj.,ไกล (w),y
+weit weg,,ไกลออกไป,y
 weiter,Adv.,เพิ่ม ต่อ มาก อีก,y
 weiterschlafen,V.,นอนต่อ หลับต่อ,y
-weit weg,,ไกลออกไป,y
 welch,,อันไหน ใด,y
 wem,,ใคร (Dativ),y
 wenig,pron.,เล็กน้อย ไม่มาก นิดเดียว (w),y
 werfen,V.,ทิ้ง ขว้าง โยน,y
 wert,Adj.,มีค่า (๑),y
 wichtig,Adj.,สำคัญ,y
+wie hoch,,สูงเท่าไหร่ แพงเท่าไหร่,y
+wie viel,,มากเท่าไหร่,y
 wieder,Adv.,อีกครั้ง (๑),y
 wiederholen,V.,ทำซ้ำ,y
 wiedersehen,V.,พบกันอีกครั้ง พบกันใหม่,y
-wie hoch,,สูงเท่าไหร่ แพงเท่าไหร่,y
-wie viel,,มากเท่าไหร่,y
 wirklich,Adj.,จริง ๆ (๒),y
 wissen,V.,รู้,y
 woanders,Adv.,ที่อื่น,y
 womit,Adv.,อย่างไร ด้วยวิธีใด ด้วยอะไร,y
 wunderbar,Adj.,ยอดเยี่ยม วิเศษ (en: wonderful),y
 wunderschön,Adj.,สวยงาม งดงาม (!s),y
+während,Konj.,ในขณะที่ ระหว่างที่ (w),y
 wünschen,V.,ปรารถนา อวยพร,y
 würdig,Adj.,ทรงคุณค่า (en: worthy),y
 zahlen,V.,จ่าย (!be),y
 zeichnen,V.,วาดรูป (!m),y
 zeigen,V.,แสดงให้เห็น,y
 ziemlich,Adj.,ค่อนข้าง,y
-zögern,V.,ลังเล,y
+zu Fuß gehen,V.,เดินไป,y
+zu sein,V.,ปิดอยู่ (ไม่ใช้ไฟฟ้า),y
 zu ~ gratulieren,V.,เฉลิมฉลองเนื่องในโอกาส ~,y
 zubereiten,V.,เตรียม (อาหาร),y
 zuerst,Adv.,…ก่อนอื่น อันดับแรก,y
-zufällig,Adj.,ที่บังเอิญ,y
 zufrieden,Adj.,เป็นที่น่าพอใจ,y
-zu Fuß gehen,V.,เดินไป,y
+zufällig,Adj.,ที่บังเอิญ,y
 zuhören,V.,ฟัง,y
-zumachen,[Trennbare] V.,ปิด (ไม่ใช่ไฟฟ้า),y
 zum Beispiel,,ยกตัวอย่าง เช่น,y
+zumachen,[Trennbare] V.,ปิด (ไม่ใช่ไฟฟ้า),y
 zunehmen,V.,เพิ่มขึ้น ขยายขึ้น มากขึ้น,y
-zurück,Adv.,กลับ ย้อน,y
 zurufen,V.,เรียก,y
+zurück,Adv.,กลับ ย้อน,y
 zusammen,Adv.,ด้วยกัน (จ่ายรวม),y
-zusätzlich,Adj.,ที่เพิ่มเติม,y
-zu sein,V.,ปิดอยู่ (ไม่ใช้ไฟฟ้า),y
 zuständig,Adj.,ที่รับผิดชอบ ที่เกี่ยวข้อง ที่มีหน้าที่/อำนาจ,y
+zusätzlich,Adj.,ที่เพิ่มเติม,y
 zuverlässig,Adj.,เชื่อถือได้ (!s),y
 zwischen,Präp.,ระหว่าง,y
+zögern,V.,ลังเล,y
+ähnlich,Adj.,ใกล้เคียง คล้ายกัน (!g),y
+ändern,V.,เปลี่ยน,y
+ärgerlich,Adj.,หงุดหงิด อารมณ์เสีย โกรธ,y
+öffentlich,Adj.,สาธารณะ,y
+öffnen,V.,เปิด,y
+über,Präp.,อยู่เหนือ อยู่บน (!o),y
+überfluten,V.,(น้ำ)ท่วม,y
+überhaupt,Part.,เลย ว่าแต่ สุด,y
+überlegen,V.,คิด พิจารณา,y
+übermorgen,Adv.,มะรืนนี้,y
+übernachten,V.,ค้างคืน,y
+überqueren,V.,เดินข้าม (เหนือ),y
+überraschen,V.,ทำให้ประหลาดใจ (en: surprise),y
+überrascht,Adj.,(ที่)รู้สึกตกใจ,y
+übersetzen,V.,แปล,y
+übrigens,Adv.,ว่าแต่ (!e),y

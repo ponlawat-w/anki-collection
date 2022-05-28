@@ -1,5 +1,13 @@
 Deutsch,Deutsch (ohne Artikel),Deutsch (Plural),Thailändisch,Thäilandisch (Reverse)
+(das) Bulgarien,Bulgarien,,ประเทศบัลแกเรีย,y
+(das) Frankreich,Frankreich,,ประเทศฝรั่งเศส,y
+(das) Polen,Polen,,ประเทศโปแลนด์,y
+(das) Russland,Russland,,ประเทศรัสเซีย,y
+(die) Schweiz,Schweiz,,ประเทศสวิตเซอร์แลนด์,y
+(die) Türkei,Türkei,,ประเทศตุรกี,y
+(die) USA,USA,,สหรัฐอเมริกา,y
 Brasilien,,,ประเทศบราซิล,y
+Rom,,,กรุงโรม,y
 das Abendessen,,die Abendessen,อาหารเย็น,y
 das Abenteuer,Abenteuer,die Abenteuer,การผจญภัย,y
 das All,All,,จักรวาล,y
@@ -7,7 +15,6 @@ das Alter,Alter,,อายุ,y
 das Angebot,Angebot,die Angebote,การช่วยเหลือ ข้อเสนอ คำแนะนำ (!B),y
 das Arbeitszimmer,,,ห้องทำงาน,y
 das Auge,Auge,die Augen,ตา (ดวงตา),y
-das Äuglein,Äuglein,,ดวงตา (เล็ก ๆ),y
 das Ausland,,,ต่างประเทศ,y
 das Austausch,Austausch,die Austausche,การแลกเปลี่ยน (่เช่น นศ.แลกเปลี่ยน),y
 das Auto,Auto,die Autos,รถยนต์,y
@@ -29,7 +36,6 @@ das Boot,Boot,die Boote,เรือ (!S),y
 das Brot,Brot,die Brote,ขนมปัง,y
 das Brötchen,Brötchen,die Brötchen,ขนมปังก้อน,y
 das Buch,Buch,die Bücher,หนังสือ,y
-(das) Bulgarien,Bulgarien,,ประเทศบัลแกเรีย,y
 das Büro,Büro,die Büros,สำนักงาน,y
 das Café,Café,die Cafés,ร้านกาแฟ,y
 das Chinesisch,Chinesisch,,ภาษาจีน,y
@@ -46,39 +52,38 @@ das Ende,Ende,die Enden,จุดสิ้นสุด การสำเร็�
 das Erdgeschoss,,,ชั้นล่าง (ชั้นหนึ่ง),y
 das Essen,Essen,die Essen,อาหาร,y
 das Esszimmer,,,ห้องรับประทานอาหาร,y
-das Fähnchen,,,ธง (ผืนเล็ก),y
 das Fahrrad,Fahrrad,die Fahrräder,รถจักรยาน,y
 das Fenster,Fenster,,หน้าต่าง,y
 das Feuer,Feuer,die Feuer,ไฟ (!แสง),y
 das Fieber,Fieber,,ไข้,y
-das Fläschchen,Fläschchen,die Fläschchen,ขวดขนาดเล็ก,y
 das Fleisch,Fleisch,,เนื้อ,y
 das Flugzeug,Flugzeug,die Flugzeuge,เครื่องบิน,y
+das Fläschchen,Fläschchen,die Fläschchen,ขวดขนาดเล็ก,y
 das Foto,Foto,die Fotos,รูปถ่าย,y
-(das) Frankreich,Frankreich,,ประเทศฝรั่งเศส,y
 das Französisch,Französisch,,ภาษาฝรั่งเศส,y
 das Frühstück,Frühstück,,อาหารเช้า,y
+das Futter,Futter,,อาหาร ของกิน (F),y
 das Fußballspiel,Fußballspiel,die Fußballspielen,การแข่งขันฟุตบอล,y
 das Fußballteam,Fußballteam,die Fußballteams,ทีมฟุตบอล,y
-das Futter,Futter,,อาหาร ของกิน (F),y
+das Fähnchen,,,ธง (ผืนเล็ก),y
+das Geburtsdatum,Geburtsdatum,die Geburtsdaten,วันเดือนปีที่เกิด,y
 das Gebäck,Gebäck,,บิสกิต,y
 das Gebäude,Gebäude,die Gebäude,อาคาร,y
-das Geburtsdatum,Geburtsdatum,die Geburtsdaten,วันเดือนปีที่เกิด,y
 das Gefühl,Gefühl,die Gefühle,ความรู้สึก,y
 das Gehalt,Gehalt,die Gehälter,เงินเดือน,y
 das Gehirn,Gehirn,die Gehirne,สมอง,y
 das Geld,Geld,die Gelder,เงิน,y
 das Gemüse,Gemüse,die Gemüse,ผัก,y
 das Gepäck,Gepäck,,กระเป๋าเดินทาง สัมภาระ (G),y
-das Gerät,Gerät,die Geräte,อุปกรณ์ เครื่องมือ (!Wz),y
 das Gericht,Gericht,,ศาล,y
-das Geschäft,Geschäft,die Geschäfte,ร้าน (ธุรกิจ),y
+das Gerät,Gerät,die Geräte,อุปกรณ์ เครื่องมือ (!Wz),y
 das Geschenk,Geschenk,die Geschenke,ของขวัญ,y
 das Geschirr,Geschirr,,จานชาม,y
 das Geschlecht,Geschlecht,die Geschlechter,เพศ,y
 das Geschoss,Geschoss,die Geschosse,ชั้น (g),y
 das Geschwister,Geschwister,,พี่น้อง,y
 das Geschwür,,,แผลเปื่อย,y
+das Geschäft,Geschäft,die Geschäfte,ร้าน (ธุรกิจ),y
 das Gesicht,Gesicht,die Gesichter,หน้า ใบหน้า,y
 das Getränk,Getränk,die Getränke,เครื่องดื่ม,y
 das Gewitter,Gewitter,die Gewitter,พายุ (!S),y
@@ -88,14 +93,11 @@ das Gold,Gold,,ทองคำ,y
 das Gramm,Gramm,,กรัม,y
 das Gras,Gras,die Gräser,หญ้า,y
 das Haar,Haar,die Haare,ผม (เส้นผม),y
-das Hähnchen,Hähnchen,die Hähnchen,ไก่ เนื้อไก่,y
 das Halstuch,Halstuch,die Halstücher,ผ้าพันคอ (H),y
 das Handtuch,,,ผ้าเช็ดมือ,y
 das Handwerk,,,งานศลิปหัตถกรรม งานทำมือ,y
 das Handy,Handy,die Handys,โทรศัพท์มือถือ,y
-das Häschen,Häschen,die Häschen,ลูกกระต่าย,y
 das Haus,Haus,die Häuser,บ้าน,y
-das Häuschen,,,กระท่อม บ้านหลังเล็ก ๆ,y
 das Haushaltswarengeschäft,,,ร้านขายเครื่องใช้ในครัว,y
 das Haustier,Haustier,die Haustiere,สัตว์เลี้ยง,y
 das Heft,Heft,die Hefte,หนังสือเรียน,y
@@ -105,6 +107,9 @@ das Hobby,Hobby,die Hobbys,งานอดิเรก,y
 das Hochhaus,Hochhaus,,ตึกสูง อาคารหลายชั้น,y
 das Holz,Holz,die Hölzer,ไม้,y
 das Huhn,Huhn,die Hühner,ไก่ตัวเมีย,y
+das Hähnchen,Hähnchen,die Hähnchen,ไก่ เนื้อไก่,y
+das Häschen,Häschen,die Häschen,ลูกกระต่าย,y
+das Häuschen,,,กระท่อม บ้านหลังเล็ก ๆ,y
 das Interesse,Interesse,die Interessen,ความสนใจ,y
 das Jahr,Jahr,die Jahre,ปี,y
 das Kaninchen,Kaninchen,,กระต่าย,y
@@ -143,19 +148,17 @@ das Metall,Metall,die Metalle,โลหะ,y
 das Mikrofon,Mikrofon,die Mikrofone,ไมโครโฟน,y
 das Mittagessen,,die Mittagessen,อาหารกลางวัน,y
 das Mittel,Mittel,die Mittel,ยา(เม็ด),y
-das Möbel,Möbel,die Möbel,เฟอร์นิเจอร์,y
 das Motorrad,Motorrad,die Motorräder,รถจักรยานยนต์,y
 das Museum,Museum,die Museen,พิพิธภัณฑ์,y
+das Möbel,Möbel,die Möbel,เฟอร์นิเจอร์,y
 das Müsli,Müsli,die Müslis,ซีเรียล (อาหารเช้า),y
 das Obst,Obst,die Obst,ผลไม้ (O),y
 das Ohr,Ohr,die Ohren,หู,y
-das Öl,Öl,,น้ำมัน,y
 das Papier,Papier,die Papiere,กระดาษ,y
 das Parfüm,Parfüm,die Parfüme / die Parfüms,น้ำหอม,y
 das Pausenbrot,,,แซนด์วิช,y
 das Pech,Pech,,ความโชคร้าย,y
 das Pferd,Pferd,die Pferde,ม้า,y
-(das) Polen,Polen,,ประเทศโปแลนด์,y
 das Polnisch,Polnisch,,ภาษาโปแลนด์,y
 das Portugiesisch,Portugiesisch,,ภาษาโปรตุเกส,y
 das Praktikum,Praktikum,die Praktika,การฝึกงาน,y
@@ -168,7 +171,6 @@ das Restaurant,Restaurant,die Restaurants,ร้านอาหาร,y
 das Resultat,Resultat,die Resultate,ผลลัพธ์,y
 das Rind,Rind,die Rinder,วัว เนื้อวัว,y
 das Rindersteak,Rindersteak,die Rindersteaks,สเต็กเนื้อวัว,y
-(das) Russland,Russland,,ประเทศรัสเซีย,y
 das Schach,Schach,,หมากรุก,y
 das Schiff,,die Schiffen,เรือ (!B),y
 das Schild,Schild,die Schilder,ป้าย,y
@@ -188,8 +190,8 @@ das Stadion,Stadion,die Stadien,สเตเดียม,y
 das Stadtviertel,,,เขต ตำบล ย่าน,y
 das Stadtzentrum,,,ใจกลางเมือง,y
 das Steak,Steak,die Steaks,สเต็ก,y
-das Stück,Stück,die Stücke,ชิ้น,y
 das Studio,Studio,die Studios,ห้องสตูดิโอ,y
+das Stück,Stück,die Stücke,ชิ้น,y
 das Taschentuch,,,ผ้าเช็ดหน้า,y
 das Team,Team,die Teams,ทีม,y
 das Telefon,Telefon,die Telefons,โทรศัพท์,y
@@ -218,6 +220,8 @@ das Wörterbuch,Wörterbuch,die Wörterbücher,พจนานุกรม,y
 das Zentrum,Zentrum,die Zentren,ศูนย์กลาง,y
 das Zertifikat,Zertifikat,die Zertifikate,ประกาศนียบัตร,y
 das Zimmer,Zimmer,die Zimmer,ห้อง (!R),y
+das Äuglein,Äuglein,,ดวงตา (เล็ก ๆ),y
+das Öl,Öl,,น้ำมัน,y
 der Abend,Abend,die Abende,ตอนเย็น ค่ำ,y
 der Abfall,Abfall,die Abfälle,ขยะ,y
 der Akku,Akku,die Akkus,แบตเตอรี,y
@@ -236,10 +240,9 @@ der Aufenthalt,Aufenthalt,die Aufenthalte,การอยู่ การพั�
 der Aufzug,Aufzug,,ลิฟต์,y
 der August,August,,สิงหาคม,y
 der Ausflug,Ausflug,die Ausflüge,ทริป การเดินทาง (!R!F),y
-der Außenminister,Außenminister,,รัฐมนตรีต่างประเทศ,y
 der Austauschstudent,,,นักเรียนแลกเปลี่ยน,y
 der Ausweis,Ausweis,die Ausweise,บัตรประจำตัว หลักฐานประจำตัว หนังสือเดินทาง ใบรับรอง,y
-der Bäcker,Bäcker,,คนทำขนมปัง,y
+der Außenminister,Außenminister,,รัฐมนตรีต่างประเทศ,y
 der Bahnhof,Bahnhof,die Bahnhöfe,สถานีรถไฟ,y
 der Balkon,Balkon,die Balkone,ระเบียง,y
 der Ball,Ball,die Bälle,ลูกบอล,y
@@ -266,6 +269,7 @@ der Brotladen,,,ร้านขายขนมปัง,y
 der Bruder,Bruder,die Brüder,พี่ชาย น้องชาย,y
 der Buchstabe,Buchstabe,die Buchstaben,ตัวอักษร (!S),y
 der Bus,Bus,die Busse,รถบัส รถประจำทาง,y
+der Bäcker,Bäcker,,คนทำขนมปัง,y
 der Cappuccino,Cappuccino,die Cappuccinos,คาปูชิโน,y
 der Champagner,Champagner,die Champagner,แชมเปญ,y
 der Chef,Chef,die Chefs,เจ้านาย,y
@@ -275,10 +279,7 @@ der Cousin,Cousin,die Cousins,ลูกพี่ลูกน้อง,y
 der Damenschuh,,,รองเท้าผู้หญิง,y
 der Daumen,Daumen,die Daumen,นิ้วโป้ง,y
 der Dezember,Dezember,,ธันวาคม,y
-der/die Fremde,Fremde,die Fremden,คนแปลกหน้า,y
-der/die Kranke,Kranke,die Kranken,ผู้ป่วย,y
 der Dienstag,,,วันอังคาร,y
-der/die Verwandte,Verwandte,die Verwandten,ญาติ,y
 der Dolmetscher,Dolmetscher,,ล่าม (อาชีพ),y
 der Dom,Dom,die Dome,โบสถ์ใหญ่ (คาธีดรัล),y
 der Donnerstag,,,วันพฤหัสบดี,y
@@ -312,9 +313,9 @@ der Freitag,,,วันศุกร์,y
 der Freund,Freund,die Freunde,เพื่อน,y
 der Friseur,Friseur,die Friseure,ช่างทำผม ช่างตัดผม,y
 der Frühling,Frühling,die Frühlinge,ฤดูใบไม้ผลิ,y
-der Füller,Füller,die Füller,ปากกาหมึกซึม,y
 der Fuß,Fuß,die Füße,เท้า,y
 der Fußball,Fußball,die Fußbälle,ฟุตบอล,y
+der Füller,Füller,die Füller,ปากกาหมึกซึม,y
 der Garten,Garten,die Gärten,สวน,y
 der Gast,Gast,die Gäste,แขก,y
 der Geburtsort,Geburtsort,die Geburtsorte,สถานที่เกิด,y
@@ -347,7 +348,6 @@ der Kaffee,Kaffee,die Kaffees,กาแฟ,y
 der Kaiser,Kaiser,die Kaiser,จักรพรรดิ,y
 der Kanal,Kanal,die Kanäle,คลอง,y
 der Kartoffelsalat,Kartoffelsalat,die Kartoffelsalate,สลัดมันฝรั่ง,y
-der Käse,Käse,,ชีส,y
 der Kaufmann,Kaufmann,,นักธุรกิจ (!G),y
 der Keller,Keller,die Keller,ห้องใต้ดิน,y
 der Kellner,Kellner,,บริกร,y
@@ -358,29 +358,30 @@ der Knoblauch,Knoblauch,,กระเทียม,y
 der Koch,Koch,,พ่อครัว,y
 der Koffer,Koffer,die Koffer,กระเป๋าเดินทาง (K),y
 der Kollege,Kollege,die Kollegen,เพื่อนร่วมชั้นเรียน เพื่อนร่วมงาน,y
-der König,König,die Könige,พระมหากษัตริย์,y
 der Kopf,Kopf,die Köpfe,ศีรษะ หัว,y
 der Korb,Korb,die Körbe,ตะกร้า,y
-der Körper,Körper,die Körper,ร่างกาย,y
-der Körperteil,Körperteil,die Körperteile,อวัยวะในร่างกาย,y
 der Kreis,Kreis,die Kreise,วงกลม,y
 der Kuchen,Kuchen,die Kuchen,เค้ก,y
 der Kugelschreiber,Kugelschreiber,,ปากกาลูกลื่น (KS),y
-der Kühlschrank,Kühlschrank,die Kühlschränke,ตู้เย็น,y
 der Kuli,Kuli,die Kulis,ปากกา (K),y
 der Kunde,Kunde,die Kunden,ลูกค้า,y
-der Künstler,,,ศิลปิน,y
 der Kurs,Kurs,die Kurse,ชั้นเรียน หลักสูตร คอร์ส,y
 der Kuss,Kuss,die Küsse,การจูบ,y
+der Käse,Käse,,ชีส,y
+der König,König,die Könige,พระมหากษัตริย์,y
+der Körper,Körper,die Körper,ร่างกาย,y
+der Körperteil,Körperteil,die Körperteile,อวัยวะในร่างกาย,y
+der Kühlschrank,Kühlschrank,die Kühlschränke,ตู้เย็น,y
+der Künstler,,,ศิลปิน,y
 der Lachs,Lachs,die Lachse,ปลาแซลมอน,y
 der Laden,Laden,die Läden,ร้าน,y
 der Laptop,Laptop,die Laptops,คอมพิวเตอร์โนตบุก,y
-der Lärm,,,เสียง (อะไรบางอย่าง),y
 der Lastwagen,Lastwagen,die Lastwagen,รถบรรทุก,y
 der Lautsprecher,Lautsprecher,die Lautsprecher,ลำโพง,y
 der Liebling,Liebling,die Lieblinge,ของโปรด ของชอบ,y
-der Löffel,Löffel,die Löffel,ช้อน,y
 der Lolly,Lolly,,ลูกกวาด,y
+der Lärm,,,เสียง (อะไรบางอย่าง),y
+der Löffel,Löffel,die Löffel,ช้อน,y
 der Löwe,Löwe,die Löwen,สิงโต,y
 der Magen,Magen,die Magen,กระเพาะ,y
 der Mai,Mai,,พฤษภาคม,y
@@ -388,7 +389,6 @@ der Mann,Mann,die Männer,ผู้ชาย,y
 der Mantel,Mantel,die Mäntel,เสื้อโค้ต,y
 der Markt,Markt,die Märkte,ตลาด,y
 der Marktplatz,Marktplatz,die Marktplätze,จตุรัสใจกลางเมือง,y
-der März,März,,มีนาคม,y
 der Meerblick,,,วิวทะเล,y
 der Mensch,Mensch,die Menschen,คน มนุษย์,y
 der Mieter,Mieter,die Mieter,ผู้เช่า,y
@@ -401,18 +401,19 @@ der Mond,Mond,die Monde,ดวงจันทร์,y
 der Montag,,,วันจันทร์,y
 der Morgen,Morgen,die Morgen,ตอนเช้า,y
 der Motor,Motor,die Motoren,เครื่องยนต์,y
-der Mülleimer,Mülleimer,die Mülleimer,ถังขยะ,y
 der Mund,Mund,die Münder,ปาก,y
 der Mut,Mut,,ความกล้าหาญ ความพยายาม,y
+der März,März,,มีนาคม,y
+der Mülleimer,Mülleimer,die Mülleimer,ถังขยะ,y
 der Nachbarn,Nachbarn,die Nachbarn,เพื่อนบ้าน,y
 der Nachmittag,Nachmittag,die Nachmittage,ตอนบ่าย,y
 der Nachname,Nachname,die Nachnamen,นามสกุล (N…),y
 der Nachtisch,Nachtisch,die Nachtische,ของหวาน อาหารหลังมื้อหลัก,y
-der Nähe,Nähe,,ละแวกใกล้ ๆ บริเวณใกล้ ๆ (คำนาม),y
 der Name,Name,die Namen,ชื่อ,y
 der Neffe,Neffe,die Neffen,หลานชาย (ของลุงป้าน้าอา),y
 der Norden,Norden,,ทิศเหนือ,y
 der November,November,,พฤศจิกายน,y
+der Nähe,Nähe,,ละแวกใกล้ ๆ บริเวณใกล้ ๆ (คำนาม),y
 der Ofen,Ofen,die Öfen,เตาอบ,y
 der Oktober,Oktober,,ตุลาคม,y
 der Onkel,Onkel,die Onkel,ลุง,y
@@ -431,10 +432,10 @@ der Pilz,Pilz,die Pilze,เห็ด,y
 der Platz,Platz,die Plätze,ลาน ที่ว่าง ที่,y
 der Polizist,Polizist,die Polizisten,ตำรวจ (เจ้าพนักงาน),y
 der Porsche,Porsche,,รถปอร์เช,y
-der Präsident,Präsident,die Präsidenten,ประธานาธิบดี,y
 der Preis,Preis,die Preise,ราคา (คำนาม),y
 der Prinz,Prinz,die Prinzen,เจ้าชาย,y
 der Programmierer,,,โปรแกรมเมอร์,y
+der Präsident,Präsident,die Präsidenten,ประธานาธิบดี,y
 der Pullover,Pullover,die Pullover,เสื้อกันหนาว,y
 der Punkt,Punkt,die Punkte,จุด ช่วงเวลา,y
 der Putsch,Putsch,,การทำรัฐประหาร,y
@@ -452,12 +453,11 @@ der Ring,Ring,die Ringe,แหวน,y
 der Ringfinger,,,นิ้วนาง,y
 der Rock,Rock,die Röcke,กระโปรง,y
 der Roman,Roman,die Romane,นิยาย,y
-der Rücken,Rücken,die Rücken,หลัง (อวัยวะ) แผ่นหลัง,y
 der Rucksack,Rucksack,die Rucksäcke,กระเป๋าสะพาย แบ็กแพ็ก (!G),y
+der Rücken,Rücken,die Rücken,หลัง (อวัยวะ) แผ่นหลัง,y
 der Saft,Saft,die Säfte,น้ำผลไม้,y
 der Salat,Salat,die Salate,สลัด,y
 der Samstag,,,วันเสาร์,y
-der Sänger,,,นักร้อง,y
 der Satz,Satz,die Sätze,ประโยค,y
 der Schal,Schal,die Schale,ผ้าพันคอ (!t),y
 der Schein,Schein,die Scheine,เอกสาร ใบรับรอง ธนบัตร,y
@@ -474,8 +474,8 @@ der Schreibtisch,Schreibtisch,die Schreibtische,โต๊ะเขียนห�
 der Schreibtisch,Schreibtisch,die Schreibtische,โต๊ะเขียนหนังสือ,y
 der Schriftsteller,,,นักเขียนนิยาย,y
 der Schuh,Schuh,die Schuhe,รองเท้า,y
-der Schüler,,,นักเรียน (โรงเรียน),y
 der Schwager,Schwager,die Schwager,พี่เขย น้องเขย,y
+der Schüler,,,นักเรียน (โรงเรียน),y
 der See,See,die Seen,ทะเลสาบ,y
 der Sekretär,Sekretär,,เลขานุการ,y
 der Sekt,Sekt,die Sekte,ไวน์ผสมโซดา,y
@@ -505,6 +505,7 @@ der Stress,Stress,,ความเครียด,y
 der Strom,Strom,,ไฟฟ้า พลังงาน,y
 der Stuhl,Stuhl,die Stühle,เก้าอี้,y
 der Sturm,Sturm,die Stürme,พายุ (!G),y
+der Sänger,,,นักร้อง,y
 der Süden,Süden,,ทิศใต้,y
 der Tag,Tag,die Tage,วัน,y
 der Tee,Tee,die Tees,ชา,y
@@ -558,6 +559,9 @@ der Zucker,Zucker,,น้ำตาล,y
 der Zufall,Zufall,die Zufälle,ความบังเอิญ,y
 der Zug,Zug,die Züge,รถไฟ (!B),y
 der Zwilling,Zwilling,die Zwillinge,ฝาแฝด,y
+der/die Fremde,Fremde,die Fremden,คนแปลกหน้า,y
+der/die Kranke,Kranke,die Kranken,ผู้ป่วย,y
+der/die Verwandte,Verwandte,die Verwandten,ญาติ,y
 die Abteilung,,,แผนก,y
 die Adresse,Adresse,die Adressen,ที่อยู่,y
 die Ahnung,Ahnung,die Ahnungen,ความคิด ความรู้เหตุการณ์,y
@@ -576,7 +580,6 @@ die Aufgabe,Aufgabe,die Aufgaben,งาน หน้าที่ ภาระ,y
 die Augenfarbe,Augenfarbe,,สีของดวงตา,y
 die Ausbildung,,die Ausbildungen,การฝึกงาน (!P),y
 die Ausstellung,,,มหกรรม งานแสดง แฟร์,y
-die Bäckerei,Bäckerei,die Bäckereien,เบเกอรี่,y
 die Badewanne,Badewanne,die Badewannen,อ่างอาบน้ำ,y
 die Bahn,Bahn,die Bahnen,รถไฟ (!Z),y
 die Banane,Banane,die Bananen,กล้วย,y
@@ -597,25 +600,26 @@ die Bluse,Bluse,die Blusen,เสื้อเชิตผู้หญิง,y
 die Botschaft,Botschaft,die Botschaften,สถานทูต,y
 die Bratkartoffeln,Bratkartoffeln,,มันฝรั่งผัด,y
 die Brille,Brille,die Brillen,แว่นตา,y
-die Brücke,Brücke,die Brücken,สะพาน,y
 die Brust,Brust,die Brüste,หน้าอก,y
+die Brücke,Brücke,die Brücken,สะพาน,y
 die Buchhandlung,Buchhandlung,die Buchhandlungen,ร้านหนังสือ,y
+die Bäckerei,Bäckerei,die Bäckereien,เบเกอรี่,y
 die Chemie,Chemie,,เคมี,y
 die Cola,Cola,die Colas,โคล่า,y
 die Dame,Dame,die Damen,สุภาพสตรี คุณผู้หญิง,y
 die Decke,Decke,die Decken,ผ้าห่ม เพดาน,y
-die Diät,Diät,die Diäten,การไดเอ็ต,y
 die Digitaluhr,Digitaluhr,die Digitaluhren,นาฬิกาดิจิตัล,y
 die Disko,Disko,die Diskos,ดิสโก,y
+die Diät,Diät,die Diäten,การไดเอ็ต,y
 die Dose,Dose,die Dosen,ที่บรรจุ (D),y
 die Dusche,Dusche,die Duschen,ฝักบัว,y
+die E-Mail,E-Mail,die E-Mails,อีเมล,y
 die Ecke,Ecke,die Ecken,หัวมุม,y
 die Ehe,Ehe,die Ehen,การแต่งงาน,y
 die Ehefrau,,,ภรรยา,y
 die Eierdiät,Eierdiät,,การไดเอ็ตโอยทานแต่ไข่,y
 die Einladung,Einladung,die Einladungen,คำเชิญ คำเชื้อเชิญ,y
 die Eltern,Eltern,,พ่อ แม่,y
-die E-Mail,E-Mail,die E-Mails,อีเมล,y
 die Energie,Energie,die Energien,พลังงาน,y
 die Enkelin,Enkelin,die Enkelin,หลานสาวของปู่ย่าตายาย,y
 die Enkelkinder,Enkelkinder,,หลาน ๆ ของปู่ย่าตายาย,y
@@ -645,12 +649,12 @@ die Freizeit,Freizeit,die Freizeiten,เวลาว่าง,y
 die Frucht,Frucht,die Früchte,ผล (F),y
 die Gabel,Gabel,die Gabeln,ส้อม,y
 die Garage,Garage,die Garagen,โรงรถ,y
-die Gebühr,Gebühr,die Gebühren,ค่าธรรมเนียม ค่าบริการ,y
 die Geburt,Geburt,die Geburts,การเกิด,y
+die Gebühr,Gebühr,die Gebühren,ค่าธรรมเนียม ค่าบริการ,y
 die Geige,Geige,die Geigen,ไวโอลิน,y
 die Gemeinschaft,Gemeinschaft,die Gemeinschaften,ชุมชน สังคม,y
-die Geschäftsleute,Geschäftsleute,,นักธุรกิจ (gl),y
 die Geschichte,Geschichte,die Geschichten,เรื่องราว เนื้อเรื่อง ประวัติ,y
+die Geschäftsleute,Geschäftsleute,,นักธุรกิจ (gl),y
 die Gesundheit,Gesundheit,die Gesundheiten,สุขภาพ,y
 die Getränkekarte,Getränkekarte,die Getränkekarten,เมนูเครื่องดื่ม,y
 die Gitarre,Gitarre,die Gitarren,กีตาร์,y
@@ -711,16 +715,16 @@ die Konditorei,Konditorei,die Konditoreien,ร้านขนมเค้ก,y
 die Konzentration,,,การจดจ่อ,y
 die Kopfhörer,Kopfhörer,,หูฟัง,y
 die Kopfschmerzen,Kopfschmerzen,,อาการปวดหัว,y
-die Körpergröße,Körpergröße,die Körpergrößen,ส่วนสูง,y
 die Krawatte,Krawatte,die Krawatten,เนคไท,y
 die Kreditkarte,,,บัตรเครดิต,y
 die Kreuzung,,,ทางตัด สี่แยก,y
-die Küche,Küche,die Küchen,ห้องครัว,y
 die Kugel,Kugel,die Kugeln,ลูกบอล ทรงกลม,y
 die Kuh,Kuh,die Kühe,วัว,y
 die Kultur,Kultur,die Kulturen,วัฒนธรรม,y
 die Kundin,Kundin,die Kundinnen,ลูกค้า (ญ),y
 die Kunst,Kunst,die Künste,ศิลปะ,y
+die Körpergröße,Körpergröße,die Körpergrößen,ส่วนสูง,y
+die Küche,Küche,die Küchen,ห้องครัว,y
 die Lampe,Lampe,die Lampen,โคมไฟ,y
 die Landstraße,,,ถนนชนบท,y
 die Last,Last,die Lasten,น้ำหนัก สัมภาระ,y
@@ -729,10 +733,10 @@ die Leitzahl,Leitzahl,,รหัส,y
 die Leute,Leute,,ผู้คน,y
 die Lieferung,,die Lieferungen,การส่งพัสดุ การขนส่งสินค้า,y
 die Lippe,Lippe,die Lippen,ริมฝีปาก,y
-die Lösung,Lösung,die Lösungen,คำตอบ (L),y
-die Lücke,Lücke,die Lücken,ช่องว่าง หลุม,y
 die Luft,Luft,,อากาศ,y
 die Lust,Lust,,ความอยาก ความปรารถนา (สนใจทำอะไรสักอย่าง),y
+die Lösung,Lösung,die Lösungen,คำตอบ (L),y
+die Lücke,Lücke,die Lücken,ช่องว่าง หลุม,y
 die Mahlzeit,Mahlzeit,die Mahlzeiten,มื้ออาหาร (!S),y
 die Mailbox,Mailbox,die Mailboxen,กล่องจดหมาย,y
 die Mango,Mango,die Mangos,มะม่วง,y
@@ -750,9 +754,9 @@ die Mittagspause,Mittagspause,die Mittagspausen,พักกลางวัน,y
 die Mitte,Mitte,die Mitten,ตรงกลาง,y
 die Mitteilung,,,ข้อความ,y
 die Mitternacht,Mitternacht,die Mitternächte,ช่วงเที่ยงคืน,y
-die Möglichkeit,Möglichkeit,die Möglichkeiten,ทางเลือก โอกาส,y
 die Musik,Musik,die Musik,ดนตรี,y
 die Mutter,Mutter,die Mütter,แม่,y
+die Möglichkeit,Möglichkeit,die Möglichkeiten,ทางเลือก โอกาส,y
 die Nacht,Nacht,die Nächte,ตอนกลางคืน,y
 die Nase,Nase,die Nasen,จมูก,y
 die Natur,Natur,die Naturen,ธรรมชาติ,y
@@ -793,14 +797,12 @@ die Rezeption,,,แผนกต้อนรับ,y
 die Rolltreppe,,,บันไดเลื่อน,y
 die Rosine,Rosine,die Rosinen,ลูกเกด,y
 die Routine,Routine,die Routinen,กิจวัตร,y
+die Ruhe,,,ความสงบเสงี่ยม,y
 die Rückkehr,Rückkehr,,การกลับ การย้อนกลับ,y
 die Rückseite,Rückseite,die Rückseiten,ด้านหลัง (ตำแหน่ง),y
-die Ruhe,,,ความสงบเสงี่ยม,y
 die Sache,Sache,die Sachen,ของ สิ่งของ,y
-die Säge,Säge,die Sägen,เลื่อย,y
 die Sahne,Sahne,die Sahnen,ครีม,y
 die Saison,Saison,die Saisons,ช่วงเวลา ฤดู,y
-die Säure,Säure,die Säuren,กรด ความเปรี้ยว,y
 die Schlange,Schlange,die Schlangen,งู คิว แถว,y
 die Schokolade,Schokolade,die Schokoladen,ช็อกโกแลต,y
 die Schraube,Schraube,die Schrauben,น็อต สกรู,y
@@ -808,10 +810,9 @@ die Schreibwaren,Schreibwaren,,เครื่องเขียน,y
 die Schrift,Schrift,die Schriften,อักษร ข้อความ ตัวหนังสือ (!B),y
 die Schule,Schule,die Schulen,โรงเรียน,y
 die Schulter,Schulter,die Schultern,หัวไหล่,y
-die Schwägerin,Schwägerin,die Schwägerin,พี่สะใภ้ น้องสะใภ้,y
 die Schweinebraten,Schweinebraten,,หมูย่าง,y
-(die) Schweiz,Schweiz,,ประเทศสวิตเซอร์แลนด์,y
 die Schwester,Schwester,die Schwestern,พี่สาว น้องสาว,y
+die Schwägerin,Schwägerin,die Schwägerin,พี่สะใภ้ น้องสะใภ้,y
 die Sehenswürdigkeit,Sehenswürdigkeit,die Sehenswürdigkeiten,สถานที่ท่องเที่ยว,y
 die Sekretärin,,die Sekretärinnen,เลขา (ญ),y
 die Sekunde,Sekunde,die Sekunden,วินาที<br>,y
@@ -832,11 +833,13 @@ die Stadt,Stadt,die Städte,เมือง (s),y
 die Steckdose,Steckdose,die Steckdosen,ปลั๊กไฟเต้ารับ,y
 die Stelle,Stelle,die Stellen,ตำแหน่งงาน,y
 die Stille,,,ความเงียบ,y
+die Strategie,Strategie,die Strategien,กลยุทธ์ ยุทธศาสตร์,y
 die Straße,Straße,die Straßen,ถนน,y
 die Straßenseite,Straßenseite,die Straßenseiten,ฟากถนน,y
-die Strategie,Strategie,die Strategien,กลยุทธ์ ยุทธศาสตร์,y
 die Stunde,Stunde,die Stunden,ชั่วโมง คาบ,y
 die Suppe,Suppe,die Suppen,ซุป,y
+die Säge,Säge,die Sägen,เลื่อย,y
+die Säure,Säure,die Säuren,กรด ความเปรี้ยว,y
 die Süßigkeit,,,ขนม ของหวาน ขนมหวาน,y
 die Tablette,Tablette,die Tabletten,เม็ดยา แคปซูล (T),y
 die Tante,Tante,die Tanten,ป้า,y
@@ -856,17 +859,11 @@ die Torte,Torte,die Torten,เค้ก (แบบหลายชั้น),y
 die Traube,Traube,die Trauben,องุ่น,y
 die Treppe,Treppe,die Treppen,บันได,y
 die Tür,Tür,die Türen,ประตู,y
-(die) Türkei,Türkei,,ประเทศตุรกี,y
 die Tüte,Tüte,die Tüten,ถุง,y
-die Übernachtung,Übernachtung,,การนอนค้างคืน,y
-die Überraschung,,,การเซอร์ไพรส์,y
-die Überwachung,,,การสำรวจ การเฝ้าระวัง การจับตาดู การควบคุม,y
-die Überwachungskamera,,,กล้องวงจรปิด,y
 die Uhrzeit,Uhrzeit,die Uhrzeiten,เวลา (時刻),y
 die Umwelt,Umwelt,die Umwelten,สภาพแวดล้อม สิ่งแวดล้อม,y
 die Universität,Universität,die Universitäten,มหาวิทยาลัย,y
 die Untersuchung,Untersuchung,die Untersuchungen,การสอบ,
-(die) USA,USA,,สหรัฐอเมริกา,y
 die Vase,Vase,die Vasen,แจกัน,y
 die Veranstaltung,Veranstaltung,die Veranstaltungen,งาน อีเวนต์,y
 die Verbindung,,,การเชื่อมต่อ,y
@@ -878,9 +875,7 @@ die Wachtel,Wachtel,die Wachteln,นกกระทา,y
 die Wahrheit,,,ความจริง,y
 die Wand,Wand,die Wände,ผนัง,y
 die Ware,Ware,die Waren,สินค้า ผลิตภัณฑ์,y
-die Wärme,Wärme,,ความอบอุ่น,y
 die Warmmiete,,,ค่าเช่ารวม,y
-die Wäsche,Wäsche,die Wäschen,การล้าง การซักผ้า,y
 die Waschmaschine,Waschmaschine,die Waschmaschinen,เครื่องซักผ้า,y
 die Weihnacht,Weihnacht,die Weihnachten,คริสต์มาส,y
 die Welle,Welle,die Wellen,คลื่น,y
@@ -892,6 +887,8 @@ die Wohngemeinschaft,,,อพาร์ตเมนต์แบบแชร์,y
 die Wohnung,Wohnung,die Wohnungen,บ้าน อพาร์ตเมนต์,y
 die Wolke,Wolke,die Wolken,ก้อนเมฆ,y
 die Wurst,Wurst,die Würste,ไส้กรอก,y
+die Wärme,Wärme,,ความอบอุ่น,y
+die Wäsche,Wäsche,die Wäschen,การล้าง การซักผ้า,y
 die Zahl,Zahl,die Zahlen,ตัวเลข รหัส,y
 die Zahnschmerzen,,,ปวดฟัน,y
 die Zeit,Zeit,die Zeiten,เวลา,y
@@ -899,5 +896,8 @@ die Zeitschrift,Zeitschrift,die Zeitschriften,นิตยสาร,y
 die Zeitung,Zeitung,die Zeitungen,หนังสือพิมพ์,y
 die Zigarette,Zigarette,die Zigaretten,บุหรี่ (!R),y
 die Zitrone,Zitrone,die Zitronen,เลมอน,y
+die Übernachtung,Übernachtung,,การนอนค้างคืน,y
+die Überraschung,,,การเซอร์ไพรส์,y
+die Überwachung,,,การสำรวจ การเฝ้าระวัง การจับตาดู การควบคุม,y
+die Überwachungskamera,,,กล้องวงจรปิด,y
 festkochende Kartoffeln,,,มันฝรั่งสำหรับทำสลัดมันฝรั่ง,y
-Rom,,,กรุงโรม,y
