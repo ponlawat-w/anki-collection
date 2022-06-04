@@ -251,6 +251,7 @@ der Bauch,Bauch,die Bäuche,ท้อง (อวัยวะ),y
 der Bauer,Bauer,die Bauer,ชาวนา,y
 der Bauernhof,Bauernhof,die Bauernhöfe,ฟาร์ม ชานเมือง ต่างจังหวัด บ้านนอก,y
 der Baum,Baum,die Bäume,ต้นไม้,y
+der Bereich,Bereich,die Bereiche,บริเวณ,y
 der Berg,Berg,die Berge,ดอย ภูเขา,y
 der Bericht,Bericht,die Berichte,รายงาน เอกสารรายงาน,y
 der Beruf,Beruf,die Berufe,อาชีพ,y
@@ -271,6 +272,7 @@ der Bruder,Bruder,die Brüder,พี่ชาย น้องชาย,y
 der Buchstabe,Buchstabe,die Buchstaben,ตัวอักษร (!S),y
 der Bus,Bus,die Busse,รถบัส รถประจำทาง,y
 der Bäcker,Bäcker,,คนทำขนมปัง,y
+der Bürger,Bürger,die Bürger,พลเมือง,y
 der Cappuccino,Cappuccino,die Cappuccinos,คาปูชิโน,y
 der Champagner,Champagner,die Champagner,แชมเปญ,y
 der Chef,Chef,die Chefs,เจ้านาย,y
@@ -324,6 +326,7 @@ der Geburtstag,Geburtstag,die Geburtstage,วันเกิด,y
 der Gegner,Gegner,die Gegner,คู่แข่ง,y
 der Geldschein,Geldschein,,ธนบัตร,y
 der Großvater,Großvater,die Großväter,ปู่ ตา (ß),y
+der Grund,Grund,die Gründe,เหตุผล,y
 der Gruß,Gruß,die Grüße,การทักทาย คำทักทาย,y
 der Hafen,Hafen,die Häfen,ท่าเรือ,y
 der Hahn,Hahn,die Hähne,ไก่ตัวผู้,y
@@ -674,6 +677,7 @@ die Hausaufgabe,Hausaufgabe,die Hausaufgaben,การบ้าน,y
 die Haushaltswaren,Haushaltswaren,,เครื่องใช้ในครัว,y
 die Hausnummer,Hausnummer,die Hausnummern,เลขที่บ้าน,y
 die Haustür,,,ประตูหน้าบ้าน ประตูบ้าน,y
+die Heimat,Heimat,die Heimaten,บ้านเกิด,y
 die Heizung,Heizung,die Heizungen,ฮีตเตอร์,y
 die Herren,Herren,,สุภาพบุรุษ,y
 die Herrenuhr,Herrenuhr,,นาฬิกาผู้ชาย,y
@@ -776,6 +780,7 @@ die Organisation,Organisation,die Organisationen,องค์กร,y
 die Packung,Packung,die Packungen,แพ็ก,y
 die Party,Party,die Partys,งานเลี้ยง,y
 die Pause,Pause,die Pausen,การพักเบรก,y
+die Person,Person,die Personen,บุคคล,y
 die Pfanne,Pfanne,die Pfannen,กระทะ,y
 die Pflanze,Pflanze,die Pflanzen,พืช,y
 die Physik,Physik,,ฟิสิกส์,y
@@ -897,6 +902,7 @@ die Zahnschmerzen,,,ปวดฟัน,y
 die Zeit,Zeit,die Zeiten,เวลา,y
 die Zeitschrift,Zeitschrift,die Zeitschriften,นิตยสาร,y
 die Zeitung,Zeitung,die Zeitungen,หนังสือพิมพ์,y
+die Zentrale,Zentrale,die Zentralen,สำนักงานใหญ่,y
 die Zigarette,Zigarette,die Zigaretten,บุหรี่ (!R),y
 die Zitrone,Zitrone,die Zitronen,เลมอน,y
 die Übernachtung,Übernachtung,,การนอนค้างคืน,y

@@ -29,7 +29,7 @@ Ana หน้าแดง,Anas Gesicht wird rot.,
 อย่าทำงานหนักจนเกินไปนะ,Arbeite nicht so viel.,- du
 ระหว่างทางไปสนามบิน Julia ตื่นเต้น,Auf dem Weg zum Flughafen ist Julia nervös.,
 ระหว่างทางไปกินอาหารเช้า ฉันเห็นเวลาจากนาฬิกา<u>เรือนหนึ่ง</u>ในโถงทางเดิน มันเป็นเวลา 10 โมง,Auf dem Weg zum Frühstück sehe ich die Uhrzeit auf einer Uhr im Flur. Es ist zehn Uhr.,
-แสงมาจากทางตะวันออก,Aus dem Osten kommt das Licht.,
+แสงมาจากทางตะวันออก,Aus dem Osten kommt das Licht.,"เริ่มประโยคที่ ""จากทางตะวันออก"""
 ระหว่างทำงานฉันไม่สามารถโทรศัพท์ได้,Bei der Arbeit kann ich nicht telefonieren.,
 กรุณาใช้ทางเข้าด้านข้าง,Benutzen Sie bitte den Nebeneingang.,- Sie<br>- bitte
 เบอร์ลินเป็นเมืองหลวง ที่นั่นจึงมีสิ่งอำนวยความสะดวกมากมาย มีอะไรทำอยู่ตลอด,Berlin ist die Hauptstadt. Da gibt es viele Angebote. Es ist immer viel los.,
@@ -69,7 +69,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 นี่คือคุณผู้หญิงของบ้าน,Das ist die Dame des Hauses.,
 นี่คือชั่วโมงสุดท้ายของวัน,Das ist die letzte Stunde des Tages.,
 นี่คือปราสาท ปราสาทชื่อว่า Neuschwanstein มันสวยมากและมีชื่อเสียงมาก,Das ist ein Schloss. Das Schloss heißt Neuschwanstein. Es ist sehr schön und sehr bekannt.,
-นั่นเป็นเพื่อนอีกคนของ(v)ฉัน,Das ist ein weiterer Freund von mir.,
+นั่นเป็นเพื่อนอีกคนหนึ่งของ(v)ฉัน,Das ist ein weiterer Freund von mir.,
 นี่เป็นช่วงเวลาที่บังเอิญ,Das ist ein zufälliger Moment.,
 นี่คือห้องน้ำสาธารณะ(แห่งหนึ่ง),Das ist eine öffentliche Toilette.,
 นี่ไม่ใช่หมา นี่คือแมว,"Das ist kein Hund, das ist eine Katze.",
@@ -371,7 +371,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันถอดเสื้อแล้วก็นอนลงบนเตียง ฉันปิดไฟแล้วก็หลับ,Ich ziehe mich aus und liege mich ins Bett. Ich mache das Licht aus und schlafe.,
 ฉันเปิดกล่องจดหมายของฉันและตอบอีเมล(พหู)ของฉัน,Ich öffne meine Mailbox und beantworte meine E-Mails.,
 ฉันกำลังคิดเกี่ยวกับของขวัญที่จะเอาให้ Eva,Ich überlege mir ein Geschenk für Eva.,
-พวกเธอทั้งสองอยู่ใกล้กันมาก,Ihr beide steht euch sehr nahe.,
+พวกเธอทั้งสองยืนอยู่ใกล้กันมาก,Ihr beide steht euch sehr nahe.,
 พวกเธอควรจะเก็บกวาดห้องของตัวเองด้วยบ้างนะ,Ihr sollt auch eure Zimmer aufräumen.,
 พวกเธอเข้าใจฉันดีเสมอ,Ihr versteht mich immer gut.,
 อาการปวดของคุณ<sub>(Sie)</sub>อาจรุนแรงขึ้นได้,Ihre Schmerzen können gefährlich sein.,
@@ -381,8 +381,8 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ในปาก เธอ(๓)มีลูกกวาดอยู่แท่งหนึ่ง,Im Mund hat sie einen Lolly.,- ขึ้นประโยคด้วยบุพบท
 ในกระเป๋าเป้ ฉันมีสายชาร์จอันหนึ่งสำหรับโทรศัพท์ของฉัน,Im Rucksack habe ich ein Ladegerät für mein Handy.,
 ในฤดูร้อนเธอ(๓)ชอบกินไอศกรีม,Im Sommer isst sie gern Eis.,
+ในบ้านทั้งหลังมีหน้าต่างสามบาน,Im gesamten Haus gibt es drei Fenster.,
 ในเมืองใหญ่<sub>(พหู)</sub>มีรถราเยอะแยะวิ่งไปมา ควันทำลายสุขภาพ,In Großstädten fahren viele Autos. Der Staub schadet der Gesundheit.,
-ในบ้านทั้งหลังมีหน้าต่างสามบาน,In dem gesamten Haus gibt es drei Fenster.,
 ในช่วง 3 ปีที่ผ่านมาฉันทำงานหนัก,In den letzten drei Jahren habe ich viel gearbeitet.,- perfekt
 ในร้านเบเกอรีฉันสามารถซื้อ(รับ)ขนมปังสด ๆ ตอนเช้าเจ็ดโมง,In der Bäckerei kann ich schon morgens um sieben Uhr frische Brötchen bekommen.,- ขนมปัง: die Brötchen
 ในช่วง<b><i><u>พักเที่ยง</u></i></b> ฉันได้<b><i><u>ไป</u></i></b>ทานอาหารและได้พูดคุยกับเพื่อนร่วมงาน,In der Mittagspause bin ich zum Essen gegangen und habe mit Kollegen gesprochen.,- Perfekt
