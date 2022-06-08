@@ -10,6 +10,7 @@ valencià,tailandés,Add Reverse
 (f.) l'alfàbrega,กะเพรา,y
 (f.) l'amiga,เพื่อน (ผู้หญิง),y
 (f.) l'andana,ชานชาลา,y
+(f.) l'aranya,แมงมุม,y
 (f.) l'assecadora,เครื่องอบผ้า,y
 (f.) l'autopista,ทางหลวง,y
 (f.) l'autovia,ทางด่วน,y
@@ -157,8 +158,8 @@ anar-s'en,จาก ออกจาก ไป (es: irse),y
 anglesa,เกี่ยวกับอังกฤษ (ญ),y
 aprendre,เรียน (es: aprender),y
 ara mateix,ณ ตอนนี้ บัดเดี๋ยวนี้,y
+arribar,ไปถึง (กริยา),y
 arrissat,(ผม) หยักศก,y
-arrivar,ไปถึง,y
 assecar,ทำให้แห้ง,y
 assolellat,ที่โดนแดด,y
 aturar,จับกุม หยุด,y
@@ -247,6 +248,7 @@ el cabell,เส้นผม (c),y
 el cafè,กาแฟ,y
 el caixer,แคชเชียร์ผู้ชาย,y
 el calaix,ลิ้นชัก,y
+el calcetí,ถุงเท้า (วาเลนเซีย),y
 el camal,ขา (กางเกง),y
 el cambrer,บริกรผู้ชาย,y
 el camió,รถบรรทุก,y
@@ -279,6 +281,7 @@ el chec,ภาษาเช็ก / คนเช็ก (ช),y
 el chiquet,เด็กผู้ชาย (c),y
 el científic,นักวิทยาศาสตร์ผู้ชาย,y
 el cine,โรงภาพยนตร์,y
+el cinturó,เข็มขัด,y
 el cirurgià,ศัลยแพทย์ (ช),y
 el clau,ตะปู,y
 el cobertor,ผ้าปู ผ้าคลุม,y
@@ -325,7 +328,7 @@ el femater,คนเก็บขยะผู้ชาย,y
 el fetge,ตับ,y
 el fill,ลูกชาย,y
 el fillastre,ลูกเลี้ยงผู้ชาย,y
-el foc,ไฟ,y
+el foc,ไฟ (!แสงสว่าง),y
 el foguer,เตา,y
 el fontaner,ช่างประปา (f),y
 el formatge,ชีส,y
@@ -401,6 +404,7 @@ el miler,พัน จำนวนพัน (คำนาม),y
 el militar,ทหาร (m),y
 el miner,คนทำเหมืองผู้ชาย,y
 el mirall,กระจก (m),y
+el mitjó,ถุงเท้า (กาตาลุญญา),y
 el moble,เฟอร์นิเจอร์,y
 el model,นายแบบ นางแบบ,y
 el monitor,ครูผู้ช่วย (ผู้ชาย),y
@@ -440,6 +444,7 @@ el periòdic,หนังสือพิมพ์,y
 el petó,การหอมแก้ม,y
 el peu,เท้า <sub><i>(ไม่ใช่ขา)</i></sub>,y
 el pilot,นักบิน,y
+el pingüí,นกเพนกวิน,y
 el pintor,นักวาดภาพผู้ชาย,y
 el pinzell,พู่กัน,y
 el pis,แฟลต อพาร์ตเมนต์ (es: piso),y
@@ -525,6 +530,7 @@ els Estats Units,สหรัฐอเมริกา,y
 els apunts,การจดบันทึก,y
 els deures,การบ้าน,y
 els palets,ตะเกียบ,y
+els pantalos,กางเกง,y
 empényer,ผลัก,y
 endreçat,ที่สะอาด รักความเป็นระเบียบ,y
 enlloc,(ไม่)ที่ไหนสักที่,y
@@ -871,6 +877,7 @@ puntual,ตรงต่อเวลา,y
 quart,ที่สี่,y
 quasi,เกือบ,y
 qui,ใคร,y
+rai,ไม่สำคัญ ดีแล้ว พอแล้ว ไม่มีปัญหา,y
 raspallar,แปรง ถู (คำกริยา rp),y
 rebre,รับ ได้รับ,y
 regatejar,ต่อรองราคา,y
