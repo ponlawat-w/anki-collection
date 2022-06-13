@@ -31,6 +31,7 @@ valencià,tailandés,Add Reverse
 (f.) l'esquerra,ซ้ายมือ,y
 (f.) l'esquina,หัวมุม (e),y
 (f.) l'estació,สถานีรถไฟ,y
+(f.) l'estona,ช่วงเวลาสั้น ๆ (es: rato),y
 (f.) l'obrera,คนงานผู้หญิง,y
 (f.) l'oficina,สำนักงาน (o),y
 (f.) l'oliva,มะกอก,y
@@ -205,7 +206,8 @@ damunt,เหนือ ด้านบน (d),y
 darrere,ด้านหลัง,y
 davall,ด้านล่าง ด้านใต้ (d),y
 davant,ข้างหน้า,y
-de sopte,จู่ ๆ ก็ (es: de repente),y
+de cop i volta,จู่ ๆ ก็ (๔),y
+de sopte,จู่ ๆ ก็ (๒),y
 de tant en tant,นาน ๆ ที (es: de vez en cuando),y
 deficiós,ยม ไม่อยากทำอะไร,y
 demà,พรุ่งนี้,y
@@ -329,7 +331,8 @@ el fem,ขยะ,y
 el femater,คนเก็บขยะผู้ชาย,y
 el fetge,ตับ,y
 el fill,ลูกชาย,y
-el fillastre,ลูกเลี้ยงผู้ชาย,y
+el fillastre,ลูกติดผู้ชาย,y
+el fillol,ลูกเลี้ยงผู้ชาย,y
 el foc,ไฟ (!แสงสว่าง),y
 el foguer,เตา,y
 el fontaner,ช่างประปา (f),y
@@ -385,6 +388,7 @@ el lleó,สิงโต,y
 el llibre,หนังสือ,y
 el llit,เตียง,y
 el lloguer,การให้เช่า,y
+el llop,หมาป่า,y
 el macarró,มักกะโรนี,y
 el maig,พฤษภาคม,y
 el mapa,แผนที่ (m),y
@@ -425,7 +429,8 @@ el notari,พนักงานทะเบียนผู้ชาย,y
 el novembre,พฤศจิกายน,y
 el núvol,เมฆ,y
 el pa,ขนมปัง,y
-el padrastro,พ่อเลี้ยง,y
+el padrastro,พ่อเลี้ยง (จากแม่แต่งงานใหม่),y
+el padrí,พ่อทูลหัว,y
 el palau,วัง,y
 el pallasso,ตัวตลกผู้ชาย,y
 el paper,กระดาษ,y
@@ -494,6 +499,7 @@ el rus,ภาษารัสเซีย / คนรัสเซีย (ช),y
 el sabó,สบู่,y
 el sacerdot,พระ,y
 el secretari,เลขาผู้ชาย,y
+el segle,ช่วงเวลา ศตวรรษ,y
 el semàfor,สัญญาณจราจร,y
 el senderisme,ไฮกิง,y
 el senyal,สัญญาณ,y
@@ -652,7 +658,8 @@ la fematera,คนเก็บขยะผู้หญิง,y
 la festa,งานเลี้ยง วันหยุด,y
 la fi,จุดสุดท้าย จุดสิ้นสุด จุดจบ,y
 la filla,ลูกสาว,y
-la fillastra,ลูกเลี้ยงผู้หญิง,y
+la fillastra,ลูกติดผู้หญิง,y
+la fillola,ลูกเลี้ยงผู้หญิง,y
 la finestra,หน้าต่าง,y
 la fornera,คนทำขนมปังผู้หญิง,y
 la forqueta,ส้อม,y
@@ -691,7 +698,8 @@ la llitera,เตียงสองชั้น,y
 la lliçó,บทเรียน (ll),y
 la llum,แสง ไฟ ไฟฟ้า,y
 la làmpada,โคมไฟ,y
-la madrastra,แม่เลี้ยง,y
+la madrastra,แม่เลี้ยง (จากพ่อแต่งงานใหม่),y
+la madrina,แม่ทูลหัว,y
 la maduixa,สตรอว์เบอร์รี,y
 la magrana,ทับทิม,y
 la maquineta,กบเหลาดินสอ,y
