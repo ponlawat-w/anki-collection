@@ -21,6 +21,7 @@ valencià,tailandés,Add Reverse
 (f.) l'eina,เครื่องมือ (es: herramienta),y
 (f.) l'eixida,ทางออก,y
 (f.) l'encisam,ผักสลัด,y
+(f.) l'escala,บันได,y
 (f.) l'escola,โรงเรียน (e),y
 (f.) l'escombra,ไม้กวาด (กาตาลุญญา),y
 (f.) l'escriptora,นักเขียนผู้หญิง,y
@@ -139,6 +140,7 @@ a vegades,บางครั้ง,y
 abans,ก่อน,y
 abstindre,งด,y
 acampar,เข้าแคมป์,y
+adequat,เหมาะสม,y
 adj. fin,บาง,y
 adonar-se,นึกขึ้นได้ ระลึกได้ รู้ตัว,y
 agafar,หยิบ จับ ขึ้นยานพาหนะ,y
@@ -480,6 +482,7 @@ el quadern,สมุด (q),y
 el quart,หนึ่งในสี่,y
 el quilòmetre,กิโลเมตร,y
 el rabosot,จิ้งจอก,y
+el raig,รังสี รัศมี,y
 el raspall,แปรง (คำนาม),y
 el ratolí,หนู เมาส์ (คอม),y
 el rave,หัวไชเท้า,y
@@ -510,14 +513,16 @@ el sogre,พ่อตา,y
 el soldat,ทหาร (s),y
 el somni,ความฝัน,y
 el sostre,เพดาน,y
+el soterrani,ห้องใต้ดิน,y
 el suc,น้ำผลไม้,y
 el suec,ภาษาสวีเดน / คนสวีเดน (ช),y
 el suro,จุกคอร์ก,y
 el suèter,สเวตเตอร์,y
-el sòl,พื้น,y
+el sòl,พื้น (!t),y
 el tailandés,ภาษาไทย / คนไทย (ช),y
 el tamboret,เก้าอี้สูงหน้าบาร์,y
 el tema,หัวข้อ,y
+el terra,พื้น (!s),y
 el tramvia,รถราง,y
 el treball,อาชีพ (t),y
 el trellat,เหตุผล,y
@@ -536,6 +541,7 @@ el wàter,ห้องน้ำ (w),y
 el xampinyó,เห็ดแชมปิญอง,y
 el ximo,ขนมปังทางกัสเตโยในงานช่วงมักดาเลนา,y
 el xinés,ภาษาจีน / คนจีน (ช),y
+el xòfer,โชเฟอร์,y
 el yayo,ปู่ ตา (y),y
 els Estats Units,สหรัฐอเมริกา,y
 els apunts,การจดบันทึก,y
@@ -558,10 +564,11 @@ estimar,ชอบ รัก,y
 estirar,ดึง,y
 estret,แคบ คับ,y
 estúpid,โง่,y
-esvelt,ผมเพรียม สลิม,y
+esvelt,ผอมเพรียว สลิม,y
 fer,ทำ,y
 fer l'efecte,ให้ความรู้สึก… (es: parecer),y
 fer pudor,ส่งกลิ่นเหม็น,y
+ficar,ยัด ดัน (es: meter),y
 fora,ด้านนอก,y
 fosc,มืด,y
 francesa,เกี่ยวกับฝรั่งเศส (ญ),y
@@ -790,6 +797,7 @@ la secretaria,เลขาผู้หญิง,y
 la set,ความกระหายน้ำ,y
 la sogra,แม่ยาย,y
 la solitud,ความโสด ความเหงา,y
+la sorra,ทราย (!a),y
 la sort,โชค,y
 la sèrie,ซีรีส์,y
 la síndria,แตงโม (กาตาลุญญา),y
@@ -867,6 +875,7 @@ pacient,อดทน (คุณศัพท์),y
 parar la taula,จัดโต๊ะ,y
 parlar,พูด,y
 passejar,เดินเล่น,y
+patir,ทรมาน,y
 pedregar,(ลูกเห็บ)ตก,y
 pel que fa a,ในส่วนของ… ทางด้านของ…,y
 pentinar-se,หวีผม (คำกริยา),y
