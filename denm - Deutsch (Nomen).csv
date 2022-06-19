@@ -110,6 +110,7 @@ das Huhn,Huhn,die Hühner,ไก่ตัวเมีย,y
 das Hähnchen,Hähnchen,die Hähnchen,ไก่ เนื้อไก่,y
 das Häschen,Häschen,die Häschen,ลูกกระต่าย,y
 das Häuschen,,,กระท่อม บ้านหลังเล็ก ๆ,y
+das Insekt,Insekt,die Insekten,แมลง,y
 das Interesse,Interesse,die Interessen,ความสนใจ,y
 das Jahr,Jahr,die Jahre,ปี,y
 das Kaninchen,Kaninchen,,กระต่าย,y
@@ -170,8 +171,10 @@ das Rauchverbot,Rauchverbot,die Rauchverbote,การห้ามสูบบ�
 das Regal,Regal,die Regale,ชั้นวาง,y
 das Restaurant,Restaurant,die Restaurants,ร้านอาหาร,y
 das Resultat,Resultat,die Resultate,ผลลัพธ์,y
+das Rezept,Rezept,die Rezepte,สูตรอาหาร,y
 das Rind,Rind,die Rinder,วัว เนื้อวัว,y
 das Rindersteak,Rindersteak,die Rindersteaks,สเต็กเนื้อวัว,y
+das Salz,Salz,die Salze,เกลือ,y
 das Schach,Schach,,หมากรุก,y
 das Schiff,,die Schiffen,เรือ (!B),y
 das Schild,Schild,die Schilder,ป้าย,y
@@ -272,6 +275,7 @@ der Bruder,Bruder,die Brüder,พี่ชาย น้องชาย,y
 der Buchstabe,Buchstabe,die Buchstaben,ตัวอักษร (!S),y
 der Bus,Bus,die Busse,รถบัส รถประจำทาง,y
 der Bäcker,Bäcker,,คนทำขนมปัง,y
+der Bär,Bär,die Bären,หมี,y
 der Bürger,Bürger,die Bürger,พลเมือง,y
 der Cappuccino,Cappuccino,die Cappuccinos,คาปูชิโน,y
 der Champagner,Champagner,die Champagner,แชมเปญ,y
@@ -530,6 +534,7 @@ der Unterricht,Unterricht,die Unterrichte,ชั้นเรียน คาบ�
 der Unterschied,Unterschied,die Unterschiede,ความแตกต่าง,y
 der Urlaub,Urlaub,die Urlaube,พักร้อน,y
 der Vater,Vater,die Väter,พ่อ,y
+der Vegetarier,,,คนทานมังสวิรัต,y
 der Ventilator,Ventilator,die Ventilatoren,พัดลม,y
 der Verkäufer,Verkäufer,,พนักงานขาย,y
 der Vermieter,,,ผู้ให้เช่า,y
@@ -646,6 +651,7 @@ die Festplatte,,,ฮาร์ดดิสก์,y
 die Feuerwehr,Feuerwehr,die Feuerwehren,ดับเพลิง,y
 die Firma,Firma,die Firmen,บริษัท,y
 die Flasche,Flasche,die Flaschen,ขวด,y
+die Fliege,Fliege,die Fliegen,แมลงวัน,y
 die Flöte,Flöte,die Flöten,ขลุ่ย,y
 die Frage,Frage,die Fragen,คำถาม ปัญหา,y
 die Frau,Frau,die Frauen,ผู้หญิง,y
@@ -749,6 +755,7 @@ die Mango,Mango,die Mangos,มะม่วง,y
 die Marmelade,Marmelade,die Marmeladen,แยม,y
 die Maschine,Maschine,die Maschinen,เครื่องจักร,y
 die Mathematik,Mathematik,,คณิตศาสตร์,y
+die Maus,Maus,die Mäuse,หนู,y
 die Meditation,Meditation,die Meditationen,การทำสมาธิ,y
 die Meeresfrüchte,Meeresfrüchte,,อาหารทะเล ซีฟูด,y
 die Melone,Melone,die Melonen,เมลอน,y
@@ -769,6 +776,7 @@ die Natur,Natur,die Naturen,ธรรมชาติ,y
 die Nebenkosten,,,ค่าเช่า (ส่วนที่เป็นสาธารณูปโภค),y
 die Nichte,Nichte,die Nichten,หลานสาว (ของลุงป้าน้าอา),y
 die Nordsee,Nordsee,,ทะเลเหนือ,y
+die Nudel,Nudel,die Nudeln,ก๋วยเตี๋ยว พาสต้า,y
 die Nummer,Nummer,die Nummern,เลข,y
 die Obstdiät,Obstdiät,,การไดเอ็ตโดยทานแต่ผลไม้,y
 die Oma,Oma,die Omas,ย่า ยาย (O),y
