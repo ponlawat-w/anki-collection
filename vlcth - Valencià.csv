@@ -21,6 +21,7 @@ valencià,tailandés,Add Reverse
 (f.) l'eina,เครื่องมือ (es: herramienta),y
 (f.) l'eixida,ทางออก,y
 (f.) l'encisam,ผักสลัด,y
+(f.) l'engiyera,วิศวกร (ญ),y
 (f.) l'escala,บันได,y
 (f.) l'escola,โรงเรียน (e),y
 (f.) l'escombra,ไม้กวาด (กาตาลุญญา),y
@@ -33,6 +34,7 @@ valencià,tailandés,Add Reverse
 (f.) l'esquina,หัวมุม (e),y
 (f.) l'estació,สถานีรถไฟ,y
 (f.) l'estona,ช่วงเวลาสั้น ๆ (es: rato),y
+(f.) l'hostessa,แอร์โฮสเตส,y
 (f.) l'obrera,คนงานผู้หญิง,y
 (f.) l'oficina,สำนักงาน (o),y
 (f.) l'oliva,มะกอก,y
@@ -63,6 +65,7 @@ valencià,tailandés,Add Reverse
 (m.) l'aparell,อุปกรณ์,y
 (m.) l'arc de Sant Martí,รุ้งกินน้ำ,y
 (m.) l'armari,ตู้เสื้อผ้า,y
+(m.) l'arqueòleg,นักโบราณคดี,y
 (m.) l'arquitect,สถาปนิก,y
 (m.) l'arròs,ข้าว,y
 (m.) l'as,ลา (สัตว์ !r),y
@@ -75,6 +78,7 @@ valencià,tailandés,Add Reverse
 (m.) l'embotit,อาหารตระกูลไส้กรอก,y
 (m.) l'empresari,พนักงานบริษัท,y
 (m.) l'encreuament,ทางแยก,y
+(m.) l'enginyer,วิศวกร (ช),y
 (m.) l'equip,ทีม,y
 (m.) l'escalfor,ความร้อน (ร่างกาย),y
 (m.) l'escriptor,นักเขียนผู้ชาย,y
@@ -91,6 +95,7 @@ valencià,tailandés,Add Reverse
 (m.) l'hivern,ฤดูหนาว,y
 (m.) l'home,ผู้ชาย,y
 (m.) l'hort,สวนผักผลไม้ในบ้าน,y
+(m.) l'hoste,สจ๊วต,y
 (m.) l'ioga,โยคะ,y
 (m.) l'obrer,คนงานผู้ชาย,y
 (m.) l'ocell,นก,y
@@ -198,6 +203,7 @@ cavalcar,ขี่ (c),y
 cercar,ค้นหา,y
 checa,เกี่ยวกับเช็ก (ญ),y
 clar,แน่นอน แน่ชัด,y
+colossal,มหึมา มหาศาล (c),y
 comptar,เล่า,y
 cridar,ตะโกน เรียก เรียกร้อง,y
 créixer,เติบโต,y
@@ -259,7 +265,7 @@ el camal,ขา (กางเกง),y
 el cambrer,บริกรผู้ชาย,y
 el camió,รถบรรทุก,y
 el camp,ค่าย แคมป์,y
-el camperol,ชาวนา,y
+el camperol,ชาวนา (!g),y
 el camí,ทาง หนทาง ถนน (es: el camino),y
 el canell,ข้อมือ,y
 el cantant,นักร้องผู้ชาย,y
@@ -364,6 +370,7 @@ el germà,พี่ชาย น้องชาย,y
 el gimnàs,ยิม,y
 el gos,สุนัข,y
 el got,แก้ว (พาชนะ),y
+el granger,ชาวนา (!c),y
 el grau,ระดับชั้น (!n),y
 el grec,ภาษากรีก / คนกรีก (ช),y
 el idioma,ภาษา (i),y
@@ -452,6 +459,7 @@ el peluquer,ช่างตัดผมผู้ชาย,y
 el perill,อันตราย (คำนาม),y
 el periodiste,นักข่าวผู้ชาย,y
 el periòdic,หนังสือพิมพ์,y
+el pescador,ชาวประมง,y
 el petó,การหอมแก้ม,y
 el peu,เท้า <sub><i>(ไม่ใช่ขา)</i></sub>,y
 el pilot,นักบิน,y
@@ -500,6 +508,7 @@ el rovelló,เห็ดสน,y
 el ruc,ลา (สัตว์ !a),y
 el rumb,ทาง เส้นทาง,y
 el rus,ภาษารัสเซีย / คนรัสเซีย (ช),y
+el sabater,ช่างรองเท้า,y
 el sabó,สบู่,y
 el sacerdot,พระ,y
 el secretari,เลขาผู้ชาย,y
@@ -532,7 +541,9 @@ el trànsit,การจราจร,y
 el turc,ภาษาตุรกี / คนตุรกี (ช),y
 el vaixell,เรือ (!b),y
 el valencià,ภาษาวาเลนเซีย / คนวาเลนเซีย (ช),y
+el venedor,พนักงานขาย เซล,y
 el vent,ลม,y
+el veterinari,สัตวแพทย์ (ช),y
 el veí,เพื่อนบ้าน (ผู้ชาย),y
 el vi,ไวน์,y
 el vidre,แก้ว (วัสดุ),y
@@ -578,10 +589,12 @@ generós,ใจดี ใจกว้าง,y
 gens de,ไม่สักนิด แม้แต่น้อย (นามนับไม่ได้),y
 grega,เกี่ยวกับกรีก (ญ),y
 groc,สีเหลือง,y
-gros,อ้วน หนา,y
+gros,อ้วน หนา (๑),y
+gruixut,อ้วน หนา (๒),y
 guanyar,ชนะ,y
 haver,(es: haber),y
 holandesa,เกี่ยวกับดัตช์ (ญ),y
+immens,มโหฬาร มหึมา (i),y
 incloure,รวม (es: incluir),y
 infringir,ละเมิด,y
 italiana,เกี่ยวกับอิตาลี (ญ),y
@@ -822,6 +835,7 @@ la unitat,ความเป็นหนึ่งเดียว ความส
 la universitat,มหาวิทยาลัย,y
 la vacança,การพักร้อน,y
 la vesprada,ตอนบ่าย,y
+la veterinària,สัตวแพทย์ (ญ),y
 la veïna,เพื่อนบ้าน (ผู้หญิง),y
 la xarxa,เครือข่าย,y
 la yaya,ย่า ยาย (y),y

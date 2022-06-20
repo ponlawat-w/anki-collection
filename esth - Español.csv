@@ -221,7 +221,7 @@ cobarde,ขี้ขลาด,y
 cobre,สีทองแดง (!b),y
 coetáneo,ร่วมสมัย (คุณศัพท์),y
 colarse,แอบเข้าไป แซงคิว,y
-colosal,มหึมา มหาศาล,
+colosal,มหึมา มหาศาล (c),y
 colérico,ที่โกรธ อารมณ์ไม่ดี,
 comerse el marrón,(สำนวน) ถูกทำให้ตกที่นั่งลำบาก ตกกระไดพลอยโจน ถูกทำให้ซวย,y
 comerse el tarro,(สำนวน) คิดซ้ำไปซ้ำมา คิดวนไปวนมา,y
@@ -412,6 +412,7 @@ el aliento,ลมหายใจ (!v!ción),y
 el almacén,โกดัง,y
 el alquiler,การให้เช่า (~l~),y
 el alud,ดินถล่ม (คำสั้น),y
+el ama de casa,พ่อบ้าน แม่บ้าน,y
 el amuleto,เครื่องราง ของขลัง,y
 el analgésico,ยาแก้ปวด,y
 el andén,ชานชาลา,y
@@ -440,6 +441,7 @@ el arco iris,รุ้งกินน้ำ,y
 el arcén,ไหล่ทาง,y
 el arenero,กระบะทราย,y
 el arpón,ฉมวก,y
+el arqueólogo,นักโบราณคดี,y
 el arrebato,การปรี๊ดแตก อารมณ์ปะทุ,y
 el arrendador,ผู้ให้เช่า,y
 el arrendamiento,การให้เช่า (~rr~),y
@@ -530,7 +532,7 @@ el callejón,ตรอก,y
 el camello,อูฐ คนค้ายา,y
 el camembert,ชีสกามองแบร์,y
 el campanario,หอระฆัง,y
-el campesino,ชาวนา,y
+el campesino,ชาวนา (!g),y
 el canalón,รางน้ำฝน,y
 el candado,แม่กุญแจ กุญแจตัวยู,y
 el cangrejo,ปู,y
@@ -770,6 +772,7 @@ el golpe bajo,ล่วงเกิน,y
 el golpe de calor,โรคลมแดด,y
 el gorrión,นกกระจอก,y
 el gozne,บานพับ (!b),y
+el granjero,ชาวนา (!c),y
 el grano,สิว,y
 el gremio,กิลด์ สหภาพพนักงาน,y
 el grifo,ก๊อกน้ำ,y
@@ -1014,6 +1017,7 @@ el perico,นกแก้วเล็ก,y
 el periscopio,กล้องส่องของเรือดำน้ำ,y
 el perrillo,ไกปืน,y
 el perímetro,เส้นรอบรูป,y
+el pescador,ชาวประมง,y
 el petardo,ประทัด,y
 el petrolero,เรือบรรทุกน้ำมัน,y
 el pezón,หัวนม (!t),y
@@ -1229,10 +1233,12 @@ el varón,ตัวผู้,y
 el vello,ขน (ร่างกาย),y
 el venado,กวาง (v),y
 el vendaje,ผ้าพันแผล ผ้าก๊อซ,y
+el vendedor,พนักงานขาย เซล,y
 el verdugo,เพชฌฆาต,y
 el veredicto,คำพิพากษา คำตัดสิน,y
 el vestuario,ห้องลอกเกอร์ ห้องเปลี่ยนชุด,y
 el vestíbulo,ลอบบี้ โถงอาคาร,y
+el veterinario,สัตวแพทย์,y
 el viandante,คนเดินเท้า (!t!p),y
 el vidrio,แก้ว (วัสดุ),y
 el vientre,สะดือ (v),y
@@ -1246,6 +1252,7 @@ el vértigo,อาการเวียนหัว,y
 el yacimiento,ซากโบราณสถาน,y
 el yerno,ลูกเขย,y
 el yeso,พลาสเตอร์,y
+el zapatero,ช่างรองเท้า,y
 el zodiaco,จักรราศี,y
 el zócalo,ส่วนหิน/อิฐที่ผนัง,y
 el Ártico,อาร์กติก (ขั้วโลกเหนือ),y
