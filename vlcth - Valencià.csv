@@ -21,7 +21,7 @@ valencià,tailandés,Add Reverse
 (f.) l'eina,เครื่องมือ (es: herramienta),y
 (f.) l'eixida,ทางออก,y
 (f.) l'encisam,ผักสลัด,y
-(f.) l'engiyera,วิศวกร (ญ),y
+(f.) l'enginyera,วิศวกร (ญ),y
 (f.) l'escala,บันได,y
 (f.) l'escola,โรงเรียน (e),y
 (f.) l'escombra,ไม้กวาด (กาตาลุญญา),y
@@ -190,11 +190,13 @@ boig,บ้า,y
 bonic,สวย น่ารัก (es: bonito),y
 brut,สกปรก,y
 bufar,เป่าลม พ่นลมหายใจ หอบ,y
+buit,ว่างเปล่า,y
 cadascú,แต่ละหนึ่ง,y
 caldre,จำเป็น ขาด ต้อง,y
 callat,เงียบ ไม่พูด,y
 cap (+ sustantiu),ไม่สักนิด แม้แต่น้อย (นามนับได้),y
 cap a,มุ่งหน้า ไปยัง ไปทาง,y
+capaç,ซึ่งสามารถ ที่ทำได้ ที่มีความสามารถ,y
 castany,(ผม) สีน้ำตาล,y
 castellana,เกี่ยวกับภาษาสเปน (ญ),y
 catalana,เกี่ยวกับกาตาลัน (ญ),y
@@ -840,6 +842,7 @@ la veterinària,สัตวแพทย์ (ญ),y
 la veïna,เพื่อนบ้าน (ผู้หญิง),y
 la xarxa,เครือข่าย,y
 la yaya,ย่า ยาย (y),y
+lent,ช้า,y
 les ceres,สีเทียน,y
 les ciències naturals,วิทยาศาสตร์ธรรมชาติ,y
 les llengües,วิชาภาษา,y
@@ -898,6 +901,7 @@ pertànyer,เป็นของ,y
 pesar,ชั่งน้ำหนัก,y
 pessimist,มองโลกในแง่ลบ,y
 petit,เล็ก (p),y
+pitjor,แย่กว่า,y
 ple,เต็ม,y
 plorar,ร้องไห้,y
 ploure,(ฝน)ตก,y
@@ -930,6 +934,7 @@ roig,สีแดง (!v),y
 ros,(ผม) สีทอง บลอนด์,y
 rosa,สีชมพู,y
 russa,เกี่ยวกับรัสเซีย (ญ),y
+ràpid,เร็ว ไว,y
 saber,รู้,y
 sec,แห้ง,y
 segon,ที่สอง,y
@@ -938,6 +943,7 @@ senyor,คุณผู้ชาย,y
 senyora,คุณนายผู้หญิง,y
 senyoreta,คุณผู้หญิง(สาว),y
 ser,เป็น คือ,y
+seriós,ที่จริงจัง,y
 sincer,จริงใจ,y
 sobre,เหนือ ด้านบน (s),y
 somriure,ยิ้ม,y
@@ -959,6 +965,7 @@ traure el fem,เอาขยะไปทิ้ง,y
 treballador,ขยันทำงาน ชอบทำงาน,y
 treballar,ทำงาน,y
 trencar,ทำลาย,y
+trencat,พัง ชำรุด,y
 triar,เลือก,y
 trist,เศร้า,y
 trobar,พบ เจอ,y
