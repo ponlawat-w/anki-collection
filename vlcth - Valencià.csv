@@ -36,6 +36,7 @@ valencià,tailandés,Add Reverse
 (f.) l'estació,สถานีรถไฟ,y
 (f.) l'estona,ช่วงเวลาสั้น ๆ (es: rato),y
 (f.) l'hostessa,แอร์โฮสเตส,y
+(f.) l'illa,เกาะ,y
 (f.) l'obrera,คนงานผู้หญิง,y
 (f.) l'oficina,สำนักงาน (o),y
 (f.) l'oliva,มะกอก,y
@@ -79,6 +80,7 @@ valencià,tailandés,Add Reverse
 (m.) l'embotit,อาหารตระกูลไส้กรอก,y
 (m.) l'empresari,พนักงานบริษัท,y
 (m.) l'encreuament,ทางแยก,y
+(m.) l'enemic,ศัตรู,y
 (m.) l'enginyer,วิศวกร (ช),y
 (m.) l'equip,ทีม,y
 (m.) l'escac,หมากรุก,y
@@ -89,6 +91,7 @@ valencià,tailandés,Add Reverse
 (m.) l'espill,กระจก (e),y
 (m.) l'espàrrec,หน่อไม้ฝรั่ง,y
 (m.) l'espòs,สามี (e),y
+(m.) l'est,ทิศตะวันออก,y
 (m.) l'estadi,สเตเดียม,y
 (m.) l'estel,ดวงดาว,y
 (m.) l'estiu,ฤดูร้อน,y
@@ -103,6 +106,7 @@ valencià,tailandés,Add Reverse
 (m.) l'obrer,คนงานผู้ชาย,y
 (m.) l'ocell,นก,y
 (m.) l'octubre,ตุลาคม,y
+(m.) l'oest,ทิศตะวันตก,y
 (m.) l'oli,น้ำมัน (ทำอาหาร),y
 (m.) l'oncle,ลุง น้าอาผู้ชาย,y
 (m.) l'oratge,สภาพอากาศ,y
@@ -141,6 +145,7 @@ Uruguai,ประเทศอุรุกวัย,y
 Veneçuela,ประเทศเวเนซุเอลา,y
 Xina,ประเทศจีน,y
 a finals de ~,ช่วงปลายเดือน,y
+a la cantonada,ที่ตรงหัวมุม,y
 a mitjan ~,ช่วงกลางเดือน,y
 a principis de ~,ช่วงต้นเดือน ~,y
 a prop,ใกล้,y
@@ -293,6 +298,7 @@ el castellà,ภาษาสเปน,y
 el castró,ตะกร้า,y
 el català,ภาษากาตาลัน / คนกาตาลัน (ช),y
 el cavall,ม้า,y
+el cavaller,อัศวิน,y
 el cel,ท้องฟ้า,y
 el celiandre,ผักชี,y
 el centre,ศูนย์กลาง,y
@@ -302,6 +308,7 @@ el científic,นักวิทยาศาสตร์ผู้ชาย,y
 el cine,โรงภาพยนตร์,y
 el cinturó,เข็มขัด,y
 el cirurgià,ศัลยแพทย์ (ช),y
+el ciutadà,พลเมือง,y
 el clau,ตะปู,y
 el cobertor,ผ้าปู ผ้าคลุม,y
 el cobrellit,ผ้าคลุมเตียง,y
@@ -398,7 +405,6 @@ el llac,ทะเลสาบ,y
 el llamp,ฟ้าแลบ,y
 el llanterner,ช่างประปาผู้ชาย,y
 el llapis,ดินสอ,y
-el llar,ที่อยู่อาศัย,y
 el llavis,ริมฝีปาก,y
 el llençol,ผ้าปูเตียง,y
 el lleó,สิงโต,y
@@ -415,13 +421,13 @@ el martell,ค้อน,y
 el març,มีนาคม,y
 el matí,ตอนเช้า,y
 el mecànic,ช่างเครื่องยนต์ผู้ชาย,y
-el mege,แพทย์ผู้ชาย,y
 el meló d'Alger,แตงโม,y
 el meló de tot l'any,เมลอน,y
 el menjador,โรงอาหาร,y
 el menjar,อาหาร,y
 el mercat,ตลาด,y
 el mestre,อาจารย์ (m ผู้ชาย),y
+el metge,แพทย์ผู้ชาย,y
 el mico,ลิง,y
 el migdia,เที่ยงวัน,y
 el miler,พัน จำนวนพัน (คำนาม),y
@@ -435,12 +441,14 @@ el monitor,ครูผู้ช่วย (ผู้ชาย),y
 el monyo,มวยผม,y
 el muntanyisme,การปีนเขา,y
 el muscle,หัวไหล่,y
+el museu,พิพิธภัณฑ์,y
 el món,โลก,y
 el músic,นักดนตรีผู้ชาย,y
 el nas,จมูก,y
 el nebot,หลานชายของลุงป้าน้าอา,y
 el nen,เด็กผู้ชาย (n),y
 el net,หลานชายของปู่ย่าตายาย,y
+el nord,ทิศเหนือ,y
 el noruec,ภาษานอร์เวย์ / คนนอร์เวย์ (ช),y
 el notari,พนักงานทะเบียนผู้ชาย,y
 el novembre,พฤศจิกายน,y
@@ -459,6 +467,7 @@ el pare,พ่อ,y
 el paràgraf,ย่อหน้า,y
 <div>el passadís</div>,โถงทางเดิน,y
 el pastís,ขนมเค้ก,y
+el patí,ชานบ้าน,y
 el peatge,ด่านเก็บค่าทางด่วน,y
 el pegament,กาว,y
 el peix,ปลา,y
@@ -484,6 +493,7 @@ el polonés,ภาษาโปแลนด์ / คนโปแลนด์ (ช
 el polític,นักการเมืองผู้ชาย,y
 el pom,ลูกบิดประตู,y
 el porc,เนื้อหมู,y
+el port,ท่าเรือ,y
 el portugués,ภาษาโปรตุเกส / คนโปรตุเกส (ช),y
 el premi,รางวัล,y
 el preu,ราคา,y
@@ -531,6 +541,7 @@ el somni,ความฝัน,y
 el sostre,เพดาน,y
 el soterrani,ห้องใต้ดิน,y
 el suc,น้ำผลไม้,y
+el sud,ทิศใต้,y
 el suec,ภาษาสวีเดน / คนสวีเดน (ช),y
 el suro,จุกคอร์ก,y
 el suèter,สเวตเตอร์,y
@@ -539,6 +550,7 @@ el tailandés,ภาษาไทย / คนไทย (ช),y
 el tamboret,เก้าอี้สูงหน้าบาร์,y
 el tema,หัวข้อ,y
 el terra,พื้น (!s),y
+el terrny,ที่ดิน,y
 el tramvia,รถราง,y
 el treball,อาชีพ (t),y
 el trellat,เหตุผล,y
@@ -546,6 +558,7 @@ el tren,รถไฟ,y
 el tro,ฟ้าผ่า,y
 el trànsit,การจราจร,y
 el turc,ภาษาตุรกี / คนตุรกี (ช),y
+el turisme,การท่องเที่ยว,y
 el vaixell,เรือ (!b),y
 el valencià,ภาษาวาเลนเซีย / คนวาเลนเซีย (ช),y
 el venedor,พนักงานขาย เซล,y
@@ -692,12 +705,14 @@ la filla,ลูกสาว,y
 la fillastra,ลูกติดผู้หญิง,y
 la fillola,ลูกเลี้ยงผู้หญิง,y
 la finestra,หน้าต่าง,y
+la fira,มหกรรม แฟร์,y
 la font,น้ำพุ,y
 la fornera,คนทำขนมปังผู้หญิง,y
 la forqueta,ส้อม,y
 la fotocòpia,การถ่ายเอกสาร,y
 la fotògrafa,ช่างถ่ายรูปผู้หญิง,y
 la frase,ประโยค,y
+la frontera,ชายแดน,y
 la fruiteria,ร้านขายผลไม้,y
 la fulla,ใบไม้,y
 la fusta,ไม้,y
@@ -720,6 +735,7 @@ la informàtica,วิชาคอมพิวเตอร์,y
 la ingeniera,วิศวกรผู้หญิง,y
 la llanda,กระป๋อง,y
 la llanternera,ช่างประปาผู้หญิง,y
+la llar,ที่อยู่อาศัย,y
 la llengua,ภาษา (ll),y
 la llentilla,ถั่วเลนทิล (es: lenteja),y
 la lletra,เนื้อเพลง อักษร,y
@@ -740,9 +756,9 @@ la mare,แม่,y
 la marinera,กะลาสีเรือผู้หญิง,y
 la mascletà,การแสดงประทัด,y
 la mecànica,ช่างเครื่องยนต์ผู้หญิง,y
-la meja,แพทย์ผู้หญิง,y
 la mestra,อาจารย์ (m ผู้หญิง),y
 la mestressa de casa,แม่บ้าน,y
+la metgessa,แพทย์ผู้หญิง,y
 la migdiada,พักกลางวัน (เซียสตา),y
 la minera,คนทำเหมืองผู้หญิง,y
 la mitja,ครึ่งหนึ่ง,y
@@ -802,12 +818,14 @@ la pont,สะพาน,y
 la por,ความกลัว,y
 la porta,ประตู,y
 la prestatgeria,ชั้นหนังสือ,y
+la presó,คุก,y
 la primavera,ฤดูใบไม้ผลิ,y
 la professora,อาจารย์ (p ผู้หญิง),y
 la pruna,ลูกพรุน,y
 la psicòloga,จิตแพทย์ (ญ),y
 la pudor,กลิ่นเหม็น,y
 la pàgina,หน้า (es: la página),y
+la pàtria,บ้านเกิด ภูมิลำเนา,y
 la química,วิชาเคมี,y
 la rasqueta,คราด,y
 la remolatxa,บีตรูต,y
@@ -842,6 +860,7 @@ la tesi,วิทยานิพนธ์,y
 la tia,ป้า น้าอาผู้หญิง,y
 la tomaca,มะเขือเทศ,y
 la torrada,ขนมปังปิ้ง,y
+la torre,หอคอย,y
 la tortuga,เต่า,y
 la tovallola,ผ้าเช็ดตัว,y
 la trobada,การพบเจอ,y
@@ -852,6 +871,7 @@ la vacança,การพักร้อน,y
 la vesprada,ตอนบ่าย,y
 la veterinària,สัตวแพทย์ (ญ),y
 la veïna,เพื่อนบ้าน (ผู้หญิง),y
+la víctima,เหยื่อ ผู้ประสบภัย,y
 la xarxa,เครือข่าย,y
 la yaya,ย่า ยาย (y),y
 lent,ช้า,y
@@ -911,6 +931,7 @@ patir,ทรมาน,y
 pedregar,(ลูกเห็บ)ตก,y
 pel que fa a,ในส่วนของ… ทางด้านของ…,y
 pentinar-se,หวีผม (คำกริยา),y
+per descomptat,แน่นอน (es: por supuesto),y
 pertànyer,เป็นของ,y
 pesar,ชั่งน้ำหนัก,y
 pessimist,มองโลกในแง่ลบ,y
