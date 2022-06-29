@@ -112,6 +112,7 @@ valencià,tailandés,Add Reverse
 (m.) l'oratge,สภาพอากาศ,y
 (m.) l'ordinador,คอมพิวเตอร์,y
 (m.) l'os,กระดูก,y
+(m.) l'ou,ไข่,y
 (m.) l'ull,ดวงตา,y
 (m.) l'àmbit,สายงาน,y
 (m.) l'ànec,เป็ด,y
@@ -158,6 +159,7 @@ adj. fin,บาง,y
 adonar-se,นึกขึ้นได้ ระลึกได้ รู้ตัว,y
 afegir,เพิ่ม,y
 agafar,หยิบ จับ ขึ้นยานพาหนะ,y
+agrair,กล่าวคำขอบคุณ ชื่นชม,y
 agranar,กวาด,y
 ahir,เมื่อวาน,y
 això,สิ่งนี้ สิ่งนั้น,y
@@ -217,6 +219,8 @@ checa,เกี่ยวกับเช็ก (ญ),y
 clar,แน่นอน แน่ชัด,y
 colossal,มหึมา มหาศาล (c),y
 comptar,เล่า,y
+conèixer,รู้จัก,y
+cremar,เผา,y
 cridar,ตะโกน เรียก เรียกร้อง,y
 créixer,เติบโต,y
 cuinar,ทำอาหาร,y
@@ -230,6 +234,7 @@ de cop i volta,จู่ ๆ ก็ (๔),y
 de sopte,จู่ ๆ ก็ (๒),y
 de tant en tant,นาน ๆ ที (es: de vez en cuando),y
 deficiós,ยม ไม่อยากทำอะไร,y
+demanar,ร้องขอ,y
 demà,พรุ่งนี้,y
 descovrir,ค้นพบ หาเจอ (!t),y
 desdejunar-se,รับประทานอาหารเช้า,y
@@ -412,6 +417,7 @@ el llibre,หนังสือ,y
 el llit,เตียง,y
 el lloguer,การให้เช่า,y
 el llop,หมาป่า,y
+el llum,โคมไฟ (๑),y
 el macarró,มักกะโรนี,y
 el maig,พฤษภาคม,y
 el mapa,แผนที่ (m),y
@@ -550,7 +556,7 @@ el tailandés,ภาษาไทย / คนไทย (ช),y
 el tamboret,เก้าอี้สูงหน้าบาร์,y
 el tema,หัวข้อ,y
 el terra,พื้น (!s),y
-el terrny,ที่ดิน,y
+el terreny,ที่ดิน,y
 el tramvia,รถราง,y
 el treball,อาชีพ (t),y
 el trellat,เหตุผล,y
@@ -605,6 +611,7 @@ fora,ด้านนอก,y
 fosc,มืด,y
 francesa,เกี่ยวกับฝรั่งเศส (ญ),y
 fregar,ถู (พื้น) [คำกริยา],y
+fregir,ทอด,y
 gairebé,เกือบ,y
 generós,ใจดี ใจกว้าง,y
 gens de,ไม่สักนิด แม้แต่น้อย (นามนับไม่ได้),y
@@ -694,10 +701,10 @@ la despesa,รายจ่าย ค่าสาธารณูปโภค,y
 la dona,ผู้หญิง ภรรยา,y
 la dreta,ขวามือ,y
 la facultat,คณะ (ในมหาวิทยาลัย),y
-la faena,อาชีพ (f),y
 la fam,ความหิว,y
 la farmàcia,ร้านขายยา,y
 la fava,ถั่วฝัก ถั่วปากอ้า,y
+la feina,อาชีพ (f),y
 la fematera,คนเก็บขยะผู้หญิง,y
 la festa,งานเลี้ยง วันหยุด,y
 la fi,จุดสุดท้าย จุดสิ้นสุด จุดจบ,y
@@ -746,7 +753,7 @@ la llista,รายการ,y
 la llitera,เตียงสองชั้น,y
 la lliçó,บทเรียน (ll),y
 la llum,แสง ไฟ ไฟฟ้า,y
-la làmpada,โคมไฟ,y
+la làmpada,โคมไฟ (๓),y
 la madrastra,แม่เลี้ยง (จากพ่อแต่งงานใหม่),y
 la madrina,แม่ทูลหัว,y
 la maduixa,สตรอว์เบอร์รี,y
@@ -859,6 +866,7 @@ la terrassa,ระเบียง ชานบ้าน (t),y
 la tesi,วิทยานิพนธ์,y
 la tia,ป้า น้าอาผู้หญิง,y
 la tomaca,มะเขือเทศ,y
+la tona,ตัน,y
 la torrada,ขนมปังปิ้ง,y
 la torre,หอคอย,y
 la tortuga,เต่า,y
@@ -902,6 +910,7 @@ marró,สีน้ำตาล,y
 massa,มากเกินไป / เกินไป,y
 mentider,ชอบโกหก,y
 menut,เล็ก (m),y
+milió,ล้าน,y
 morat,สีม่วงเข้ม,y
 morir,ตาย เสียชีวิต,y
 mossegar,กัด,y
@@ -1006,6 +1015,7 @@ treballador,ขยันทำงาน ชอบทำงาน,y
 treballar,ทำงาน,y
 trencar,ทำลาย,y
 trencat,พัง ชำรุด,y
+treure,หยิบ เอาออก,y
 triar,เลือก,y
 trist,เศร้า,y
 trobar,พบ เจอ,y
