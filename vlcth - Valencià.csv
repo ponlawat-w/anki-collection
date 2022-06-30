@@ -206,6 +206,7 @@ buit,ว่างเปล่า,y
 cadascú,แต่ละหนึ่ง,y
 caldre,จำเป็น ขาด ต้อง,y
 callat,เงียบ ไม่พูด,y
+camviar,เปลี่ยน,y
 cap (+ sustantiu),ไม่สักนิด แม้แต่น้อย (นามนับได้),y
 cap a,มุ่งหน้า ไปยัง ไปทาง,y
 capaç,ซึ่งสามารถ ที่ทำได้ ที่มีความสามารถ,y
@@ -238,8 +239,10 @@ demanar,ร้องขอ,y
 demà,พรุ่งนี้,y
 descovrir,ค้นพบ หาเจอ (!t),y
 desdejunar-se,รับประทานอาหารเช้า,y
+desitjar,ปรารถนา หวัง,y
 despertar-se,ตื่น (รู้สึกตัว),y
 destre,ถนัดขวา,y
+destruir,รื้อถอน ทำลาย,y
 deu ser que,จะเป็นเพราะว่า (es: será que),y
 dibuixar,วาดรูป,y
 dinar,ทานอาหาร(กลางวัน) (es: comer),y
@@ -250,6 +253,7 @@ doldre,เจ็บ ทำให้เจ็บ,y
 dolent,แย่ เลว ไม่ดี,y
 dolç,หวาน,y
 doncs,ก็ แล้ว (es: pues),y
+dubtar,สงสัย,y
 egoist,เห็นแก่ตัว,y
 eixe,สิ่งนั้น (eso/ese),y
 eixir,ออก จาก,y
@@ -321,6 +325,7 @@ el codi,รหัส,y
 el cognom,นามสกุล,y
 el coixí,เบาะ,y
 el coll,คอ,y
+el colp,การต่อย (es: el golpe),y
 el colze,ข้อศอก,y
 el col·legi,โรงเรียน (c),y
 el company,เพื่อนร่วมชั้น เพื่อนร่วมงาน (ชาย),y
@@ -593,6 +598,7 @@ enmig,ท่ามกลาง,y
 ensucrat,ซึ่งใส่น้ำตาล,y
 entelar-se,ขึ้นฝ้า,y
 entremeliat,ซน ดื้อ,y
+equivocar-se,ทำผิดพลาด,y
 escoltar,ฟัง,y
 escriure,เขียน,y
 esmorzar,ทานอาหาร(สาย) (es: almorzar),y
@@ -606,6 +612,7 @@ esvelt,ผอมเพรียว สลิม,y
 fer,ทำ,y
 fer l'efecte,ให้ความรู้สึก… (es: parecer),y
 fer pudor,ส่งกลิ่นเหม็น,y
+fer tard,มาสาย,y
 ficar,ยัด ดัน (es: meter),y
 fora,ด้านนอก,y
 fosc,มืด,y
@@ -753,6 +760,7 @@ la llista,รายการ,y
 la llitera,เตียงสองชั้น,y
 la lliçó,บทเรียน (ll),y
 la llum,แสง ไฟ ไฟฟ้า,y
+la llàstima,ความน่าเสียดาย ความรู้สึกสงสาร,y
 la làmpada,โคมไฟ (๓),y
 la madrastra,แม่เลี้ยง (จากพ่อแต่งงานใหม่),y
 la madrina,แม่ทูลหัว,y
@@ -967,15 +975,18 @@ pujar,ขึ้น,y
 puntual,ตรงต่อเวลา,y
 quart,ที่สี่,y
 quasi,เกือบ,y
+queixar-se,บ่น,y
 qui,ใคร,y
 rai,ไม่สำคัญ ดีแล้ว พอแล้ว ไม่มีปัญหา,y
 raspallar,แปรง ถู (คำกริยา rp),y
 rebre,รับ ได้รับ,y
+rebutjar,ปฏิเสธ,y
 recentment,เร็ว ๆ นี้ ช่วงหลัง ๆ นี้,y
 regatejar,ต่อรองราคา,y
 relaxar-se,พักผ่อน,y
 rentar,แปรง ขัด (คำกริยา rt),y
 rentar-se les dents,แปรงฟัน,y
+respondre,ตอบ,y
 riure,หัวเราะ,y
 roig,สีแดง (!v),y
 ros,(ผม) สีทอง บลอนด์,y
@@ -1006,9 +1017,11 @@ taronja,สีส้ม,y
 telefonar,โทรหา,y
 tercer,ที่สาม,y
 tindre,มี,y
+tocar,เรียก,y
 tot i que,แม้ว่า,y
 tot just,แค่ ไม่ถึง แทบจะไม่ถึง,y
 tothom,ทุกคน,y
+traduir,แปล,y
 tranquil,สงบ,y
 traure el fem,เอาขยะไปทิ้ง,y
 treballador,ขยันทำงาน ชอบทำงาน,y
@@ -1033,6 +1046,7 @@ veure/vore,ดู,y
 viatjar,ท่องเที่ยว (กริยา),y
 vindre,มา,y
 viure,อาศัย มีชีวิต,y
+vèncer,ชนะ มีชัยเหนือ,y
 xerraire,ช่างพูด,y
 xicotet,เล็ก (x),y
 xinesa,เกี่ยวกับจีน (ญ),y
