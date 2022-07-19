@@ -90,6 +90,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เด็กผู้ชายนอนหลับตลอดเที่ยวบิน,Der Junge schläft während des Fluges.,
 กระเป๋าเดินทางเป็นของเพื่อน(ญ)ของฉัน Ute พรุ่งนี้พวกเราจะไปปราก คืนนี้ Ute จะพักที่นี่,Der Koffer gehört meiner Freundin Ute. Wir fahren morgen nach Prag. Ute übernachtet heute hier.,
 เพื่อนร่วมงานได้ตกบันได พวกเรา<b><i><u>จึง</u></i></b>ไปโรงพยาบาลทันทีด้วยรถแท็กซี่อีกครั้ง,Der Kollege ist auf der Treppe gefallen. Wir sind dann gleich mit dem Taxi weiter ins Krankenhaus gefahren.,- Perfekt
+ชีสนั้นดี แม้ว่ามันจะเก่า,"Der Käse ist gut, obwohl er alt ist.",
 ครูแก้ไขข้อที่ผิดของผม,Der Lehrer korrigiert meine Fehler.,
 ผู้ชายได้หลบอยู่ระหว่างกล่อง,Der Mann hat sich zwischen den Kisten versteckt.,- perfekt
 คนกินปลา,Der Mensch isst den Fisch.,
@@ -151,6 +152,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 ขอให้เป็นวันที่ดี,Einen schönen Tag noch.,
 เช้าวันหนึ่งมีพายุ,Eines Morgens gibt es ein Gewitter.,
 ขอโทษนะคะ รถไฟขบวนถัดไปที่จะไป Dessau ออกเมื่อไหร่,"Entschuldigung, wann fährt der nächste Zug nach Dessau ab?",
+ไม่เธอไปก็ฉันไป,Entweder gehst du oder ich gehe.,
 เขาทำงานในบริษัท(!F)แห่งหนึ่งเป็นโปรแกรมเมอร์,Er arbeitet in einem Büro als Programmierer.,
 เขาทำงานในมหาวิทยาลัยตั้งแต่ปี 1984,Er arbeitet seit neunzehn-vierundachtzig an der Universität.,
 เขา(ช)ไป(g)งานแต่งงานวันนี้,Er geht heute auf die Hochzeit.,
@@ -376,7 +378,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 พวกเธอทั้งสองยืนอยู่ใกล้กันมาก,Ihr beide steht euch sehr nahe.,
 พวกเธอควรจะเก็บกวาดห้องของตัวเองด้วยบ้างนะ,Ihr sollt auch eure Zimmer aufräumen.,
 พวกเธอเข้าใจฉันดีเสมอ,Ihr versteht mich immer gut.,
-อาการปวดของคุณ<sub>(Sie)</sub>อาจรุนแรงขึ้นได้,Ihre Schmerzen können gefährlich sein.,
+อาการปวดของคุณ<sub>(Sie)</sub>อาจรุนแรง<sub>(อันตราย)</sub>ขึ้นได้,Ihre Schmerzen können gefährlich sein.,
 ในสนามบินมีผู้คน(M)มากมายที่ต้องการซื้อหรือเปลี่ยนตั๋วเครื่องบินของพวกเขาที่นี่,"Im Flughafen sind viele Menschen, die hier ihre Flugtickets kaufen oder ändern wollen.",
 "ในร้านฉันมองหาพนักงานขาย(ญ) และฉันถามเธอว่า ""มีนาฬิกาผู้ชายดี ๆ ไหม""","Im Geschäft suche ich die Verkäuferin und frage sie: ""Haben Sie sehr gute Herrenuhren?""",- ดี ๆ: ดีมาก (ไม่ใช่สวย)
 เดือนมิถุนายนเขาจะมาหาฉัน,Im Juni kommt er zu mir.,
@@ -492,6 +494,7 @@ Michael จ้องมองไปที่ผู้ชายคนนั้น
 หลังอาหารฉันทำงานได้ไม่ค่อยดี,Nach dem Essen kann ich nicht gut arbeiten.,- ไม่สามารถทำงานได้ดี
 หลังเล่นกีฬาเขาไปอาบน้ำ,Nach dem Sport geht er duschen.,
 หลังจากเงียบไปสองสามนาที ฉันก็ได้ถามชายคนนั้นอีกหนึ่งคำถาม,Nach einigen Minuten Stille habe ich noch eine Frage an den Mann.,- ถาม: Frage haben
+หลังจากเขาวิ่ง เขาก็หลับ,"Nachdem er rennt, schläft er.",
 ไม่เป็นไร ขอบคุณ ฉันอิ่มแล้ว,"Nein, danke. Ich bin satt.",อิ่ม - s~
 ไม่ ขอบคุณ ฉันไม่ชอบดื่มไวน์ขาว ฉัน<u>ชอบ</u>ไวน์แดงมากกว่า,"Nein, danke. Ich trinke nicht gern Weißwein. Ich möchte lieber Rotwein.",
 - Kommst du später?<br>- ไม่ ไม่ได้ หลังจากนั้นฉัน(ต้อง)ทำการบ้าน(พหู),"Nein, das geht nicht. Später mache ich Hausaufgaben.",
@@ -571,6 +574,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 พวกเขาอายุห้าขวบและพวกเขาเคยเล่นเป็นสามีภรรยากัน,Sie waren fünf Jahre alt und haben Ehemann und Ehefrau gespielt.,Präteritum + Pärfekt
 เธอ(๓)อยากรู้คำตอบ(พหู)มาก ๆ,Sie will unbedingt Antworten finden.,- (นึกคำตอบออก)<br>- อยากมาก: สำนวน
 ทันทีที่เธอเห็น ฉัน(ก็)เห็น,"Sobald du siehst, sehe ich.",
+ตราบใดที่อากาศไม่หนาว เราก็จะออกไปหาอะไรกิน,"Sofern es nicht kalt ist, gehen wir essen.",
 ในขณะที่(!w)สุนัขหลับนั้นน่ารักน่าชัง(!h),"Solange der Hund schläft, ist er süß.",
 ให้ฉันห่อกระป๋องชา<b><u><i>เป็นของขวัญ</i></u></b>ให้คุณเลยไหม,Soll ich Ihnen die Teekanne als Geschenk verpacken?,- Sie
 ฉันควรเอา(ญ)สีฟ้าหรือสีเขียวดี,Soll ich die blaue oder die grüne nehmen?,
