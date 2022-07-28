@@ -22,7 +22,6 @@ das Auto,Auto,die Autos,รถยนต์,y
 das Baby,Baby,die Babys,เด็กทารก,y
 das Bad,Bad,die Bäder,ห้องอาบน้ำ (ไม่ Zimmer),y
 das Badezimmer,,,ห้องอาบน้ำ (zimmer),y
-das Bau,Bau,die Bauten,การก่อสร้าง อาคารบ้านเรือน,y
 das Becken,Becken,,อ่าง ถัง,y
 das Bein,Bein,die Beine,ขา,y
 das Beispiel,Beispiel,die Beispiele,ตัวอย่าง,y
@@ -163,7 +162,7 @@ das Pech,Pech,,ความโชคร้าย,y
 das Pferd,Pferd,die Pferde,ม้า,y
 das Polnisch,Polnisch,,ภาษาโปแลนด์,y
 das Portugiesisch,Portugiesisch,,ภาษาโปรตุเกส,y
-das Praktikum,Praktikum,die Praktika,การฝึกงาน,y
+das Praktikum,Praktikum,die Praktika,การฝึกงาน (!~ung),y
 das Problem,Problem,die Probleme,ปัญหา,y
 das Quartal,Quartal,die Quartale,ไตรมาส,y
 das Radio,Radio,die Radios,วิทยุ,y
@@ -204,6 +203,7 @@ das Tennis,Tennis,,เทนนิส,y
 das Ticket,Ticket,die Tickets,ตั๋ว,y
 das Tier,Tier,die Tiere,สัตว์,y
 das Tischtuch,,,ผ้าปูโต๊ะ,y
+das Tor,Tor,die Tore,ประตู(นอกบ้าน) ซุ้ม,y
 das Training,Training,die Training,การฝึก การซ้อม,y
 das Tuch,Tuch,die Tücher,ผ้า,y
 das Ufer,Ufer,die Ufer,ตลิ่ง,y
@@ -251,6 +251,7 @@ der Außenminister,Außenminister,,รัฐมนตรีต่างประ
 der Bahnhof,Bahnhof,die Bahnhöfe,สถานีรถไฟ,y
 der Balkon,Balkon,die Balkone,ระเบียง,y
 der Ball,Ball,die Bälle,ลูกบอล,y
+der Bau,Bau,die Bauten,การก่อสร้าง อาคารบ้านเรือน,y
 der Bauch,Bauch,die Bäuche,ท้อง (อวัยวะ),y
 der Bauer,Bauer,die Bauer,ชาวนา,y
 der Bauernhof,Bauernhof,die Bauernhöfe,ฟาร์ม ชานเมือง ต่างจังหวัด บ้านนอก,y
@@ -533,6 +534,7 @@ der Trockner,Trockner,,เครื่องอบผ้า,y
 der Tunnel,Tunnel,die Tunnel,อุโมงค์,y
 der Turm,Turm,die Türme,หอคอย,y
 der Türspion,,,ตาแมว (ประตู),y
+der Umzug,Umzug,die Umzüge,การย้ายบ้าน,y
 der Unfall,Unfall,die Unfälle,อุบัติเหตุ,y
 der Unterricht,Unterricht,die Unterrichte,ชั้นเรียน คาบเรียน (U),y
 der Unterschied,Unterschied,die Unterschiede,ความแตกต่าง,y
@@ -585,6 +587,7 @@ die Antwort,Antwort,die Antworten,คำตอบ (a),y
 die Anzeige,Anzeige,die Anzeigen,โฆษณา,y
 die Apotheke,Apotheke,die Apotheken,ร้านขายยา,y
 die Aprikose,Aprikose,die Aprikosen,อพริคอต,y
+die Arbeit,Arbeit,die Arbeiten,งาน,y
 die Architektin,,die Architektinnen,สถาปนิก (ญ),y
 die Armbanduhr,,,นาฬิกาข้อมือ,y
 die Atmosphäre,Atmosphäre,die Atmosphären,ชั้นบรรยากาศ,y
@@ -812,6 +815,7 @@ die Pute,Pute,die Puten,ไก่งวง,y
 die Rechnung,Rechnung,die Rechnungen,บิล ใบแจ้งหนี้,y
 die Regel,Regel,die Regeln,กฎหมาย,y
 die Regierung,Regierung,die Regierungen,รัฐบาล,y
+die Reinigung,Reinigung,,การทำความสะอาด,y
 die Reise,Reise,die Reisen,การเดินทาง (!A!F),y
 die Rettung,Rettung,,การกู้ภัย การกู้ชีพ การช่วยชีวิต,y
 die Rezeption,,,แผนกต้อนรับ,y
