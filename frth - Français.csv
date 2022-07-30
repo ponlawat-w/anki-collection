@@ -4,6 +4,7 @@ français,thaïlandais,Add Reverse
 (f.) l'eau,น้ำ,y
 (f.) l'huile,น้ำมัน,y
 (f.) l'orange,ส้ม (ผลไม้),y
+(f.pl.) les frites,มันฝรั่งทอด,y
 (m.) l'alcool,แอลกอฮอล์ เหล้า,y
 (m.) l'homme,ผู้ชาย,y
 (m.) l'insecte,แมลง,y
@@ -38,18 +39,24 @@ la baleine,ปลาวาฬ,y
 la bière,เบียร์,y
 la boisson,เครื่องดื่ม,y
 la carotte,แครอท,y
+la ceinture,เข็มขัด,y
 la chatte,แมวตัวเมีย,y
+la chaussure,รองเท้า,y
 la chienne,สุนัขตัวเมีย,y
 la confiture,แยม,y
 la crêpe,เครป,y
 la femme,ผู้หญิง,y
 la fille,เด็กผู้หญิง,y
 la fourmi,มด,y
+la fraise,สตรอว์เบอร์รี,y
 la lettre,จดหมาย,y
 la mouche,แมลงวัน,y
 la nourriture,อาหาร,y
+la poche,กระเป๋า (เล็ก),y
 la pomme,แอปเปิล,y
+la recette,สูตรอาหาร,y
 la robe,ชุดเดรส,y
+la rose,ดอกกุหลาบ,y
 la salade,สลัด,y
 la soupe,ซุป,y
 la souris,หนู,y
@@ -71,18 +78,22 @@ le citron,มะนาว,y
 le cochon,หมู,y
 le dauphin,ปลาโลมา,y
 le fromage,ชีส,y
+le fruit,ผลไม้,y
 le garçon,เด็กผู้ชาย,y
 le gâteau,เค้ก,y
+le haricot,ถั่วแขก,y
 le journal,หนังสือพิมพ์,y
 le jus,น้ำผลไม้,y
 le lait,นม,y
 le lion,สิงโต,y
 le livre,หนังสือ,y
 le loup,หมาป่า,y
+le légume,ผัก,y
 le menu,เมนู,y
 le mot,คำ คำพูด คำศัพท์,y
 le nom,ชื่อ,y
 le pain,ขนมปัง,y
+le pantalon,กางเกง,y
 le papillon,ผีเสื้อ,y
 le poisson,ปลา,y
 le poivre,พริกไทย,y
@@ -92,6 +103,7 @@ le raisin,องุ่น,y
 le repas,มื้ออาหาร,y
 le requin,ปลาฉลาม,y
 le riz,ข้าว,y
+le sac,ถุง กระเป๋า,y
 le sandwich,แซนด์วิช,y
 le sel,เกลือ,y
 le serpent,งู,y
@@ -100,8 +112,10 @@ le sucre,น้ำตาล,y
 le thé,ชา,y
 le tigre,เสือ,y
 le train,รถไฟ,y
+le verre,แก้ว,y
 le vin,ไวน์,y
 les pâtes,พาสต้า,y
+les vêtements,เสื้อผ้า,y
 liquide,ที่เป็นของเหลว,y
 lire,อ่าน,y
 lourd,หนัก,y
