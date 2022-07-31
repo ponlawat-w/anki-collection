@@ -602,6 +602,7 @@ die Bahn,Bahn,die Bahnen,รถไฟ (!Z),y
 die Banane,Banane,die Bananen,กล้วย,y
 die Bank,Bank,die Bänke,ธนาคาร,y
 die Bar,Bar,die Bars,บาร์ ผับ,y
+die Batterie,Batterie,die Batterien,แบตเตอรี,y
 die Bauchschmerzen,,,ปวดท้อง,y
 die Bedienung,Bedienung,die Bedienungen,ผู้ให้บริการ บริกร (server),y
 die Beratung,,die Beratungen,คำแนะนำ คำปรึกษา (!A),y
@@ -621,6 +622,7 @@ die Brust,Brust,die Brüste,หน้าอก,y
 die Brücke,Brücke,die Brücken,สะพาน,y
 die Buchhandlung,Buchhandlung,die Buchhandlungen,ร้านหนังสือ,y
 die Bäckerei,Bäckerei,die Bäckereien,เบเกอรี่,y
+die Bürste,Bürste,die Bürsten,แปรง,y
 die Chemie,Chemie,,เคมี,y
 die Cola,Cola,die Colas,โคล่า,y
 die Dame,Dame,die Damen,สุภาพสตรี คุณผู้หญิง,y
@@ -839,7 +841,9 @@ die Schulter,Schulter,die Schultern,หัวไหล่,y
 die Schweinebraten,Schweinebraten,,หมูย่าง,y
 die Schwester,Schwester,die Schwestern,พี่สาว น้องสาว,y
 die Schwägerin,Schwägerin,die Schwägerin,พี่สะใภ้ น้องสะใภ้,y
+die Schüssel,Schüssel,die Schüsseln,ถ้วย,y
 die Sehenswürdigkeit,Sehenswürdigkeit,die Sehenswürdigkeiten,สถานที่ท่องเที่ยว,y
+die Seife,Seife,die Seifen,สบู่,y
 die Sekretärin,,die Sekretärinnen,เลขา (ญ),y
 die Sekunde,Sekunde,die Sekunden,วินาที<br>,y
 die Sicherheit,Sicherheit,,ความปลอดภัย,y
@@ -917,6 +921,8 @@ die Wurst,Wurst,die Würste,ไส้กรอก,y
 die Wärme,Wärme,,ความอบอุ่น,y
 die Wäsche,Wäsche,die Wäschen,การล้าง การซักผ้า,y
 die Zahl,Zahl,die Zahlen,ตัวเลข รหัส,y
+die Zahnbürste,Zahnbürste,die Zahnbürsten,แปรงสีฟัน,y
+die Zahnpasta,Zahnpasta,die Zahnpastas,ยาสีฟัน,y
 die Zahnschmerzen,,,ปวดฟัน,y
 die Zeit,Zeit,die Zeiten,เวลา,y
 die Zeitschrift,Zeitschrift,die Zeitschriften,นิตยสาร,y

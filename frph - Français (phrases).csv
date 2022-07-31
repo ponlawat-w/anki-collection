@@ -37,7 +37,7 @@ thaïlandais,français,หมายเหตุ
 ไวน์เป็นของเหลว,Le vin est liquide.,
 เด็ก ๆ ผู้ชายดื่มน้ำ,Les garçons boivent de l'eau.,
 เหล่าหมาตัวเมียตัวใหญ่ดื่มน้ำ(!d),Les grosses chiennes boivent l'eau.,
-เด็กหนุ่ม(พหู)กินช็อกโกแลต(+a),Les jeunes enfants mangent le chocolat.,
+เด็ก ๆ (พหู+adj)กินช็อกโกแลต(+a),Les jeunes enfants mangent le chocolat.,
 ชาย<u><i><b>หนุ่ม</b></i></u>(พหู)เขียนจดหมายจำนวนหนึ่ง,Les jeunes hommes écrivent des lettres.,
 น้ำผลไม้(พหู)รสชาติดี,Les jus sont bons.,
 เด็กผู้หญิง(พหู+ตัวเล็ก)อ่านหนังสือจำนวนหนึ่ง,Les petites filles lisent des livres.,
@@ -58,6 +58,6 @@ thaïlandais,français,หมายเหตุ
 เธอเป็นเด็กผู้หญิง,Tu es une fille.,
 เธอกินมะเขือเทศหนึ่งลูกและผลไม้จำนวนหนึ่ง,Tu manges une tomate et des fruits.,
 แอปเปิลลูกหนึ่งนั้นเบา,Une pomme est légère.,
-หนูของพวกเธอกินชีส,Votre souris mange du fromage.,
+หนูของ<u><i><b>พวกเธอ</b></i></u>กินชีส,Votre souris mange du fromage.,
 เจอกันไว ๆ นี้,À bientôt!,!
 แล้วเจอกันใหม่ (ทีหลัง),À plus tard!,!
