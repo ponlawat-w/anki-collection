@@ -8,6 +8,8 @@ thaïlandais,français,หมายเหตุ
 เขามีเข็มขัดสีดำหนึ่งเส้น,Il a une ceinture noire.,
 เขามาจากแคนาดา,Il est du Canada.,
 เขารวย,Il est riche.,
+นมหมด / ต้องการนม,Il faut du lait.,
+จำเป็นต้องกิน,Il faut manger.,
 มีดอกกุหลาบสีเหลืองอยู่ดอกหนึ่ง,Il y a une rose jaune.,
 พวกเขากินเนื้อสีแดง,Ils mangent de la viande rouge.,- ไม่เจาะจง
 พวกเขากินข้าว,Ils mangent du riz.,- ไม่เจาะจง
@@ -23,10 +25,12 @@ thaïlandais,français,หมายเหตุ
 ฉันกินแอปเปิลผลที่กลม ๆ,Je mange la pomme ronde.,
 ฉันกินส้มหนึ่งลูก,Je mange une orange.,
 ฉันขอโทษ,Je suis désolé.,
+ฉันอยากกินไก่,Je veux manger du poulet.,
 สัตว์ตัวหนัก,L'animal est lourd.,
 ขอน้ำร้อนหน่อยครับ,"L'eau chaude, s'il vous plaît.",
 น้ำสกปรก,L'eau est sale.,
 ผู้ชาย(คนนั้น)รวย,L'homme est riche.,
+ผู้ชาย(คนนั้น)รู้,L'homme sait.,
 ส้มอร่อย,L'orange est bonne.,
 หมา(ตัวเมีย)มีสีเทา,La chienne est grise.,
 อาหารนั้นสมบูรณ์แบบ,La nourriture est parfaite.,
@@ -41,6 +45,7 @@ thaïlandais,français,หมายเหตุ
 ขนมปังร้อน,Le pain est chaud.,
 สีเขียวเป็นสีที่งดงาม,Le vert est une jolie couleur.,
 ไวน์เป็นของเหลว,Le vin est liquide.,
+เด็ก ๆ ต้องกินข้าว,Les enfants doivent manger.,
 เด็ก ๆ ผู้ชายดื่มน้ำ,Les garçons boivent de l'eau.,
 เหล่าหมาตัวเมียตัวใหญ่ดื่มน้ำ(!d),Les grosses chiennes boivent l'eau.,
 เด็ก ๆ (พหู+adj)กินช็อกโกแลต(+a),Les jeunes enfants mangent le chocolat.,
@@ -57,7 +62,7 @@ thaïlandais,français,หมายเหตุ
 เสือของฉันกินเนื้อ,Mon tigre mange de la viande.,
 พวกเรารักแมวของเรา,Nous aimons notre chat.,
 พวกเรามีแมวอยู่จำนวนหนึ่ง,Nous avons des chats.,
-พวกเรากินชีส และพวกเขากินปลา,Nous mangeons du gromage et ils mangent du poisson.,
+พวกเรากินชีส และพวกเขากินปลา,Nous mangeons du fromage et ils mangent du poisson.,
 พวกเราเป็นผู้หญิง,Nous sommes des femmes.,
 ได้โปรด (→ tu),S'il te plaît.,
 ได้โปรด (→ vous),S'il vous plaît.,
@@ -70,6 +75,7 @@ thaïlandais,français,หมายเหตุ
 เธอพูดเกี่ยวกับหนังสือ(พหู),Tu parles des livres.,
 แอปเปิลลูกหนึ่งนั้นเบา,Une pomme est légère.,
 หนูของ<u><i><b>พวกเธอ</b></i></u>กินชีส,Votre souris mange du fromage.,
-พวกเธอตัวใหญ่สูง,Vous êtes grands.,y
+พวกเธออยากดื่ม,Vous voulez boire.,
+พวกเธอตัวใหญ่สูง,Vous êtes grands.,
 เจอกันไว ๆ นี้,À bientôt!,!
 แล้วเจอกันใหม่ (ทีหลัง),À plus tard!,!

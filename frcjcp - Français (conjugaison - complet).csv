@@ -2,9 +2,15 @@ verb,je,tu,il/elle/on,nous,vous,ills/elles
 [présent] aimer,j'aime,aimes,aime,aimons,aimez,aiment
 [présent] avoir,j'ai,as,a,avons,avez,ont
 [présent] boire,bois,bois,boit,buvons,buvez,boivent
+[présent] comprendre,comprends,comprends,comprend,comprenons,comprenez,comprennent
 [présent] cuisiner,cuisine,cuisines,cuisine,cuisinons,cuisinez,cuisinent
+[présent] devoir,dois,dois,doit,devons,devez,doivent
 [présent] lire,lis,lis,lit,lisons,lisez,lisent
 [présent] manger,mange,manges,mange,mangeons,mangez,mangent
 [présent] parler,parle,parles,parle,parlons,parlez,parlent
+[présent] pouvoir,peux,peux,peut,pouvons,pouvez,peuvent
+[présent] savoir,sais,sais,sait,savons,savez,savent
+[présent] vouloir,veux,veux,veut,voulons,voulez,veulent
 [présent] écrire,j'écris,écris,écrit,écrivons,écrivez,écrivent
 [présent] être,suis,es,est,sommes,êtes,sont
+falloir,,,faut,,,
