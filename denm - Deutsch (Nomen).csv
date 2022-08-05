@@ -27,8 +27,8 @@ das Bein,Bein,die Beine,ขา,y
 das Beispiel,Beispiel,die Beispiele,ตัวอย่าง,y
 das Benzin,Benzin,,น้ำมัน (เบนซิน),y
 das Bett,Bett,die Betten,เตียง,y
-das Bettlaken,Bettlaken,die Bettlaken,ผ้าปูที่นอน (!t),y
-das Betttuch,,,ผ้าปูที่นอน (!l),y
+das Bettlaken,Bettlaken,die Bettlaken,ผ้าปูที่นอน (~l),y
+das Betttuch,,,ผ้าปูที่นอน (~t),y
 das Bier,Bier,die Biere,เบียร์,y
 das Bild,Bild,die Bilder,รูปวาด รูปภาพ,y
 das Blatt,Blatt,die Blätter,ใบไม้,y
@@ -54,6 +54,7 @@ das Essen,Essen,die Essen,อาหาร,y
 das Esszimmer,,,ห้องรับประทานอาหาร,y
 das Fahrrad,Fahrrad,die Fahrräder,รถจักรยาน,y
 das Fenster,Fenster,,หน้าต่าง,y
+das FerienHaus,,,บ้านพักตากอากาศ,y
 das Feuer,Feuer,die Feuer,ไฟ (!แสง),y
 das Fieber,Fieber,,ไข้,y
 das Fleisch,Fleisch,,เนื้อ,y
@@ -264,8 +265,9 @@ der Bescheid,Bescheid,die Bescheide,การแจ้งเตือน กา�
 der Besen,Besen,die Besen,ไม้กวาด,y
 der Besitzer,Besitzer,die Besitzer,เจ้าของ,y
 der Besuch,Besuch,die Besuche,การเยี่ยม,y
-der Bettbezug,Bettbezug,die Bettbezüge,ผ้าปูเตียง,y
+der Bettbezug,Bettbezug,die Bettbezüge,ผ้าปูเตียง (~b),y
 der Bewohner,Bewohner,,ผู้อยู่อาศัย,y
+der Bezirk,Bezirk,die Bezirke,ย่าน เขต,y
 der Bilderrahmen,Bilderrahmen,die Bilderrahmen,กรอบรูป,y
 der Blattsalat,,,สลัดใบเขียว,y
 der Bleistift,Bleistift,die Bleistifte,ดินสอ,y
@@ -373,6 +375,7 @@ der Koffer,Koffer,die Koffer,กระเป๋าเดินทาง (K),y
 der Kollege,Kollege,die Kollegen,เพื่อนร่วมชั้นเรียน เพื่อนร่วมงาน,y
 der Kopf,Kopf,die Köpfe,ศีรษะ หัว,y
 der Korb,Korb,die Körbe,ตะกร้า,y
+der Krankenwagen,,,รถพยาบาล,y
 der Kreis,Kreis,die Kreise,วงกลม,y
 der Kuchen,Kuchen,die Kuchen,เค้ก,y
 der Kugelschreiber,Kugelschreiber,,ปากกาลูกลื่น (KS),y
