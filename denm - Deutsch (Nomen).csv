@@ -54,7 +54,7 @@ das Essen,Essen,die Essen,อาหาร,y
 das Esszimmer,,,ห้องรับประทานอาหาร,y
 das Fahrrad,Fahrrad,die Fahrräder,รถจักรยาน,y
 das Fenster,Fenster,,หน้าต่าง,y
-das FerienHaus,,,บ้านพักตากอากาศ,y
+das Ferienhaus,,,บ้านพักตากอากาศ,y
 das Feuer,Feuer,die Feuer,ไฟ (!แสง),y
 das Fieber,Fieber,,ไข้,y
 das Fleisch,Fleisch,,เนื้อ,y
@@ -93,6 +93,7 @@ das Glück,Glück,,โชค,y
 das Gold,Gold,,ทองคำ,y
 das Gramm,Gramm,,กรัม,y
 das Gras,Gras,die Gräser,หญ้า,y
+das Grundstück,Grundstück,die Grundstücke,ที่ดิน,y
 das Haar,Haar,die Haare,ผม (เส้นผม),y
 das Halstuch,Halstuch,die Halstücher,ผ้าพันคอ (H),y
 das Handtuch,,,ผ้าเช็ดมือ,y
@@ -111,6 +112,7 @@ das Huhn,Huhn,die Hühner,ไก่ตัวเมีย,y
 das Hähnchen,Hähnchen,die Hähnchen,ไก่ เนื้อไก่,y
 das Häschen,Häschen,die Häschen,ลูกกระต่าย,y
 das Häuschen,,,กระท่อม บ้านหลังเล็ก ๆ,y
+das Innere,Innere,die Inneren,ภายใน,y
 das Insekt,Insekt,die Insekten,แมลง,y
 das Interesse,Interesse,die Interessen,ความสนใจ,y
 das Jahr,Jahr,die Jahre,ปี,y
@@ -347,6 +349,7 @@ der Haushalt,Haushalt,die Haushalte,งานบ้าน,y
 der Herbst,Herbst,die Herbste,ฤดูใบไม้ร่วง,y
 der Herd,Herd,die Herde,เตา,y
 der Himmel,Himmel,,ท้องฟ้า,y
+der Hof,Hof,die Höfe,ชานบ้าน,y
 der Honig,Honig,,น้ำผึ้ง,y
 der Hund,Hund,die Hunde,สุนัข,y
 der Hunger,Hunger,,ความหิว,y
@@ -667,6 +670,7 @@ die Feuerwehr,Feuerwehr,die Feuerwehren,ดับเพลิง,y
 die Firma,Firma,die Firmen,บริษัท,y
 die Flasche,Flasche,die Flaschen,ขวด,y
 die Fliege,Fliege,die Fliegen,แมลงวัน,y
+die Fläche,Fläche,die Flächen,พื้นผิว บริเวณ,y
 die Flöte,Flöte,die Flöten,ขลุ่ย,y
 die Frage,Frage,die Fragen,คำถาม ปัญหา,y
 die Frau,Frau,die Frauen,ผู้หญิง,y
@@ -866,6 +870,7 @@ die Sprachschule,,,โรงเรียนสอนภาษา,y
 die Spülmaschine,,,เครื่องล้างจาน,y
 die Staatsangehörigkeit,Staatsangehörigkeit,,สัญชาติ,y
 die Stadt,Stadt,die Städte,เมือง (s),y
+die Station,Station,die Stationen,สถานี,y
 die Steckdose,Steckdose,die Steckdosen,ปลั๊กไฟเต้ารับ,y
 die Stelle,Stelle,die Stellen,ตำแหน่งงาน,y
 die Stille,,,ความเงียบ,y
@@ -897,6 +902,7 @@ die Treppe,Treppe,die Treppen,บันได,y
 die Tür,Tür,die Türen,ประตู,y
 die Tüte,Tüte,die Tüten,ถุง,y
 die Uhrzeit,Uhrzeit,die Uhrzeiten,เวลา (時刻),y
+die Umgebung,,,บริเวณรอบ ๆ บริเวณที่แวดล้อม,y
 die Umwelt,Umwelt,die Umwelten,สภาพแวดล้อม สิ่งแวดล้อม,y
 die Universität,Universität,die Universitäten,มหาวิทยาลัย,y
 die Untersuchung,Untersuchung,die Untersuchungen,การสอบ,
