@@ -123,6 +123,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 การเดินทางใช้เวลา 45 นาที,Die Fahrt dauert fünfundvierzig Minuten.,
 "สีของกระโปรงตัว<u style=""font-weight: bold;"">นี้</u>(!Artikel)ไม่ใช้สีเหลือง",Die Farbe dieses Rocks ist nicht gelb.,
 ฉันคิดว่าปลา(พหู)น่าเบื่อ,Die Fische finde ich langweilig.,
+ยินดีรับคำถามทั้งหลาย,Die Fragen sind willkommen.,
 พวกผู้หญิงพลาดมื้ออาหาร,Die Frauen verpassen das Essen.,
 คุณยายทำอาหารดี ๆ,Die Großmutter kocht ein gutes Essen.,
 แม่ไก่(พหู)กินข้าวโพด(พหู),Die Hühner essen die Körner.,
@@ -132,6 +133,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 วัวกินหญ้า,Die Kuh isst das Gras.,
 โคมไฟมีหลอดไฟสองดวง,Die Lampe hat zwei Glühbirnen.,
 ดนตรีถูกใจฉันมาก,Die Musik gefällt mir gut.,
+ภูมิภาคนี้มีภูเขาเยอะ,Die Region hat viele Berge.,
 หมดฤดูกาล,Die Saison ist zu Ende.,
 พี่สาวของเพื่อน(ญ)ของฉันแต่งงานแล้ว,Die Schwester von meiner Freundin ist schon verheiratet.,
 สบู่มีสีขาว,Die Seife ist weiß.,
@@ -508,6 +510,7 @@ Michael จ้องมองไปที่ผู้ชายคนนั้น
 - Kommst du später?<br>- ไม่ ไม่ได้ หลังจากนั้นฉัน(ต้อง)ทำการบ้าน(พหู),"Nein, das geht nicht. Später mache ich Hausaufgaben.",
 - Gibt es hier ein Telefon?<br>- ไม่ ที่นี่ไม่มีเลย,"Nein, hier gibt es keins.",
 ไม่ เธอ(๓)ไม่อยู่(z)บ้าน เธอไป(f→n)ฝรั่งเศส,"Nein, sie ist nicht zu Hause. Sie fährt nach Frankreich.",
+ไม่มีใครรู้คำตอบ,Niemand kennt die Antwort.,
 ไม่มีใครรู้ว่าเขาจะมาวันนี้ไหม,"Niemand weiß, ob er heute kommt.",
 พกร่มไปด้วยสิ ไม่งั้นเดี๋ยวเปียกนะ,"Nimm den Regenschirm mit, sonst wirst du nass.",
 สัปดาห์หน้าเป็นวันเกิดของ Franka,Nächste Woche hat Franka Geburtstag.,
@@ -649,6 +652,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 คุณหาใครอยู่ ให้ฉันช่วยอะไรไหม,Wen suchen Sie? Kann ich Ihnen helfen?,
 ผ่านไปครูหนึ่ง Michael กับ Julia ก็เข้ามาในบ้าน(W),Wenig später kommen Michael und Julia in die Wohnung.,
 ตอนที่เธอ(๓ญ)กิน ฉันจะดื่ม,"Wenn sie isst, trinke ich.",
+เธอคือใคร,Wer bist du?,
 คุณเป็นใครหรอครับ,Wer sind Sie?,Sie
 คุณอายุเท่าไหร่,Wie alt bist du?,du
 ลูกชายของคุณอายุเท่าไหร่,Wie alt ist Ihr Sohn?,Sie?
@@ -669,7 +673,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 กี่โมงแล้ว,Wie viel Uhr ist es?,Uhr
 เขามีกระเป๋ากี่ใบ,Wie viele Taschen hat er?,
 หกเดือนที่แล้วที่ Prinzenbad เป็นอย่างไร,Wie war das vor sechs Monaten im Prinzenbad?,- Prätaritum
-ทำไมมันถึงน่าสนใจ,Wieso ist es interessant?,
+ทำไมมันถึงน่าสนใจ,Wieso ist es interessant?,- !warum
 เธออยากรู้(มัน)<b><u>จริง ๆ </u></b>หรอ,Willst du das wirklich wissen?,
 เราพักกับ(ที่บ้าน)เพื่อน(พหู)เป็นเวลาสามวัน,Wir bleiben drei Tage bei den Freunden.,
 เราต้องการไม้ฟืน(เอก-Artikel)สำหรับกองไฟ,Wir brauchen Holz für das Feuer.,
@@ -714,6 +718,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 คุณ(Sie)ทราบไหมว่าสถานีรถไฟอยู่ที่ไหน,"Wissen Sie, wo der Bahnhof ist?",
 พวกเธอไปกินอาหารกลางวันที่ไหน,Wo habt ihr mittaggegessen?,- perfekt
 ลูกฟุตบอลอยู่ไหน มันไมได้อยู่ในห้องนั่งเล่นนะ,Wo ist der Fußball? Er ist nicht im Wohnzimmer.,
+ทิศใต้อยู่ไหน,Wo ist der Süden?,
 เสื้อกันหนาวของฉันอยู่ที่ไหน เมื่อวานมันอยู่บนโซฟา,Wo ist mein Pullover? Er war gestern auf dem Sofa.,
 มัน(ก)จะอยู่ที่ไหนได้อีก,Wo kann es nur sein?,
 ในดึสเซลดอร์ฟหากินซูชิได้ที่ไหนบ้าง,Wo kann man in Düsseldorf Sushi essen?,
@@ -728,6 +733,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 "พวกเธอ<b style=""text-decoration-line: underline;"">ไป</b><sub>(f)</sub><b style=""text-decoration-line: underline;"">ที่ไหน</b>มาช่วงเสาร์อาทิตย์",Wohin seid ihr am Wochenende gefahren?,- perfekt
 คุณ(Sie)ไม่ได้อาศัยอยู่ที่เคิล์นหรอ / อยู่สิ อยู่มาสามปี<b><i><u>แล้ว</u></i></b>,"Wohnen Sie nicht in Köln? / Doch, schon seit drei Jahren.",
 เขาชอบเดินทางไปด้วยวิธีใด,Womit fährt er gern?,
+พวกเธอพูดเกี่ยวกับอะไร,Worüber sprecht ihr?,
 คุณช่วยเบาเสียงวิทยุลงหน่อยได้ไหม,Würden Sie bitte das Radio leiser machen?,- W~
 คุณช่วยอธิบายใบแจ้งหนี้หน่อยได้ไหม,Würden Sie mir bitte die Rechnung erklären?,- W~
 เธอพาฉันเที่ยวชมเมืองได้ไหม,Zeigst du mir die Stadt?,

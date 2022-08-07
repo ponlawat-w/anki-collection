@@ -36,6 +36,7 @@ das Boot,Boot,die Boote,เรือ (!S),y
 das Brot,Brot,die Brote,ขนมปัง,y
 das Brötchen,Brötchen,die Brötchen,ขนมปังก้อน,y
 das Buch,Buch,die Bücher,หนังสือ,y
+das Bundesland,,,สหพันธรัฐ,y
 das Büro,Büro,die Büros,สำนักงาน,y
 das Café,Café,die Cafés,ร้านกาแฟ,y
 das Chinesisch,Chinesisch,,ภาษาจีน,y
@@ -514,6 +515,7 @@ der Sport,Sport,,กีฬา,y
 der Staat,Staat,die Staaten,ประเทศ รัฐ,y
 der Stahl,Stahl,,เหล็ก,y
 der Stand,Stand,die Stände,สถานะ,y
+der Standort,,,ตำแหน่ง สถานที่จัดงาน,y
 der Staub,Staub,die Staube,ฝุ่น,y
 der Stecker,Stecker,die Steckers,ปลั๊กไฟเต้าเสียบ,y
 der Stein,Stein,die Steine,ก้อนหิน,y
@@ -828,6 +830,7 @@ die Pute,Pute,die Puten,ไก่งวง,y
 die Rechnung,Rechnung,die Rechnungen,บิล ใบแจ้งหนี้,y
 die Regel,Regel,die Regeln,กฎหมาย,y
 die Regierung,Regierung,die Regierungen,รัฐบาล,y
+die Region,Region,die Regionen,ภูมิภาค,y
 die Reinigung,Reinigung,,การทำความสะอาด,y
 die Reise,Reise,die Reisen,การเดินทาง (!A!F),y
 die Rettung,Rettung,,การกู้ภัย การกู้ชีพ การช่วยชีวิต,y
@@ -905,6 +908,7 @@ die Uhrzeit,Uhrzeit,die Uhrzeiten,เวลา (時刻),y
 die Umgebung,,,บริเวณรอบ ๆ บริเวณที่แวดล้อม,y
 die Umwelt,Umwelt,die Umwelten,สภาพแวดล้อม สิ่งแวดล้อม,y
 die Universität,Universität,die Universitäten,มหาวิทยาลัย,y
+die Unterkunft,Unterkunft,die Unterkünfte,ที่อยู่,y
 die Untersuchung,Untersuchung,die Untersuchungen,การสอบ,
 die Vase,Vase,die Vasen,แจกัน,y
 die Veranstaltung,Veranstaltung,die Veranstaltungen,งาน อีเวนต์,y
