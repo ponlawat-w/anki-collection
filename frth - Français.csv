@@ -14,7 +14,7 @@ français,thaïlandais,Add Reverse
 (m.) l'éléphant,ช้าง,y
 (m.) l'œuf,ไข่,y
 acheter,ซื้อ,y
-adorer,รัก ชอบ,y
+adorer,รัก ชอบ ชื่นชม,y
 aider,ช่วยเหลือ,y
 aimer,รัก ชอบ,y
 aller,ไป,y
@@ -36,6 +36,7 @@ chaud,ร้อน อุ่น (สัมผัส),y
 chercher,ค้นหา,y
 commander,สั่ง ร้องขอ,y
 commencer,เริ่ม,y
+comment,อย่างไร,y
 comprendre,เข้าใจ,y
 connaître,รู้จัก,y
 cuisiner,ทำอาหาร,y
@@ -90,6 +91,7 @@ la tortue,เต่า,y
 la vache,วัว,y
 la veste,เสื้อแจ็กเก็ต,y
 la viande,เนื้อ,y
+laquelle,อันไหน สิ่งไหน,y
 le banane,กล้วย,y
 le bateau,เรือ,y
 le beurre,เนย,y
@@ -161,12 +163,14 @@ nouveau / nouvel,ใหม่ (ช),y
 nouvelle,ใหม่ (ญ),y
 orange,สีส้ม,y
 ou,หรือ,y
+où,ที่ไหน,y
 parfait,สมบูรณ์แบบ ยอดเยี่ยม,y
 parler,พูด,y
 petit,เล็ก,y
 pourquoi,ทำไม,y
 pouvoir,สามารถ,y
 propre,สะอาด,y
+quand,เมื่อไหร่,y
 riche,รวย,y
 rien,ไม่สักอย่าง,y
 rond,ที่กลม,y

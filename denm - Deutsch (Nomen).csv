@@ -394,7 +394,7 @@ der Körperteil,Körperteil,die Körperteile,อวัยวะในร่า�
 der Kühlschrank,Kühlschrank,die Kühlschränke,ตู้เย็น,y
 der Künstler,,,ศิลปิน,y
 der Lachs,Lachs,die Lachse,ปลาแซลมอน,y
-der Laden,Laden,die Läden,ร้าน,y
+der Laden,Laden,die Läden,ร้าน (!G),y
 der Laptop,Laptop,die Laptops,คอมพิวเตอร์โนตบุก,y
 der Lastwagen,Lastwagen,die Lastwagen,รถบรรทุก,y
 der Lautsprecher,Lautsprecher,die Lautsprecher,ลำโพง,y
@@ -908,7 +908,7 @@ die Uhrzeit,Uhrzeit,die Uhrzeiten,เวลา (時刻),y
 die Umgebung,,,บริเวณรอบ ๆ บริเวณที่แวดล้อม,y
 die Umwelt,Umwelt,die Umwelten,สภาพแวดล้อม สิ่งแวดล้อม,y
 die Universität,Universität,die Universitäten,มหาวิทยาลัย,y
-die Unterkunft,Unterkunft,die Unterkünfte,ที่อยู่,y
+die Unterkunft,Unterkunft,die Unterkünfte,ที่อยู่อาศัย,y
 die Untersuchung,Untersuchung,die Untersuchungen,การสอบ,
 die Vase,Vase,die Vasen,แจกัน,y
 die Veranstaltung,Veranstaltung,die Veranstaltungen,งาน อีเวนต์,y
