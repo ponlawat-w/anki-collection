@@ -120,7 +120,7 @@ apurarse,รีบ ๆ,
 apuñalar,แทง (ด้วยของมีคม),y
 arar,ไถ ไถหน้าดิน,y
 arar en el mar,ตำน้ำพริกละลายแม่น้ำ (สำนวน),y
-arder,เผา ร้อนแรง,y
+arder,เผาไหม้ ร้อนแรง,y
 armar,ประกอบ,y
 arquear,ทำให้โค้ง ทำให้งอ,y
 arrancarse,ดึงอย่างแรง,y
@@ -670,7 +670,7 @@ el destornillador,ไขควง,y
 el desván,ห้องใต้หลังคา (!b),y
 el detergente,ผงซักฟอก,y
 el detonador,ที่จุดระเบิด,y
-el diablito,รถเข็นสองล้อ,y
+el diablito,รถเข็นสองล้อมีหูจับ,y
 el diamante (de una carta),(ไพ่) ข้าวหลามตัด,y
 el difunto,ผู้วายชนม์,y
 el dinosaurio,ไดโนเสาร์,y
@@ -909,7 +909,7 @@ el mero,ปลากะรัง,y
 el meñique,นิ้วก้อย,y
 el microorganismo,จุลินทรีย์,y
 el milagro,ปาฏิหาริย์,y
-el millar,พัน จำนวนพัน (คำนาม),y
+el millar,"พัน จำนวนพัน (คำนาม) 1,000",y
 el minutero,เข็มยาว,y
 el mitin,การปราศัย,
 el mito,เรื่องโกหก เรื่องหลอกลวง,y
@@ -1773,7 +1773,7 @@ la jefatura,ความเป็นผู้นำ,y
 la jerarquía,ความเป็นลำดับขั้น (en: hierarchy),y
 la jeringa,เข็มฉีดยา,y
 la judía,ถั่ว,y
-la ladera,ชันเขา,y
+la ladera,ชันเขา เนินภูเขา,y
 la laguna,ทะเลสาบ จุดอ่อน ช่องโหว่,y
 la lavadora,เครื่องซักผ้า,y
 la lealtad,ความซื่อสัตย์ (l),y
@@ -1793,7 +1793,7 @@ la llanta,ยางรถ (ญ.),y
 la llanura,ที่ราบ,y
 la llave inglesa,ประแจ,y
 la llovizna,ฝนอ่อย,y
-la loma,เนินเขา,y
+la loma,เนินเขา ภูเขาลูกเล็ก ๆ,y
 la lombriz,หนอน,y
 la longaniza,ไส้กรอก,y
 la losa,แผ่นหิน (ที่ใช้ทำพื้นอาคาร),y
@@ -2288,6 +2288,7 @@ resaltar,เน้นข้อความ ไฮไลต์,y
 resbaladizo,ที่ลื่น ที่ละเอียดอ่อน,
 resbalarse,สะดุด (r),y
 rescatar,ช่วยชีวิต,
+resfriarse,เป็นหวัด,y
 resoplar,พ่นลมปาก,y
 resplandecer,ส่องแสง สะท้อนเป็นประกาย,y
 restante,ที่เหลือ (คุณศัพท์),y

@@ -1,6 +1,7 @@
 verb,je,tu,il/elle/on,nous,vous,ills/elles
 [présent] acheter,j'achète,achètes,achète,achetons,achetez,achètent
 [présent] adorer,j'adore,adores,adore,adorons,adorez,adorent
+[présent] agir,agis,agis,agit,agissons,agissez,agissent
 [présent] aider,j'aide,aides,aide,aidons,aidez,aident
 [présent] aimer,j'aime,aimes,aime,aimons,aimez,aiment
 [présent] aller,vais,vas,va,allons,allez,vont
@@ -15,8 +16,11 @@ verb,je,tu,il/elle/on,nous,vous,ills/elles
 [présent] commencer,commence,commences,commence,commençons,commencez,commencent
 [présent] comprendre,comprends,comprends,comprend,comprenons,comprenez,comprennent
 [présent] connaître,connais,connais,connaît,connaissons,connaissez,connaissent
+[présent] contenir,contiens,contiens,contient,contenons,contenez,contiennent
+[présent] croire,crois,crois,croit,croyons,croyez,croient
 [présent] cuisiner,cuisine,cuisines,cuisine,cuisinons,cuisinez,cuisinent
 [présent] devoir,dois,dois,doit,devons,devez,doivent
+[présent] dire,dis,dis,dit,disons,dites,disent
 [présent] faire,fais,fais,fait,faisons,faites,font
 [présent] lire,lis,lis,lit,lisons,lisez,lisent
 [présent] manger,mange,manges,mange,mangeons,mangez,mangent

@@ -6,6 +6,7 @@ français,thaïlandais,Add Reverse
 (f.) l'orange,ส้ม (ผลไม้),y
 (f.pl.) les frites,มันฝรั่งทอด,y
 (m.) l'alcool,แอลกอฮอล์ เหล้า,y
+(m.) l'aéroport,สนามบิน,y
 (m.) l'homme,ผู้ชาย,y
 (m.) l'insecte,แมลง,y
 (m.) l'oignon,หัวหอม,y
@@ -15,6 +16,7 @@ français,thaïlandais,Add Reverse
 (m.) l'œuf,ไข่,y
 acheter,ซื้อ,y
 adorer,รัก ชอบ ชื่นชม,y
+agir,แสดง,y
 aider,ช่วยเหลือ,y
 aimer,รัก ชอบ,y
 aller,ไป,y
@@ -40,18 +42,29 @@ commencer,เริ่ม,y
 comment,อย่างไร,y
 comprendre,เข้าใจ,y
 connaître,รู้จัก,y
+contenir,บรรจุ,y
+couper,ตัด,y
+courir,วิ่ง,y
+croire,เชื่อ,y
 cuisiner,ทำอาหาร,y
 demain,วันพรุ่งนี้,y
+derrière,ด้านหลัง,y
 devoir,ต้อง,y
+dire,บอก กล่าว พูด,y
+donner,ให้,y
 désolé,ขอโทษ ที่รู้สึกผิด,y
+entrer,เข้า,y
 facile,ง่าย,y
 faire,ทำ,y
 falloir,จำเป็นต้อง (ไม่มีประธาน),y
+finir,ทำเสร็จ,y
 fort,แข็งแรง,y
 froid,เย็น,y
+gagner,ชนะ ได้เงิน,y
 grand,ใหญ่,y
 gris,สีเทา,y
 gros,ขนาดใหญ่ อ้วน,y
+intéresser,ทำให้สนใจ,y
 jaune,สีเหลือง,y
 jeune,ที่อายุน้อย เด็ก,y
 joli,สวยงาม หล่อ งดงาม,y
@@ -77,6 +90,7 @@ la fourmi,มด,y
 la fraise,สตรอว์เบอร์รี,y
 la jupe,กระโปรง,y
 la lettre,จดหมาย,y
+la main,มือ,y
 la mouche,แมลงวัน,y
 la nourriture,อาหาร,y
 la poche,กระเป๋า (เล็ก),y
@@ -92,6 +106,7 @@ la tortue,เต่า,y
 la vache,วัว,y
 la veste,เสื้อแจ็กเก็ต,y
 la viande,เนื้อ,y
+lancer,ขว้าง โยน,y
 le banane,กล้วย,y
 le bateau,เรือ,y
 le beurre,เนย,y
@@ -156,6 +171,7 @@ lire,อ่าน,y
 lourd,หนัก,y
 léger,เบา,y
 manger,กิน,y
+marcher,เดิน,y
 marron,สีน้ำตาล,y
 mauvais,แย่ ผิด เลว,y
 noir,สีดำ,y
@@ -172,6 +188,7 @@ pouvoir,สามารถ,y
 propre,สะอาด,y
 quand,เมื่อไหร่,y
 qui,ใคร,y
+respecter,เคารพ,y
 riche,รวย,y
 rien,ไม่สักอย่าง,y
 rond,ที่กลม,y
@@ -181,6 +198,7 @@ savoir,รู้,y
 seul,โดดเดี่ยว คนเดียว,y
 souvent,บ่อย ๆ,y
 tard,สาย,y
+trouver,หาเจอ,y
 vert,สีเขียว,y
 violet,สีม่วง,y
 vouloir,อยาก,y
