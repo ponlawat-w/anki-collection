@@ -274,7 +274,7 @@ kennen,V.,รู้ รู้จัก,y
 kennenlernen,V.,รู้จัก,y
 klar,Adj.,แน่นอน ชัดเจน,y
 klassisch,Adj.,แบบคลาสสิก,y
-klein,Adj.,เล็ก สั้น,y
+klein,Adj.,เล็ก,y
 klingeln,V.,กดกริ่ง กระดิ่งดัง,y
 knapp,Adj.,แทบไม่พอ น้อย,y
 kochen,V.,ทำอาหาร,y
@@ -456,7 +456,7 @@ sitzen,V.,นั่ง,y
 sobald,Konj.,ทันทีที่,y
 sofern,Konj.,ตราบใดที่,y
 sofort,Adv.,ทันที,y
-solange,Konj.,ในขณะที่ (~ประโยค),y
+solange,Konj.,ในขณะที่ (~ประโยค !w),y
 sollen,V.,ควร,y
 sondern,Konj.,แต่ (s),y
 sonst,Adv.,มิฉะนั้น ไม่งั้น,y
