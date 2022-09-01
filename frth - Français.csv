@@ -33,6 +33,7 @@ bleu,สีน้ำเงิน,y
 blond,ที่มีสีทอง บลอนด์,y
 boire,ดื่ม,y
 bon,ดี,y
+cacher,ซ่อน,y
 calme,ที่เงียบ สงบ,y
 chaud,ร้อน อุ่น (สัมผัส),y
 chercher,ค้นหา,y
@@ -107,6 +108,7 @@ la vache,วัว,y
 la veste,เสื้อแจ็กเก็ต,y
 la viande,เนื้อ,y
 lancer,ขว้าง โยน,y
+laver,ล้าง ซัก,y
 le banane,กล้วย,y
 le bateau,เรือ,y
 le beurre,เนย,y
@@ -174,6 +176,10 @@ manger,กิน,y
 marcher,เดิน,y
 marron,สีน้ำตาล,y
 mauvais,แย่ ผิด เลว,y
+mettre,ใส่ สวม,y
+montrer,แสดง โชว์ เอาให้ดู,y
+mourir,ตาย,y
+mériter,คู่ควร เหมาะสม,y
 noir,สีดำ,y
 nouveau / nouvel,ใหม่ (ช),y
 nouvelle,ใหม่ (ญ),y
