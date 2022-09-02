@@ -115,7 +115,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 วันนี้วันที่เท่าไหร่,Der wievielte ist heute?,wieviel
 เยอรมันเล่น(แมทช์)แข่งกับบราซิล,Deutschland spielt gegen Brasilien.,
 รถ(พหู)จอดเลียบไปกับถนน,Die Autos stehen entlang der Straße.,
-แบตหมด,Die Batterie ist alle.,
+แบต(B)หมด,Die Batterie ist alle.,
 ผึ้งชอบดอกไม้(พหู+Artikel)ที่บาน,Die Biene mag die offenen Blumen.,
 เสื้อเชิตผู้หญิงแพงพอ ๆ กันกับกางเกง,Die Bluse ist so teuer wie die Hose.,
 เสื้อเชิตผู้หญิงแพงเกินไป,Die Bluse ist zu teuer.,
@@ -212,6 +212,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 มันคือสวนที่ไม่มีดอกไม้,Es ist ein Garten ohne Blumen.,
 เกือบเที่ยง,Es ist gleich zwölf.,gleich
 มันอยู่หลังโซฟา,Es ist hinter dem Sofa.,es
+มัน(ก)อยู่ทางทิศตะวันตกของตำบล,Es ist im Westen des Landkreises.,
 เกือบเที่ยงครึ่ง,Es ist kurz vor halb eins.,kurz
 มันเป็นเวลา 17 นาฬิกาและ<b><u><i>ยัง</i></u></b>เร็วเกินไปสำหรับอาหารเย็น,Es ist siebzehn Uhr und noch zu früh zum Abendessen.,
 มันมืดเกินไป ไฟปิดอยู่ เปิดให้หน่อยสิ,Es ist zu dunkel. Das Licht ist aus. Mach es doch bitte an.,
@@ -456,7 +457,7 @@ Luki กระโดดข้ามหน้าต่าง,Luki springt durch d
 บางครั้งฉันดูโทรทัศน์ตอนเย็น,Manchmal sehe ich abends fern.,
 น้องชายของฉันเรียนเคมีและขยันมาก อาจารย์ของเขาชมเขาอยู่เสมอ,Mein Bruder studiert Chemie und ist sehr fleißig. Sein Professor lobt ihn immer.,
 เพื่อนของฉัน Michael มารอพวกเราอยู่ที่ทางออกของสนามบิน,Mein Freund Michael erwartet uns am Ausgang des Flughafens.,
-โทรศัพท์ฉันแบตฯ หมด,Mein Handy hat keinen Akku mehr.,
+โทรศัพท์ฉันแบตฯ(A)หมด,Mein Handy hat keinen Akku mehr.,
 เสื้อเชิตของฉันมีสี(พหู!artikel)ที่แตกต่าง,Mein Hemd hat verschiedene Farben.,
 ฉันคิดถึงประเทศของฉัน,Mein Land fehlt mir.,
 ฉันปวดท้อง<sub>(กระเพาะ)</sub>ตลอดเลย,Mein Magen tut immer weh.,
