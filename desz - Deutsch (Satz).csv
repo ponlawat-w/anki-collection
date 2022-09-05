@@ -82,13 +82,14 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 ฉันคิดว่ากระโปรงตัวนี้สวยกว่า,Den Rock finde ich schöner.,- นำประโยคด้วยกระโปรง
 ตัวนั้น(Artikel ช)ฉันก็ว่าสวย แต่ว่ามันยาวเกินไปสำหรับฉัน,"Den finde ich ganz schön, aber er ist mir zu lang.",
 ภูเขาลูกเล็ก,Der Berg ist klein.,
-ย่าน(นี้)ตั้งอยู่ทางทิศตะวันตกของเมือง,Der Bezirk liegt im Westen der Stadt.,
+ย่าน(นี้)ตั้ง(l)อยู่ทางทิศตะวันตกของเมือง,Der Bezirk liegt im Westen der Stadt.,
 พี่ชายส่งเงินมาให้คุณแม่ทุกเดือน,Der Bruder schenkt der Mutter Geld jeden Monat.,
 คนขับรถปิด(s)ประตูหลังแล้วกลับเข้าไปที่พวงมาลัย,Der Fahrer schließt die Hintertür und geht zurück ans Lenkrad.,
 คนขับรถดับเครื่องและเราก็ลงจากรถ,Der Fahrer stellt den Motor aus und wir steigen aus.,
 โทรทัศน์<b><u><i>เปิด</i></u></b>อยู่,Der Fernseher ist an.,
 ปลา(เอก)กินพืช(พหู),Der Fisch isst die Pflanzen.,
 สนามบินตั้งอยู่ทางทิศใต้ของแฟรงก์เฟิร์ต,Der Flughafen liegt südlich von Frankfurt.,
+คุณตาพูดถึงเวลาในอดีต,Der Großvater spricht von den vergangenen Zeiten.,
 ท้องฟ้าเต็มไปด้วยดวงดาว,Der Himmel ist voll mit Sternen.,
 หมากิน(f)เนื้อ,Der Hund frisst Fleisch.,
 เด็กผู้ชายนอนหลับตลอดเที่ยวบิน,Der Junge schläft während des Fluges.,
@@ -98,6 +99,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 ครูแก้ไขข้อที่ผิดของผม,Der Lehrer korrigiert meine Fehler.,
 ผู้ชายได้หลบอยู่ระหว่างกล่อง,Der Mann hat sich zwischen den Kisten versteckt.,- perfekt
 คนกินปลา,Der Mensch isst den Fisch.,
+คนไข้พูดกับแพทย์ส่วนตัว(-a/พหู),Der Patient spricht mit privaten Ärzten.,
 ยางรถเสีย (อดีต),Der Reifen war kaputt.,<i><b><u>- Prätaritum</u></b></i>
 กระโปรงตัวซ้ายราคาถูกกว่า,Der Rock da links ist billiger.,
 กระโปรงราคาถูกที่สุด,Der Rock ist am billigsten.,
@@ -212,7 +214,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 มันคือสวนที่ไม่มีดอกไม้,Es ist ein Garten ohne Blumen.,
 เกือบเที่ยง,Es ist gleich zwölf.,gleich
 มันอยู่หลังโซฟา,Es ist hinter dem Sofa.,es
-มัน(ก)อยู่ทางทิศตะวันตกของตำบล,Es ist im Westen des Landkreises.,
+มัน(ก)อยู่(s)ทางทิศตะวันตกของตำบล,Es ist im Westen des Landkreises.,
 เกือบเที่ยงครึ่ง,Es ist kurz vor halb eins.,kurz
 มันเป็นเวลา 17 นาฬิกาและ<b><u><i>ยัง</i></u></b>เร็วเกินไปสำหรับอาหารเย็น,Es ist siebzehn Uhr und noch zu früh zum Abendessen.,
 มันมืดเกินไป ไฟปิดอยู่ เปิดให้หน่อยสิ,Es ist zu dunkel. Das Licht ist aus. Mach es doch bitte an.,
@@ -658,6 +660,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 คุณอายุเท่าไหร่,Wie alt bist du?,du
 ลูกชายของคุณอายุเท่าไหร่,Wie alt ist Ihr Sohn?,Sie?
 สะกดอย่างไร,Wie buchstabiert man das?,das
+สภาพสิ่งแวดล้อมในทุกวันนี้เป็นอย่างไรบ้าง,Wie geht es der heutigen Umwelt?,
 คอร์สภาษาเยอรมันเป็นอย่างไรบ้าง,Wie geht es im Deutschkurs?,
 สบายดีไหม,Wie geht's?,du (ย่อ)
 ว่าแต่ลูกชายคุณชื่ออะไร,Wie heißt Ihr Sohn eigentlich?,- คุณ: Sie
@@ -739,6 +742,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 คุณช่วยอธิบายใบแจ้งหนี้หน่อยได้ไหม,Würden Sie mir bitte die Rechnung erklären?,- W~
 เธอพาฉันเที่ยวชมเมืองได้ไหม,Zeigst du mir die Stadt?,
 ตอนกลางวันฉันทานอาหารตอนบ่ายสองครึ่ง,Zu Mittag habe ich um halb drei gegessen.,perfekt / umgangsprachlich
+ใน(เวลา)ทุกวันนี้ป่ามีขนาดเล็กลง,Zue heutigen Zeit ist der Wald kleiner.,
 ก่อนอื่นฉันจะไป(f→i)ตุรกี แล้วหลังจากนั้นก็จะบินไป(i)อเมริกา,Zuerst fahre ich in die Türkei und dann fliege ich in die USA.,
 (ขอ)มันฝรั่งสองกิโล เอาแบบเนื้อแน่นไว้ทำสลัดมันฝรั่ง,"Zwei Kilo Kartoffeln, bitte, festkochend für Kartoffelsalat.",
 ระหว่างร้านขายยากับร้านเสริมสวยเป็นสวนสาธารณะ,Zwischen der Apotheke und dem Friseur ist ein Park.,

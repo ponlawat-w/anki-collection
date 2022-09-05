@@ -159,6 +159,7 @@ das Möbel,Möbel,die Möbel,เฟอร์นิเจอร์,y
 das Müsli,Müsli,die Müslis,ซีเรียล (อาหารเช้า),y
 das Obst,Obst,die Obst,ผลไม้ (O),y
 das Ohr,Ohr,die Ohren,หู,y
+das Paar,Paar,die Paare,คู่,y
 das Papier,Papier,die Papiere,กระดาษ,y
 das Parfüm,Parfüm,die Parfüme / die Parfüms,น้ำหอม,y
 das Pausenbrot,,,แซนด์วิช,y
@@ -288,6 +289,7 @@ der Bürger,Bürger,die Bürger,พลเมือง,y
 der Cappuccino,Cappuccino,die Cappuccinos,คาปูชิโน,y
 der Champagner,Champagner,die Champagner,แชมเปญ,y
 der Chef,Chef,die Chefs,เจ้านาย,y
+der Club,Club,,คลับ (สถานที่กลางคืน),y
 der Cocktail,Cocktail,die Cocktails,ค็อกเทล,y
 der Computer,Computer,die Computer,คอมพิวเตอร์,y
 der Cousin,Cousin,die Cousins,ลูกพี่ลูกน้อง,y
@@ -401,6 +403,7 @@ der Lastwagen,Lastwagen,die Lastwagen,รถบรรทุก,y
 der Lautsprecher,Lautsprecher,die Lautsprecher,ลำโพง,y
 der Leder,Leder,,หนังสัตว์,y
 der Liebling,Liebling,die Lieblinge,ของโปรด ของชอบ,y
+der Liter,Liter,die Liter,ลิตร,y
 der Lolly,Lolly,,ลูกกวาด,y
 der Lärm,,,เสียง (อะไรบางอย่าง),y
 der Löffel,Löffel,die Löffel,ช้อน,y
@@ -637,6 +640,7 @@ die Bürste,Bürste,die Bürsten,แปรง,y
 die Chemie,Chemie,,เคมี,y
 die Cola,Cola,die Colas,โคล่า,y
 die Dame,Dame,die Damen,สุภาพสตรี คุณผู้หญิง,y
+die Daten,,,ข้อมูล,y
 die Decke,Decke,die Decken,ผ้าห่ม เพดาน,y
 die Digitaluhr,Digitaluhr,die Digitaluhren,นาฬิกาดิจิตัล,y
 die Disko,Disko,die Diskos,ดิสโก,y
@@ -698,6 +702,7 @@ die Großmutter,Großmutter,die Großmütter,ย่า ยาย (ß),y
 die Großstadt,Großstadt,die Großstädte,เมืองใหญ่,y
 die Gruppenreise,,,ทัวร์แบบเป็นหมู่คณะ,y
 die Gurke,Gurke,die Gurken,แตงกวา,y
+die Halle,Halle,die Hallen,โถง,y
 die Halsschmerzen,Halsschmerzen,,อาการปวดคอ,y
 die Hand,Hand,die Hände,มือ,y
 die Handschrift,Handschrift,die Handschriften,ลายมือ,y
@@ -813,6 +818,7 @@ die Packung,Packung,die Packungen,แพ็ก,y
 die Partnerschaft,Partnerschaft,die Partnerschaften,ความเป็นคู่หู ความสัมพันธ์แบบเป็นคู่,y
 die Party,Party,die Partys,งานเลี้ยง,y
 die Pause,Pause,die Pausen,การพักเบรก,y
+die Pension,Pension,die Pensionen,เพนชัน เกสต์เฮาส์,y
 die Person,Person,die Personen,บุคคล,y
 die Pfanne,Pfanne,die Pfannen,กระทะ,y
 die Pflanze,Pflanze,die Pflanzen,พืช,y
@@ -882,6 +888,7 @@ die Strategie,Strategie,die Strategien,กลยุทธ์ ยุทธศา�
 die Straße,Straße,die Straßen,ถนน,y
 die Straßenseite,Straßenseite,die Straßenseiten,ฟากถนน,y
 die Stunde,Stunde,die Stunden,ชั่วโมง คาบ,y
+die Summe,Summe,die Summen,ผลรวม,y
 die Suppe,Suppe,die Suppen,ซุป,y
 die Säge,Säge,die Sägen,เลื่อย,y
 die Säure,Säure,die Säuren,กรด ความเปรี้ยว,y
