@@ -19,7 +19,9 @@ adorer,รัก ชอบ ชื่นชม,y
 agir,แสดง,y
 aider,ช่วยเหลือ,y
 aimer,รัก ชอบ,y
+ajouter,เพิ่มเข้าไป,y
 aller,ไป,y
+améliorer,ทำให้ดีขึ้น,y
 appeler,เรียก,y
 apporter,หยิบไป เอาไป พกไป,y
 apprendre,เรียน,y
@@ -35,6 +37,7 @@ boire,ดื่ม,y
 bon,ดี,y
 cacher,ซ่อน,y
 calme,ที่เงียบ สงบ,y
+casser,ทำแตก ทำพัง,y
 chaud,ร้อน อุ่น (สัมผัส),y
 chercher,ค้นหา,y
 combien,มากเท่าไหร่,y
@@ -42,6 +45,7 @@ commander,สั่ง ร้องขอ,y
 commencer,เริ่ม,y
 comment,อย่างไร,y
 comprendre,เข้าใจ,y
+concerner,ทำผลกระทบ ทำให้กังวล,y
 connaître,รู้จัก,y
 contenir,บรรจุ,y
 couper,ตัด,y
@@ -58,7 +62,8 @@ entrer,เข้า,y
 facile,ง่าย,y
 faire,ทำ,y
 falloir,จำเป็นต้อง (ไม่มีประธาน),y
-finir,ทำเสร็จ,y
+fermer,ปิด,y
+finir,ทำเสร็จ (!t),y
 fort,แข็งแรง,y
 froid,เย็น,y
 gagner,ชนะ ได้เงิน,y
@@ -166,6 +171,7 @@ le tigre,เสือ,y
 le train,รถไฟ,y
 le verre,แก้ว,y
 le vin,ไวน์,y
+le zoo,สวนสัตว์,y
 les pâtes,พาสต้า,y
 les vêtements,เสื้อผ้า,y
 liquide,ที่เป็นของเหลว,y
@@ -219,11 +225,13 @@ souvent,บ่อย ๆ,y
 suivre,ตาม,y
 tard,สาย,y
 tenir,ถือ จับ มี,y
-terminer,ทำให้เสร็จ,y
+terminer,ทำให้เสร็จ (!f),y
 trouver,หาเจอ,y
 vendre,ขาย,y
 vert,สีเขียว,y
 violet,สีม่วง,y
+visiter,เยี่ยม,y
+vivre,อยู่อาศัย,y
 voir,เห็น,y
 vouloir,อยาก,y
 ça,สิ่งนั้น,y
