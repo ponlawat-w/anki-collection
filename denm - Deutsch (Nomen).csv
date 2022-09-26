@@ -17,8 +17,8 @@ das Angebot,Angebot,die Angebote,การช่วยเหลือ ข้อ�
 das Arbeitszimmer,,,ห้องทำงาน,y
 das Auge,Auge,die Augen,ตา (ดวงตา),y
 das Ausland,,,ต่างประเทศ,y
-das Austausch,Austausch,die Austausche,การแลกเปลี่ยน (่เช่น นศ.แลกเปลี่ยน),y
-das Auto,Auto,die Autos,รถยนต์,y
+das Austausch,Austausch,die Austausche,การแลกเปลี่ยน (เช่น นศ.แลกเปลี่ยน),y
+das Auto,Auto,die Autos,รถยนต์ (!W),y
 das Baby,Baby,die Babys,เด็กทารก,y
 das Bad,Bad,die Bäder,ห้องอาบน้ำ (ไม่ Zimmer),y
 das Badezimmer,,,ห้องอาบน้ำ (zimmer),y
@@ -565,7 +565,7 @@ der Vogel,Vogel,die Vögel,นก,y
 der Vorhang,Vorhang,die Vorhänge,ผ้าม่าน,y
 der Vormittag,Vormittag,die Vormittage,ตอนสาย,y
 der Vorname,Vorname,die Vornamen,ชื่อจริง,y
-der Wagen,Wagen,die Wagen,รถ,y
+der Wagen,Wagen,die Wagen,รถ (!A),y
 der Wald,Wald,die Wälder,ป่า,y
 der Wasserhahn,Wasserhahn,die Wasserhähne,ก๊อกน้ำ,y
 der Wecker,Wecker,die Wecker,นาฬิกาปลุก,y
