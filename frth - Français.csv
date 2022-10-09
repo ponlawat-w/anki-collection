@@ -28,6 +28,7 @@ apprendre,เรียน,y
 attendre,รอ,y
 avec,กับ ด้วย,y
 avoir,มี,y
+beau,สวย ดูดี (!j),y
 beaucoup,มาก,y
 bientôt,ไว ๆ นี้,y
 blanc,สีขาว,y
@@ -38,6 +39,7 @@ bon,ดี,y
 cacher,ซ่อน,y
 calme,ที่เงียบ สงบ,y
 casser,ทำแตก ทำพัง,y
+cet,นี้,y
 chaud,ร้อน อุ่น (สัมผัส),y
 chercher,ค้นหา,y
 combien,มากเท่าไหร่,y
@@ -53,16 +55,20 @@ courir,วิ่ง,y
 croire,เชื่อ,y
 cuisiner,ทำอาหาร,y
 demain,วันพรุ่งนี้,y
+dernier,สุดท้าย ล่าสุด,y
 derrière,ด้านหลัง,y
+deuxième,อันดับที่สอง (!s),y
 devenir,กลายเป็น,y
 devoir,ต้อง,y
+difficile,ยาก,y
+diffèrent,ที่แตกต่าง,y
 dire,บอก กล่าว พูด,y
 donner,ให้,y
 dormir,หลับ,y
 désolé,ขอโทษ ที่รู้สึกผิด,y
 entendre,ได้ยิน,y
 entrer,เข้า,y
-facile,ง่าย,y
+facile,ง่าย (!s),y
 faire,ทำ,y
 falloir,จำเป็นต้อง (ไม่มีประธาน),y
 fermer,ปิด,y
@@ -73,10 +79,12 @@ gagner,ชนะ ได้เงิน,y
 grand,ใหญ่,y
 gris,สีเทา,y
 gros,ขนาดใหญ่ อ้วน,y
+important,สำคัญ,y
+impossible,เป็นไปไม่ได้,y
 intéresser,ทำให้สนใจ,y
 jaune,สีเหลือง,y
 jeune,ที่อายุน้อย เด็ก,y
-joli,สวยงาม หล่อ งดงาม,y
+joli,สวยงาม หล่อ งดงาม (!b),y
 l'enfant,เด็ก,y
 la baguette,ขนมปังบาเกต์,y
 la baleine,ปลาวาฬ,y
@@ -116,6 +124,7 @@ la vache,วัว,y
 la veste,เสื้อแจ็กเก็ต,y
 la viande,เนื้อ,y
 lancer,ขว้าง โยน,y
+large,กว้าง,y
 laver,ล้าง ซัก,y
 le banane,กล้วย,y
 le bateau,เรือ,y
@@ -179,19 +188,24 @@ les pâtes,พาสต้า,y
 les vêtements,เสื้อผ้า,y
 liquide,ที่เป็นของเหลว,y
 lire,อ่าน,y
+long,ยาว,y
 lourd,หนัก,y
 léger,เบา,y
+malade,ป่วย,y
 manger,กิน,y
 marcher,เดิน,y
 marron,สีน้ำตาล,y
 mauvais,แย่ ผิด เลว,y
 mettre,ใส่ สวม,y
 montrer,แสดง โชว์ เอาให้ดู,y
+mort,ที่ตายแล้ว,y
 motiver,สร้างแรงบันดาลใจ,y
 mourir,ตาย,y
 mériter,คู่ควร เหมาะสม,y
+même,ที่เหมือนกัน,y
 neiger,หิมะตก,y
 noir,สีดำ,y
+nombreux,หลากหลาย มาก (!b),y
 nouveau / nouvel,ใหม่ (ช),y
 nouvelle,ใหม่ (ญ),y
 offrir,ให้เป็นของขวัญ เสนอให้,y
@@ -201,6 +215,7 @@ ouvrir,เปิด,y
 où,ที่ไหน,y
 parfait,สมบูรณ์แบบ ยอดเยี่ยม,y
 parler,พูด,y
+pauvre,ยากจน,y
 petit,เล็ก,y
 photographier,ถ่ายรูป,y
 pleuvoir,ฝนตก,y
@@ -215,7 +230,7 @@ prendre,เอา ดื่ม รับ,y
 propre,สะอาด,y
 quand,เมื่อไหร่,y
 qui,ใคร,y
-regarder,ดู,y
+regarder,ดู (!v),y
 respecter,เคารพ,y
 riche,รวย,y
 rien,ไม่สักอย่าง,y
@@ -224,13 +239,17 @@ rouge,สีแดง,y
 saisir,หยิบ จับ เข้าใจ,y
 sale,สกปรก,y
 savoir,รู้,y
+second,ลำดับที่สอง (!d),y
 seul,โดดเดี่ยว คนเดียว,y
+simple,ง่าย (!f),y
 souhaiter,ปรารถนา ต้องการ,y
 souvent,บ่อย ๆ,y
 suivre,ตาม,y
+sûr,แน่ใจ,y
 tard,สาย,y
-tenir,ถือ จับ มี,y
+tenir,ถือ จับ มี (!p),y
 terminer,ทำให้เสร็จ (!f),y
+troisième,อันดับที่สาม,y
 trouver,หาเจอ,y
 vendre,ขาย,y
 venir,มา,y
@@ -238,8 +257,9 @@ vert,สีเขียว,y
 violet,สีม่วง,y
 visiter,เยี่ยม,y
 vivre,อยู่อาศัย,y
-voir,เห็น ดู,y
+voir,เห็น ดู (!r),y
 vouloir,อยาก,y
+vrai,ที่เป็นความจริง,y
 ça,สิ่งนั้น,y
 écrire,เขียน,y
 être,เป็น อยู่ คือ,y

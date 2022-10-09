@@ -143,6 +143,7 @@ das Lieblingsgetränk,Lieblingsgetränk,die Lieblingsgetränke,เครื่�
 das Lied,Lied,die Lieder,เพลง,y
 das Magengeschwür,,,โรคกระเพาะ,y
 das Mal,Mal,die Mäle,ครั้ง,y
+das Maß,Maß,die Maße,มาตรวัด การวัด,y
 das Medikament,Medikament,die Medikamente,ยา การรักษา,y
 das Meer,Meer,die Meere,ทะเล,y
 das Mehl,Mehl,die Mehle,แป้ง,y
@@ -159,6 +160,7 @@ das Möbel,Möbel,die Möbel,เฟอร์นิเจอร์,y
 das Müsli,Müsli,die Müslis,ซีเรียล (อาหารเช้า),y
 das Obst,Obst,die Obst,ผลไม้ (O),y
 das Ohr,Ohr,die Ohren,หู,y
+das Opfer,Opfer,die Opfer,ผู้ประสบภัย เหยื่อ,y
 das Paar,Paar,die Paare,คู่,y
 das Papier,Papier,die Papiere,กระดาษ,y
 das Parfüm,Parfüm,die Parfüme / die Parfüms,น้ำหอม,y
@@ -169,6 +171,7 @@ das Polnisch,Polnisch,,ภาษาโปแลนด์,y
 das Portugiesisch,Portugiesisch,,ภาษาโปรตุเกส,y
 das Praktikum,Praktikum,die Praktika,การฝึกงาน (!~ung),y
 das Problem,Problem,die Probleme,ปัญหา,y
+das Prozent,Prozent,die Prozente,เปอร์เซ็นต์ ร้อยละ,y
 das Quartal,Quartal,die Quartale,ไตรมาส,y
 das Radio,Radio,die Radios,วิทยุ,y
 das Rathaus,Rathaus,die Rathäuser,ศาลากลางจังหวัด,y
@@ -234,7 +237,7 @@ das Äuglein,Äuglein,,ดวงตา (เล็ก ๆ),y
 das Öl,Öl,,น้ำมัน,y
 der Abend,Abend,die Abende,ตอนเย็น ค่ำ,y
 der Abfall,Abfall,die Abfälle,ขยะ,y
-der Akku,Akku,die Akkus,แบตเตอรี,y
+der Akku,Akku,die Akkus,แบตเตอรี (!B),y
 der Alkohol,Alkohol,,แอลกอฮอล,y
 der Angestellter,Angestellter,,พนักงานบริษัท,y
 der Anzug,Anzug,die Anzüge,ชุดสูท,y
@@ -437,6 +440,7 @@ der Nachtisch,Nachtisch,die Nachtische,ของหวาน อาหารห�
 der Name,Name,die Namen,ชื่อ,y
 der Neffe,Neffe,die Neffen,หลานชาย (ของลุงป้าน้าอา),y
 der Norden,Norden,,ทิศเหนือ,y
+der Notfall,Notfall,die Notfälle,เรื่องเร่งด่วน เรื่องฉุกเฉิน,y
 der November,November,,พฤศจิกายน,y
 der Nähe,Nähe,,ละแวกใกล้ ๆ บริเวณใกล้ ๆ (คำนาม),y
 der Ofen,Ofen,die Öfen,เตาอบ,y
@@ -616,7 +620,7 @@ die Bahn,Bahn,die Bahnen,รถไฟ (!Z),y
 die Banane,Banane,die Bananen,กล้วย,y
 die Bank,Bank,die Bänke,ธนาคาร,y
 die Bar,Bar,die Bars,บาร์ ผับ,y
-die Batterie,Batterie,die Batterien,แบตเตอรี,y
+die Batterie,Batterie,die Batterien,แบตเตอรี (!A),y
 die Bauchschmerzen,,,ปวดท้อง,y
 die Bedienung,Bedienung,die Bedienungen,ผู้ให้บริการ บริกร (server),y
 die Beratung,,die Beratungen,คำแนะนำ คำปรึกษา (!A),y
@@ -792,6 +796,7 @@ die Mensa,Mensa,die Mensen,โรงอาหาร (!K),y
 die Miete,Miete,die Mieten,ค่าเช่า,y
 die Mikrowelle,Mikrowelle,die Mikrowellen,ไมโครเวฟ,y
 die Milch,Milch,die Milch,นม,y
+die Million,Million,die Millionen,ล้าน,y
 die Mittagspause,Mittagspause,die Mittagspausen,พักกลางวัน,y
 die Mitte,Mitte,die Mitten,ตรงกลาง,y
 die Mitteilung,,,ข้อความ,y
@@ -935,6 +940,7 @@ die Waschmaschine,Waschmaschine,die Waschmaschinen,เครื่องซั�
 die Weihnacht,Weihnacht,die Weihnachten,คริสต์มาส,y
 die Welle,Welle,die Wellen,คลื่น,y
 die Welt,Welt,die Welten,โลก,y
+die Werkstatt,Werkstatt,die Werkstätten,อู่ซ่อมรถ,y
 die Wiese,Wiese,die Wiesen,สนามหญ้า,y
 die Wissenschaft,Wissenschaft,die Wissenschaften,วิทยาศาสตร์,y
 die Woche,Woche,die Wochen,สัปดาห์,y
