@@ -41,7 +41,9 @@ calme,ที่เงียบ สงบ,y
 casser,ทำแตก ทำพัง,y
 cet,นี้,y
 chaud,ร้อน อุ่น (สัมผัส),y
+cher,แพง,y
 chercher,ค้นหา,y
+clair,ชัดเจน ซีด สว่าง,y
 combien,มากเท่าไหร่,y
 commander,สั่ง ร้องขอ,y
 commencer,เริ่ม,y
@@ -52,6 +54,7 @@ connaître,รู้จัก,y
 contenir,บรรจุ,y
 couper,ตัด,y
 courir,วิ่ง,y
+court,สั้น,y
 croire,เชื่อ,y
 cuisiner,ทำอาหาร,y
 demain,วันพรุ่งนี้,y
@@ -69,11 +72,13 @@ désolé,ขอโทษ ที่รู้สึกผิด,y
 entendre,ได้ยิน,y
 entrer,เข้า,y
 facile,ง่าย (!s),y
+faible,อ่อนแอ,y
 faire,ทำ,y
 falloir,จำเป็นต้อง (ไม่มีประธาน),y
 fermer,ปิด,y
 finir,ทำเสร็จ (!t),y
 fort,แข็งแรง,y
+franc,ตรงไปตรงหมา เปิดเผย,y
 froid,เย็น,y
 gagner,ชนะ ได้เงิน,y
 grand,ใหญ่,y
@@ -230,6 +235,7 @@ prendre,เอา ดื่ม รับ,y
 propre,สะอาด,y
 quand,เมื่อไหร่,y
 qui,ใคร,y
+rapide,เร็ว,y
 regarder,ดู (!v),y
 respecter,เคารพ,y
 riche,รวย,y
