@@ -32,6 +32,7 @@ das Betttuch,,,ผ้าปูที่นอน (~t),y
 das Bier,Bier,die Biere,เบียร์,y
 das Bild,Bild,die Bilder,รูปวาด รูปภาพ,y
 das Blatt,Blatt,die Blätter,ใบไม้,y
+das Blut,Blut,,เลือด,y
 das Boot,Boot,die Boote,เรือ (!S),y
 das Brot,Brot,die Brote,ขนมปัง,y
 das Brötchen,Brötchen,die Brötchen,ขนมปังก้อน,y
@@ -242,6 +243,7 @@ der Abend,Abend,die Abende,ตอนเย็น ค่ำ,y
 der Abfall,Abfall,die Abfälle,ขยะ,y
 der Akku,Akku,die Akkus,แบตเตอรี (!B),y
 der Alkohol,Alkohol,,แอลกอฮอล,y
+der Anfänger,,,มือใหม่,y
 der Angestellter,Angestellter,,พนักงานบริษัท,y
 der Anzug,Anzug,die Anzüge,ชุดสูท,y
 der Apfel,Apfel,die Äpfen,แอปเปิล,y
@@ -671,6 +673,7 @@ die Erdbeere,Erdbeere,die Erdbeeren,สตรอว์เบอร์รี,y
 die Erde,Erde,die Erden,ดิน โลก,y
 die Erinnerung,Erinnerung,die Erinnerungen,ความทรงจำ,y
 die Erlaubnis,Erlaubnis,die Erlaubnisse,การอนุญาต,y
+die Ernährung,,,สารอาหาร,y
 die Etage,Etage,die Etagen,ชั้น (E),y
 die Fahne,Fahne,die Fahnen,ธง ป้าย,y
 die Fahrkarte,,,บัตรโดยสาร,y
@@ -696,6 +699,7 @@ die Garage,Garage,die Garagen,โรงรถ,y
 die Geburt,Geburt,die Geburts,การเกิด,y
 die Gebühr,Gebühr,die Gebühren,ค่าธรรมเนียม ค่าบริการ,y
 die Geige,Geige,die Geigen,ไวโอลิน,y
+die Gemeinde,Gemeinde,die Gemeinden,ศาลากลาง ที่ว่าการเมือง,y
 die Gemeinschaft,Gemeinschaft,die Gemeinschaften,ชุมชน สังคม,y
 die Geschichte,Geschichte,die Geschichten,เรื่องราว เนื้อเรื่อง ประวัติ,y
 die Geschäftsleute,Geschäftsleute,,นักธุรกิจ (gl),y
@@ -718,6 +722,7 @@ die Hausaufgabe,Hausaufgabe,die Hausaufgaben,การบ้าน,y
 die Haushaltswaren,Haushaltswaren,,เครื่องใช้ในครัว,y
 die Hausnummer,Hausnummer,die Hausnummern,เลขที่บ้าน,y
 die Haustür,,,ประตูหน้าบ้าน ประตูบ้าน,y
+die Haut,Haut,die Häute,ผิวหนัง,y
 die Heimat,Heimat,die Heimaten,บ้านเกิด,y
 die Heizung,Heizung,die Heizungen,ฮีตเตอร์,y
 die Herren,Herren,,สุภาพบุรุษ (พหูพจน์),y
@@ -753,6 +758,7 @@ die Kleidung,Kleidung,die Kleidungen,เสื้อผ้า,y
 die Kleinigkeit,,,ของเล็ก ๆ น้อย ๆ ของจุกจิก,y
 die Klimaanlage,Klimaanlage,die Klimaanlagen,เครื่องปรับอากาศ,y
 die Klingel,Klingel,die Klingeln,ออด กระดิ่ง,y
+die Klinik,Klinik,die Kliniken,คลินิก,y
 die Kneipe,Kneipe,die Kneipen,ผับ,y
 die Kohle,Kohle,die Kohlen,ถ่าน คาร์บอน,y
 die Kohlensäure,Kohlensäure,die Kohlensäuren,ก๊าซ อัดลม,y
@@ -795,6 +801,7 @@ die Mathematik,Mathematik,,คณิตศาสตร์,y
 die Maus,Maus,die Mäuse,หนู,y
 die Meditation,Meditation,die Meditationen,การทำสมาธิ,y
 die Meeresfrüchte,Meeresfrüchte,,อาหารทะเล ซีฟูด,y
+die Meinung,,,ความคิดเห็น,y
 die Melone,Melone,die Melonen,เมลอน,y
 die Mensa,Mensa,die Mensen,โรงอาหาร (!K),y
 die Miete,Miete,die Mieten,ค่าเช่า,y
@@ -831,6 +838,7 @@ die Pension,Pension,die Pensionen,เพนชัน เกสต์เฮาส
 die Person,Person,die Personen,บุคคล,y
 die Pfanne,Pfanne,die Pfannen,กระทะ,y
 die Pflanze,Pflanze,die Pflanzen,พืช,y
+die Pflege,Pflege,,การดูแล การเฝ้าไข้ การรักษา,y
 die Physik,Physik,,ฟิสิกส์,y
 die Pizza,Pizza,die Pizzen,พิซซ่า,y
 die Platte,Platte,die Platten,แผ่น ชีท ใบ,y
@@ -838,7 +846,7 @@ die Polizei,Polizei,,ตำรวจ (กรม องค์กร),y
 die Pommes,Pommes,,มันฝรั่งทอด,y
 die Post,Post,,ไปรษณีย์,y
 die Postleitzahl,Postleitzahl,,รหัสไปรษณีย์,y
-die Praxis,Praxis,die Praxen,การฝึกหัด (!Ü),y
+die Praxis,Praxis,die Praxen,การฝึกหัด ที่ทำงานแพทย์ (!Ü),y
 die Prinzessin,Prinzessin,die Prinzessinnen,เจ้าหญิง,y
 die Prüfung,Prüfung,,การสอบ การทดสอบ (ทั่วไป),y
 die Puppe,Puppe,die Puppen,ตุ๊กตา,y
@@ -897,6 +905,7 @@ die Strategie,Strategie,die Strategien,กลยุทธ์ ยุทธศา�
 die Straße,Straße,die Straßen,ถนน,y
 die Straßenseite,Straßenseite,die Straßenseiten,ฟากถนน,y
 die Stunde,Stunde,die Stunden,ชั่วโมง คาบ,y
+die Sucht,Sucht,,การเสพติด,y
 die Summe,Summe,die Summen,ผลรวม,y
 die Suppe,Suppe,die Suppen,ซุป,y
 die Säge,Säge,die Sägen,เลื่อย,y
@@ -911,6 +920,7 @@ die Technologie,Technologie,die Technologien,เทคโนโลยี,y
 die Telefonnummer,Telefonnummer,die Telefonnummern,หมายเลขโทรศัพท์,y
 die Telefonzelle,Telefonzelle,die Telefonzellen,ตู้โทรศัพท์,y
 die Terasse,Terasse,die Terassen,ชานบ้าน,y
+die Therapie,Therapie,die Therapien,การบำบัด การรักษา,y
 die Tierwelt,,,สัตว์ประจำถิ่น,y
 die Tochter,Tochter,die Töchter,ลูกสาว,y
 die Toilette,Toilette,die Toiletten,ห้องน้ำ,y

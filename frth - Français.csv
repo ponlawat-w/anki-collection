@@ -78,12 +78,13 @@ falloir,จำเป็นต้อง (ไม่มีประธาน),y
 fermer,ปิด,y
 finir,ทำเสร็จ (!t),y
 fort,แข็งแรง,y
-franc,ตรงไปตรงหมา เปิดเผย,y
+franc,ตรงไปตรงมา เปิดเผย,y
 froid,เย็น,y
 gagner,ชนะ ได้เงิน,y
 grand,ใหญ่,y
 gris,สีเทา,y
 gros,ขนาดใหญ่ อ้วน,y
+ici,ที่นี่,y
 important,สำคัญ,y
 impossible,เป็นไปไม่ได้,y
 intéresser,ทำให้สนใจ,y
@@ -106,6 +107,7 @@ la chienne,สุนัขตัวเมีย,y
 la confiture,แยม,y
 la couleur,สี,y
 la crêpe,เครป,y
+la faim,ความหิว,y
 la femme,ผู้หญิง,y
 la fille,เด็กผู้หญิง,y
 la fourmi,มด,y
@@ -120,9 +122,11 @@ la pomme,แอปเปิล,y
 la recette,สูตรอาหาร,y
 la robe,เสื้อ ชุดเดรส,y
 la rose,ดอกกุหลาบ,y
+la réservation,การจอง,y
 la salade,สลัด,y
 la soupe,ซุป,y
 la souris,หนู,y
+la table,โต๊ะ,y
 la tomate,มะเขือเทศ,y
 la tortue,เต่า,y
 la vache,วัว,y
@@ -153,6 +157,7 @@ le garçon,เด็กผู้ชาย,y
 le gâteau,เค้ก,y
 le haricot,ถั่วแขก,y
 le jean,กางเกงยีน,y
+le jour,วัน,y
 le journal,หนังสือพิมพ์,y
 le jus,น้ำผลไม้,y
 le lait,นม,y

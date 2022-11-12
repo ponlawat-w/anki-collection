@@ -31,6 +31,7 @@ valencià,tailandés,Add Reverse
 (f.) l'esglèsia,โบสถ์,y
 (f.) l'espatlla,หัวไหล่ (!m),y
 (f.) l'espiera,ตาแมว,y
+(f.) l'esponja,ฟองน้ำ,y
 (f.) l'esposa,ภรรยา (e),y
 (f.) l'esquena,หลัง (อวัยวะ),y
 (f.) l'esquerra,ซ้ายมือ,y
@@ -253,7 +254,7 @@ descovrir,ค้นพบ หาเจอ (!t),y
 desdejunar-se,รับประทานอาหารเช้า,y
 desenvolupar,พัฒนา,y
 desitjar,ปรารถนา หวัง,y
-despertar-se,ตื่น (รู้สึกตัว),y
+despertar-se,ตื่น (รู้สึกตัว !ll),y
 destre,ถนัดขวา,y
 destruir,รื้อถอน ทำลาย (!t),y
 deu ser que,จะเป็นเพราะว่า (es: será que),y
@@ -481,6 +482,7 @@ el muscle,หัวไหล่ (!h),y
 el museu,พิพิธภัณฑ์,y
 el món,โลก,y
 el músic,นักดนตรีผู้ชาย,y
+el nadó,ทารก,y
 el nas,จมูก,y
 el nebot,หลานชายของลุงป้าน้าอา,y
 el nen,เด็กผู้ชาย (n),y
@@ -592,7 +594,7 @@ el sòl,พื้น (!t),y
 el tailandés,ภาษาไทย / คนไทย (ช),y
 el tamboret,เก้าอี้สูงหน้าบาร์,y
 el tema,หัวข้อ,y
-el terra,พื้น (!s),y
+el terra,พื้นดิน,y
 el terreny,ที่ดิน,y
 el torneig,ทัวร์นาเมนต์,y
 el tramvia,รถราง,y
@@ -644,6 +646,7 @@ estret,แคบ คับ,y
 estúpid,โง่,y
 esvelt,ผอมเพรียว สลิม,y
 europeu,ที่เกี่ยวกับยุโรป,y
+famós,มีชื่อเสียง,y
 fer,ทำ,y
 fer l'efecte,ให้ความรู้สึก… (es: parecer),y
 fer pudor,ส่งกลิ่นเหม็น,y

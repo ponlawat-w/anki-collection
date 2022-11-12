@@ -1,7 +1,11 @@
 thaïlandais,français,หมายเหตุ
+เธอมีขนมปังไหม,As tu du pain?,v+s
+สวัสดีตอนเย็น ฉันจองไว้สำหรับสองที่,Bonsoir. J'ai une réservation pour deux.,
 มีกี่อัน,C'est combien?,
+มันเป็นวันที่สำคัญวันหนึ่ง,C'est un jour important.,
 มันเป็นจดหมายที่สำคัญฉบับหนึ่ง,C'est une lettre importante.,
 ม้าตัวนี้ราคาแพง,Ce cheval est cher.,
+มันคือแอปเปิล(พหู),Ce sont des pommes.,
 เขาได้(เงิน)เท่าไหร่,Combien il gagne?,
 เธอกินไก่(+a)อย่างไร,Comment manges-tu le poulet?,
 เธอ(๓ญ)ซื้อเสื้อสีแดงสวย ๆ ตัวหนึ่ง,Elle achète une jolie robe rouge.,
@@ -33,6 +37,8 @@ thaïlandais,français,หมายเหตุ
 พวกเขากินเนื้อสีแดง,Ils mangent de la viande rouge.,- ไม่เจาะจง
 พวกเขากินข้าว,Ils mangent du riz.,- ไม่เจาะจง
 พวกเขาเขียนชื่อ(จำนวนหนึ่ง),Ils écrivent des noms.,
+ฉันร้อน,J'ai chaud.,
+ฉันหิวมาก,J'ai très faim.,
 ฉันชอบดื่มไวน์แดง,J'aime boire du vin rouge.,
 ฉันชอบสีชมพู,J'aime la couleur rose.,
 ฉันชอบชุดเดรส(พหู)สีแดง,J'aime les robes rouges.,
@@ -48,6 +54,7 @@ thaïlandais,français,หมายเหตุ
 ฉันกินแอปเปิลผลที่กลม ๆ,Je mange la pomme ronde.,
 ฉันกินส้มหนึ่งลูก,Je mange une orange.,
 ฉันเคารพภรรยาของเธอ,Je respecte ta femme.,
+ฉันเห็นด้วย,Je suis d'accord.,
 ฉันขอโทษ,Je suis désolé.,
 ฉันจะไปกินขนมปังบาเกต์อันหนึ่ง,Je vais manger une baguette.,
 ฉันอยากกินไก่,Je veux manger du poulet.,
@@ -130,8 +137,10 @@ thaïlandais,français,หมายเหตุ
 เธอ(๒)กินกับข้าวเหมือนเดิม,Tu manges le même repas.,
 เธอ(t)กินมะเขือเทศหนึ่งลูกและผลไม้จำนวนหนึ่ง,Tu manges une tomate et des fruits.,
 เธอพูดเกี่ยวกับหนังสือ(พหู),Tu parles des livres.,
+เธออยากกินอะไร,Tu veux manger quoi?,~ q
 แอปเปิลลูกหนึ่งนั้นเบา,Une pomme est légère.,
 หนูของ<u><i><b>พวกเธอ</b></i></u>กินชีส,Votre souris mange du fromage.,
+โต๊ะของคุณอยู่ที่นี่,Votre table est ici.,
 คุณ(v)อยากดื่ม,Vous voulez boire.,
 พวกเธอตัวใหญ่สูง,Vous êtes grands.,
 เจอกันไว ๆ นี้,À bientôt!,!
