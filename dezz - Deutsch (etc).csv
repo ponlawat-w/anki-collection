@@ -228,7 +228,7 @@ halten,V.,หยุด (h),y
 hassen,V.,เกลียดชัง,y
 heimfahren,V.,กลับบ้าน (ไปบ้าน),y
 heimlich,Adj.,ที่เป็นความลับ,y
-heiraten,V.,แต่งงาน,y
+heiraten,V.,แต่งงาน (!v),y
 heiß,Adj.,ร้อน,y
 hektisch,Adj.,ใจร้อน เร่งรีบ,y
 helfen,V.,ช่วยเหลือ,y
@@ -461,6 +461,7 @@ sich unterhalten,V.,สนทนา,y
 sicher,Adj.,ปลอดภัย เชื่อถือได้ ไว้วางใจได้,y
 siebt,Adj.,ที่เจ็ด,y
 simpel,Adj.,ง่าย (ซิมเปิล),y
+sinnvoll,Adj.,ที่มีเหตุผล เข้าใจได้ เมคเซนส์,y
 sitzen,V.,นั่ง,y
 sobald,Konj.,ทันทีที่,y
 sofern,Konj.,ตราบใดที่,y
@@ -530,7 +531,7 @@ verfügbar,Adj.,ที่มีอยู่ ที่จัดหาให้ไ
 vergangen,Adj.,ที่เป็นอดีต,y
 vergessen,V.,ลืม,y
 vergleichnen,V.,เปรียบเทียบ,y
-verheiraten,V.,แต่งงาน,y
+verheiraten,V.,แต่งงาน (v),y
 verheiratet,Adj.,สมรส(แล้ว),y
 verkaufen,V.,ขาย,y
 verlassen,V.,ออกจาก (~l),y
