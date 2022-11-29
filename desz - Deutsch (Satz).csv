@@ -60,7 +60,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 โทรศัพท์(มือถือ)ดัง(รอสาย)สามครั้งและ Julia ก็รับสาย,Das Handy klingelt drei Mal und Julia antwortet.,
 โรงแรมสะอาดและใหญ่ ห้องของพวกเราแพงแต่มันมีระเบียงพร้อมกับวิวทะเล,"Das Hotel ist sauber und groß. Unser Zimmer ist teuer, aber es hat einen Balkon mit Meerblick.",
 ภายในของปราสาทนั้นใหญ่มาก,Das Innere des Schlosses ist sehr groß.,
-ฉันชอบชุดเดรสตัวนี้นะ แต่ฉันคิดว่ามันแพงเกินไป,Das Kleid gefällt mir ganz gut. Aber ich finde es zu teuer.,△. △.
+ฉันชอบ(g)ชุดเดรสตัวนี้นะ แต่ฉันคิดว่ามันแพงเกินไป,Das Kleid gefällt mir ganz gut. Aber ich finde es zu teuer.,△. △.
 ชุดเดรสตัวเล็ก,Das Kleid ist klein.,
 ฉันไม่ชอบชุดเดรสนี้ มันแพงเกินไปสำหรับฉัน,Das Kleid mag ich nicht. Es ist mir zu teuer.,
 คอนเสิร์ตเริ่มเวลา 7:30 น.,Das Konzert fängt um halb acht an.,umgangsprachlich
@@ -210,6 +210,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เขา (er) ตั้งใจจะไปเรียนที่ประเทศเยอรมนี,Er will in Deutschland studieren.,
 เขาลังเลอยู่นาน จนกระทั่งตอบฉันในที่สุด,"Er zögert lange, bis er mir endlich antwortet.",
 เขาเปิด(!m)ประตู และตอนนี้มันเปิดอยู่,Er öffnet die Tür. Jetzt ist sie auf.,
+เขาพูดกับ(z)น้องชายของเขาอีกครั้ง,Erneut spricht er zu seinem Bruder.,เริ่มด้วยประโยคด้วยคำว่าอีกครั้ง
 ฉันชอบมัน(ก)มากกว่า,Es gefällt mir besser.,- ทำให้ชอบ
 มีสุนัขอยู่หนึ่งตัวในบ้านหลังนี้,Es gibt einen Hund in diesem Haus.,
 มีดอกไม้สวย ๆ อยู่ในสวน,Es gibt schöne Blumen im Garten.,
@@ -513,7 +514,7 @@ Michael จ้องมองไปที่ผู้ชายคนนั้น
 หลังอาหารฉันทำงานได้ไม่ค่อยดี,Nach dem Essen kann ich nicht gut arbeiten.,- ไม่สามารถทำงานได้ดี
 หลังเล่นกีฬาเขาไปอาบน้ำ,Nach dem Sport geht er duschen.,
 หลังจากเงียบไปสองสามนาที ฉันก็ได้ถามชายคนนั้นอีกหนึ่งคำถาม,Nach einigen Minuten Stille habe ich noch eine Frage an den Mann.,- ถาม: Frage haben
-หลังจากเขาวิ่ง เขาก็หลับ,"Nachdem er rennt, schläft er.",
+หลังจากเขาวิ่ง(!l) เขาก็หลับ,"Nachdem er rennt, schläft er.",
 ไม่เป็นไร ขอบคุณ ฉันอิ่มแล้ว,"Nein, danke. Ich bin satt.",อิ่ม - s~
 ไม่ ขอบคุณ ฉันไม่ชอบดื่มไวน์ขาว ฉัน<u>ชอบ</u>ไวน์แดงมากกว่า,"Nein, danke. Ich trinke nicht gern Weißwein. Ich möchte lieber Rotwein.",
 - Kommst du später?<br>- ไม่ ไม่ได้ หลังจากนั้นฉัน(ต้อง)ทำการบ้าน(พหู),"Nein, das geht nicht. Später mache ich Hausaufgaben.",
@@ -589,6 +590,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 คุณ(Sie)ควร(m)ทานอาหารไขมันต่ำ,Sie müssen fettarm essen.,
 ที่คุณเห็นด้านหน้าเป็นโบสถ์,Sie sehen geradeaus eine Kirche.,
 พวกเขาเดินเล่นตรงคลอง Landwehr ไปทาง Treptow,Sie spazieren am Landwehrkanal Richtung Treptow.,
+เธอ(๓)พูดกับพ่อแม่ของเธอเกี่ยวกับทุกเรื่อง,Sie spricht mit ihren Eltern über alles.,
 มัน(ญ)กระโดดไปที่โต๊ะ,Sie springt gegen den Tisch.,
 เธอ(๓)ใส่หมวกใบหนึ่งอยู่บนหัว,Sie trägt auf dem Kopf einen Hut.,
 เธอ(๓)ใส่สร้อยคอเส้นหนึ่งอยู่รอบ ๆ คอ,Sie trägt eine Kette um den Hals.,
@@ -650,6 +652,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 คุณทำอะไรในวันเสาร์อาทิตย์,Was machen Sie am Wochenende?,Sie
 คุณทำอะไรในตอนเช้าวันอาทิตย์,Was machst du am Sonntagmorgen?,du
 คุณทำอะไรในเวลาว่างของคุณ,Was machst du in deiner Freizeit?,du
+เธอชอบเขา(ญ)ตรงไหน,Was magst du an ihr?,
 พวกเธออยากจะดื่มอะไร,Was möchtet ihr trinken?,ihr
 ฉันควรทำอย่างไรดีเพื่อแก้อาการปวด,Was soll ich gegen die Schmerzen tun?,
 เธอรู้ไหมว่าทำไม Anne ถึงมาสายขนาดนี้วันนี้,"Weißt du, warum Anne heute so spät kommt?",
@@ -663,7 +666,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 ผ่านไปครูหนึ่ง Michael กับ Julia ก็เข้ามาในบ้าน(W),Wenig später kommen Michael und Julia in die Wohnung.,
 ตอนที่เธอ(๓ญ)กิน ฉันจะดื่ม,"Wenn sie isst, trinke ich.",
 เธอคือใคร,Wer bist du?,
-ใครอยู่กับเธอ(๓)ในโรงพยาบาล,Wer ist bei ihr im Krankenhaus?,
+ใครอยู่กับ(!m)เธอ(๓)ในโรงพยาบาล,Wer ist bei ihr im Krankenhaus?,
 คุณเป็นใครหรอครับ,Wer sind Sie?,Sie
 คุณอายุเท่าไหร่,Wie alt bist du?,du
 ลูกชายของคุณอายุเท่าไหร่,Wie alt ist Ihr Sohn?,Sie?

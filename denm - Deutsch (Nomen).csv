@@ -354,7 +354,7 @@ der Grund,Grund,die Gründe,เหตุผล,y
 der Gruß,Gruß,die Grüße,การทักทาย คำทักทาย,y
 der Hafen,Hafen,die Häfen,ท่าเรือ,y
 der Hahn,Hahn,die Hähne,ไก่ตัวผู้,y
-der Halbe,Halbe,die Halben,ครึ่งหนึ่ง,y
+der Halbe,Halbe,die Halben,ครึ่งหนึ่ง (!~f),y
 der Hals,Hals,die Hälse,คอ ลำคอ,y
 der Halter,Halter,die Halter,ที่วาง ที่จับ ที่ถือ,y
 der Hase,Hase,die Hasen,กระต่ายป่า,y
@@ -733,6 +733,7 @@ die Hilfe,Hilfe,die Hilfen,ความช่วยเหลือ,y
 die Hintertür,,,ประตูหลัง,y
 die Hochzeit,Hochzeit,die Hochzeiten,งานแต่งงาน,y
 die Hose,Hose,die Hosen,กางเกง,y
+die Hälfte,Hälfte,die Hälften,ครึ่งหนึ่ง (!~b),y
 die Idee,Idee,die Ideen,ความคิด ไอเดีย,y
 die Ingenieurwissenschaft,Ingenieurwissenschaft,,วิศวกรรมศาสตร์,y
 die Innenstadt,,,ใจกลางเมือง ดาวน์ทาวน์,y

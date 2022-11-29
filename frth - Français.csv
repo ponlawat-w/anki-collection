@@ -13,6 +13,7 @@ français,thaïlandais,Add Reverse
 (m.) l'oiseau,นก,y
 (m.) l'ours,หมี,y
 (m.) l'éléphant,ช้าง,y
+(m.) l'étudiant,นักเรียน,y
 (m.) l'œuf,ไข่,y
 acheter,ซื้อ,y
 adorer,รัก ชอบ ชื่นชม,y
@@ -104,6 +105,7 @@ la chaussette,ถุงเท้า,y
 la chaussure,รองเท้า,y
 la chemise,เสื้อเชิต,y
 la chienne,สุนัขตัวเมีย,y
+la chose,สิ่งของ,y
 la confiture,แยม,y
 la couleur,สี,y
 la crêpe,เครป,y
@@ -165,6 +167,7 @@ le lion,สิงโต,y
 le livre,หนังสือ,y
 le loup,หมาป่า,y
 le légume,ผัก,y
+le magasin,ร้านค้า,y
 le manteau,เสื้อโค้ต,y
 le menu,เมนู,y
 le mot,คำ คำพูด คำศัพท์,y
@@ -260,6 +263,7 @@ sûr,แน่ใจ,y
 tard,สาย,y
 tenir,ถือ จับ มี (!p),y
 terminer,ทำให้เสร็จ (!f),y
+travailler,ทำงาน,y
 troisième,อันดับที่สาม,y
 trouver,หาเจอ,y
 vendre,ขาย,y
