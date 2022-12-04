@@ -44,6 +44,7 @@ cet,นี้,y
 chaud,ร้อน อุ่น (สัมผัส),y
 cher,แพง,y
 chercher,ค้นหา,y
+chez,(บุพบท) ที่บ้าน,y
 clair,ชัดเจน ซีด สว่าง,y
 combien,มากเท่าไหร่,y
 commander,สั่ง ร้องขอ,y
@@ -92,6 +93,7 @@ intéresser,ทำให้สนใจ,y
 jaune,สีเหลือง,y
 jeune,ที่อายุน้อย เด็ก,y
 joli,สวยงาม หล่อ งดงาม (!b),y
+jouer,เล่น,y
 l'enfant,เด็ก,y
 la baguette,ขนมปังบาเกต์,y
 la baleine,ปลาวาฬ,y
@@ -117,6 +119,7 @@ la fraise,สตรอว์เบอร์รี,y
 la jupe,กระโปรง,y
 la lettre,จดหมาย,y
 la main,มือ,y
+la maison,บ้าน,y
 la mouche,แมลงวัน,y
 la nourriture,อาหาร,y
 la poche,กระเป๋า (เล็ก),y
@@ -131,6 +134,7 @@ la souris,หนู,y
 la table,โต๊ะ,y
 la tomate,มะเขือเทศ,y
 la tortue,เต่า,y
+la téfé,โทรทัศน์ (ย่อ),y
 la vache,วัว,y
 la veste,เสื้อแจ็กเก็ต,y
 la viande,เนื้อ,y
@@ -139,6 +143,7 @@ large,กว้าง,y
 laver,ล้าง ซัก,y
 le banane,กล้วย,y
 le bateau,เรือ,y
+le besoin,ความจำเป็น,y
 le beurre,เนย,y
 le bonbon,ลูกอม ขนมหวาน,y
 le bœuf,เนื้อวัว,y
@@ -152,13 +157,16 @@ le citron,มะนาว,y
 le cochon,หมู (ตัว),y
 le costume,ชุดสูท,y
 le dauphin,ปลาโลมา,y
+le football,ฟุตบอล,y
 le fromage,ชีส,y
 le fruit,ผลไม้,y
 le gant,ถุงมือ,y
 le garçon,เด็กผู้ชาย,y
+le guitariste,มือกีตาร์,y
 le gâteau,เค้ก,y
 le haricot,ถั่วแขก,y
 le jean,กางเกงยีน,y
+le jeu,เกม,y
 le jour,วัน,y
 le journal,หนังสือพิมพ์,y
 le jus,น้ำผลไม้,y
@@ -185,6 +193,7 @@ le raisin,องุ่น,y
 le repas,มื้ออาหาร,y
 le requin,ปลาฉลาม,y
 le riz,ข้าว,y
+le robot,หุ่นยนต์,y
 le sac,ถุง กระเป๋า,y
 le sandwich,แซนด์วิช,y
 le sel,เกลือ,y
@@ -204,6 +213,7 @@ lire,อ่าน,y
 long,ยาว,y
 lourd,หนัก,y
 léger,เบา,y
+maintenant,ตอนนี้,y
 malade,ป่วย,y
 manger,กิน,y
 marcher,เดิน,y
@@ -245,6 +255,7 @@ quand,เมื่อไหร่,y
 qui,ใคร,y
 rapide,เร็ว,y
 regarder,ดู (!v),y
+rentrer,กลับ,y
 respecter,เคารพ,y
 riche,รวย,y
 rien,ไม่สักอย่าง,y
