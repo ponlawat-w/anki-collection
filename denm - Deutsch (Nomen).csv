@@ -317,6 +317,7 @@ der Ehemann,,,สามี,y
 der Eingang,Eingang,die Eingänge,ทางเข้า,y
 der Elektriker,Elektriker,die Elektriker,ช่างไฟฟ้า,y
 der Enkel,Enkel,die Enkel,หลานชายของปู่ย่าตายาย,y
+der Erwachsener,Erwachsener,die Erwachsenen,ผู้ใหญ่,y
 der Fachmann,,,ผู้เชี่ยวชาญ,y
 der Fahrer,Fahrer,,พนักงานขับรถ คนขับรถ,y
 der Familienname,Familienname,die Familiennamen,นามสกุล (F…),y
@@ -449,7 +450,6 @@ der Neffe,Neffe,die Neffen,หลานชาย (ของลุงป้าน
 der Norden,Norden,,ทิศเหนือ,y
 der Notfall,Notfall,die Notfälle,เรื่องเร่งด่วน เรื่องฉุกเฉิน,y
 der November,November,,พฤศจิกายน,y
-der Nähe,Nähe,,ละแวกใกล้ ๆ บริเวณใกล้ ๆ (คำนาม),y
 der Ofen,Ofen,die Öfen,เตาอบ,y
 der Oktober,Oktober,,ตุลาคม,y
 der Onkel,Onkel,die Onkel,ลุง,y
@@ -827,6 +827,7 @@ die Nichte,Nichte,die Nichten,หลานสาว (ของลุงป้า
 die Nordsee,Nordsee,,ทะเลเหนือ,y
 die Nudel,Nudel,die Nudeln,ก๋วยเตี๋ยว พาสต้า,y
 die Nummer,Nummer,die Nummern,เลข,y
+die Nähe,Nähe,,ละแวกใกล้ ๆ บริเวณใกล้ ๆ (คำนาม),y
 die Obstdiät,Obstdiät,,การไดเอ็ตโดยทานแต่ผลไม้,y
 die Oma,Oma,die Omas,ย่า ยาย (O),y
 die Oper,Oper,die Opern,โอเปรา,y
