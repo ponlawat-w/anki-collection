@@ -31,7 +31,7 @@ avec,กับ ด้วย,y
 avoir,มี,y
 beau,สวย ดูดี (!j),y
 beaucoup,มาก,y
-bientôt,ไว ๆ นี้,y
+bientôt,ไว ๆ นี้ ที่จะถึงนี้,y
 blanc,สีขาว,y
 bleu,สีน้ำเงิน,y
 blond,ที่มีสีทอง บลอนด์,y
@@ -59,6 +59,7 @@ courir,วิ่ง,y
 court,สั้น,y
 croire,เชื่อ,y
 cuisiner,ทำอาหาร,y
+danser,เต้น,y
 demain,วันพรุ่งนี้,y
 dernier,สุดท้าย ล่าสุด,y
 derrière,ด้านหลัง,y
@@ -71,6 +72,7 @@ dire,บอก กล่าว พูด,y
 donner,ให้,y
 dormir,หลับ,y
 désolé,ขอโทษ ที่รู้สึกผิด,y
+ensemble,ด้วยกัน,y
 entendre,ได้ยิน,y
 entrer,เข้า,y
 facile,ง่าย (!s),y
@@ -109,6 +111,7 @@ la chemise,เสื้อเชิต,y
 la chienne,สุนัขตัวเมีย,y
 la chose,สิ่งของ,y
 la confiture,แยม,y
+la copine,แฟน (ญ),y
 la couleur,สี,y
 la crêpe,เครป,y
 la faim,ความหิว,y
@@ -122,6 +125,7 @@ la main,มือ,y
 la maison,บ้าน,y
 la mouche,แมลงวัน,y
 la nourriture,อาหาร,y
+la place,สถานที่,y
 la poche,กระเป๋า (เล็ก),y
 la pomme,แอปเปิล,y
 la recette,สูตรอาหาร,y
@@ -156,6 +160,7 @@ le chocolat,ช็อกโกแลต,y
 le citron,มะนาว,y
 le cochon,หมู (ตัว),y
 le costume,ชุดสูท,y
+le coupain,แฟน (ช),y
 le dauphin,ปลาโลมา,y
 le football,ฟุตบอล,y
 le fromage,ชีส,y
@@ -286,6 +291,7 @@ vivre,อยู่อาศัย,y
 voir,เห็น ดู (!r),y
 vouloir,อยาก,y
 vrai,ที่เป็นความจริง,y
+à côté de,ด้านข้างของ~,y
 ça,สิ่งนั้น,y
 écrire,เขียน,y
 être,เป็น อยู่ คือ,y
