@@ -72,7 +72,7 @@ beide,pron.,ทั้งคู่,y
 bekannt,Adj.,มีชื่อเสียง (เป็นที่รู้จัก),y
 bekommen,V.,รับ เอา,y
 belegt,Adj.,ไม่ว่าง (ถูกใช้งานอยู่; es: ocupado; ja: 使用中),y
-beliebt,Adj.,มีชื่อเสียง (เป็นที่นิยม),y
+beliebt,Adj.,มีชื่อเสียง (เป็นที่นิยม เป็นที่รัก),y
 benutzen,V.,ใช้,y
 bequem,Adj.,สบาย,y
 beraten,V.,ให้คำแนะนำ ให้คำปรึกษา,y
@@ -126,7 +126,7 @@ dunkel,Adj.,มืด,y
 durch,Präp.,ผ่านทาง,y
 durchqueren,V.,เดินตัด,y
 duschen,V.,อาบน้ำ (ฝักบัว),y
-dürfen,V.,อนุญาต,y
+dürfen,V.,อนุญาต (!e),y
 echt,Adj.,ที่มีอยู่จริง ที่เป็นของแท้,y
 egal,Adj.,ไม่สำคัญ เท่า ๆ กัน พอ ๆ กัน,y
 ehemalig,Adj.,เก่า (ex),y
@@ -156,7 +156,9 @@ ergänzen,V.,เติม ทำให้สมบูรณ์,y
 erinnern,V.,จำ ทำให้ระลึก,y
 erklären,V.,อธิบาย,y
 erkältet,Adj.,หวัด,y
+erlauben,V.,อนุญาต (!d),
 erneut,Adj.,ใหม่อีกครั้ง อีกรอบ,y
+ersetzen,V.,แทนที่,y
 erst,Adj.,ที่หนึ่ง แรก,y
 erwarten,V.,ตั้งหน้าตั้งตาคอย,y
 erzählen,V.,เล่า,y
@@ -264,6 +266,7 @@ hinten,Adv.,ที่ด้านหลัง,y
 hinter,Präp.,ด้านหลัง,y
 hinwollen,V.,ตั้งใจจะไป,y
 hoch,Adj.,สูง,y
+hoffen,V.,หวัง,y
 hoffentlich,Adv.,หวังเป็นอย่างยิ่ง,y
 holen,V.,ถือ เอามา เรียก พามา,y
 hundert,num.,ร้อย,y
@@ -538,6 +541,7 @@ unfreundlich,Adj.,ไม่เป็นมิตร,y
 ungefähr,Adv.,ประมาณ (จำนวน),y
 unregelmäßig,Adj.,ไม่เป็นไปตามกฎ,y
 unter,Präp.,ด้านล่าง ด้านใต้,y
+untergehen,V.,จม ตก,y
 unterrichten,V.,สอน (คาบเรียน ชั้นเรียน),y
 unterschiedlich,Adj.,ที่ต่างกัน (!v),y
 unterstreichen,V.,ขีดเส้นใต้,y
