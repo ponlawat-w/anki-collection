@@ -147,6 +147,7 @@ lancer,ขว้าง โยน,y
 large,กว้าง,y
 laver,ล้าง ซัก,y
 le banane,กล้วย,y
+le basket,บาสเกตบอล,y
 le bateau,เรือ,y
 le besoin,ความจำเป็น,y
 le beurre,เนย,y
@@ -173,6 +174,7 @@ le gâteau,เค้ก,y
 le haricot,ถั่วแขก,y
 le jean,กางเกงยีน,y
 le jeu,เกม,y
+le joueur,ผู้เล่น นักกีฬา,y
 le jour,วัน,y
 le journal,หนังสือพิมพ์,y
 le jus,น้ำผลไม้,y
@@ -183,6 +185,7 @@ le loup,หมาป่า,y
 le légume,ผัก,y
 le magasin,ร้านค้า,y
 le manteau,เสื้อโค้ต,y
+le marché,ตลาด,y
 le menu,เมนู,y
 le mot,คำ คำพูด คำศัพท์,y
 le nom,ชื่อ,y
@@ -206,6 +209,7 @@ le sel,เกลือ,y
 le serpent,งู,y
 le singe,ลิง,y
 le sucre,น้ำตาล,y
+le supermarché,ซุปเปอร์มาร์เก็ต,y
 le thé,ชา,y
 le tigre,เสือ,y
 le train,รถไฟ,y
@@ -257,6 +261,7 @@ pouvoir,สามารถ,y
 premier,อันดับที่หนึ่ง,y
 prendre,เอา ดื่ม รับ,y
 propre,สะอาด,y
+préferé,ที่โปรดปราน ที่ชอบ,y
 quand,เมื่อไหร่,y
 qui,ใคร,y
 rapide,เร็ว,y

@@ -2,6 +2,7 @@ thaïlandais,français,หมายเหตุ
 เธอมีขนมปังไหม,As tu du pain?,v+s
 สวัสดีตอนเย็น ฉันจองไว้สำหรับสองที่,Bonsoir. J'ai une réservation pour deux.,
 มีกี่อัน,C'est combien?,
+นั่นมันเขา,C'est lui.,
 มันเป็นวันที่สำคัญวันหนึ่ง,C'est un jour important.,
 มันเป็นจดหมายที่สำคัญฉบับหนึ่ง,C'est une lettre importante.,
 ม้าตัวนี้ราคาแพง,Ce cheval est cher.,
@@ -55,6 +56,7 @@ thaïlandais,français,หมายเหตุ
 ฉันกินขนมปังกับชีส,Je mange du pain avec du fromage.,
 ฉันกินแอปเปิลผลที่กลม ๆ,Je mange la pomme ronde.,
 ฉันกินส้มหนึ่งลูก,Je mange une orange.,
+ฉันไม่รู้ว่าจะทำอะไรดี,Je ne sais pas quoi faire.,
 ฉันกลับบ้าน,Je rentre chez moi.,
 ฉันเคารพภรรยาของเธอ,Je respecte ta femme.,
 ฉันเห็นด้วย,Je suis d'accord.,
@@ -122,6 +124,7 @@ thaïlandais,français,หมายเหตุ
 เธอ(๓ญ)มีอะไร,Qu'a-t-elle?,
 เขากินอะไร,Qu'est-ce qu'il mange?,- Qq
 ฉันเป็นอะไร,Qu'est-ce que je suis?,- Qq
+พวกเราควรจะซื้ออะไรดี,Qu'est-ce que nou devons acheter?,- Q'e
 เธอ(๓ญ)อ่านเมื่อไหร่,Quand lit-elle?,
 เธอ(๓ญ)อ่านอะไร,Que lit-elle?,- Q
 จดหมายฉบับไหน,Quelle lettre?,
@@ -141,6 +144,7 @@ thaïlandais,français,หมายเหตุ
 หนังสือเดินทางของเธอไม่ได้อยู่ในรถแท็กซี่,Ton passeport n'est pas dans le taxi.,
 เธอ(๒)มีวีดิโอเกมจำนวนหนึ่งอยู่ที่บ้าน,Tu as des jeux vidéos à la maison.,
 เธอเป็นอะไร,Tu es quoi?,
+เธอ(๒ญ)แน่ใจหรอว่านั่นเป็นเขา,Tu es sûre que c'est lui?,
 เธอเป็นเด็กผู้หญิง,Tu es une fille.,
 เธออ่านจดหมาย(พหู)ล่าสุดของฉัน,Tu lis mes dernières lettres.,
 เธอ(๒)กินกับข้าวเหมือนเดิม,Tu manges le même repas.,
@@ -148,8 +152,10 @@ thaïlandais,français,หมายเหตุ
 เธอพูดเกี่ยวกับหนังสือ(พหู),Tu parles des livres.,
 เธออยากกินอะไร,Tu veux manger quoi?,~ q
 แอปเปิลลูกหนึ่งนั้นเบา,Une pomme est légère.,
+Vikram และ Priti อยู่ที่ซุปเปอร์มาร์เก็ต,Vikram et Priti sont au supermarché.,
 หนูของ<u><i><b>พวกเธอ</b></i></u>กินชีส,Votre souris mange du fromage.,
 โต๊ะของคุณอยู่ที่นี่,Votre table est ici.,
+พวกเธอมีรองเท้าเหมือนกันเลย,Vous avez les mêmes chaussures.,
 คุณ(v)อยากดื่ม,Vous voulez boire.,
 คุณต้องการ(สิ่งของ)อะไรหรือเปล่า,Vous voulez quelque chose?,
 พวกเธอตัวใหญ่สูง,Vous êtes grands.,

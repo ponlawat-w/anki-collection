@@ -80,7 +80,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 นั่นเป็นก้อนหินสีเหลือง,Das ist ein gelber Stein.,
 นั่นเป็นเพื่อนอีกคนหนึ่งของ(v)ฉัน,Das ist ein weiterer Freund von mir.,
 นี่เป็นช่วงเวลาที่บังเอิญ,Das ist ein zufälliger Moment.,
-นั่นไม่ใช่ส้มแน่ ๆ อยู่แล้ว,Das ist eindeutig keine Orange.,
+(เห็นได้ชัด)นั่นไม่ใช่ส้มแน่ ๆ อยู่แล้ว,Das ist eindeutig keine Orange.,
 นี่คือห้องน้ำสาธารณะ(แห่งหนึ่ง),Das ist eine öffentliche Toilette.,
 มันคุ้มค่า,Das ist es wert.,
 นั่นแพงสุดขีด,Das ist extrem teuer.,
@@ -228,6 +228,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เมื่อกี้เขาคุยโทรศัพท์แปปนึง โทรคุยกับ Pameda,Er war kurz am Telefon. Er hat Pameda angerufen.,- präteritum. perfekt<br>- โทรคุย: ar
 เขาไม่รู้ว่าฉันรู้จัก Michael และว่าเขาเป็นเพื่อนของฉัน,"Er weiß nicht, dass ich Michael kenne und dass er mein Freund ist.",
 เขา (er) ตั้งใจจะไปเรียนที่ประเทศเยอรมนี,Er will in Deutschland studieren.,
+เขาแสดงให้ดูว่าไข่เอาไปทำอาหารอย่างไร,Er zeigt wie man Eier kocht.,
 เขาลังเลอยู่นาน จนกระทั่งตอบฉันในที่สุด,"Er zögert lange, bis er mir endlich antwortet.",
 เขาเปิด(!m)ประตู และตอนนี้มันเปิดอยู่,Er öffnet die Tür. Jetzt ist sie auf.,
 เขาพูดกับ(z)น้องชายของเขาอีกครั้ง,Erneut spricht er zu seinem Bruder.,เริ่มด้วยประโยคด้วยคำว่าอีกครั้ง
@@ -421,6 +422,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันถอดเสื้อแล้วก็นอนลงบนเตียง ฉันปิดไฟแล้วก็หลับ,Ich ziehe mich aus und liege mich ins Bett. Ich mache das Licht aus und schlafe.,
 ฉันเปิดกล่องจดหมายของฉันและตอบอีเมล(พหู)ของฉัน,Ich öffne meine Mailbox und beantworte meine E-Mails.,
 ฉันกำลังคิดเกี่ยวกับของขวัญที่จะเอาให้ Eva,Ich überlege mir ein Geschenk für Eva.,
+ฉันรับช่วงต่อโรงซ่อมรถของคุณปู่ของฉัน,Ich übernehme die Werkstatt von meinem Großvater.,
 พวกเธอทั้งสองยืนอยู่ใกล้กันมาก,Ihr beide steht euch sehr nahe.,
 พวกเธอควรจะเก็บกวาดห้องของตัวเองด้วยบ้างนะ,Ihr sollt auch eure Zimmer aufräumen.,
 พวกเธอเข้าใจฉันดีเสมอ,Ihr versteht mich immer gut.,
@@ -621,6 +623,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 พวกเขาเดินเล่นตรงคลอง Landwehr ไปทาง Treptow,Sie spazieren am Landwehrkanal Richtung Treptow.,
 เธอ(๓)พูดกับพ่อแม่ของเธอเกี่ยวกับทุกเรื่อง,Sie spricht mit ihren Eltern über alles.,
 มัน(ญ)กระโดดไปที่โต๊ะ,Sie springt gegen den Tisch.,
+เธอ(๓)ไม่แนะนำน้องชายของเธอให้ฉันรู้จัก,Sie stellt mich ihrem Bruder nicht vor.,
 เธอ(๓)ใส่หมวกใบหนึ่งอยู่บนหัว,Sie trägt auf dem Kopf einen Hut.,
 เธอ(๓)ใส่สร้อยคอเส้นหนึ่งอยู่รอบ ๆ คอ,Sie trägt eine Kette um den Hals.,
 พวกเขากอดกัน,Sie umarmen sich.,
@@ -687,6 +690,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 พวกเธออยากจะดื่มอะไร,Was möchtet ihr trinken?,ihr
 ฉันควรทำอย่างไรดีเพื่อแก้อาการปวด,Was soll ich gegen die Schmerzen tun?,
 เธอรู้ไหมว่าทำไม Anne ถึงมาสายขนาดนี้วันนี้,"Weißt du, warum Anne heute so spät kommt?",
+เธอรู้ไหมว่าฉันหมายถึงอะไร,"Weißt du, was ich meine?",
 ลูก ๆ ของคุณ(Sie)คนไหนบ้าง / เด็กผู้หญิงตัวเล็กทางขวามือกับเด็กผู้ชายผมทองด้านหลัง,Welche Kinder sind Ihre Kinder? / Das kleine Mädchen da rechts und der blonde Junge da hinten.,
 กระเป๋าใบไหนเหมาะกับการไปชอปปิง / ไม่มี แต่ใบไหนก็เหมือนกันแหละ ฉันจะเอาใบนี้ละกัน,Welche Tasche ist gut zum Einkaufen? / Keine. Aber das ist egal. Ich nehme diese.,
 วันนี้วันอะไร,Welcher Tag ist heute?,จันทร์ ~ อาทิตย์
