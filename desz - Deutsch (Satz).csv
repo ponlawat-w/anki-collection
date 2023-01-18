@@ -32,6 +32,8 @@ Ana หน้าแดง,Anas Gesicht wird rot.,
 เธอรอใคร,Auf wen wartest du?,
 แสงมาจากทางตะวันออก,Aus dem Osten kommt das Licht.,"เริ่มประโยคที่ ""จากทางตะวันออก"""
 ระหว่างทำงานฉันไม่สามารถโทรศัพท์ได้,Bei der Arbeit kann ich nicht telefonieren.,
+ด้านข้าง(!n)ถ้วยมีช้อนคันหนึ่งวางอยู่,Bei der Schüssel liegt ein Löffel.,
+ทั้งสองเพศต่างร้องเพลง,Beide Geschlechter singen.,
 กรุณาใช้ทางเข้าด้านข้าง,Benutzen Sie bitte den Nebeneingang.,- Sie<br>- bitte
 เบอร์ลินเป็นเมืองหลวง ที่นั่นจึงมีสิ่งอำนวยความสะดวกมากมาย มีอะไรทำอยู่ตลอด,Berlin ist die Hauptstadt. Da gibt es viele Angebote. Es ist immer viel los.,
 แล้วพบกันอีก,Bis bald!,
@@ -83,12 +85,13 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 (เห็นได้ชัด)นั่นไม่ใช่ส้มแน่ ๆ อยู่แล้ว,Das ist eindeutig keine Orange.,
 นี่คือห้องน้ำสาธารณะ(แห่งหนึ่ง),Das ist eine öffentliche Toilette.,
 มันคุ้มค่า,Das ist es wert.,
-นั่นแพงสุดขีด,Das ist extrem teuer.,
+นั่นแพง(t)สุดขีด,Das ist extrem teuer.,
 นี่ไม่ใช่หมา นี่คือแมว,"Das ist kein Hund, das ist eine Katze.",
 นี่เป็นสถานีสุดท้ายของฉัน,Das ist meine letzte Station.,
 นี่ไม่ใช่บ้าน(!H)ของฉันคนเดียว แต่เป็นบ้านของพวกเรานะ,"Das ist nicht meine Wohnung, sondern unsere Wohnung.",
 "นี่ทั้งหมดราคารวมเป็น 11,50 ยูโร",Das kostet zusammen elf Euro fünfzig.,
 นั่นดูน่าสนใจสำหรับฉัน,Das scheint mir interessant.,
+สิ่งนั้นไม่เปลี่ยนอะไรระหว่างเรา,Das ändert nichts zwischen uns.,
 ฉันคิดว่ากระโปรงตัวนี้สวยกว่า,Den Rock finde ich schöner.,- นำประโยคด้วยกระโปรง
 ตัวนั้น(Artikel ช)ฉันก็ว่าสวย แต่ว่ามันยาวเกินไปสำหรับฉัน,"Den finde ich ganz schön, aber er ist mir zu lang.",
 ภูเขาลูกเล็ก,Der Berg ist klein.,
@@ -146,6 +149,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เนคไท(นี้)สำหรับน้องชายของฉัน,Die Krawatte ist für meinen Bruder.,
 วัวกินหญ้า,Die Kuh isst das Gras.,
 โคมไฟมีหลอดไฟสองดวง,Die Lampe hat zwei Glühbirnen.,
+เจ้านาย(ญ)ทดสอบพวกเรา,Die Leiterin prüft uns.,
 ดนตรีถูกใจฉันมาก,Die Musik gefällt mir gut.,
 ภูมิภาคนี้มีภูเขาเยอะ,Die Region hat viele Berge.,
 หมดฤดูกาล,Die Saison ist zu Ende.,
@@ -337,6 +341,8 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันเดินไปหา(z)ผู้ชายเหล่านั้น แล้วก็พูดกับพวกเขา,Ich gehe zu den Männern und rede mit ihnen.,
 ฉันจะไปหาหมอก่อน หลังจากนั้นก็จะไปบ้านของของเธอ แล้วเราเข้าเมืองไปด้วยกัน,"Ich gehe zuerst zum Arzt, dann komme ich zu dir, und wir fahren zusammen in die Stadt.",
 ฉันจะไปดูแข่งฟุตบอล,Ich gehe zum Fußballspiel.,
+ฉันเชื่อในตัวเธอ,Ich glaube an dich.,
+ฉันคิดว่าฉันหนาว,"Ich glaube, mir ist kalt.",
 ฉันเคยกลัว,Ich habe Angst gehabt.,- Perfekt
 ฉันมีเอกสารทั้งหมดอยู่กับตัว,Ich habe alle Dokumente dabei.,
 ฉันเคยทำงานเป็นพนักงานขาย(ญ),Ich habe als Verkäuferin gearbeitet.,
@@ -620,10 +626,11 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เธอ(๓)วิ่งเร็วที่สุด,Sie läuft am schnellsten.,
 คุณ(Sie)ควร(m)ทานอาหารไขมันต่ำ,Sie müssen fettarm essen.,
 ที่คุณเห็นด้านหน้าเป็นโบสถ์,Sie sehen geradeaus eine Kirche.,
+เธอ(๓)ร้องเพลงได้ชัดเจนมาก,Sie singt sehr klar.,
 พวกเขาเดินเล่นตรงคลอง Landwehr ไปทาง Treptow,Sie spazieren am Landwehrkanal Richtung Treptow.,
 เธอ(๓)พูดกับพ่อแม่ของเธอเกี่ยวกับทุกเรื่อง,Sie spricht mit ihren Eltern über alles.,
 มัน(ญ)กระโดดไปที่โต๊ะ,Sie springt gegen den Tisch.,
-เธอ(๓)ไม่แนะนำน้องชายของเธอให้ฉันรู้จัก,Sie stellt mich ihrem Bruder nicht vor.,
+เธอ(๓)ไม่แนะนำฉันให้น้องชายของเธอรู้จัก,Sie stellt mich ihrem Bruder nicht vor.,
 เธอ(๓)ใส่หมวกใบหนึ่งอยู่บนหัว,Sie trägt auf dem Kopf einen Hut.,
 เธอ(๓)ใส่สร้อยคอเส้นหนึ่งอยู่รอบ ๆ คอ,Sie trägt eine Kette um den Hals.,
 พวกเขากอดกัน,Sie umarmen sich.,
@@ -657,6 +664,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 "ด้านล่างของ<b style=""text-decoration-line: underline; font-style: italic;"">เท้า</b>(พหู)ของเธอ(๓)คือหญ้าสีเขียว",Unter ihren Füßen ist grünes Gras.,- ขึ้นประโยคด้วยบุพบท
 อย่าลืมซักผ้านะ,Vergiss bitte die Wäsche nicht!,"- du, bitte!<br>- การซักผ้า (คำนาม)"
 อย่าลืม พรุ่งนี้เธอต้องเอาเอกสาร(P)ไปส่งให้แพทย์,Vergiss nicht. Morgen musst du das Papier beim Arzt abgeben.,
+หลายครอบครัวสมัครรับหนังสือพิมพ์,Viele Familien abonnieren die Zeitung.,
 หลายคนได้ให้คำปรึกษาแก่เธอ(๓),Viele Leute haben sie beraten.,
 หลายคนมาที่เบอร์ลิน เพราะว่าเบอร์ลินเป็นเมืองหลวงของเยอรมนี,"Viele Leute kommen nach Berlin, denn Berlin ist die Hauptstadt von Deutschland.",- เพราะว่า: denn
 วันจันทร์ถึงวันศุกร์เธอ(๓)ต้องทำงาน,Von Montag bis Freitag muss sie arbeiten.,
@@ -674,6 +682,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 ทำไมวันนี้เธอ(๓)ถึงมาสาย / เพราะรถไฟ(พหู)เสียเวลา,Warum kommt sie heute später? / Weil die Züge Verspätung haben.,
 ทำไมเพื่อนบ้าน(ญ)เราพูดมาก<u>ทุกที</u>เลย,Warum redet unsere Nachbarin immer so viel?,
 ทำไมตอนวันศุกร์พวกเธอไม่มากันล่ะ,Warum seid ihr am Freitag nicht gekommen?,- ihr<br>- Perfekt
+ทำไมเขาถึงขโมย,Warum stiehlt er?,
 ทำไมเขาถึงใส่หมวก(ใบหนึ่ง),Warum trägt er einen Hut?,
 ทำไมเธอยังไม่แต่งตัวอีก,Warum ziehst du dich nicht an?,du
 <u>รับ</u>อะไรดีครับ,Was bekommen Sie?,Sie
@@ -707,7 +716,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 ลูกชายของคุณอายุเท่าไหร่,Wie alt ist Ihr Sohn?,Sie?
 สะกดอย่างไร,Wie buchstabiert man das?,das
 สภาพสิ่งแวดล้อมในทุกวันนี้เป็นอย่างไรบ้าง,Wie geht es der heutigen Umwelt?,
-คอร์สภาษาเยอรมันเป็นอย่างไรบ้าง,Wie geht es im Deutschkurs?,
+ในคอร์สภาษาเยอรมันเป็นอย่างไรบ้าง,Wie geht es im Deutschkurs?,
 สบายดีไหม,Wie geht's?,du (ย่อ)
 ว่าแต่ลูกชายคุณชื่ออะไร,Wie heißt Ihr Sohn eigentlich?,- คุณ: Sie
 คุณชื่ออะไร,Wie heißt du?,du
@@ -762,6 +771,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เราเกือบจะถึงที่นั้นแล้ว,Wir sind gleich da.,
 พวกเราอยู่บาร์เซโลนามาสี่วัน<u>แล้วตอนนี้</u>,Wir sind jetzt schon vier Tage in Barcelona.,
 เราเดินเล่นกับบุคคลที่เป็นที่รู้จักคนหนึ่ง,Wir spazieren mit einer bekannten Person.,
+เราลงจากรถ,Wir steigen aus dem Auto.,
 เรากำลังมองหาของขวัญให้(für)เพื่อน(ญ)ของเราคนหนึ่ง เธอชอบทำอาหารและชอบดื่มชา,Wir suchen ein Geschenk für unsere Freundin. Sie kocht gern und trinkt gern Tee.,
 พวกเรารอ(aw)พวกเธอที่นี่,Wir warten hier auf euch.,
 เราทิ้งของไปหลายชิ้น,Wir werfen viele Sachen weg.,

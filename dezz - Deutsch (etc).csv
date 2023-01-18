@@ -12,8 +12,10 @@ abfahren,V.,ออกเดินทาง,y
 abgeben,V.,ส่ง นำส่ง ยื่น(เอกสาร),y
 abholen,V.,ไปรับ,y
 abhängig,Adj.,ที่ต้องพึ่งพา ที่เสพติด,y
+abonnieren,V.,สมัครสมาชิกรับข่าว ติดตามข่าว (en: subscribe),y
 abwaschen,V.,ล้างออก,y
 aktuell,Adj.,ที่เป็นปัจจุบัน ที่ล่าสุด,y
+akzeptieren,V.,ยอมรับ อนุมัติ,y
 all,Pron.,ทุกคน,y
 allein,Adj.,คนเดียว,y
 allgemein,Adj.,ทั่วไป โดยทั่วไป,y
@@ -154,7 +156,8 @@ entlangfahren,V.,ไปตามแนว,y
 entschuldigen,V.,ยกโทษ ให้อภัย,y
 entweder ~ oder,Konk.,ไม่ ~ ก็ (en: either ~ or),y
 ergänzen,V.,เติม ทำให้สมบูรณ์,y
-erinnern,V.,จำ ทำให้ระลึก,y
+erinnern,V.,ทำให้ระลึกได้,y
+erkennen,V.,จำได้ ระลึกได้,y
 erklären,V.,อธิบาย,y
 erkältet,Adj.,หวัด,y
 erlauben,V.,อนุญาต (!d),
@@ -162,6 +165,7 @@ erneut,Adj.,ใหม่อีกครั้ง อีกรอบ,y
 ersetzen,V.,แทนที่,y
 erst,Adj.,ที่หนึ่ง แรก,y
 erwarten,V.,ตั้งหน้าตั้งตาคอย,y
+erweitern,V.,ขยาย ทำให้กว้างขึ้น,y
 erzählen,V.,เล่า,y
 es gibt,,มี (ไม่ระบุประธาน),y
 etwas,,บางอย่าง,y
@@ -413,6 +417,7 @@ prima,Adj.,เยี่ยม วิเศษ (p),y
 privat,Adj.,ที่เป็นส่วนตัว ที่เป็นของเอกชน,y
 probieren,V.,ลอง ชิม,y
 problematisch,Adj.,ที่มีปัญหา,y
+prüfen,V.,ตรวจสอบ ทดสอบ,y
 putzen,V.,ทำความสะอาด (สิ่งของ),y
 pünktlich,Adj.,ตรงเวลา,y
 rasieren,V.,โกนหนวด,y
@@ -483,6 +488,7 @@ sicher,Adj.,ปลอดภัย เชื่อถือได้ ไว้ว
 sichtbar,Adj.,ที่มองเห็นได้,y
 siebt,Adj.,ที่เจ็ด,y
 simpel,Adj.,ง่าย (ซิมเปิล),y
+singen,V.,ร้องเพลง,y
 sinnvoll,Adj.,ที่มีเหตุผล เข้าใจได้ เมคเซนส์,y
 sitzen,V.,นั่ง,y
 sobald,Konj.,ทันทีที่,y
@@ -504,6 +510,7 @@ spülen,V.,ล้าง (s),y
 stark,Adj.,รุนแรง แข็งแรง (!k),y
 stecken,V.,เสียบ,y
 stehen,V.,ยืน,y
+stehlen,V.,ขโมย,y
 steigen,V.,ขึ้นไป เข้าไป ขึ้น(รถ),y
 stellen,V.,วาง เอาวาง (สิ่งของ) (!l),y
 sterben,V.,เสียชีวิต,y

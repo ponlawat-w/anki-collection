@@ -17,6 +17,7 @@ thaïlandais,français,หมายเหตุ
 เธอ(๓ญ)กินเลมอนหนึ่งลูกและสตรอว์เบอร์รีจำนวนหนึ่ง,Elle mange un citron et des fraises.,
 เธอ(๓)คุยกับผู้ชายคนหนึ่งที่ทำงานในสนามบิน,Elle parle avec un homme qui travaille à l'aéroport.,
 เขา(๓ญ)เขียนหนังสือของเขาเสร็จ,Elle termine son livre.,
+พวกเขา(ญ)บอกว่าไม่,Elles disent non.,
 พวกเขา(ญ)อ่านหนังสือ(พหู)ของเรา,Elles lisent nos livres.,
 พวกเธอ(๓ญ)เขียนหนังสือเล่มหนึ่งหรอ,Est-ce qu'elles écrivent un livre?,eq
 นั่นคือนก(ตัวหนึ่ง)หรอ,Est-ce que c'est un oiseau?,e
@@ -32,6 +33,7 @@ thaïlandais,français,หมายเหตุ
 เขารวย,Il est riche.,
 นมหมด / ต้องการนม,Il faut du lait.,
 จำเป็นต้องกิน,Il faut manger.,
+เขาปิดหนังสือ,Il ferme le livre.,
 เขาเสร็จแล้ว,Il finit.,
 มัน(ช)ไม่อยู่ในกระเป๋าของฉัน,Il n'est pas dans mon sac.,
 เขาปรารถนาที่จะกิน,Il souhaite manger.,
@@ -53,6 +55,8 @@ thaïlandais,français,หมายเหตุ
 ฉันดื่มชาและฉันกินขนมปัง,Je bois du thé et je mange du pain.,
 ฉันตามหาสุนัขของฉัน,Je cherche mon chien.,
 ฉันสั่งมันฝรั่งทอด,Je commande des frites.,y
+ฉันรวยขึ้น,Je deviens riche.,
+ฉันพูดขอบคุณ,Je dis merci.,
 ฉันกินขนมปังกับชีส,Je mange du pain avec du fromage.,
 ฉันกินแอปเปิลผลที่กลม ๆ,Je mange la pomme ronde.,
 ฉันกินส้มหนึ่งลูก,Je mange une orange.,
@@ -124,7 +128,7 @@ thaïlandais,français,หมายเหตุ
 เธอ(๓ญ)มีอะไร,Qu'a-t-elle?,
 เขากินอะไร,Qu'est-ce qu'il mange?,- Qq
 ฉันเป็นอะไร,Qu'est-ce que je suis?,- Qq
-พวกเราควรจะซื้ออะไรดี,Qu'est-ce que nou devons acheter?,- Q'e
+พวกเราควรจะซื้ออะไรดี,Qu'est-ce que nous devons acheter?,- Q'e
 เธอ(๓ญ)อ่านเมื่อไหร่,Quand lit-elle?,
 เธอ(๓ญ)อ่านอะไร,Que lit-elle?,- Q
 จดหมายฉบับไหน,Quelle lettre?,
@@ -143,6 +147,7 @@ thaïlandais,français,หมายเหตุ
 กางเกงยีนตัวใหม่ของเธอสกปรก,Ton nouveau jean est sale.,
 หนังสือเดินทางของเธอไม่ได้อยู่ในรถแท็กซี่,Ton passeport n'est pas dans le taxi.,
 เธอ(๒)มีวีดิโอเกมจำนวนหนึ่งอยู่ที่บ้าน,Tu as des jeux vidéos à la maison.,
+เธอทำร่มฉันพัง,Tu casses mon parapluie.,
 เธอเป็นอะไร,Tu es quoi?,
 เธอ(๒ญ)แน่ใจหรอว่านั่นเป็นเขา,Tu es sûre que c'est lui?,
 เธอเป็นเด็กผู้หญิง,Tu es une fille.,

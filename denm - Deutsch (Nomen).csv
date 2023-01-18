@@ -56,6 +56,7 @@ das Essen,Essen,die Essen,อาหาร,y
 das Esszimmer,,,ห้องรับประทานอาหาร,y
 das Fach,Fach,die Fächer,วิชา,y
 das Fahrrad,Fahrrad,die Fahrräder,รถจักรยาน,y
+das Fahrzeug,,,ยานพาหนะ,y
 das Fenster,Fenster,,หน้าต่าง,y
 das Ferienhaus,,,บ้านพักตากอากาศ,y
 das Feuer,Feuer,die Feuer,ไฟ (!แสง),y
@@ -414,6 +415,7 @@ der Laptop,Laptop,die Laptops,คอมพิวเตอร์โนตบุ�
 der Lastwagen,Lastwagen,die Lastwagen,รถบรรทุก,y
 der Lautsprecher,Lautsprecher,die Lautsprecher,ลำโพง,y
 der Leder,Leder,,หนังสัตว์,y
+der Leiter,Leiter (Person),die Leiter,ผู้จัดการ ผู้บริหาร,y
 der Liebling,Liebling,die Lieblinge,ของโปรด ของชอบ,y
 der Liter,Liter,die Liter,ลิตร,y
 der Lolly,Lolly,,ลูกกวาด,y
@@ -787,7 +789,7 @@ die Lampe,Lampe,die Lampen,โคมไฟ,y
 die Landstraße,,,ถนนชนบท,y
 die Last,Last,die Lasten,น้ำหนัก สัมภาระ,y
 die Lehrerin,,die Lehrerinnen,ครู (ญ),y
-die Leiter,Leiter,die Leitern,บันไดเกิ๋น,y
+die Leiter,Leiter (Sache),die Leitern,บันไดเกิ๋น,y
 die Leitzahl,Leitzahl,,รหัส,y
 die Leute,Leute,,ผู้คน,y
 die Lieferung,,die Lieferungen,การส่งพัสดุ การขนส่งสินค้า,y
