@@ -6,13 +6,16 @@ français,thaïlandais,Add Reverse
 (f.) l'orange,ส้ม (ผลไม้),y
 (f.pl.) les frites,มันฝรั่งทอด,y
 (m.) l'alcool,แอลกอฮอล์ เหล้า,y
+(m.) l'an,ปี,y
 (m.) l'argent,เงิน,y
 (m.) l'aéroport,สนามบิน,y
+(m.) l'examen,การสอบ,y
 (m.) l'homme,ผู้ชาย,y
 (m.) l'insecte,แมลง,y
 (m.) l'oignon,หัวหอม,y
 (m.) l'oiseau,นก,y
 (m.) l'ours,หมี,y
+(m.) l'âge,อายุ,y
 (m.) l'éléphant,ช้าง,y
 (m.) l'étudiant,นักเรียน,y
 (m.) l'œuf,ไข่,y
@@ -28,6 +31,7 @@ appeler,เรียก,y
 apporter,หยิบไป เอาไป พกไป,y
 apprendre,เรียน,y
 attendre,รอ,y
+aujourd'hui,วันนี้,y
 avec,กับ ด้วย,y
 avoir,มี,y
 beau,สวย ดูดี (!j),y
@@ -38,6 +42,7 @@ bleu,สีน้ำเงิน,y
 blond,ที่มีสีทอง บลอนด์,y
 boire,ดื่ม,y
 bon,ดี,y
+bête,โง่ งี่เง่า,y
 cacher,ซ่อน,y
 calme,ที่เงียบ สงบ,y
 casser,ทำแตก ทำพัง,y
@@ -58,6 +63,7 @@ contenir,บรรจุ,y
 couper,ตัด,y
 courir,วิ่ง,y
 court,สั้น,y
+coûter,มีราคา,y
 croire,เชื่อ,y
 cuisiner,ทำอาหาร,y
 danser,เต้น,y
@@ -72,9 +78,11 @@ diffèrent,ที่แตกต่าง,y
 dire,บอก กล่าว พูด,y
 donner,ให้,y
 dormir,หลับ,y
+drôle,ตลก,y
 désolé,ขอโทษ ที่รู้สึกผิด,y
 ensemble,ด้วยกัน,y
 entendre,ได้ยิน,y
+entier,ทั้งชิ้น ทั้งอัน,y
 entrer,เข้า,y
 facile,ง่าย (!s),y
 faible,อ่อนแอ,y
@@ -83,10 +91,12 @@ falloir,จำเป็นต้อง (ไม่มีประธาน),y
 fermer,ปิด,y
 finir,ทำเสร็จ (!t),y
 fort,แข็งแรง,y
+fou,บ้า,y
 franc,ตรงไปตรงมา เปิดเผย,y
 froid,เย็น,y
 gagner,ชนะ ได้เงิน,y
 grand,ใหญ่,y
+grave,หนักหนา สาหัส,y
 gris,สีเทา,y
 gros,ขนาดใหญ่ อ้วน,y
 ici,ที่นี่,y
@@ -143,6 +153,7 @@ la télé,โทรทัศน์ (ย่อ),y
 la vache,วัว,y
 la veste,เสื้อแจ็กเก็ต,y
 la viande,เนื้อ,y
+laid,น่าเกลียด,y
 lancer,ขว้าง โยน,y
 large,กว้าง,y
 laver,ล้าง ซัก,y
@@ -151,6 +162,7 @@ le basket,บาสเกตบอล,y
 le bateau,เรือ,y
 le besoin,ความจำเป็น,y
 le beurre,เนย,y
+le billet,ตั๋ว,y
 le bonbon,ลูกอม ขนมหวาน,y
 le bœuf,เนื้อวัว,y
 le canard,เป็ด,y
@@ -193,6 +205,7 @@ le pain,ขนมปัง,y
 le pantalon,กางเกง,y
 le papillon,ผีเสื้อ,y
 le parapluie,ร่ม,y
+le parent,ผู้ปกครอง,y
 le poisson,ปลา,y
 le poivre,พริกไทย,y
 le porc,เนื้อหมู,y
@@ -216,10 +229,12 @@ le train,รถไฟ,y
 le verre,แก้ว,y
 le vin,ไวน์,y
 le zoo,สวนสัตว์,y
+les maths,คณิตศาสตร์,y
 les pâtes,พาสต้า,y
 les vêtements,เสื้อผ้า,y
 liquide,ที่เป็นของเหลว,y
 lire,อ่าน,y
+loin,ไกล,y
 long,ยาว,y
 lourd,หนัก,y
 léger,เบา,y
@@ -236,11 +251,13 @@ motiver,สร้างแรงบันดาลใจ,y
 mourir,ตาย,y
 mériter,คู่ควร เหมาะสม,y
 même,ที่เหมือนกัน,y
+naturel,ที่เป็นธรรมชาติ,y
 neiger,หิมะตก,y
 noir,สีดำ,y
 nombreux,หลากหลาย มาก (!b),y
 nouveau / nouvel,ใหม่ (ช),y
 nouvelle,ใหม่ (ญ),y
+nul,แย่ ไร้ค่า ว่างเปล่า,y
 offrir,ให้เป็นของขวัญ เสนอให้,y
 orange,สีส้ม,y
 ou,หรือ,y
@@ -248,6 +265,7 @@ ouvrir,เปิด,y
 où,ที่ไหน,y
 parfait,สมบูรณ์แบบ ยอดเยี่ยม,y
 parler,พูด,y
+partir,ออกจาก,y
 pauvre,ยากจน,y
 perdre,สูญเสีย ทำหาย,y
 petit,เล็ก,y
@@ -263,6 +281,7 @@ prendre,เอา ดื่ม รับ,y
 proposer,เสนอ,y
 propre,สะอาด,y
 préferé,ที่โปรดปราน ที่ชอบ,y
+prêt,พร้อม,y
 quand,เมื่อไหร่,y
 qui,ใคร,y
 rapide,เร็ว,y
@@ -279,6 +298,7 @@ savoir,รู้,y
 second,ลำดับที่สอง (!d),y
 seul,โดดเดี่ยว คนเดียว,y
 simple,ง่าย (!f),y
+sombre,มืด,y
 souhaiter,ปรารถนา ต้องการ,y
 souvent,บ่อย ๆ,y
 suivre,ตาม,y
@@ -301,4 +321,5 @@ vrai,ที่เป็นความจริง,y
 à côté de,ด้านข้างของ~,y
 ça,สิ่งนั้น,y
 écrire,เขียน,y
+étrange,แปลก ๆ หายาก,y
 être,เป็น อยู่ คือ,y
