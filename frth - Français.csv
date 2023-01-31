@@ -26,6 +26,7 @@ agir,แสดง,y
 aider,ช่วยเหลือ,y
 aimer,รัก ชอบ,y
 ajouter,เพิ่มเข้าไป,y
+allemand,เยอรมัน,y
 aller,ไป,y
 améliorer,ทำให้ดีขึ้น,y
 anglais,ที่เกี่ยวกับอังกฤษ,y
@@ -36,6 +37,7 @@ attendre,รอ,y
 aujourd'hui,วันนี้,y
 avec,กับ ด้วย,y
 avoir,มี,y
+bas,ต่ำ เตี้ย,y
 beau,สวย ดูดี (!j),y
 beaucoup,มาก,y
 bientôt,ไว ๆ นี้ ที่จะถึงนี้,y
@@ -81,6 +83,7 @@ diffèrent,ที่แตกต่าง,y
 dire,บอก กล่าว พูด,y
 donner,ให้,y
 dormir,หลับ,y
+doux,หวาน นุ่ม สุภาพ,y
 drôle,ตลก,y
 désolé,ขอโทษ ที่รู้สึกผิด,y
 ensemble,ด้วยกัน,y
@@ -100,10 +103,12 @@ fou,บ้า,y
 franc,ตรงไปตรงมา เปิดเผย,y
 froid,เย็น,y
 gagner,ชนะ ได้เงิน,y
+gentil,สุภาพใจดี,y
 grand,ใหญ่,y
 grave,หนักหนา สาหัส,y
 gris,สีเทา,y
 gros,ขนาดใหญ่ อ้วน,y
+génial,ยอดเยี่ยม,y
 ici,ที่นี่,y
 important,สำคัญ,y
 impossible,เป็นไปไม่ได้,y
@@ -183,6 +188,7 @@ le cochon,หมู (ตัว),y
 le costume,ชุดสูท,y
 le coupain,แฟน (ช),y
 le dauphin,ปลาโลมา,y
+le fils,ลูกชาย,y
 le football,ฟุตบอล,y
 le fromage,ชีส,y
 le fruit,ผลไม้,y
@@ -280,7 +286,7 @@ perdre,สูญเสีย ทำหาย,y
 petit,เล็ก,y
 photographier,ถ่ายรูป,y
 pleuvoir,ฝนตก,y
-porter,เอาไป แบก หาม,y
+porter,พก แบก หาม,y
 poser,วาง เอาไว้,y
 posséder,เป็นเจ้าของ,y
 pourquoi,ทำไม,y
@@ -291,6 +297,7 @@ proposer,เสนอ,y
 propre,สะอาด,y
 préferé,ที่โปรดปราน ที่ชอบ,y
 prêt,พร้อม,y
+pur,บริสุทธิ์,y
 quand,เมื่อไหร่,y
 qui,ใคร,y
 rapide,เร็ว,y
@@ -304,6 +311,7 @@ rouge,สีแดง,y
 saisir,หยิบ จับ เข้าใจ,y
 sale,สกปรก,y
 savoir,รู้,y
+sec,แห้ง (ช),y
 second,ลำดับที่สอง (!d),y
 seul,โดดเดี่ยว คนเดียว,y
 simple,ง่าย (!f),y
@@ -312,6 +320,8 @@ souhaiter,ปรารถนา ต้องการ,y
 souvent,บ่อย ๆ,y
 suivre,ตาม,y
 sympa,ที่ใจดี ที่เห็นอกเห็นใจ,y
+sèche,แห้ง (ญ),y
+sérieux,ที่จริงจัง,y
 sûr,แน่ใจ,y
 tard,สาย,y
 tenir,ถือ จับ มี (!p),y
