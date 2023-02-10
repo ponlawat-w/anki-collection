@@ -1,15 +1,15 @@
 verb,je,tu,il/elle/on,nous,vous,ills/elles
-[présent] acheter,j'achète,achètes,achète,achetons,achetez,achètent
-[présent] adorer,j'adore,adores,adore,adorons,adorez,adorent
+[présent] acheter,achète,achètes,achète,achetons,achetez,achètent
+[présent] adorer,adore,adores,adore,adorons,adorez,adorent
 [présent] agir,agis,agis,agit,agissons,agissez,agissent
-[présent] aider,j'aide,aides,aide,aidons,aidez,aident
-[présent] aimer,j'aime,aimes,aime,aimons,aimez,aiment
+[présent] aider,aide,aides,aide,aidons,aidez,aident
+[présent] aimer,aime,aimes,aime,aimons,aimez,aiment
 [présent] aller,vais,vas,va,allons,allez,vont
-[présent] appeler,j'appelle,appelles,appelle,appelons,appelez,appellent
-[présent] apporter,j'apporte,apportes,apporte,apportons,apportez,apportent
-[présent] apprendre,j'apprends,apprends,apprend,apprenons,apprenez,apprennent
-[présent] attendre,j'attends,attends,attend,attendons,attendez,attendent
-[présent] avoir,j'ai,as,a,avons,avez,ont
+[présent] appeler,appelle,appelles,appelle,appelons,appelez,appellent
+[présent] apporter,apporte,apportes,apporte,apportons,apportez,apportent
+[présent] apprendre,apprends,apprends,apprend,apprenons,apprenez,apprennent
+[présent] attendre,attends,attends,attend,attendons,attendez,attendent
+[présent] avoir,ai,as,a,avons,avez,ont
 [présent] boire,bois,bois,boit,buvons,buvez,boivent
 [présent] chercher,cherche,cherches,cherche,cherchons,cherchez,cherchent
 [présent] commander,commande,commandes,commande,commandons,commandez,commandent
@@ -39,6 +39,6 @@ verb,je,tu,il/elle/on,nous,vous,ills/elles
 [présent] vivre,vis,vis,vit,vivons,vivez,vivent
 [présent] voir,vois,vois,voit,voyons,voyez,voient
 [présent] vouloir,veux,veux,veut,voulons,voulez,veulent
-[présent] écrire,j'écris,écris,écrit,écrivons,écrivez,écrivent
+[présent] écrire,écris,écris,écrit,écrivons,écrivez,écrivent
 [présent] être,suis,es,est,sommes,êtes,sont
 falloir,,,faut,,,

@@ -28,6 +28,8 @@ aimer,รัก ชอบ,y
 ajouter,เพิ่มเข้าไป,y
 allemand,เยอรมัน,y
 aller,ไป,y
+alors,งั้น ถ้างั้น ดังนั้น,y
+alors que,แม้ว่า ในขณะที่,y
 améliorer,ทำให้ดีขึ้น,y
 anglais,ที่เกี่ยวกับอังกฤษ,y
 appeler,เรียก,y
@@ -73,6 +75,7 @@ croire,เชื่อ,y
 cuisiner,ทำอาหาร,y
 danser,เต้น,y
 demain,วันพรุ่งนี้,y
+depuis,จาก ตั้งแต่,y
 dernier,สุดท้าย ล่าสุด,y
 derrière,ด้านหลัง,y
 deuxième,อันดับที่สอง (!s),y
@@ -81,6 +84,7 @@ devoir,ต้อง,y
 difficile,ยาก,y
 diffèrent,ที่แตกต่าง,y
 dire,บอก กล่าว พูด,y
+donc,แล้ว (es: pues),y
 donner,ให้,y
 dormir,หลับ,y
 doux,หวาน นุ่ม สุภาพ,y
@@ -177,6 +181,7 @@ le beurre,เนย,y
 le billet,ตั๋ว,y
 le bonbon,ลูกอม ขนมหวาน,y
 le bœuf,เนื้อวัว,y
+le cadeau,ของขวัญ,y
 le canard,เป็ด,y
 le chapeau,หมวก,y
 le chat,แมว,y
@@ -249,6 +254,7 @@ liquide,ที่เป็นของเหลว,y
 lire,อ่าน,y
 loin,ไกล,y
 long,ยาว,y
+lorsque,เมื่อ ถ้า ตอนที่,y
 lourd,หนัก,y
 léger,เบา,y
 maintenant,ตอนนี้,y
@@ -278,6 +284,7 @@ orange,สีส้ม,y
 ou,หรือ,y
 ouvrir,เปิด,y
 où,ที่ไหน,y
+parce que,เพราะว่า,y
 parfait,สมบูรณ์แบบ ยอดเยี่ยม,y
 parler,พูด,y
 partir,ออกจาก,y
@@ -286,7 +293,7 @@ perdre,สูญเสีย ทำหาย,y
 petit,เล็ก,y
 photographier,ถ่ายรูป,y
 pleuvoir,ฝนตก,y
-porter,พก แบก หาม,y
+porter,สวม ใส่ พก แบก หาม,y
 poser,วาง เอาไว้,y
 posséder,เป็นเจ้าของ,y
 pourquoi,ทำไม,y
@@ -295,7 +302,7 @@ premier,อันดับที่หนึ่ง,y
 prendre,เอา ดื่ม รับ,y
 proposer,เสนอ,y
 propre,สะอาด,y
-préferé,ที่โปรดปราน ที่ชอบ,y
+préféré,ที่โปรดปราน ที่ชอบ,y
 prêt,พร้อม,y
 pur,บริสุทธิ์,y
 quand,เมื่อไหร่,y
@@ -315,10 +322,11 @@ sec,แห้ง (ช),y
 second,ลำดับที่สอง (!d),y
 seul,โดดเดี่ยว คนเดียว,y
 simple,ง่าย (!f),y
+sinon,ไม่งั้น ถ้าไม่,y
 sombre,มืด,y
 souhaiter,ปรารถนา ต้องการ,y
 souvent,บ่อย ๆ,y
-suivre,ตาม,y
+suivre,ตาม ติดตาม,y
 sympa,ที่ใจดี ที่เห็นอกเห็นใจ,y
 sèche,แห้ง (ญ),y
 sérieux,ที่จริงจัง,y
@@ -326,6 +334,7 @@ sûr,แน่ใจ,y
 tard,สาย,y
 tenir,ถือ จับ มี (!p),y
 terminer,ทำให้เสร็จ (!f),y
+toujours,ตลอด เสมอ ๆ,y
 travailler,ทำงาน,y
 troisième,อันดับที่สาม,y
 trouver,หาเจอ,y
