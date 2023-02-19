@@ -224,6 +224,7 @@ das Turnen,Turnen,,วิชาพละ,y
 das Ufer,Ufer,die Ufer,ตลิ่ง,y
 das Verbot,Verbot,die Verbote,การห้าม,y
 das Verhältnis,Verhältnis,die Verhältnisse,ปฏิสัมพันธ์ ความสัมพันธ์,y
+das Verständnis,Verständnis,die Verständnisse,ความเข้าใจ,y
 das Viertel,Viertel,die Viertel,หนึ่งในสี่,y
 das Visum,Visum,die Visa,วีซ่า,y
 das Wachtelei,,,ไข่นกกระทา,y
@@ -316,9 +317,11 @@ der Drachen,Drachen,die Drachen,ว่าว มังกร,die Drachen
 der Durchfall,Durchfall,,ท้องเสีย,y
 der Durst,Durst,,ความกระหายน้ำ,y
 der Ehemann,,,สามี,y
+der Eindruck,Eindruck,die Eindrucke,ความประทับใจ,y
 der Eingang,Eingang,die Eingänge,ทางเข้า,y
 der Elektriker,Elektriker,die Elektriker,ช่างไฟฟ้า,y
 der Enkel,Enkel,die Enkel,หลานชายของปู่ย่าตายาย,y
+der Ernst,Ernst,die Ernste,ความจริงจัง,y
 der Erwachsener,Erwachsener,die Erwachsenen,ผู้ใหญ่,y
 der Fachmann,,,ผู้เชี่ยวชาญ,y
 der Fahrer,Fahrer,,พนักงานขับรถ คนขับรถ,y
@@ -351,6 +354,7 @@ der Garten,Garten,die Gärten,สวน,y
 der Gast,Gast,die Gäste,แขก,y
 der Geburtsort,Geburtsort,die Geburtsorte,สถานที่เกิด,y
 der Geburtstag,Geburtstag,die Geburtstage,วันเกิด,y
+der Gedanke,Gedanke,die Gedanken,ความคิด,y
 der Gegner,Gegner,die Gegner,คู่แข่ง,y
 der Geldschein,Geldschein,,ธนบัตร,y
 der Großvater,Großvater,die Großväter,ปู่ ตา (ß),y
@@ -562,6 +566,7 @@ der Test,Test,die Tests,การทดสอบ (T),y
 der Tierarzt,,,สัตวแพทย์,y
 der Tisch,Tisch,die Tische,โต๊ะ,y
 der Tourist,Tourist,die Touristen,นักท่องเที่ยว,y
+der Traum,Traum,die Träume,ความฝัน,y
 der Trockner,Trockner,,เครื่องอบผ้า,y
 der Tunnel,Tunnel,die Tunnel,อุโมงค์,y
 der Turm,Turm,die Türme,หอคอย,y
@@ -595,6 +600,7 @@ der Wein,Wein,die Weine,ไวน์,y
 der Westen,Westen,,ทิศตะวันตก,y
 der Wind,Wind,die Winde,ลม,y
 der Winter,Winter,die Winter,ฤดูหนาว,y
+der Witz,Witz,die Witze,มุกตลก,y
 der Wochentag,,,วันธรรมดา,y
 der Wodka,Wodka,die Wodkas,ว็อดก้า,y
 der Wunsch,Wunsch,die Wünsche,ความปรารถนา คำอธิษฐาน,y
@@ -704,6 +710,7 @@ die Flöte,Flöte,die Flöten,ขลุ่ย,y
 die Frage,Frage,die Fragen,คำถาม ปัญหา,y
 die Frau,Frau,die Frauen,ผู้หญิง,y
 die Freizeit,Freizeit,die Freizeiten,เวลาว่าง,y
+die Freude,Freude,die Freuden,ความยินดี ความสนุก ความเบิกบานใจ,y
 die Frucht,Frucht,die Früchte,ผล (F),y
 die Gabel,Gabel,die Gabeln,ส้อม,y
 die Garage,Garage,die Garagen,โรงรถ,y
@@ -799,6 +806,7 @@ die Lehrerin,,die Lehrerinnen,ครู (ญ),y
 die Leiter,Leiter (Sache),die Leitern,บันไดเกิ๋น,y
 die Leitzahl,Leitzahl,,รหัส,y
 die Leute,Leute,,ผู้คน,y
+die Liebe,Liebe,die Lieben,ความรัก,y
 die Lieferung,,die Lieferungen,การส่งพัสดุ การขนส่งสินค้า,y
 die Lippe,Lippe,die Lippen,ริมฝีปาก,y
 die Luft,Luft,,อากาศ,y
@@ -835,6 +843,7 @@ die Natur,Natur,die Naturen,ธรรมชาติ,y
 die Nebenkosten,,,ค่าเช่า (ส่วนที่เป็นสาธารณูปโภค),y
 die Nichte,Nichte,die Nichten,หลานสาว (ของลุงป้าน้าอา),y
 die Nordsee,Nordsee,,ทะเลเหนือ,y
+die Not,Not,die Nöte,ความต้องการ,y
 die Nudel,Nudel,die Nudeln,ก๋วยเตี๋ยว พาสต้า,y
 die Nummer,Nummer,die Nummern,เลข,y
 die Nähe,Nähe,,ละแวกใกล้ ๆ บริเวณใกล้ ๆ (คำนาม),y

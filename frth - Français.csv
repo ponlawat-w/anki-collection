@@ -51,6 +51,7 @@ bon,ดี,y
 bête,โง่ งี่เง่า,y
 cacher,ซ่อน,y
 calme,ที่เงียบ สงบ,y
+car,เพราะว่า (๑),y
 casser,ทำแตก ทำพัง,y
 cet,นี้,y
 chaud,ร้อน อุ่น (สัมผัส),y
@@ -89,6 +90,7 @@ donner,ให้,y
 dormir,หลับ,y
 doux,หวาน นุ่ม สุภาพ,y
 drôle,ตลก,y
+dès,จาก ทันทีที่,y
 désolé,ขอโทษ ที่รู้สึกผิด,y
 ensemble,ด้วยกัน,y
 entendre,ได้ยิน,y
@@ -102,8 +104,9 @@ faire,ทำ,y
 falloir,จำเป็นต้อง (ไม่มีประธาน),y
 fermer,ปิด,y
 finir,ทำเสร็จ (!t),y
+folle,บ้า (ญ),y
 fort,แข็งแรง,y
-fou,บ้า,y
+fou,บ้า (ช),y
 franc,ตรงไปตรงมา เปิดเผย,y
 froid,เย็น,y
 gagner,ชนะ ได้เงิน,y
@@ -284,11 +287,12 @@ orange,สีส้ม,y
 ou,หรือ,y
 ouvrir,เปิด,y
 où,ที่ไหน,y
-parce que,เพราะว่า,y
+parce que,เพราะว่า (๒),y
 parfait,สมบูรณ์แบบ ยอดเยี่ยม,y
 parler,พูด,y
 partir,ออกจาก,y
 pauvre,ยากจน,y
+pendant que,ในช่วง ในขณะที่,y
 perdre,สูญเสีย ทำหาย,y
 petit,เล็ก,y
 photographier,ถ่ายรูป,y

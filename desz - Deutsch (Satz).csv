@@ -190,7 +190,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 ไม่เธอไปก็ฉันไป,Entweder gehst du oder ich gehe.,
 เขาทำงานในบริษัท(!F)แห่งหนึ่งเป็นโปรแกรมเมอร์,Er arbeitet in einem Büro als Programmierer.,
 เขาทำงานในมหาวิทยาลัยตั้งแต่ปี 1984,Er arbeitet seit neunzehn-vierundachtzig an der Universität.,
-เขาแทนที่เธอ,Er ersetzt dich.,
+เขาแทนที่เธอ(๒),Er ersetzt dich.,
 เขาขึ้นไปบนหลังคา,Er geht aufs Dach.,
 เขา(ช)ไป(g)งานแต่งงานวันนี้,Er geht heute auf die Hochzeit.,
 เขาเอามัน(ช)ให้เธอ(๓),Er gibt ihn ihr.,
@@ -306,7 +306,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันจะทำขนมเค้กวันนี้ ฉันอยากได้แป้งหนึ่งกิโล แอปเปิลสามลูก อพริคอตสี่ แล้วก็ไข่อีกหก,"Ich backe heute einen Kuchen. Ich brauche ein Kilo Mehl, drei Äpfen, vier Aprikosen und sechs Eier.",
 ฉันได้รับของขวัญมากมายจากพี่น้องของฉันอยู่เสมอ,Ich bekomme von meinen Geschwistern immer viele Geschenke.,
 ฉันจ่ายค่าไวน์ ค่าอาหารเธอจ่าย,"Ich bezahle den Wein, das Essen bezahlst du.",
-ฉันจ่ายค่าสอบ,Ich bezahle für die Untersuchungen.,
+ฉันจ่ายค่าสอบ(!K),Ich bezahle für die Untersuchungen.,
 ฉันมีอาชีพเป็นครู(ญ),Ich bin Lehrerin von Beruf.,
 ฉันไปไปรษณีย์คนเดียว,Ich bin allein zur Post gegangen.,- perfekt<br>- บุพบท: z
 ฉันกำลังพบแพทย์,Ich bin beim Arzt.,
@@ -494,7 +494,7 @@ Julia เรียกฉันจากที่<b><u>หน้า</u></b>ปร
 คุณ(Sie)จะไม่มา(k→z)งานเลี้ยงหรือ / ไปสิ แต่เดี๋ยวอีกแปป,"Kommen Sie nicht zur Party? / Doch, aber ein bisschen später.",
 เขามาจากฝรั่งเศสใช่ไหม,Kommt er aus Frankreich?,er
 เมืองเคิล์นตั้งอยู่ริมแม่น้ำไรน์,Köln liegt am Rhein.,
-คุณช่วยบอก(!s)ทางไปสถานีรถไฟให้ผมหน่อย<b><u><i>ได้</i></u></b>ไหมครับ,Können Sie mir den Weg zum Bahnhof zeigen?,- Sie / Präsens
+คุณช่วยนำทางไปสถานีรถไฟให้ผมหน่อย<b><u><i>ได้</i></u></b>ไหมครับ,Können Sie mir den Weg zum Bahnhof zeigen?,- Sie / Präsens
 คุณช่วยแนะนำ(อะไร)ให้ฉันหน่อยได้ไหม,Können Sie mir welche empfehlen?,Sie
 คุณอ่านไม่ออกหรือ ที่นี่ห้ามจอด แต่ตรงนู้นจอดได้,Können Sie nicht lesen? Hier ist Parken verboten. Aber da kann man parken.,- Sie
 คุณช่วยบอก(s)ทางไปสถานีรถไฟหน่อยได้ไหม,Könnten Sie mir bitte den Weg zum Bahnhof sagen?,- Kt~
@@ -629,6 +629,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เธอ(๓)เยี่ยมเพื่อน(พหู)ของเธอ,Sie hat ihre Freunde besucht.,- perfekt
 เธอ(๓)ไม่มีเพื่อน เธออยู่คนเดียวเสมอ,"Sie hat keinen Freund, sie ist immer allein.",
 เธอ(๓)ได้ช่วยฉันด้วยนิดหน่อย,Sie hat mir ein bisschen geholfen.,- perfekt
+เธอ(๓ญ)ไม่กลัวต่ออะไรทั้งนั้น,Sie hat vor nichts Angst.,
 เธอ(๓)ปั่นจักรยานแล้วก็หกล้ม,Sie ist Rad gefahren und dann ist sie hingefallen.,perfekt
 เธอ(๓)ได้ย้ายออกจากบ้านของเธอ,Sie ist aus ihrer Wohnung ausgezogen.,perfekt / บ้าน - W
 เธอ(๓)มาถึง(n)บ้านดึกมาก,Sie ist erst sehr spät nach Hause gekommen.,- perfekt
@@ -822,6 +823,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เธอพาฉันเที่ยวชมเมืองได้ไหม,Zeigst du mir die Stadt?,
 ตอนกลางวันฉันทานอาหารตอนบ่ายสองครึ่ง,Zu Mittag habe ich um halb drei gegessen.,perfekt / umgangsprachlich
 ก่อนอื่นฉันจะไป(f→i)ตุรกี แล้วหลังจากนั้นก็จะบินไป(i)อเมริกา,Zuerst fahre ich in die Türkei und dann fliege ich in die USA.,
+โชคดีที่เรามีน้ำ,Zum Glück haben wir Wasser.,
 ใน(เวลา)ทุกวันนี้ป่ามีขนาดเล็กลง,Zur heutigen Zeit ist der Wald kleiner.,
 (ขอ)มันฝรั่งสองกิโล เอาแบบเนื้อแน่นไว้ทำสลัดมันฝรั่ง,"Zwei Kilo Kartoffeln, bitte, festkochend für Kartoffelsalat.",
 ระหว่างร้านขายยากับร้านเสริมสวยเป็นสวนสาธารณะ,Zwischen der Apotheke und dem Friseur ist ein Park.,
