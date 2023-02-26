@@ -180,7 +180,7 @@ das Prozent,Prozent,die Prozente,เปอร์เซ็นต์ ร้อย�
 das Publikum,Publikum,die Publiken,ผู้คน ฝูงชน,y
 das Quartal,Quartal,die Quartale,ไตรมาส,y
 das Radio,Radio,die Radios,วิทยุ,y
-das Rathaus,Rathaus,die Rathäuser,ศาลากลางจังหวัด,y
+das Rathaus,Rathaus,die Rathäuser,ศาลากลางจังหวัด (~บ้าน),y
 das Rauchverbot,Rauchverbot,die Rauchverbote,การห้ามสูบบุหรี่,y
 das Regal,Regal,die Regale,ชั้นวาง,y
 das Restaurant,Restaurant,die Restaurants,ร้านอาหาร,y
@@ -717,7 +717,7 @@ die Garage,Garage,die Garagen,โรงรถ,y
 die Geburt,Geburt,die Geburts,การเกิด,y
 die Gebühr,Gebühr,die Gebühren,ค่าธรรมเนียม ค่าบริการ,y
 die Geige,Geige,die Geigen,ไวโอลิน,y
-die Gemeinde,Gemeinde,die Gemeinden,ศาลากลาง ที่ว่าการเมือง,y
+die Gemeinde,Gemeinde,die Gemeinden,ศาลากลาง ที่ว่าการเมือง (!บ้าน),y
 die Gemeinschaft,Gemeinschaft,die Gemeinschaften,ชุมชน สังคม,y
 die Geschichte,Geschichte,die Geschichten,เรื่องราว เนื้อเรื่อง ประวัติ,y
 die Geschäftsleute,Geschäftsleute,,นักธุรกิจ (gl),y

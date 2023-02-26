@@ -58,7 +58,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เลือดวิ่งไปยังหัวใจ,Das Blut läuft zum Herz.,
 อาหารไม่ได้เรื่อง,Das Essen ist schlecht.,
 อาหารอร่อยมาก อาหารทะเลก็สดมาก,Das Essen schmeckt sehr gut. Die Meeresfrüchte sind so frisch.,
-เครื่องบินออกตอน 12:00 น.,Das Flugzeug fliegt um zwölf Uhr ab.,
+เครื่องบินออกบินตอน 12:00 น.,Das Flugzeug fliegt um zwölf Uhr ab.,- Präsent
 เครื่องบินออกบินเริ่มที่แฟรงก์ฟวร์ตเวลา 8 โมง,Das Flugzeug ist um acht Uhr in Frankfurt gestartet.,- Perfekt
 ของขวัญ(นี้)เพื่อเธอ,Das Geschenk ist für dich.,
 โทรศัพท์(มือถือ)ดัง(รอสาย)สามครั้งและ Julia ก็รับสาย,Das Handy klingelt drei Mal und Julia antwortet.,
@@ -73,6 +73,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 ห้องนอนอยู่ข้างห้องครัว,Das Schlafzimmer ist neben der Küche.,
 "ค่าแท็กซีจากสนามบินไปยังใจกลางเมืองราคา 32,5 ยูโร",Das Taxi vom Flughafen bis zum Zentrum kostet zweiunddreißig Euro fünfzig.,
 พจนานุกรมมีประโยชน์,Das Wörterbuch ist praktisch.,
+นั่นไม่ได้ผลในระยะยาว,Das geht auf Dauer nicht.,
 สิ่งนั้น(ก)ฉันไม่ได้กินมาเป็นเดือน<b><u><i>แล้ว</i></u></b>,Das habe ich schon seit Monaten nicht gegessen.,- Perfekt
 นั่นคือผู้ชายที่น้องชายของเขามีลูกสองคน,"Das ist der Mann, dessen Bruder zwei Kinder hat.",
 นั่นเป็นคำปรารถนาของคุณยายของเธอ,Das ist der Wunsch deiner Großmutter.,
@@ -124,7 +125,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 ลูกชายของผู้ชายคนนั้นชื่อ Michael,Der Sohn des Mannes heißt Michael.,- ใช้ Genitiv
 นักศึกษาวางหนังสือไว้บนชั้น,Der Student stellt das Buch ins Regal.,
 เก้าอี้ทำมาจากโลหะ,Der Stuhl ist aus Metall.,
-การประชุมมีทุกปีในเดือนกรกฎาคม,Der Termin ist jedes Jahr im Juli.,
+การประชุมมีทุกปี(jJ)ในเดือนกรกฎาคม,Der Termin ist jedes Jahr im Juli.,
 โต๊ะอยู่ตรงกลางของห้อง,Der Tisch ist in der Mitte des Zimmers.,
 การย้ายบ้านเป็นไปอย่างรวดเร็ว,Der Umzug ist schnell.,
 รถไฟแล่นตรงจากสนามบินไปยัง(!z)ลาน Alexander,Der Zug fährt direkt vom Flughafen an den Alexanderplatz.,
@@ -223,6 +224,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เขาอ่านหนังสือหนึ่งเล่มทุก ๆ ปี,Er liest ein Buch jährlich.,
 เขาวิ่งช้ากว่า,Er läuft langsamer.,
 เขาไม่ชอบกีฬา,Er mag keinen Sport.,er
+เขาอยากได้นาฬิกา(จาก)อังกฤษเรือนหนึ่ง,Er möchte eine englische Uhr.,
 เขาหลับทันทีที่เขาไปที่เตียง,Er schläft sobald er ins Bett geht.,
 เขาหลับในขณะที่เพื่อนของเขาพูดอยู่,Er schläft während sein Freund spricht.,
 มัน(ช)ถูกปากฉัน<b><u><i>มาก ๆ</i></u></b>,Er schmeckt mir sehr gut.,
@@ -694,7 +696,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 ด้านหน้าภูเขามีทะเลสาบ,Vor dem Berg gibt es einen See.,
 หน้าเธอ(๓)มีลูกกระต่ายนั่งอยู่ตัวหนึ่ง,Vor ihr sitzt ein Häschen.,- ขึ้นประโยคด้วยบุพบท
 เธอตื่นนอนเมื่อไหร่,Wann stehst du auf?,du
-เย็นนี้เราจะเจอกันเมื่อไหร่และที่ไหนนะ,Wann und wo treffen wir uns heute Abend?,
+เย็นวันนี้เราจะเจอกันเมื่อไหร่และที่ไหนนะ,Wann und wo treffen wir uns heute Abend?,
 เธอไปหาหมอมา<u>แล้ว</u>หรือยัง เขาพูดว่าไงบ้าง,Warst du schon beim Arzt? Was hat er gesagt?,- Präteritum &amp; perfekt<br>- หาหมอ: sein
 เธอเคยไป(อยู่)ปารีสสักครั้งไหม / ไม่ ฉันยังไม่เคยได้อยู่ปารีส ฉันยังไม่เคยอยู่ฝรั่งเศสเลย,"Warst du schon mal in Paris? / Nein, ich war noch nicht in Paris. Ich war noch nie in Frankreich.",- Pratäritum
 ทำไมเธอไม่ไปนอนถ้าเธอง่วง,"Warum gehst du nicht schlafen, wenn du müde bist?",
@@ -781,6 +783,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 พวกเรามีรถสองคัน เพราะว่าพวกเราชอบรถยนต์,"Wir haben zwei Autos, denn wir mögen Autos.",- เพราะว่า: denn
 พวกเรามีครูคนใหม่เมื่อวาน เราสนุกกันมาก,Wir hatten gestern einen neuen Lehrer. Wir hatten viel Spaß.,- Präteritum
 พวกเราทำกับข้าวไม่เป็น,Wir können nicht kochen.,
+พวกเราอ่านหนังสือเล่มสุดท้าย,Wir lesen das letzte Buch.,
 พวกเราอ่านหนังสือเล่มหนึ่งให้พวกเขาฟัง,Wir lesen ihnen ein Buch vor.,
 พวกเราอยาก(m)จะเอาเสื้อเชิ้ต(ตัวหนึ่ง)ให้(g)เขา,Wir möchten ihm ein Hemd geben.,
 เรายังไม่อยากไป(n)บ้าน แต่วันเสาร์เราต้องบินกลับไป<u>แล้ว</u>,Wir möchten nicht nach Hause gehen. Aber am Samstag müssen wir schon zurückfliegen.,
