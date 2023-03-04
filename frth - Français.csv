@@ -96,6 +96,7 @@ désolé,ขอโทษ ที่รู้สึกผิด,y
 ensemble,ด้วยกัน,y
 entendre,ได้ยิน,y
 entier,ทั้งชิ้น ทั้งอัน,y
+entre,ระหว่าง ท่ามกลาง,y
 entrer,เข้า,y
 espagnol,ที่เกี่ยวกับสเปน,y
 européen,ที่เกี่ยวกับยุโรป,y
@@ -322,6 +323,7 @@ rond,ที่กลม,y
 rouge,สีแดง,y
 saisir,หยิบ จับ เข้าใจ,y
 sale,สกปรก,y
+sans,ปราศจาก โดยไม่มี,y
 savoir,รู้,y
 sec,แห้ง (ช),y
 second,ลำดับที่สอง (!d),y
@@ -330,13 +332,15 @@ simple,ง่าย (!f),y
 sinon,ไม่งั้น ถ้าไม่,y
 sombre,มืด,y
 souhaiter,ปรารถนา ต้องการ,y
+sous,ใต้,y
 souvent,บ่อย ๆ,y
 suivre,ตาม ติดตาม,y
+sur,ด้านบน เกี่ยวกับ (es: sobre),y
 sympa,ที่ใจดี ที่เห็นอกเห็นใจ,y
 sèche,แห้ง (ญ),y
 sérieux,ที่จริงจัง,y
 sûr,แน่ใจ,y
-tard,สาย,y
+tard,สาย ช้ากว่ากำหนด,y
 tenir,ถือ จับ มี (!p),y
 terminer,ทำให้เสร็จ (!f),y
 toujours,ตลอด เสมอ ๆ,y
@@ -345,6 +349,7 @@ troisième,อันดับที่สาม,y
 trouver,หาเจอ,y
 vendre,ขาย,y
 venir,มา,y
+vers,ไปยัง มุ่งหน้าไปยัง,y
 vert,สีเขียว,y
 violet,สีม่วง,y
 visiter,เยี่ยม,y
