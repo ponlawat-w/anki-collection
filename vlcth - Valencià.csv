@@ -15,8 +15,8 @@ valencià,tailandés,Add Reverse
 (f.) l'aranya,แมงมุม,y
 (f.) l'arrel,ราก,y
 (f.) l'assecadora,เครื่องอบผ้า,y
-(f.) l'autopista,ทางหลวง,y
-(f.) l'autovia,ทางด่วน,y
+(f.) l'autopista,ทางด่วน (เก็บค่าผ่านทาง),y
+(f.) l'autovia,ทางหลวง,y
 (f.) l'avellana,เฮเซลนัท,y
 (f.) l'avinguda,ถนน (a),y
 (f.) l'educació física,พลศึกษา,y
@@ -505,7 +505,7 @@ el parament,การจัด การเตรียม,y
 el parc,สวนสาธารณะ,y
 el pare,พ่อ,y
 el paràgraf,ย่อหน้า,y
-<div>el passadís</div>,โถงทางเดิน,y
+el passadís,โถงทางเดิน,y
 el pastís,ขนมเค้ก,y
 el patí,ชานบ้าน,y
 el peatge,ด่านเก็บค่าทางด่วน,y

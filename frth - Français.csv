@@ -69,6 +69,7 @@ comprendre,เข้าใจ,y
 concerner,ทำผลกระทบ ทำให้กังวล,y
 connaître,รู้จัก,y
 contenir,บรรจุ,y
+contre,vs,y
 couper,ตัด,y
 courir,วิ่ง,y
 court,สั้น,y
@@ -327,6 +328,7 @@ sans,ปราศจาก โดยไม่มี,y
 savoir,รู้,y
 sec,แห้ง (ช),y
 second,ลำดับที่สอง (!d),y
+selon,อิงโดย ขึ้นกับ (es: según),y
 seul,โดดเดี่ยว คนเดียว,y
 simple,ง่าย (!f),y
 sinon,ไม่งั้น ถ้าไม่,y
@@ -358,6 +360,7 @@ voir,เห็น ดู (!r),y
 vouloir,อยาก,y
 vrai,ที่เป็นความจริง,y
 à côté de,ด้านข้างของ~,y
+à travers,ผ่านทาง โดยใช้,y
 ça,สิ่งนั้น,y
 écrire,เขียน,y
 énorme,ยิ่งใหญ่ ใหญ่โต (es: enorme),y

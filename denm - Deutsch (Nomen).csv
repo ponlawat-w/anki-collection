@@ -321,6 +321,7 @@ der Eindruck,Eindruck,die Eindrucke,ความประทับใจ,y
 der Eingang,Eingang,die Eingänge,ทางเข้า,y
 der Elektriker,Elektriker,die Elektriker,ช่างไฟฟ้า,y
 der Enkel,Enkel,die Enkel,หลานชายของปู่ย่าตายาย,y
+der Erfolg,Erfolg,die Erfolge,ความสำเร็จ,y
 der Ernst,Ernst,die Ernste,ความจริงจัง,y
 der Erwachsener,Erwachsener,die Erwachsenen,ผู้ใหญ่,y
 der Fachmann,,,ผู้เชี่ยวชาญ,y
@@ -486,6 +487,7 @@ der Punkt,Punkt,die Punkte,จุด,y
 der Putsch,Putsch,,การทำรัฐประหาร,y
 der Pyjama,Pyjama,die Pyjamas,ชุดนอน,y
 der Rahmen,Rahmen,die Rahmen,กรอบ (รอบ ๆ),y
+der Rand,Rand,die Ränder,ขอบ ด้านข้าง,y
 der Rasierer,Rasierer,die Rasierer,ที่โกนหนวด,y
 der Rauch,Rauch,,ควัน,y
 der Raum,Raum,die Räume,ห้อง (!Z),y
@@ -566,7 +568,7 @@ der Test,Test,die Tests,การทดสอบ (T),y
 der Tierarzt,,,สัตวแพทย์,y
 der Tisch,Tisch,die Tische,โต๊ะ,y
 der Tourist,Tourist,die Touristen,นักท่องเที่ยว,y
-der Transport,Transport,die Transporte,การขนส่ง,y
+der Transport,Transport,die Transporte,การขนส่ง (!L),y
 der Traum,Traum,die Träume,ความฝัน,y
 der Trockner,Trockner,,เครื่องอบผ้า,y
 der Tunnel,Tunnel,die Tunnel,อุโมงค์,y
@@ -693,6 +695,7 @@ die Erinnerung,Erinnerung,die Erinnerungen,ความทรงจำ,y
 die Erlaubnis,Erlaubnis,die Erlaubnisse,การอนุญาต,y
 die Ernährung,,,สารอาหาร,y
 die Etage,Etage,die Etagen,ชั้น (E),y
+die Exportabteilung,,,แผนกส่งออก,y
 die Fahne,Fahne,die Fahnen,ธง ป้าย,y
 die Fahrkarte,,,บัตรโดยสาร,y
 die Fahrt,Fahrt,die Fahrten,การเดินทาง การไป วิธีการไป,y
@@ -752,6 +755,7 @@ die Hochzeit,Hochzeit,die Hochzeiten,งานแต่งงาน,y
 die Hose,Hose,die Hosen,กางเกง,y
 die Hälfte,Hälfte,die Hälften,ครึ่งหนึ่ง (!~b),y
 die Idee,Idee,die Ideen,ความคิด ไอเดีย,y
+die Importabteilung,,,แผนกนำเข้า,y
 die Ingenieurwissenschaft,Ingenieurwissenschaft,,วิศวกรรมศาสตร์,y
 die Innenstadt,,,ใจกลางเมือง ดาวน์ทาวน์,y
 die Insel,Insel,die Inseln,เกาะ,y

@@ -41,6 +41,7 @@ Ana หน้าแดง,Anas Gesicht wird rot.,
 เธอพร้อมที่จะออกบ้านแล้วหรือยัง,Bist du bereit aus dem Haus zu gehen?,
 <b><i><u>โปรด</u></i></b>ตอบกลับถึงฉันภายในวันพุธหรือไม่ก็โทรหาฉัน,Bitte antworte mir bis Mittwoch oder ruf mich an.,- du
 กรุณาพูดช้า ๆ หน่อยครับ,Bitte sprechen Sie langsam.,- Sie<br>- bitte~
+กรุณา(Sie)นำถังขยะ(พหู)ไปวางที่ริมถนนก่อนหกโมงเช้า,Bitte stellen Sie die Mülleimer vor sechs Uhr an den Straßenrand.,
 เอาเก้าอี้(พหู)ไปไว้ตรงระเบียงให้หน่อย,Bring die Stühle bitte auf den Balkon.,"- du, bitte"
 Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärlin und Franka sind auf der Party.,
 วิชาเคมีสนุก,Chemie macht Spaß.,
@@ -53,7 +54,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 รถยนต์ลอดอุโมงค์ไป(f),Das Auto fährt durch den Tunnel.,
 รถยนต์ขับมุ่งหน้าไปทางต้นไม้,Das Auto fährt gegen den Baum.,
 รถยนต์ขับรอบ ๆ ต้นไม้,Das Auto fährt um den Baum.,
-เด็กทารกนอนหลับ แม้ว่ายังดูเหมือนมีชีวิตชีวา(กระตือรือร้น)อยู่,"Das Baby schläft, doch scheint es aktiv.",
+เด็กทารกนอนหลับ แต่ยังดูเหมือนมีชีวิตชีวา(กระตือรือร้น)อยู่,"Das Baby schläft, doch scheint es aktiv.",
 เบียร์จากเยอรมันนั้นดี,Das Bier aus Deutschland ist gut.,
 รูป(B)อยู่ที่ข้างฝาผนัง,Das Bild ist an der Wand.,
 เลือดวิ่งไปยังหัวใจ,Das Blut läuft zum Herz.,
@@ -64,6 +65,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 ของขวัญ(นี้)เพื่อเธอ,Das Geschenk ist für dich.,
 โทรศัพท์(มือถือ)ดัง(รอสาย)สามครั้งและ Julia ก็รับสาย,Das Handy klingelt drei Mal und Julia antwortet.,
 โรงแรมสะอาดและใหญ่ ห้องของพวกเราแพงแต่มันมีระเบียงพร้อมกับวิวทะเล,"Das Hotel ist sauber und groß. Unser Zimmer ist teuer, aber es hat einen Balkon mit Meerblick.",
+ไก่ยังไม่สุกดี,Das Hähnchen ist noch nicht gar.,
 ภายในของปราสาทนั้นใหญ่มาก,Das Innere des Schlosses ist sehr groß.,
 ฉันชอบ(g)ชุดเดรสตัวนี้นะ แต่ฉันคิดว่ามันแพงเกินไป,Das Kleid gefällt mir ganz gut. Aber ich finde es zu teuer.,△. △.
 ชุดเดรสตัวเล็ก,Das Kleid ist klein.,
@@ -91,8 +93,10 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 นี่ไม่ใช่หมา นี่คือแมว,"Das ist kein Hund, das ist eine Katze.",
 นี่เป็นสถานีสุดท้ายของฉัน,Das ist meine letzte Station.,
 นี่ไม่ใช่บ้าน(!H)ของฉันคนเดียว แต่เป็นบ้านของพวกเรานะ,"Das ist nicht meine Wohnung, sondern unsere Wohnung.",
+นี่เป็นส่วนสำคัญสำหรับความสำเร็จของพวกเรา,Das ist wesentlich für unseren Erfolg.,
 "นี่ทั้งหมดราคารวมเป็น 11,50 ยูโร",Das kostet zusammen elf Euro fünfzig.,
 นั่นดูน่าสนใจสำหรับฉัน,Das scheint mir interessant.,
+นั่นเป็นความโชคร้ายสำหรับคุณ,Das war Pech für dich.,Präteritum
 สิ่งนั้นไม่เปลี่ยนอะไรระหว่างเรา,Das ändert nichts zwischen uns.,
 ฉันคิดว่ากระโปรงตัวนี้สวยกว่า,Den Rock finde ich schöner.,- นำประโยคด้วยกระโปรง
 ตัวนั้น(Artikel ช)ฉันก็ว่าสวย แต่ว่ามันยาวเกินไปสำหรับฉัน,"Den finde ich ganz schön, aber er ist mir zu lang.",
@@ -200,6 +204,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เขาจ่ายหมดเลย,Er hat alles bezahlt.,- Perfekt
 วันนี้เขาไม่ได้มีโทรศัพท์มือถือ<b><i><u>ของเขา</u></i></b>อยู่กับตัว มันวางอยู่บนโต๊ะตรงนี้,Er hat heute sein Handy nicht dabei. Es liegt hier auf dem Tisch.,
 เขาลงมืออบมัน(ช)ด้วยตัวเอง,Er hat ihn selber gebacken.,- perfekt
+เขาโชคร้ายตลอดเวลา,Er hat immer Pech.,
 เขาเรียน(!s)ภาษาอังกฤษและสเปนมาจากในโรงเรียน,Er hat in der Schule Englisch und Spanisch gelernt.,- Perfekt
 เขาไม่มีเวลา,Er hat keine Zeit.,er
 เขาไม่ได้เลี้ยงสุนัข แต่เลี้ยงแมวต่างหาก,"Er hat keinen Hund, sondern eine Katze.",
@@ -207,12 +212,14 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เขาเคยเล่าเรื่องเขา(คนนั้น)กับฉัน แต่แทบจะไม่บ่อยเลย,"Er hat mir von ihm erzählt, aber ganz selten.",- Perfekt
 เขา(ช)คุยโทรศัพท์กับเธอ(ญ),Er hat mit ihr telefoniert.,- perfekt<br>- โทรศัพท์: t
 เขา(ช)ได้ถอดรองเท้าของเขาออก,Er hat seine Schuhe ausgezogen.,perfekt
+เขาทำกระเป๋าของเขาหาย,Er hat seine Tasche verloren.,Perfekt
 เขามักจะฟังเพลงเป็นเวลาหลาย ๆ ชั่วโมง,Er hört oft stundenlang Musik.,
 เขากินมากกว่า Pameda,Er isst mehr als Pameda.,
 เขากินเยอะไม่เท่า Pameda,Er isst nicht so viel wie Pameda.,
 เขาไม่กินอะไรนอกจากผลไม้,Er isst nichts außer Obst.,
 เขากินน้อยกว่า Pameda,Er isst weniger als Pameda.,
 เขาอยู่ตรงประตู,Er ist an der Tür.,
+เขาไม่ได้โง่เลยอย่างที่เขาดูเหมือน,"Er ist gar nicht so dumm, wie er aussieht.",
 เขากลับมาจากพักร้อน<b>เมื่อวาน<u><i>ตอนเย็น</i></u></b>,Er ist gestern Abend aus dem Urlaub zurückgekommen.,- Perfekt
 เขาร้อน ๆ หนาว ๆ,Er ist heiß und kalt.,
 มัน(ช)อยู่ในห้องของฉัน เมื่อวานฉันเอามันไปไว้ในห้องของฉันเอง,Er ist in meinem Zimmer. Gestern habe ich ihn in mein Zimmer gebracht.,- präsen / perfekt
@@ -315,6 +322,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันไปไปรษณีย์คนเดียว,Ich bin allein zur Post gegangen.,- perfekt<br>- บุพบท: z
 ฉันกำลังพบแพทย์,Ich bin beim Arzt.,
 "ฉันสูง 1,87 เมตร และมีผมสีน้ำตาลยาวกว่านิดหน่อย","Ich bin ein Meter siebenundachtzig groß und habe braunes, etwas längeres Haar.",
+ฉันเห็นด้วยกับความคิดเห็นของเธอทุกประการ,Ich bin ganz und gar deiner Meinung.,
 ฉันไม่เห็นด้วยกับไวน์ในมื้อเช้า,Ich bin gegen Wein zum Frühstück.,
 ฉันเหนื่อยพอ ๆ (g)กับเธอ,Ich bin genauso müde wie du.,
 ฉันเพิ่งตื่นนอน ฉันอาบน้ำเสร็จเมื่อ 5 นาทีที่แล้วและตัว<u>ยัง</u>ไม่แห้งเลย,Ich bin gerade aufgestanden. Ich habe vor fünf Minuten geduscht und bin noch nicht trocken.,
@@ -347,7 +355,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันไปเดินเล่นกับ Michael,Ich gehe mit Michael spazieren.,
 ฉัน<u><i><b>กลับ</b></i></u>(g→n)บ้านเร็วเพราะว่าฉันอยากจะออกไปข้างนอกวันนี้,"Ich gehe schnell nach Hause zurück, weil ich heute ausgehen möchte.",
 ฉันไปนอนตอนห้าทุ่มสิบห้า,Ich gehe um Viertel nach elf schlafen.,- umgangssprachlich<br>- นอน: กริยา
-ฉันเดินไปหา(z)ผู้ชายเหล่านั้น แล้วก็พูดกับพวกเขา,Ich gehe zu den Männern und rede mit ihnen.,
+ฉันเดินไปหา(z)ผู้ชายเหล่านั้น แล้วก็พูด(!s)กับพวกเขา,Ich gehe zu den Männern und rede mit ihnen.,
 ฉันจะไปหาหมอก่อน หลังจากนั้นก็จะไปบ้านของของเธอ แล้วเราเข้าเมืองไปด้วยกัน,"Ich gehe zuerst zum Arzt, dann komme ich zu dir, und wir fahren zusammen in die Stadt.",
 ฉันจะไปดูแข่งฟุตบอล,Ich gehe zum Fußballspiel.,
 ฉันเชื่อในตัวเธอ,Ich glaube an dich.,
@@ -415,6 +423,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันต้องไปซ่อนตัว,Ich muss mich verstecken.,
 ฉันต้องไปซื้อของก่อน,Ich muss zuerst einkaufen gehen.,
 ฉันต้องไป(f/z)มหาวิทยาลัยก่อน,Ich muss zuerst zur Universität fahren.,
+ฉันไม่เคยต้องช่วยงานบ้านและฉันสามารถกินไอติมมากเท่าไหร่ก็ได้,"Ich musste nie im Haushalt helfen und durfte so viel Eis essen, wie ich wollte.",Präteritum
 ฉันอยากจะรู้จักคุณมานาน<u>แล้ว</u>,Ich möchte Sie schon lange kennenlernen.,Sie
 ฉันก็อยากไปกินซูชิกับพวกเธอ,Ich möchte auch mit euch Sushi essen.,ihr
 ฉันขอไส้กรอกแกงกะหรี่หนึ่งกับน้ำแร่หนึ่ง,Ich möchte bitte eine Currywurst und ein Mineralwasser.,bitte
@@ -438,8 +447,10 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันไม่รู้ เราน่า(m)จะถามใครสักคนนะ,Ich weiß nicht. Wir müssen jemanden fragen.,
 ฉันไม่รู้อะไรเลยเกี่ยวกับอดีตของเขา,Ich weiß nichts über seine Vergangenheit.,
 ฉันตื่นนอนแล้วก็อาบน้ำ หลังจากนั้นฉันก็ไปทานอาหารเช้าอย่างสงบ,Ich werde wach und dusche. Danach gehe ich in Ruhe frühstücken.,- ตื่นนอน: ww<br>- ไปทาน: verb + verb
+ฉันไม่อยากสูญเสียเธอไป,Ich will dich nicht verlieren.,
 ฉันไม่อยากกินยา<sub>(พหู)</sub>,Ich will keine Tabletten nehmen.,- ยา (t)<br>- อยาก (ปราถนา w)
 ฉันอาศัยอยู่ในเมือง(D)เล็ก ๆ แห่งหนึ่ง ตอนวันเสาร์อาทิตย์<b><i><u>ที่นี่</u></i></b>ไม่มีอะไรทำเลย,Ich wohne in einem kleinen Dorf. Am Wochenende ist hier nichts los.,
+ฉันอยากไปเที่ยวทุกสถานที่ท่องเที่ยวในและรอบ ๆ ปารีสมาก ๆ แต่ฉันทำมันไม่ได้เพราะว่ามีเวลาไม่พอ,"Ich wollte gern alle Sehenswürdigkeiten in und um Paris besichtigen, aber das konnte ich nicht, weil ich nicht genug Zeit hatte.",Präteritum
 ฉันถอดเสื้อแล้วก็นอนลงบนเตียง ฉันปิดไฟแล้วก็หลับ,Ich ziehe mich aus und liege mich ins Bett. Ich mache das Licht aus und schlafe.,
 ฉันเปิดกล่องจดหมายของฉันและตอบอีเมล(พหู)ของฉัน,Ich öffne meine Mailbox und beantworte meine E-Mails.,
 ฉันกำลังคิดเกี่ยวกับของขวัญที่จะเอาให้ Eva,Ich überlege mir ein Geschenk für Eva.,
@@ -506,6 +517,7 @@ Julia เรียกฉันจากที่<b><u>หน้า</u></b>ปร
 วิ่งเร็ว ๆ หน่อย,Lauf schnell!,- du!
 น่าเสียดายฉันซื้อได้แต่ชุดเดรส(B)หนึ่งตัว เพราะว่า<b><u><i>ตอนนั้น</i></u></b>ฉันไม่มีเงินมาก,"Leider kann ich nur eine Bluse kaufen, denn habe ich nicht so viel Geld dabei.",- เพราะว่า: denn
 สัปดาห์ที่แล้วฉันมาที่สำนักงานตอนแปดโมงและฉันก็เริ่มทำงาน,Letzte Woche bin ich um acht Uhr ins Büro gekommen und ich habe mit der Arbeit angefangen.,- Perfekt
+ปีที่แล้วฉันอยากทำงานที่แผนกส่งออก แต่ว่าฉันทำไม่ได้เพราะไม่รู้ภาษาฝรั่งเศส,"Letztes Jahr wollte ich in der Exportabteilung arbeiten, aber ich durfte nicht, weil ich kein Französisch konnte.",Präteritum
 เธอยังรัก Thomas อยู่ไหม / ไม่ ฉันไม่รักเขาแล้ว,"Liebst du Thomas noch? / Nein, ich liebe ihn nicht mehr.",
 ทางด้านซ้ายของบ้านของฉันเป็นซุปเปอร์มาร์เก็ตแห่งหนึ่งและทางด้านขวาของบ้านของฉันเป็นร้านขายดอกไม้แห่งหนึ่ง,Links neben meinem Haus ist ein Supermarkt und rechts neben meinem Haus ist ein Blumengeschäft.,
 Luki กระโดดข้ามหน้าต่าง,Luki springt durch das Fenster.,
@@ -532,6 +544,7 @@ Luki กระโดดข้ามหน้าต่าง,Luki springt durch d
 พ่อฉันไปเดินเล่นกับหมาของเรา ส่วนแม่ฉันเตรียมอาหารเช้า,"Mein Vater geht mit unserem Hund spazieren, und meine Mutter bereitet das Frühstück zu.",
 พ่อของฉันเป็นช่างไฟฟ้า และเขาทำงานใน(i)บริษัทใหญ่แห่งหนึ่ง,Mein Vater ist Elektriker und arbeitet in einer großen Firma.,
 พ่อเห็นว่าฉันยังแต่งตัวไม่เสร็จอีก,"Mein Vater sieht, dass ich noch nicht angezogen bin.","präsens, perfekt"
+พ่อของฉันอยากเรียนก่อนหน้านี้ แต่เขาเรียนไม่ได้เพราะพ่อแม่ของเขามีเงินไม่พอ,"Mein Vater wollte früher studieren, aber er durfte nicht, weil seine Eltern nicht genug Gelb hatten.",Präteritum
 ฉันเจ็บฟัน,Mein Zahn tut weh.,- เอกพจน์
 รถไฟของฉันจะออกเดินทางในอีก 10 นาที,Mein Zug fährt in zehn Minuten ab.,
 หมาของฉันเองตัวใหญ่กว่าฉันอีก,Mein eigener Hund ist größer als ich.,
@@ -552,7 +565,7 @@ Luki กระโดดข้ามหน้าต่าง,Luki springt durch d
 Michael อยู่ในห้อง<sub>(บ้าน)</sub> เขาต้องอ่านหนังสือเรียน ส่วน Julia กับฉันเดินทางมุ่งหน้าไปยังร้านอาหาร,Michael bleibt in der Wohnung. Er muss lernen. Julia und ich gehen in Richtung Restaurant.,
 Michael มองดูน้องสาวของฉัน Julia อย่างสงสัย,Michael guckt meine Schwester Julia neugierig an.,
 Michael ช่วยเรายกกระเป๋า(เป้)<sub>พหู</sub>,Michael hilft uns mit den Rucksäcken.,
-Michael ตกใจมาก,Michael ist sehr überrascht.,
+Michael ตกใจ(ประหลาดใจ/surprised)มาก,Michael ist sehr überrascht.,
 Michael จ้องมองไปที่ผู้ชายคนนั้น,Michael starrt den Mann an.,
 สองสามนาทีหลังจากนั้นเราก็อยู่ระหว่างทางไปยังบ้านของ Michael,Minuten später sind wir auf dem Weg zu Michaels Wohnung.,
 ฉันชอบอันนี้ที่สุด,Mir gefällt das am besten.,
@@ -631,6 +644,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เธอ(๓)สวม(ah)เสื้อแจ็กเก็ตสวยตัวหนึ่ง,Sie hat eine schöne Jacke an.,
 เธอ(๓)มีชื่อเฉพาะส่วนตัวให้สำหรับเขา,Sie hat einen persönlichen Name für ihn.,
 เธอ(๓)เอามัน(ก)ให้(s)เด็ก(เอก),Sie hat es dem Kind geschenkt.,- perfekt
+เธอ(๓ญ)ไม่มีความอยากที่จะมาเลยแม้แต่น้อย,Sie hat gar keine Lust zu kommen.,
 เธอ(๓)เยี่ยมเพื่อน(พหู)ของเธอ,Sie hat ihre Freunde besucht.,- perfekt
 เธอ(๓)ไม่มีเพื่อน เธออยู่คนเดียวเสมอ,"Sie hat keinen Freund, sie ist immer allein.",
 เธอ(๓)ได้ช่วยฉันด้วยนิดหน่อย,Sie hat mir ein bisschen geholfen.,- perfekt
@@ -670,6 +684,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เขาใกล้จะตื่นแล้วหรือยัง,Steht er bald auf?,
 เอาหนังสือ(พหู)ไปไว้ในชั้นให้หน่อย,Stell die Bücher bitte ins Regal.,"- du, bitte<br>"
 เธอเต้นกับเด็กผู้หญิงไหม,Tanzt du mit dem Mädchen?,
+จริง ๆ แล้วเขาได้โกหกฉัน,Tatsächlich hat er mich angelogen.,Perfekt
 คุณเล่นกีฬาไหม,Treibst du Sport?,y
 คุณชอบดื่มกาแฟไหม,Trinkst du gern Kaffee?,du
 เธอเอาชีสไปใส่ในตู้เย็นให้หน่อย,Tu den Käse bitte in den Kühlschrank.,"- du, bitte<br>- tun"
@@ -804,6 +819,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เรากำลังมองหาของขวัญให้(für)เพื่อน(ญ)ของเราคนหนึ่ง เธอชอบทำอาหารและชอบดื่มชา,Wir suchen ein Geschenk für unsere Freundin. Sie kocht gern und trinkt gern Tee.,
 พวกเรารอ(aw)พวกเธอที่นี่,Wir warten hier auf euch.,
 เราทิ้งของไปหลายชิ้น,Wir werfen viele Sachen weg.,
+เราอยากไปสระว่ายน้ำทุกวัน แต่ว่าไปได้แค่สัปดาห์ละครั้ง,"Wir wollten jeden Tag ins Schwimmbad gehen, aber wir durften nur einmal pro Woche gehen.",Präteritum
 พวกเราขออวยพร(w)ให้เธอมีความสุขในวันเกิด,Wir wünschen dir alles Gute zum Geburtstag.,
 จริงหรอ ฉันไม่เชื่อเธอหรอก,Wirklich? Ich glaube dir nicht.,
 คุณ(Sie)ทราบไหมว่าสถานีรถไฟอยู่ที่ไหน,"Wissen Sie, wo der Bahnhof ist?",

@@ -208,6 +208,7 @@ frühmorgens,Adv.,เช้าตรู่,y
 funkeln,V.,สะท้อนแสง เป็นระยิบระยับ,y
 fühlen,V.,รู้สึก,y
 ganz,A.,ทั้ง ทั้งหมด เต็ม ๆ,y
+gar nicht,Adc.,ไม่เลย สักน้อย,y
 geboren,V.,เกิด,y
 geduldig,Adj.,อดทน,y
 gefallen,V.,ทำให้ชอบ (es: gustar),y
@@ -491,9 +492,9 @@ simpel,Adj.,ง่าย (ซิมเปิล),y
 singen,V.,ร้องเพลง,y
 sinnvoll,Adj.,ที่มีเหตุผล เข้าใจได้ เมคเซนส์,y
 sitzen,V.,นั่ง,y
-sobald,Konj.,ทันทีที่,y
+sobald,Konj.,ทันทีที่ (!~f),y
 sofern,Konj.,ตราบใดที่ เท่าที่,y
-sofort,Adv.,ทันที,y
+sofort,Adv.,ทันที (!~l),y
 solange,Konj.,ในขณะที่ (~ประโยค !w),y
 sollen,V.,ควร,y
 sondern,Konj.,แต่ (s),y
@@ -568,7 +569,7 @@ verheiraten,V.,แต่งงาน (v),y
 verheiratet,Adj.,สมรส(แล้ว),y
 verkaufen,V.,ขาย,y
 verlassen,V.,ออกจาก (~l),y
-verlieren,V.,ทำหาย,y
+verlieren,V.,ทำหาย สูญเสีย,y
 verlängern,V.,ขยาย เลื่อนออก ทำให้ยาวขึ้น (lang → V.),y
 verpacken,V.,ห่อ แพ็ค,y
 verpassen,V.,พลาดไป (พลาดโอกาส),y
