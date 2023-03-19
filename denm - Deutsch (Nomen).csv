@@ -611,7 +611,7 @@ der Zahn,Zahn,die Zähne,ฟัน,y
 der Zahnarzt,,,ทันตแพทย์,y
 der Zeigefinger,,,นิ้วชี้,y
 der Zeitpunkt,,,ขณะเวลา จุดหนึ่งในช่วงเวลา,y
-der Zeitraum,Zeitraum,die Zeiträume,ห้วงเวลา,y
+der Zeitraum,Zeitraum,die Zeiträume,ห้วงเวลา (!D!P),y
 der Zettel,Zettel,die Zettel,เศษกระดาษ กระดาษโน้ต,y
 der Zoll,Zoll,die Zölle,ศุลกากร,y
 der Zucker,Zucker,,น้ำตาล,y
@@ -670,7 +670,7 @@ die Chemie,Chemie,,เคมี,y
 die Cola,Cola,die Colas,โคล่า,y
 die Dame,Dame,die Damen,สุภาพสตรี คุณผู้หญิง,y
 die Daten,,,ข้อมูล,y
-die Dauer,Dauer,,ระยะเวลา (!P),y
+die Dauer,Dauer,,ระยะเวลา (!P!~r),y
 die Decke,Decke,die Decken,ผ้าห่ม เพดาน,y
 die Digitaluhr,Digitaluhr,die Digitaluhren,นาฬิกาดิจิตัล,y
 die Disko,Disko,die Diskos,ดิสโก,y
@@ -868,7 +868,7 @@ die Person,Person,die Personen,บุคคล,y
 die Pfanne,Pfanne,die Pfannen,กระทะ,y
 die Pflanze,Pflanze,die Pflanzen,พืช,y
 die Pflege,Pflege,,การดูแล การเฝ้าไข้ การรักษา,y
-die Phase,Phase,die Phasen,ช่วงเวลา (!D),y
+die Phase,Phase,die Phasen,ช่วงเวลา (!D!~r),y
 die Physik,Physik,,ฟิสิกส์,y
 die Pizza,Pizza,die Pizzen,พิซซ่า,y
 die Platte,Platte,die Platten,แผ่น ชีท ใบ,y
