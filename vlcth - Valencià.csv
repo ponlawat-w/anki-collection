@@ -38,6 +38,7 @@ valencià,tailandés,Add Reverse
 (f.) l'esquina,หัวมุม (e),y
 (f.) l'estació,สถานีรถไฟ,y
 (f.) l'estona,ช่วงเวลาสั้น ๆ (es: rato),y
+(f.) l'euga,ม้าตัวเมีย,y
 (f.) l'hostessa,แอร์โฮสเตส,y
 (f.) l'illa,เกาะ,y
 (f.) l'obrera,คนงานผู้หญิง,y
@@ -251,7 +252,6 @@ deficiós,ยม ไม่อยากทำอะไร,y
 demanar,ร้องขอ,y
 demà,พรุ่งนี้,y
 descovrir,ค้นพบ หาเจอ (!t),y
-desdejunar-se,รับประทานอาหารเช้า,y
 desenvolupar,พัฒนา,y
 desitjar,ปรารถนา หวัง,y
 despertar-se,ตื่น (!ll),y
@@ -575,6 +575,7 @@ el secretari,เลขาผู้ชาย,y
 el segle,ช่วงเวลา ศตวรรษ,y
 el semàfor,สัญญาณจราจร,y
 el senderisme,ไฮกิง,y
+el senglar,หมูป่า,y
 el senyal,สัญญาณ,y
 el setembre,กันยายน,y
 el sofà,โซฟา,y
@@ -636,9 +637,10 @@ entremeliat,ซน ดื้อ,y
 equivocar-se,ทำผิดพลาด,y
 escoltar,ฟัง,y
 escriure,เขียน,y
-esmorzar,ทานอาหาร(สาย) (es: almorzar),y
+esmorzar,ทานอาหารเช้า (es: almorzar),y
 esquerrer,ถนัดซ้าย,y
 esquiar,เล่นสกี,y
+estalviar,เก็บออม ประหยัด,y
 estatunidenc,ที่เกี่ยวกับสหรัฐอเมริกา,y
 estimar,ชอบ รัก,y
 estirar,ดึง,y
@@ -650,6 +652,7 @@ fals,ที่เป็นความเท็จ,y
 famós,มีชื่อเสียง,y
 fer,ทำ,y
 fer l'efecte,ให้ความรู้สึก… (es: parecer),y
+fer la mandra,อยู่เฉย ๆ ไม่ทำอะไร,y
 fer pudor,ส่งกลิ่นเหม็น,y
 fer servir,ใช้ (๒),y
 fer tard,มาสาย,y
@@ -910,7 +913,8 @@ la ràdio,วิทยุ,y
 la sala menjador,ห้องรับประทานอาหาร,y
 la samarreta,เสื้อยืด,y
 la sang,เลือด,y
-la secretaria,เลขาผู้หญิง,y
+la secretaria,งานเลขาธิการ,y
+la secretària,เลขาผู้หญิง,y
 la set,ความกระหายน้ำ,y
 la sogra,แม่ยาย,y
 la solitud,ความโสด ความเหงา,y
@@ -977,6 +981,7 @@ marró,สีน้ำตาล,y
 massa,มากเกินไป / เกินไป,y
 mentider,ชอบโกหก,y
 menut,เล็ก (m),y
+menysprear,ดูถูก,y
 milió,ล้าน,y
 morat,สีม่วงเข้ม,y
 morir,ตาย เสียชีวิต,y
@@ -1049,9 +1054,11 @@ recentment,เร็ว ๆ นี้ ช่วงหลัง ๆ นี้,y
 refredar-se,เป็นหวัด,y
 regatejar,ต่อรองราคา,y
 relaxar-se,พักผ่อน,y
+renegar,สบถ,y
 rentar,แปรง ขัด (คำกริยา rt),y
 rentar-se les dents,แปรงฟัน,y
 respondre,ตอบ,y
+reventat,ที่เหนื่อยมาก หมดแรง,y
 riure,หัวเราะ,y
 roig,สีแดง (!v),y
 ros,(ผม) สีทอง บลอนด์,y

@@ -687,6 +687,7 @@ el desván,ห้องใต้หลังคา (!b),y
 el detergente,ผงซักฟอก,y
 el detonador,ที่จุดระเบิด,y
 el diablito,รถเข็นสองล้อมีหูจับ,y
+el diafragma,กะบังลม,y
 el diagnóstico,การวินิจฉัยโรค,y
 el diamante (de una carta),(ไพ่) ข้าวหลามตัด,y
 el difunto,ผู้วายชนม์,y
@@ -744,7 +745,7 @@ el estrato calcáreo,ชั้นหินปูน,y
 el estrechamiento,ทางแคบ (ทางเบี่ยงให้แคบ),y
 el estreñimiento,ท้องผูก,y
 el estribillo,ท่อนฮุกของเพลง,y
-el estribo,ที่วางเท้าขี้ม้า,y
+el estribo,ที่วางเท้าเวลาขี่ม้า,y
 el estropajo,ฝอยขัดหม้อ,y
 el estuche,กล่องดินสอ กล่องใส่ของ,y
 el estímulo,การกระตุ้น,
@@ -752,7 +753,7 @@ el esófago,หลอดอาหาร,y
 el exitazo,ความสำเร็จอันยิ่งใหญ่,
 el expolio,การปล้นสะดม การปล้นโบราณสถาน,y
 el exprimidor,เครื่องคั้นน้ำผลไม้,y
-el facóquero,หมูป่า (!j),y
+el facóquero,หมูป่าแอฟริกา,y
 el fajín,แถบพัน (帯),y
 el fango,โคลน (!c),y
 el farmacéutico,เภสัชกร,y
@@ -856,7 +857,7 @@ el intermitente,ไฟเลี้ยว,y
 el intestino delgado,ลำไส้เล็ก,y
 el intestino grueso,ลำไส้ใหญ่,y
 el inversor,นักลงทุน,y
-el jabalí,หมูป่า (!f),y
+el jabalí,หมูป่า,y
 el jarabe,น้ำเชื่อม,y
 el jarabe de arce,เมเปิลไซรัป,y
 el jeroglífico,อักษรภาพ อักษรอียิปต์โบราณ,y
@@ -1304,8 +1305,9 @@ elogiar,ยกย่อง ชื่นชม สรรเสริญ,y
 eludir,หนี หลบหลีก (e),y
 embobar,ทำให้ประหลาดใจ (e),y
 empachar,ทำให้เบื่อ ทำให้อาย ไม่ย่อย,y
-empadado,เปียกโชก (!m),y
+empadronarse,ลงทะเบียนเป็นผู้อยู่อาศัย,y
 empalmar,เชื่อม ต่อ,
+empapado,เปียกโชก (!m),y
 empañarse,เป็นฝ้า ขึ้นฝ้า,y
 empinado,ชัน,y
 emprender,เริ่ม (ธุรกิจ),y
@@ -1321,7 +1323,7 @@ enfurecerse,โกรธ,
 enganchar,เกี่ยว เกี่ยวขอ คว้า ฉวย,y
 engordar,อ้วนขึ้น,y
 enjaular,จับเข้ากรง,y
-enjuto,ลีน ผอมมาก,y
+enjuto,ลีน ผอมมาก (!~b~),y
 enmendar,ปรับเปลี่ยน แก้ไข ทำให้ถูกต้อง,
 ennegrecer,ทำให้เป็นสีดำ,y
 enredar,พันกัน หวันกัน,y
@@ -1507,7 +1509,7 @@ la ardilla,กระรอก,y
 la arenisca,หินทราย,y
 la aristocracia,การปกครองโดยชนชั้นสูง,y
 la armonía,ฮาร์โมนี การประสานกัน,y
-"la arrocera ",หม้อหุงข้าว,y
+la arrocera,หม้อหุงข้าว,y
 la arruga,รอยพับ รอยยับ รอยย่อน,y
 la arteria,เส้นเลือดแดง,y
 la artesanía,ศิลปหัตถกรรม,y
@@ -2112,7 +2114,7 @@ la ventisca,พายุหิมะ,y
 la verja,รั้ว,y
 la viabilidad,ความอยู่รอดได้,y
 la viga,คาน,y
-la virtud,จุดอ่อน ข้อเสีย,y
+la virtud,ข้อเสีย,y
 la viruela,ฝีดาษ,y
 la viscosidad,ความเหนียว ความหนืด,y
 la vitrina,ตู้โชว์ ตู้แช่ (กระจก) (เช่นที่ใส่เค้ก ขนมปัง),y
@@ -2120,6 +2122,7 @@ la vitrocerámica,เตาไฟฟ้า (กระจกแก้ว / เห
 la vocación,ความเป็นไปที่โชคชะตาฟ้ากำหนด อาชีพ,y
 la vuelta al mundo,การเดินทางรอบโลก,y
 la xilografía,ศิลปะการแกะสลักไม้,y
+la yegua,ม้าตัวเมีย,y
 la yema,ไข่แดง,y
 la yema (de planta),ตา (ต้นไม้),y
 la órbita,วงโคจร,y
@@ -2356,6 +2359,7 @@ retirar,เอาออก,
 retroceder,ย้อนกลับ ถอยหลัง ยอกย้อน,y
 retumbar,(ส่งเสียง)ดังก้อง สะท้อน,y
 retórico,เชิงสำนวนโวหาร,y
+reventado,ที่เหนื่อยมาก หมดแรง,y
 reventar,(ยาง)ระเบิด แตกหัก แตก,y
 revolotear,กระพือ (ปีก),y
 revolver,คนให้เข้ากัน,y

@@ -191,7 +191,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 (ขอ)น้ำแร่ไม่อัดก๊าซ 1 ขวด,"Eine Flasche Mineralwasser ohne Kohlensäure, bitte.",
 แมวตัวหนึ่งเคยอยู่บนโต๊ะ,Eine Katze ist auf dem Tisch gewesen.,Perfekt
 ขอให้เป็นวันที่ดี,Einen schönen Tag noch.,
-เช้าวันหนึ่งมีพายุ,Eines Morgens gibt es ein Gewitter.,
+เช้าวันหนึ่งมีพายุ(G),Eines Morgens gibt es ein Gewitter.,
 ขอโทษนะคะ รถไฟขบวนถัดไปที่จะไป Dessau ออกเมื่อไหร่,"Entschuldigung, wann fährt der nächste Zug nach Dessau ab?",
 ถ้าเราไม่จมเราก็ว่ายน้ำ,Entweder gehen wir unter oder schwimmen.,
 ไม่เธอไปก็ฉันไป,Entweder gehst du oder ich gehe.,
@@ -390,6 +390,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันถือมะเขือเทศลูกหนึ่ง,Ich halte eine Tomate.,
 ฉันหยุดเขา(ญ),Ich halte sie an.,
 ฉันประสบอุบัติเหตุ ก็เลยอยู่<sub>(sein→z)</sub>บ้านมาสามวันแล้ว,Ich hatte einen Unfall und war drei Tage zu Hause.,- Präteritum
+ฉันมักจะทะเลาะกับพี่สาวของฉันอยู่บ่อย ๆ,Ich hatte oft Streit mit meiner großen Schwester.,- Präteritum
 ผมไม่ได้ชื่อ Mayer แต่ชื่อ Schneider,"Ich heiße nicht Mayer, sondern Schneider.",
 ฉันเอากุญแจออกมา,Ich hole den Schlüssel heraus.,
 ฉันจะไปรับเธอตอนสี่ทุ่ม,Ich hole dich um zehn Uhr ab.,du / umgangsprachlich
@@ -407,6 +408,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันรู้จักเขาผ่านเพื่อนคนหนึ่ง,Ich kenne ihn durch einen Freund.,
 ฉันไม่รู้จักใครเลยในงานเลี้ยง,Ich kenne niemanden auf der Party.,
 ฉันไม่รู้จักใครเลยในเยอรมนี,Ich kenne niemanden in Deutschland.,
+ฉันเป็นคนทำอาหาร เพราะงี้กับข้าวก็เลยแย่,"Ich koche, somit ist das Essen schlecht.",
 ฉันเพิ่งมาจากคลินิกทันตแพทย์,Ich komme gerade vom Zahnarzt.,Präsent
 ฉัน<b><i><u>ส่วนใหญ่มักจะ</u></i></b>มาสำนักงาน<b><i><u>ประมาณ</u></i></b>แปดโมง และเปิด(es)คอมพิวเตอร์ก่อนเป็นอันดับแรก,Ich komme meistens gegen acht Uhr ins Büro und schalte erst einmal den Computer ein.,
 ฉันจะมาถึงพรุ่งนี้ตอน 21:34 น. ที่สถานีรถไฟ เธอมารับไหม,Ich komme morgen um einundzwanzig Uhr vierunddreißig am Bahnhof an. Holst du mich bitte ab?,offiziel
@@ -452,6 +454,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันไม่อยากสูญเสียเธอไป,Ich will dich nicht verlieren.,
 ฉันไม่อยากกินยา<sub>(พหู)</sub>,Ich will keine Tabletten nehmen.,- ยา (t)<br>- อยาก (ปราถนา w)
 ฉันอาศัยอยู่ในเมือง(D)เล็ก ๆ แห่งหนึ่ง ตอนวันเสาร์อาทิตย์<b><i><u>ที่นี่</u></i></b>ไม่มีอะไรทำเลย,Ich wohne in einem kleinen Dorf. Am Wochenende ist hier nichts los.,
+ฉันเคยอยากเป็นนักข่าว(ญ) แต่ด้วยความเห็นของพ่อฉันแล้วฉันควรเป็นเภสัชกร(ญ),"Ich wollte Journalistin werden, aber nach Meinung meines Vaters sollte ich Apothekerin werden.",
 ฉันอยากไปเที่ยวทุกสถานที่ท่องเที่ยวในและรอบ ๆ ปารีสมาก ๆ แต่ฉันทำมันไม่ได้เพราะว่ามีเวลาไม่พอ,"Ich wollte gern alle Sehenswürdigkeiten in und um Paris besichtigen, aber das konnte ich nicht, weil ich nicht genug Zeit hatte.",Präteritum
 ฉันถอดเสื้อแล้วก็นอนลงบนเตียง ฉันปิดไฟแล้วก็หลับ,Ich ziehe mich aus und liege mich ins Bett. Ich mache das Licht aus und schlafe.,
 ฉันเปิดกล่องจดหมายของฉันและตอบอีเมล(พหู)ของฉัน,Ich öffne meine Mailbox und beantworte meine E-Mails.,
@@ -574,6 +577,7 @@ Michael จ้องมองไปที่ผู้ชายคนนั้น
 ฉันสบายดี,Mir geht es gut.,
 (สำหรับฉัน)อากาศหนาวจัง,Mir ist es kalt.,
 (สำหรับฉัน)คอมพิวเตอร์ของฉันสำคัญที่สุด,Mir ist mein Computer am wichtigsten.,
+ด้วยอายุเจ็ดขวบฉันสามารถอ่านและเขียนได้ และหลังจากนั้นฉันก็อ่าน(หนังสือ)มาโดยตลอด,"Mit sieben Jahren konnte ich lesen und schreiben, und von da an habe ich immer viel gelesen.",- Vergangenheit
 เธอ(ญ)คุยโทรศัพท์กับใคร,Mit wem hat sie telefoniert?,- perfekt<br>- telefonieren
 แปป แปป อย่าเพิ่งใจร้อน,"Moment, Moment! Nicht so hektisch!",
 พรุ่งนี้เราจะไป(f)ทะเลกัน,Morgen fahren wir ans Meer.,
@@ -626,6 +630,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เป็นเวลาหนึ่งปีแล้วที่ฉันอาศัยอยู่ที่ฮัมบวร์ก,Seit einem Jahr wohne ich in Hamburg.,
 เขาดื่มชาตั้งแต่เมื่อไหร่,Seit wann trinkt er Tee?,
 เธออาศัยอยู่ที่ฮัมบวร์กตั้งแต่เมื่อไหร่,Seit wann wohnst du in Hamburg?,
+แม้แต่ฉันก็ยังดื่มนม,Selbst ich trinke Milch.,
 เธอ(๓)ตกลงรับช็อกโกแลต(พหู)ฟรี<sub>(mit Artikel)</sub>,Sie akzeptiert die kostenlose Schokolade.,
 เขา(ญ)ทำงานวันพฤหัสตอนเย็นตั้งแต่หกโมงถึงสี่ทุ่ม,Sie arbeitet Donnerstagabend von sechs bis zehn Uhr.,sie / umgangssprachlich
 เธอ(๓)ทำงานทั้งวันและตอนเย็นเธอไป(g→z)เรียนคอร์สเยอรมัน,Sie arbeitet den ganzen Tag und abends geht sie zum Deutschkurs.,- ไปเรียน = ไปคอร์สเรียนเยอรมัน
@@ -716,6 +721,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เมื่อไม่นานมานี้ฉันได้รู้แล้วว่าเขาอยู่ที่ไหน,"Vor Kurzem fand ich heraus, wo er ist.",präteritum
 ด้านหน้าภูเขามีทะเลสาบ,Vor dem Berg gibt es einen See.,
 หน้าเธอ(๓)มีลูกกระต่ายนั่งอยู่ตัวหนึ่ง,Vor ihr sitzt ein Häschen.,- ขึ้นประโยคด้วยบุพบท
+เราจะไปร้านกาแฟกันก่อน,Vorher gehen wir noch ins Café.,
 เธอตื่นนอนเมื่อไหร่,Wann stehst du auf?,du
 เย็นวันนี้เราจะเจอกันเมื่อไหร่และที่ไหนนะ,Wann und wo treffen wir uns heute Abend?,
 เธอไปหาหมอมา<u>แล้ว</u>หรือยัง เขาพูดว่าไงบ้าง,Warst du schon beim Arzt? Was hat er gesagt?,- Präteritum &amp; perfekt<br>- หาหมอ: sein
@@ -786,6 +792,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เราเดินทางไปประเทศสวิสฯ,Wir fahren in die Schweiz.,
 เราบินไปกรุงเทพฯ,Wir fliegen nach Bangkok.,
 พวกเราไปซื้อของตอนบ่ายแล้วตอนเย็นไปดูหนัง,Wir gehen am Nachmittag einkaufen und am Abend ins Kino.,
+เราไปโรงหนังเช้ากว่า เพื่อที่เราจะได้ที่นั่งที่ดีกว่า,"Wir gehen früher ins Kino, damit bekommen wir die besseren Plätze.",
 เราไปดูหนังเย็นวันนี้,Wir gehen heute Abend ins Kino.,
 เราเข้าไปข้างใน ในนั้นไม่มีใครอยู่เลย,"Wir gehen hinein, doch es ist niemand da.",
 เราจะไปว่ายน้ำกัน เธอจะไปด้วยกันไหม,"Wir gehen schwimmen, kommst du mit?",du
@@ -850,6 +857,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เธอพาฉันเที่ยวชมเมืองได้ไหม,Zeigst du mir die Stadt?,
 ตอนกลางวันฉันทานอาหารตอนบ่ายสองครึ่ง,Zu Mittag habe ich um halb drei gegessen.,perfekt / umgangsprachlich
 ก่อนอื่นฉันจะไป(f→i)ตุรกี แล้วหลังจากนั้นก็จะบินไป(i)อเมริกา,Zuerst fahre ich in die Türkei und dann fliege ich in die USA.,
+ในที่สุดเขาก็กินอาหารเที่ยงของเขา,Zuletzt isst er sein Mittagessen.,
 โชคดีที่เรามีน้ำ,Zum Glück haben wir Wasser.,
 ใน(เวลา)ทุกวันนี้ป่ามีขนาดเล็กลง,Zur heutigen Zeit ist der Wald kleiner.,
 (ขอ)มันฝรั่งสองกิโล เอาแบบเนื้อแน่นไว้ทำสลัดมันฝรั่ง,"Zwei Kilo Kartoffeln, bitte, festkochend für Kartoffelsalat.",
