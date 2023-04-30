@@ -598,7 +598,7 @@ el churumbel,เด็ก ทารก (caló),y
 el ciberanzuelo,คลิกเบต,y
 el ciego,คนตาบอด,y
 el cieno,โคลน (!f),y
-el cienpiés,กิ้งกือ,y
+el cienpiés,ตะขาบ (!e),y
 el cierre,การปิด (คำนามของ cerrar),y
 el ciervo,กวาง (c),y
 el cigarrillo,บุหรี่ (!t),y
@@ -931,6 +931,7 @@ el meñique,นิ้วก้อย,y
 el microorganismo,จุลินทรีย์,y
 el milagro,ปาฏิหาริย์,y
 el millar,"พัน จำนวนพัน (คำนาม) 1,000",y
+el milpiés,กิ้งกือ,y
 el minutero,เข็มยาว,y
 el mitin,การปราศัย,
 el mito,เรื่องโกหก เรื่องหลอกลวง,y
@@ -1112,7 +1113,7 @@ el quicio,วงกบประตู,y
 el ramaje,กิ่งก้านสาขา,y
 el rascacielos,ตึกระฟ้า,y
 el rasgo,บุคลิก ลายเส้น ลักษณะนิสัย,y
-el rayo,ฟ้าแลบ (คำนาม),y
+el rayo,ฟ้าผ่า (คำนาม),y
 el rebelde,กบฏ,y
 el recibidor,โถงทางเข้า ห้องรับแขก,y
 el reciclaje,การรีไซเคิล,y
@@ -1129,6 +1130,7 @@ el relevo,การปลดปล่อย การปลดเปลื้อ
 el relincho,เสียงร้องของม้า,y
 el rellano,ชานพักบันได (!d),y
 el reloj de pándulo,นาฬิกาลูกตุ้ม,y
+el relámpago,ฟ้าแลบ,y
 el remedio,วิธีการรักษา ทางแก้ไข หนทาง ยา,y
 el remolcador,เรือลากจูง,y
 el renacimiento,เรเนซองส์,y
@@ -1228,6 +1230,7 @@ el timbre,ออด,y
 el tiroteo,การกราดยิง,y
 el tobillo,ข้อเท้า ตาตุ่ม,y
 el tobogán,สไลเดอร์,y
+el tocayo,คนที่มีชื่อเหมือนกัน,y
 el tocón,ตอไม้,y
 el tomo,หนังสือเล่มหนา,y
 el toque de queda,คำสั่งห้ามออกนอกเคหะสถาน,y
@@ -1255,7 +1258,7 @@ el triángulo amoroso,รักสามเส้า,y
 el trofeo,ถ้วยรางวัล,y
 el tronco,ลำต้น (ต้นไม้),y
 el truco,ทริค กล,y
-el trueno,ฟ้าร้อง ฟ้าผ่า,y
+el trueno,ฟ้าร้อง,y
 el trueque,การแลกเปลี่ยนสินค้า,y
 el trébol (de una carta),(ไพ่) ดอกจิก,y
 el tríceps,กล้ามเนื้อไตรเซป,y
@@ -1565,9 +1568,11 @@ la cabalgata,พาเรด(ของสามกษัตริย์),y
 la cabra,แพะ,y
 la cadera,สะโพก,y
 la cafetera,เครื่องทำกาแฟ,y
+la caja de cambios automática,เกียร์อัตโนมัติ,y
+la caja de cambios manual,เกียร์ธรรมดา,y
 la cala,ส่วนเว้าของชายหาด,y
 la calabaza,ฟักทอง,y
-la calavera,หัวกะโหลก (ทางวัฒนธรรม),y
+la calavera,หัวกะโหลก (ศิลปะ),y
 la calima,เมฆหมอก ฝุ่นควัน,y
 la calle de sentido único,ถนนเดินรถทางเดียว,y
 la calle sin salida,ทางตัน,y
@@ -1713,7 +1718,7 @@ la escarcha,เหมยขาบ,y
 la escasez,การขาดแคลน (e),y
 la escoba,ไม้กวาด,y
 la escobilla,แปรงขัดส้วม,y
-la escolopendra,ตะขาบ,y
+la escolopendra,ตะขาบ (!c),y
 la escuadra,ไม้ฉาก,y
 la esencia,แก่น สาระสำคัญ,y
 la espinilla,หน้าแข้ง,y
@@ -1863,6 +1868,7 @@ la manivera,ด้ามจับ (คานจับสำหรับหมุ
 la manta,ผ้าห่ม,y
 la manteca de cacahuete,เนยถั่ว,y
 la manía,นิสัยเฉพาะ (くせ),y
+la marcha atrás,เกียร์ถอยหลัง หลั่งนอก,y
 la mariquita,แมลงเต่าทอง,y
 la marquesina,กันสาด,y
 la masa (de pastel),แป้งเค้ก (ที่ยังไม่ได้อบ) (ja: 生地),y
@@ -2277,6 +2283,7 @@ planchar,รีดผ้า,y
 plateado,สีเงิน,y
 policromado,ซึ่งมีหลายสี,y
 polémico,เป็นที่ขัดแย้ง เป็นที่โต้แย้ง,y
+poner en neutro,เข้าเกียร์ว่าง,y
 ponerse como un tomate,เขินจนหน้าแดง (สำนวน ponerse ~),y
 ponerse como una sopa,เปียกโชก (สำนวน ponerse ~),y
 ponerse las pilas,ลงมือทำอย่างกระฉับกระเฉง,y
