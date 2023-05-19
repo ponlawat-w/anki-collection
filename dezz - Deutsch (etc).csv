@@ -136,7 +136,7 @@ echt,Adj.,ที่มีอยู่จริง ที่เป็นของ
 egal,Adj.,ไม่สำคัญ เท่า ๆ กัน พอ ๆ กัน,y
 ehemalig,Adj.,เก่า (ex),y
 eher,Adv.,เช้ากว่า เร็วกว่า ชอบมากกว่า,y
-eigen,Adj.,ของเอง ที่เป็นของตัวเอง,y
+eigen,Adj.,ของเอง ที่เป็นของตัวเอง (one's self),y
 eigentlich,Adj.Adv.,"จริง ๆ ว่าแต่ (en: actually, really)<br>หลัก ๆ (en: main, primary)",y
 ein bisschen,,นิดหน่อย,y
 eindeutig,Adj.,ชัดเจน แน่ชัด (!d),y
@@ -461,7 +461,7 @@ schlafen,V.,นอนหลับ,y
 schlank,Adj.,ผอม,y
 schlecht,Adj.,แย่ ห่วย ไม่ได้เรื่อง,y
 schließen,V.,ปิด,y
-schläfrig,"Adj. ",ง่วง อยากนอน,y
+schläfrig,Adj.,ง่วง อยากนอน,y
 schmecken,V.,มีรสชาติ,y
 schmutzig,Adj.,สกปรก (!d),y
 schneiden,V.,ตัด,y
