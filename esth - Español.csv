@@ -1548,7 +1548,7 @@ la batidora,เครื่องตี มิกเซอร์,y
 la bayeta,ผ้าเช็ดโต๊ะ ผ้าขี้ริ้ว(หมาด),y
 la bellota,ลูกโอ๊ก,y
 la berenjena,มะเขือม่วง,y
-la billetera,กระเป๋าเงิน,y
+la billetera,กระเป๋าเงิน (!c),y
 la bisagra,บานพับ (!g),y
 la boa,งูเหลือมทางอเมริกาใต้,y
 la bocina,แตร (b),y
@@ -1593,7 +1593,7 @@ la carencia,ความขาดแคลน (c),y
 la carnicería,ร้านขายเนื้อ,y
 la carpeta,แฟ้ม,y
 la carretera preferente,ทางเอก,y
-la cartera,กระเป๋าเงิน,
+la cartera,กระเป๋าเงิน (!b),y
 la casa adosada,ทาวน์เฮาส์,y
 la caspa,รังแค,y
 la castaña,เกาลัด,y
