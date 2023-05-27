@@ -1,30 +1,48 @@
 Afrikaans,Thaise,Add Reverse
+Duits,ภาษาเยอรมัน,y
 Engels,ภาษาอังกฤษ,y
+Franse,ภาษาฝรั่งเศส,y
+Italiaans,ภาษาอิตาลี,y
+Spaans,ภาษาสเปน,y
+aangename,ยินดี,y
 agt,แปด,y
 appel,แอปเปิล,y
+asseblief,ได้โปรด,y
 beer,หมี,y
+begin,เริ่ม,y
 blou,สีฟ้า,y
 boot,เรือ,y
 broer,พี่ชาย / น้องชาย,y
 brood,ขนมปัง,y
+daardie,~นั้น,y
+dag,วัน,y
+dertien,สิบสาม,y
+dertig,สามสิบ,y
 dit,มัน,y
 drie,สาม,y
 een,หนึ่ง,y
 ek,ฉัน,y
+elf,สิบเอ็ด,y
 elke,ทุก ๆ แต่ละ,y
 en,และ,y
 fiets,จักรยาน,y
 geel,สีเหลือง,y
+goed,ดี,y
 groen,สีเขียว,y
 haai,ฉลาม,y
+hierdie,~นี้,y
 hoe,อย่างไร,y
 hoekom,ทำไม,y
+hoeveel,มากเท่าไหร่,y
 hond,สุนัข,y
+honderd,หนึ่งร้อย,y
 hospital,โรงพยาบาล,y
 hulle,พวกเขา พวกมัน,y
 hy,เขา (ช),y
 hê,มี,y
+item,สิ่งของ,y
 jaar,ปี,y
+jammer,รู้สิกผิด ขอโทษ,y
 jou,ของเธอ,y
 julle,พวกเธอ,y
 jy,เธอ,y
@@ -32,10 +50,12 @@ kaas,ชีส,y
 kameel,อูฐ,y
 kameelperd,ยีราฟ,y
 kat,แมว,y
+kennis,ความรู้ การรู้จัก,y
 kleur,สี,y
 koei,วัว,y
 koerant,หนังสือพิมพ์,y
 koffie,กาแฟ,y
+kos,ราคา,y
 lees,อ่าน,y
 leeu,สิงโต,y
 man,ผู้ขาย,y
@@ -44,7 +64,10 @@ melk,นม,y
 motorfiets,จักรยานยนต์,y
 my,ของฉัน,y
 môre,ช่วงเช้า,y
+nee,ไม่,y
 nege,เก้า,y
+nommer,หมายเลข,y
+nul,ศูนย์,y
 of,หรือ,y
 oggend,ตอนเช้า,y
 olifant,ช้าง,y
@@ -61,15 +84,21 @@ rooi,สีแดง,y
 ses,หก,y
 sewe,เจ็ด,y
 spyskaart,เมนูอาหาร,y
+studeer,เรียน,y
 suster,พี่สาว / น้องสาว,y
 swart,สีดำ,y
 sy,เขา (ญ),y
+tagtig,แปดสิบ,y
 tien,สิบ,y
 tier,เสือ,y
 trein,รถไฟ,y
 trekker,รถแทรกเตอร์,y
+twaalf,สิบสอง,y
 twee,สอง,y
+twintig,ยี่สิบ,y
 u,คุณ (สุภาพ),y
+uitgang,ทางออก,y
+veertien,สิบสี่,y
 vier,สี่,y
 vliegtuig,เครื่องบิน,y
 vrou,ผู้หญิง,y
