@@ -11,6 +11,7 @@ dit,มัน,y
 drie,สาม,y
 een,หนึ่ง,y
 ek,ฉัน,y
+elke,ทุก ๆ แต่ละ,y
 en,และ,y
 fiets,จักรยาน,y
 geel,สีเหลือง,y
@@ -23,21 +24,29 @@ hospital,โรงพยาบาล,y
 hulle,พวกเขา พวกมัน,y
 hy,เขา (ช),y
 hê,มี,y
+jaar,ปี,y
 jou,ของเธอ,y
 julle,พวกเธอ,y
 jy,เธอ,y
 kaas,ชีส,y
+kameel,อูฐ,y
 kameelperd,ยีราฟ,y
 kat,แมว,y
 kleur,สี,y
 koei,วัว,y
+koerant,หนังสือพิมพ์,y
 koffie,กาแฟ,y
+lees,อ่าน,y
 leeu,สิงโต,y
+man,ผู้ขาย,y
+meisie,เด็กผู้หญิง,y
 melk,นม,y
 motorfiets,จักรยานยนต์,y
 my,ของฉัน,y
+môre,ช่วงเช้า,y
 nege,เก้า,y
 of,หรือ,y
+oggend,ตอนเช้า,y
 olifant,ช้าง,y
 ons,พวกเรา,y
 oranje,สีส้ม,y
@@ -51,6 +60,7 @@ pynappel,สับปะรด,y
 rooi,สีแดง,y
 ses,หก,y
 sewe,เจ็ด,y
+spyskaart,เมนูอาหาร,y
 suster,พี่สาว / น้องสาว,y
 swart,สีดำ,y
 sy,เขา (ญ),y
@@ -59,9 +69,10 @@ tier,เสือ,y
 trein,รถไฟ,y
 trekker,รถแทรกเตอร์,y
 twee,สอง,y
-u,คุณ,y
+u,คุณ (สุภาพ),y
 vier,สี่,y
 vliegtuig,เครื่องบิน,y
+vrou,ผู้หญิง,y
 vyf,ห้า,y
 waar,ที่ไหน,y
 wanneer,เมื่อไหร่,y
