@@ -4,12 +4,14 @@ Engels,ภาษาอังกฤษ,y
 Franse,ภาษาฝรั่งเศส,y
 Italiaans,ภาษาอิตาลี,y
 Spaans,ภาษาสเปน,y
-aangename,ยินดี,y
+aangename,ยินดี (!p),y
 agt,แปด,y
 appel,แอปเปิล,y
 asseblief,ได้โปรด,y
 beer,หมี,y
 begin,เริ่ม,y
+beurt,ตา (เล่นเกม) ผลัดกัน,y
+beurtkrag,การผลัดกันใช้ไฟ (en: load shedding),y
 blou,สีฟ้า,y
 boot,เรือ,y
 broer,พี่ชาย / น้องชาย,y
@@ -18,7 +20,7 @@ daardie,~นั้น,y
 dag,วัน,y
 dertien,สิบสาม,y
 dertig,สามสิบ,y
-dit,มัน,y
+dit,มัน สิ่งนี้,y
 drie,สาม,y
 een,หนึ่ง,y
 ek,ฉัน,y
@@ -55,17 +57,20 @@ kleur,สี,y
 koei,วัว,y
 koerant,หนังสือพิมพ์,y
 koffie,กาแฟ,y
-kos,ราคา,y
+kos,มีราคา,y
+krag,แรง กำลัง พลัง ความแข็งแรง,y
 lees,อ่าน,y
 leeu,สิงโต,y
-man,ผู้ขาย,y
+man,ผู้ชาย,y
 meisie,เด็กผู้หญิง,y
 melk,นม,y
+met,กับ ด้วย,y
 motorfiets,จักรยานยนต์,y
 my,ของฉัน,y
 môre,ช่วงเช้า,y
 nee,ไม่,y
 nege,เก้า,y
+netso,ตามอย่างนั้น,y
 nommer,หมายเลข,y
 nul,ศูนย์,y
 of,หรือ,y
@@ -79,8 +84,10 @@ perd,ม้า,y
 pienk,สีชมพู,y
 piesang,กล้วย,y
 praat,พูด,y
+presies,ใช่เลย ความแม่นยำ,y
 pynappel,สับปะรด,y
 rooi,สีแดง,y
+saam,ด้วยกันกับ,y
 ses,หก,y
 sewe,เจ็ด,y
 spyskaart,เมนูอาหาร,y

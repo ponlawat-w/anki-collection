@@ -27,7 +27,7 @@ das Bein,Bein,die Beine,ขา,y
 das Beispiel,Beispiel,die Beispiele,ตัวอย่าง,y
 das Benzin,Benzin,,น้ำมัน (เบนซิน),y
 das Bett,Bett,die Betten,เตียง,y
-das Bettlaken,Bettlaken,die Bettlaken,ผ้าปูที่นอน (~l),y
+das Bettlaken,Bettlaken,die Bettlaken,ผ้าปูที่นอน (!~b),y
 das Betttuch,,,ผ้าปูที่นอน (~t),y
 das Bier,Bier,die Biere,เบียร์,y
 das Bild,Bild,die Bilder,รูปวาด รูปภาพ,y
@@ -284,9 +284,10 @@ der Bescheid,Bescheid,die Bescheide,การแจ้งเตือน กา�
 der Besen,Besen,die Besen,ไม้กวาด,y
 der Besitzer,Besitzer,die Besitzer,เจ้าของ,y
 der Besuch,Besuch,die Besuche,การเยี่ยม,y
-der Bettbezug,Bettbezug,die Bettbezüge,ผ้าปูเตียง (~b),y
+der Bettbezug,Bettbezug,die Bettbezüge,ผ้าปูเตียง (!~l),y
 der Bewohner,Bewohner,,ผู้อยู่อาศัย,y
 der Bezirk,Bezirk,die Bezirke,ย่าน เขต,y
+der Bezug,Bezug,die Bezüge,ผ้าคลุม,y
 der Bilderrahmen,Bilderrahmen,die Bilderrahmen,กรอบรูป,y
 der Blattsalat,,,สลัดใบเขียว,y
 der Bleistift,Bleistift,die Bleistifte,ดินสอ,y
@@ -924,7 +925,7 @@ die Socke,Socke,die Socken,ถุงเท้า,y
 die Sonne,Sonne,die Sonnen,ดวงอาทิตย์,y
 die Sonnenuhr,,,นาฬิกาแดด,y
 die Sorge,Sorge,die Sorgen,ความกังวล,y
-die Speise,Speise,die Speisen,มื้ออาหาร,y
+die Speise,Speise,die Speisen,มื้ออาหาร (!M),y
 die Speisekarte,Speisekarte,die Speisekarten,เมนูอาหาร,y
 die Spielsachen,Spielsachen,,ของเล่น (ของ),y
 die Spielwaren,Spielwaren,,ของเล่น (ผลิตภัณฑ์),y

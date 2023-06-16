@@ -63,6 +63,7 @@ ausstellen,V.,ปิดสวิตช์ ดับเครื่อง,y
 ausziehen,V.,ย้ายบ้านออก ดึง เอาออก ย้ายออก ถอดออก,y
 außen,Adv.,ข้างนอก ภายนอก (a),y
 außer,Präp.,ยกเว้น,y
+außerdem,Adv.,ยิ่งไปกว่านั้น,y
 backen,V.,อบ,y
 baden,V.,แช่น้ำ เล่นน้ำ ว่ายน้ำ,y
 bald,Adv.,เร็ว ๆ นี้ (ที่จะถึงนี้) (!k),y
@@ -107,6 +108,7 @@ dabeihaben,V.,มีอยู่กับตัว,y
 dafür,Adv.,เพื่อสิ่งนั้น,y
 dafür sein,V.,เห็นด้วย (!e sein),y
 dagegen sein,V.,ไม่เห็นด้วย,y
+daher,Adv.,จากที่นั่น เพราะฉะนั้น ดังนั้น,y
 damals,Adv.,(ย้อนไป)ครั้งนั้น,y
 damit,Adv.,กับสิ่งนั้น กับมัน,y
 danach,Adv.,หลังจากนั้น (dn),y
@@ -114,7 +116,7 @@ danken,V.,ขอบคุณ,y
 dann,Adv.,หลังจากนั้น (d),y
 darüber,Adv.,เกี่ยวกับสิ่งนั้น,y
 dauern,V.,ใช้เวลา,y
-dazu,Adv.,เพื่อสิ่งนั้น,
+dazu,Adv.,เพื่อสิ่งนั้น ไปยังสิ่งนั้น,y
 denken,V.,คิด เชื่อ (d),y
 deshalb,Adv.,ดังนั้น เพราะฉะนั้น,y
 deutlich,Adj.,ชัดเจน เห็นได้ชัด เข้าใจได้ (!e),y
@@ -131,6 +133,7 @@ dritt,Adj.,ที่สาม,y
 dumm,Adj.,โง่,y
 dunkel,Adj.,มืด,y
 durch,Präp.,ผ่านทาง,y
+durchaus,Adv.,เป็นที่แน่นอน (en: definitely),y
 durchqueren,V.,เดินตัด,y
 duschen,V.,อาบน้ำ (ฝักบัว),y
 dürfen,V.,อนุญาต (!e),y
@@ -364,6 +367,7 @@ meistens,Adv.,ส่วนใหญ่,y
 melden,V.,แจ้ง ประกาศ รายงาน,y
 merken,V.,สังเกตเห็น,y
 mieten,V.,เช่า,y
+mindestens,Adv.,อย่างน้อย เป็นอย่างต่ำ,y
 mischen,V.,ผสม สลับ,y
 mit dem Hund Gassi gehen,,พาหมาไปเดินเล่น,y
 mitbringen,V.,เอาไปด้วย(กับ) (!n),y
