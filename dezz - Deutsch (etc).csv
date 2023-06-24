@@ -118,6 +118,7 @@ darüber,Adv.,เกี่ยวกับสิ่งนั้น,y
 dauern,V.,ใช้เวลา,y
 dazu,Adv.,เพื่อสิ่งนั้น ไปยังสิ่งนั้น,y
 denken,V.,คิด เชื่อ (d),y
+dennoch,Adv.,ไม่ว่าอย่างไรก็ตาม,y
 deshalb,Adv.,ดังนั้น เพราะฉะนั้น,y
 deutlich,Adj.,ชัดเจน เห็นได้ชัด เข้าใจได้ (!e),y
 dick,Adj.,อ้วน หนา,y
@@ -173,7 +174,7 @@ erneut,Adj.,ใหม่อีกครั้ง อีกรอบ,y
 ersetzen,V.,แทนที่,y
 erst,Adj.,ที่หนึ่ง แรก,y
 erwarten,V.,ตั้งหน้าตั้งตาคอย,y
-erweitern,V.,ขยาย ทำให้กว้างขึ้น (weit → V.),y
+erweitern,V.,ยืดออก ทำให้ไกลขึ้น (weit → V.),y
 erzählen,V.,เล่า,y
 es gibt,,มี (ไม่ระบุประธาน),y
 etwa,Adv.,ประมาณ ช่วง แถว ๆ บวกลบ,y
@@ -227,7 +228,7 @@ gegen (Position),Präp.,มุ่งหน้าไปยัง (บุพบท
 gegenüber,Präp.,ฝั่งตรงข้าม ด้านหน้า,y
 gehen,V.,ไป,y
 gelb,Adj.,สีเหลือง,y
-gemeinsam,Adj.,ด้วยกัน (g),y
+gemeinsam,Adj.,ด้วยกัน (!m),y
 gemütlich,Adj.,อยู่สบาย,y
 genau,,ใช่เลย,y
 genauso,Adv.,เท่า ๆ กัน เสมอ ๆ กัน (!e!s),y
@@ -287,6 +288,7 @@ hoffentlich,Adv.,หวังเป็นอย่างยิ่ง,y
 holen,V.,ถือ เอามา เรียก พามา,y
 hundert,num.,ร้อย,y
 hängen,V.,แขวน,y
+häufig,Adv.,เป็นประจำ อย่างต่อเนื่อง บ่อย ๆ,y
 höflich,Adj.,สุภาพ,y
 höher,,สูงกว่า (ขั้นกว่าของ hoch),y
 hören,V.,ได้ยิน,y
@@ -303,6 +305,8 @@ informieren,V.,ให้ข้อมูล,y
 innere,Adj.,ที่อยู่ภายใน,y
 inzwischen,Adv.,ในขณะเดียวกันนั้น (en: meanwhile),y
 irgendwie,Adv.,ไม่ทางใดก็ทางหนึ่ง (en: somehow),y
+je,Prär / Adv,ต่อ แต่ละ เคยสักครั้ง,y
+jedenfalls,Adv.,อย่างน้อย เป็นที่แน่,y
 jemand,pron.,ใครบางคน สักคน,y
 joggen,V.,วิ่งออกกำลังกาย จอกกิ้ง,y
 jugendlich,Adj.,ที่เป็นวัยรุ่น,y
@@ -310,6 +314,7 @@ jährlich,Adj.,รายปี,y
 kalt,Adj.,หนาว,y
 kaputt,Adj.,พัง ชำรุด,y
 kaufen,V.,ซื้อ,y
+kaum,Adv.,แทบจะไม่,y
 kennen,V.,รู้ รู้จัก,y
 kennenlernen,V.,รู้จัก,y
 klar,Adj.,แน่นอน ชัดเจน,y
@@ -371,7 +376,7 @@ mindestens,Adv.,อย่างน้อย เป็นอย่างต่ำ
 mischen,V.,ผสม สลับ,y
 mit dem Hund Gassi gehen,,พาหมาไปเดินเล่น,y
 mitbringen,V.,เอาไปด้วย(กับ) (!n),y
-miteinander,Adv.,ด้วยกัน (en: together),y
+miteinander,Adv.,ด้วยกัน (!g),y
 mitkommen,V.,มาด้วย,y
 mittags,Adv.,ตอนเที่ยง,y
 mitternachts,Adv.,ช่วงเที่ยงคืน,y
@@ -441,6 +446,7 @@ reden,V.,พูด (r),y
 regelmäßig,Adj.,เป็นไปตามกฎ,y
 regnen,V.,(ฝน)ตก,y
 reich,Adj.,รวย,y
+reichen,V.,ทำให้เพียงพอ,y
 reinigen,V.,ทำความสะอาด (ทำให้สะอาด),y
 reinkommen,V.,เข้า<b><i><u>มา</u></i></b>ข้างใน,y
 reiten,V.,ขี่,y
@@ -491,7 +497,7 @@ seit,Präp.,ตั้งแต่,y
 selb,Adj.,เดียวกัน เหมือนกัน (en: same),y
 selbst,Adv.,ด้วยตัวเอง แม้แต่,y
 selbstverständlich,Adj.,เข้าใจได้ด้วยตัวเอง รู้แน่ชัด แน่นอน,y
-selten,Adv.,นาน ๆ ที แทบจะไม่,y
+selten,Adv.,นาน ๆ ที ไม่บ่อย,y
 servieren,V.,เสิร์ฟ,y
 shoppen,V.,ชอปปิง ซื้อของ,y
 sich bedanken,V.,กล่าวคำขอบคุณ,y
@@ -499,7 +505,7 @@ sich beeilen,V.,รีบ เร่ง,y
 sich bewegen,V.,เคลื่อนไหว,
 sich bewerben,V.,สมัคร เข้าแข่งขัน,y
 sich unterhalten,V.,สนทนา,y
-sicher,Adj.,ปลอดภัย เชื่อถือได้ ไว้วางใจได้,y
+sicher,Adj.,ปลอดภัย,y
 sichtbar,Adj.,ที่มองเห็นได้,y
 siebt,Adj.,ที่เจ็ด,y
 simpel,Adj.,ง่าย (ซิมเปิล),y
