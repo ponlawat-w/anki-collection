@@ -4,6 +4,7 @@ Engels,ภาษาอังกฤษ,y
 Franse,ภาษาฝรั่งเศส,y
 Italiaans,ภาษาอิตาลี,y
 Spaans,ภาษาสเปน,y
+aand,ตอนเย็น,y
 aangename,ยินดี (!p),y
 agt,แปด,y
 appel,แอปเปิล,y
@@ -13,6 +14,8 @@ begin,เริ่ม,y
 beurt,ตา (เล่นเกม) ผลัดกัน,y
 beurtkrag,การผลัดกันใช้ไฟ (en: load shedding),y
 blou,สีฟ้า,y
+boom,ต้นไม้,y
+boompie,ต้นไม้ต้นเล็ก,y
 boot,เรือ,y
 broer,พี่ชาย / น้องชาย,y
 brood,ขนมปัง,y
@@ -21,14 +24,19 @@ dag,วัน,y
 dertien,สิบสาม,y
 dertig,สามสิบ,y
 dit,มัน สิ่งนี้,y
+doen,ทำ,y
 drie,สาม,y
 een,หนึ่ง,y
+eet,กิน,y
 ek,ฉัน,y
 elf,สิบเอ็ด,y
 elke,ทุก ๆ แต่ละ,y
 en,และ,y
 fiets,จักรยาน,y
+gaan,ไป,y
+gedurende,ระหว่าง,y
 geel,สีเหลือง,y
+gister,เมื่อวาน,y
 goed,ดี,y
 groen,สีเขียว,y
 haai,ฉลาม,y
@@ -38,6 +46,7 @@ hoekom,ทำไม,y
 hoeveel,มากเท่าไหร่,y
 hond,สุนัข,y
 honderd,หนึ่งร้อย,y
+hondjie,ลูกหมา หมาตัวเล็ก,y
 hospital,โรงพยาบาล,y
 hulle,พวกเขา พวกมัน,y
 hy,เขา (ช),y
@@ -47,6 +56,7 @@ jaar,ปี,y
 jammer,รู้สิกผิด ขอโทษ,y
 jou,ของเธอ,y
 julle,พวกเธอ,y
+julle se,ของพวกเธอ,y
 jy,เธอ,y
 kaas,ชีส,y
 kameel,อูฐ,y
@@ -57,17 +67,21 @@ kleur,สี,y
 koei,วัว,y
 koerant,หนังสือพิมพ์,y
 koffie,กาแฟ,y
+komkommer,แตงกวา,y
 kos,มีราคา,y
 krag,แรง กำลัง พลัง ความแข็งแรง,y
 lees,อ่าน,y
 leeu,สิงโต,y
+maar,แต่,y
 man,ผู้ชาย,y
 meisie,เด็กผู้หญิง,y
 melk,นม,y
 met,กับ ด้วย,y
 motorfiets,จักรยานยนต์,y
 my,ของฉัน,y
-môre,ช่วงเช้า,y
+môre,ช่วงเช้า พรุ่งนี้,y
+na,ไปยัง,y
+naweek,เสาร์อาทิตย์,y
 nee,ไม่,y
 nege,เก้า,y
 netso,ตามอย่างนั้น,y
@@ -86,8 +100,11 @@ piesang,กล้วย,y
 praat,พูด,y
 presies,ใช่เลย ความแม่นยำ,y
 pynappel,สับปะรด,y
+reis,เที่ยว,y
 rooi,สีแดง,y
+rys,ข้าว,y
 saam,ด้วยกันกับ,y
+sal,จะ,y
 ses,หก,y
 sewe,เจ็ด,y
 spyskaart,เมนูอาหาร,y
@@ -105,9 +122,11 @@ twee,สอง,y
 twintig,ยี่สิบ,y
 u,คุณ (สุภาพ),y
 uitgang,ทางออก,y
+vandag,วันนี้,y
 veertien,สิบสี่,y
 vier,สี่,y
 vliegtuig,เครื่องบิน,y
+vriend,เพื่อน,y
 vrou,ผู้หญิง,y
 vyf,ห้า,y
 waar,ที่ไหน,y
@@ -118,3 +137,4 @@ werk,ทำงาน,y
 wie,ใคร,y
 wit,สีขาว,y
 wors,ไส้กรอก,y
+wêreld,โลก,y

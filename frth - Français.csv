@@ -4,6 +4,7 @@ français,thaïlandais,Add Reverse
 (f.) l'eau,น้ำ,y
 (f.) l'huile,น้ำมัน,y
 (f.) l'orange,ส้ม (ผลไม้),y
+(f.) l'école,โรงเรียน,y
 (f.pl.) les frites,มันฝรั่งทอด,y
 (m.) l'alcool,แอลกอฮอล์ เหล้า,y
 (m.) l'an,ปี,y
@@ -163,6 +164,7 @@ la lettre,จดหมาย,y
 la main,มือ,y
 la maison,บ้าน,y
 la mouche,แมลงวัน,y
+la mère,แม่,y
 la nourriture,อาหาร,y
 la place,สถานที่,y
 la poche,กระเป๋า (เล็ก),y
@@ -228,6 +230,7 @@ le légume,ผัก,y
 le magasin,ร้านค้า,y
 le manteau,เสื้อโค้ต,y
 le marché,ตลาด,y
+le matin,ตอนเช้า,y
 le menu,เมนู,y
 le mot,คำ คำพูด คำศัพท์,y
 le nom,ชื่อ,y
@@ -236,17 +239,20 @@ le pantalon,กางเกง,y
 le papillon,ผีเสื้อ,y
 le parapluie,ร่ม,y
 le parent,ผู้ปกครอง,y
+le perroquet,นกแก้ว,y
 le poisson,ปลา,y
 le poivre,พริกไทย,y
 le porc,เนื้อหมู,y
 le portefeuille,กระเป๋าเงิน,y
 le poulet,ไก่,y
+le père,พ่อ,y
 le raisin,องุ่น,y
 le repas,มื้ออาหาร,y
 le requin,ปลาฉลาม,y
 le riz,ข้าว,y
 le robot,หุ่นยนต์,y
 le sac,ถุง กระเป๋า,y
+le salon,ห้องนั่งเล่น,y
 le sandwich,แซนด์วิช,y
 le sel,เกลือ,y
 le serpent,งู,y
@@ -261,6 +267,7 @@ le vin,ไวน์,y
 le zoo,สวนสัตว์,y
 les maths,คณิตศาสตร์,y
 les pâtes,พาสต้า,y
+les toielettes,ห้องน้ำ,y
 les vêtements,เสื้อผ้า,y
 liquide,ที่เป็นของเหลว,y
 lire,อ่าน,y
@@ -301,7 +308,7 @@ parce que,เพราะว่า (๒),y
 parfait,สมบูรณ์แบบ ยอดเยี่ยม (!g),y
 parler,พูด,y
 parmi,อยู่ท่ามกลาง ล้อมรอบไปด้วย,y
-partir,ออกจาก,y
+partir,ออกไป ออกจาก,y
 pauvre,ยากจน,y
 pendant que,ในช่วง ในขณะที่,y
 perdre,สูญเสีย ทำหาย,y
@@ -344,6 +351,7 @@ seul,โดดเดี่ยว คนเดียว,y
 simple,ง่าย (!f),y
 sinon,ไม่งั้น ถ้าไม่,y
 sombre,มืด,y
+sortir,ออก,y
 souhaiter,ปรารถนา ต้องการ,y
 sous,ใต้,y
 souvent,บ่อย ๆ,y

@@ -307,7 +307,7 @@ innere,Adj.,ที่อยู่ภายใน,y
 inzwischen,Adv.,ในขณะเดียวกันนั้น (en: meanwhile),y
 irgendwie,Adv.,ไม่ทางใดก็ทางหนึ่ง (en: somehow),y
 je,Prär. / Adv.,ต่อ แต่ละ เคยสักครั้ง,y
-jedenfalls,Adv.,อย่างน้อย เป็นที่แน่,y
+jedenfalls,Adv.,อย่างน้อย อย่างไรก็ดี ไม่ว่าอย่างไร เป็นที่แน่,y
 jedoch,Adv.,แต่ แม้ว่า แต่ว่า (!a),y
 jemand,pron.,ใครบางคน สักคน,y
 joggen,V.,วิ่งออกกำลังกาย จอกกิ้ง,y
@@ -636,6 +636,7 @@ warum,,ทำไม (!~s),y
 waschen,V.,ซัก ทำความสะอาด,y
 wechseln,V.,เปลี่ยน แลกเปลี่ยน,y
 wecken,V.,ปลุก,y
+weder ~ noch ~,,ไม่ทั้ง ~ และ ~,y
 wegen,Präp.,เพราะว่า เนื่องจาก (ใช้คู่กับคำนาม),y
 weglassen,V.,ปล่อยไว้ ปล่อยอย่างที่เป็น,y
 wegmüssen,V.,จำเป็นต้องไป,y
