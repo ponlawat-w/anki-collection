@@ -48,6 +48,7 @@ hond,สุนัข,y
 honderd,หนึ่งร้อย,y
 hondjie,ลูกหมา หมาตัวเล็ก,y
 hospital,โรงพยาบาล,y
+huis,บ้าน,y
 hulle,พวกเขา พวกมัน,y
 hy,เขา (ช),y
 hê,มี,y
@@ -70,6 +71,7 @@ koffie,กาแฟ,y
 komkommer,แตงกวา,y
 kos,มีราคา,y
 krag,แรง กำลัง พลัง ความแข็งแรง,y
+laas,ล่าสุด (!v),y
 lees,อ่าน,y
 leeu,สิงโต,y
 maar,แต่,y
@@ -93,6 +95,7 @@ olifant,ช้าง,y
 ons,พวกเรา,y
 oranje,สีส้ม,y
 oud,แก่,y
+ouer,พ่อแม่,y
 pampoen,ฟักทอง,y
 perd,ม้า,y
 pienk,สีชมพู,y
@@ -107,6 +110,7 @@ saam,ด้วยกันกับ,y
 sal,จะ,y
 ses,หก,y
 sewe,เจ็ด,y
+sien,ดู,y
 spyskaart,เมนูอาหาร,y
 studeer,เรียน,y
 suster,พี่สาว / น้องสาว,y
@@ -124,10 +128,12 @@ u,คุณ (สุภาพ),y
 uitgang,ทางออก,y
 vandag,วันนี้,y
 veertien,สิบสี่,y
+verlese,ล่าสุด (!l),y
 vier,สี่,y
 vliegtuig,เครื่องบิน,y
 vriend,เพื่อน,y
 vrou,ผู้หญิง,y
+vrydag,วันศุกร์,y
 vyf,ห้า,y
 waar,ที่ไหน,y
 wanneer,เมื่อไหร่,y
