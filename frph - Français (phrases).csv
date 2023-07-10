@@ -49,11 +49,13 @@ thaïlandais,français,หมายเหตุ
 เขาปิดหนังสือ,Il ferme le livre.,
 เขาเสร็จแล้ว,Il finit.,
 เขาอ่านหนังสือเล่มหนึ่ง ในขณะที่(!p)ฉันเขียนจดหมายฉบับหนึ่ง,"Il lit un livre, alors que j'écris une lettre.",
+เขาช่วยฉัน,Il m'aide.,
 มัน(ช)ไม่อยู่ในกระเป๋าของฉัน,Il n'est pas dans mon sac.,
 เขาวางดอกกุหลาบ(พหู+d),Il pose des roses.,
 เขาวางขนมปัง(+a),Il pose le pain.,
 เขาเป็นเจ้าของหมูตัวหนึ่ง,Il possède un cochon.,
 เขากลับจากโรงเรียน,Il rentre de l'école.,
+เขาชื่ออะไร,Il s'apelle comment?,SV
 เขาปรารถนาที่จะกิน,Il souhaite manger.,
 เขา(ช)ไปจนถึงบ้านของเขา(ญ),Il va jusque chez elle.,
 มีแอปเปิลมากขึ้น,Il y a plus de pommes.,
@@ -177,6 +179,7 @@ Luis เป็นคนใจดี,Luis est sympa.,
 เรามีแมว(ญ)ตัวที่สามตัวหนึ่ง,Nous avons une troisième chatte.,
 พวกเราหาหนังสือเล่มหนึ่ง,Nous cherchons un livre.,
 พวกเรากินชีสและพวกเขากินปลา,Nous mangeons du fromage et ils mangent du poisson.,
+พวกเราพูดกับเขา,Nous parlons avec lui.,
 พวกเราเป็นผู้หญิง,Nous sommes des femmes.,
 พ่อแม่เธออยู่ไหน,Où sont tes parents?,
 เขาไปไหน,Où va-t-il?,
@@ -191,6 +194,7 @@ Luis เป็นคนใจดี,Luis est sympa.,
 ฉันเป็นอะไร,Qu'est-ce que je suis?,- Qq
 พวกเราควรจะซื้ออะไรดี,Qu'est-ce que nous devons acheter?,- Q'e
 เธอทำอะไรที่นี่,Qu'est-ce que tu fais ici?,Q'e
+นี่หมายความว่าอะไร,Qu'est-ce que ça signifie?,- Qc
 มีอะไรอยู่หรอ,Qu'y a-t-il?,
 เธอ(๓ญ)อ่านเมื่อไหร่,Quand lit-elle?,
 เธอ(๓ญ)อ่านอะไร,Que lit-elle?,- Q

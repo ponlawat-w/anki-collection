@@ -30,6 +30,7 @@ aimer,รัก ชอบ,y
 ajouter,เพิ่มเข้าไป,y
 allemand,เยอรมัน,y
 aller,ไป,y
+allumer,เปิด (สวิตช์) จุดไฟ,y
 alors,งั้น ถ้างั้น ดังนั้น,y
 alors que,แม้ว่า ในขณะที่,y
 améliorer,ทำให้ดีขึ้น,y
@@ -300,6 +301,7 @@ nouvelle,ใหม่ (ญ),y
 nu,ที่เปลือย,y
 nul,ไร้ค่า ว่างเปล่า แย่,y
 offrir,ให้เป็นของขวัญ เสนอให้,y
+on,ใครบางคน พวกเรา,y
 orange,สีส้ม,y
 ou,หรือ,y
 ouvrir,เปิด,y
@@ -348,6 +350,7 @@ sec,แห้ง (ช),y
 second,ลำดับที่สอง (!d),y
 selon,อิงโดย ขึ้นกับ (es: según),y
 seul,โดดเดี่ยว คนเดียว,y
+signifier,มีความหมาย,y
 simple,ง่าย (!f),y
 sinon,ไม่งั้น ถ้าไม่,y
 sombre,มืด,y
@@ -368,6 +371,7 @@ toujours,ตลอด เสมอ ๆ,y
 travailler,ทำงาน,y
 troisième,อันดับที่สาม,y
 trouver,หาเจอ,y
+utiliser,ใช้,y
 vendre,ขาย,y
 venir,มา,y
 vers,ไปยัง มุ่งหน้าไปยัง,y
