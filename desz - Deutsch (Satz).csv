@@ -28,7 +28,7 @@ Ana เหนื่อย คอร์สเรียนภาษาเยอร
 Ana หน้าแดง,Anas Gesicht wird rot.,
 อย่าทำงานหนักจนเกินไปนะ,Arbeite nicht so viel.,- du
 ระหว่างทางไปสนามบิน Julia ตื่นเต้น,Auf dem Weg zum Flughafen ist Julia nervös.,
-ระหว่างทางไปกินอาหารเช้า ฉันเห็นเวลาจากนาฬิกา<u>เรือนหนึ่ง</u>ในโถงทางเดิน มันเป็นเวลา 10 โมง,Auf dem Weg zum Frühstück sehe ich die Uhrzeit auf einer Uhr im Flur. Es ist zehn Uhr.,
+ระหว่างทางไปกินอาหารเช้าฉันเห็นเวลาจากนาฬิกา<u>เรือนหนึ่ง</u>ในโถงทางเดิน　มันเป็นเวลา 10 โมง,Auf dem Weg zum Frühstück sehe ich die Uhrzeit auf einer Uhr im Flur. Es ist zehn Uhr.,
 เธอรอใคร,Auf wen wartest du?,
 แสงมาจากทางตะวันออก,Aus dem Osten kommt das Licht.,"เริ่มประโยคที่ ""จากทางตะวันออก"""
 ระหว่างทำงานฉันไม่สามารถโทรศัพท์ได้,Bei der Arbeit kann ich nicht telefonieren.,
@@ -319,7 +319,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 รถบัสคันนี้หยุดที่ Marburg ไหม,Hält dieser Bus in Marburg?,
 แขวนรูปไว้ที่ผนังให้หน่อย,Häng das Bild bitte an die Wand.,"- du, bitte"
 ฉัน<u>ทำงานเป็น</u>คนขับรถ และทุก ๆ สัปดาห์จะขนมันฝรั่งทอดไปที่นั่น(dh),Ich arbeite als Fahrer und bringe jede Woche Pommes dorthin.,
-ฉันทำงานอย่างเร็วเพราะการประชุม(M)จะเริ่มตอน 11 โมง,"Ich arbeite schnell, weil das Meeting um elf Uhr anfängt.",
+ฉันทำงานอย่างเร็ว เพราะการประชุม(M)จะเริ่มตอน 11 โมง,"Ich arbeite schnell, weil das Meeting um elf Uhr anfängt.",
 ฉันจะทำขนมเค้กวันนี้ ฉันอยากได้แป้งหนึ่งกิโล แอปเปิลสามลูก อพริคอตสี่ แล้วก็ไข่อีกหก,"Ich backe heute einen Kuchen. Ich brauche ein Kilo Mehl, drei Äpfen, vier Aprikosen und sechs Eier.",
 ฉันได้รับของขวัญมากมายจากพี่น้องของฉันอยู่เสมอ,Ich bekomme von meinen Geschwistern immer viele Geschenke.,
 ฉันใช้สบู่สีขาว,Ich benutze die weiße Seife.,
@@ -401,7 +401,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันจะไปรับเธอตอนสี่ทุ่ม,Ich hole dich um zehn Uhr ab.,du / umgangsprachlich
 ฉันได้ยินแต่เสียงเครื่องยนต์ของรถบรรทุกและรถราบนถนนชนบท,Ich höre nur den Motor des Lastwagens und die Autos auf der Landstraße.,
 ฉันให้พวกเธอยืมรถของฉันได้นะ,Ich kann euch mein Auto leihen.,
-ฉันสามารถเล่นสกีได้<b><u><i>ดี</i></u></b> แต่ว่าที่นี่ไม่มีหิมะเลย ไม่สามารถเล่นสกีได้,"Ich kann gut Ski fahren, aber es gibt hier keinen Schnee. Man kann nicht Ski fahren.",- ไม่สามารถเล่นได้: ไม่มีใครเล่นได้
+ฉันสามารถเล่นสกีได้<b><u><i>ดี</i></u></b> แต่ว่าที่นี่ไม่มีหิมะเลย　ไม่สามารถเล่นสกีได้,"Ich kann gut Ski fahren, aber es gibt hier keinen Schnee. Man kann nicht Ski fahren.",- ไม่สามารถเล่นได้: ไม่มีใครเล่นได้
 ฉันสามารถอธิบายมัน(ช)ให้พวกคุณได้,Ich kann ihn Ihnen erklären.,- Sie
 ฉันร้องเพลงไม่เป็น,Ich kann nicht singen.,
 ฉันนอนได้ไม่ค่อยหลับ,Ich kann nicht so gut schlafen.,- können
@@ -474,7 +474,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 อาการปวดของคุณ<sub>(Sie)</sub>อาจรุนแรง<sub>(อันตราย)</sub>ขึ้นได้,Ihre Schmerzen können gefährlich sein.,
 การเสพติดของเขา(ญ)นั้นไม่ดีต่อสุขภาพ,Ihre Sucht ist nicht gesund.,
 ในสนามบินมีผู้คน(M)มากมายที่ต้องการซื้อหรือเปลี่ยนตั๋วเครื่องบินของพวกเขาที่นี่,"Im Flughafen sind viele Menschen, die hier ihre Flugtickets kaufen oder ändern wollen.",
-"ในร้านฉันมองหาพนักงานขาย(ญ)ºและฉันถามเธอว่า ""มีนาฬิกาผู้ชายดี ๆ ไหม""","Im Geschäft suche ich die Verkäuferin und frage sie: ""Haben Sie sehr gute Herrenuhren?""",- ดี ๆ: ดีมาก (ไม่ใช่สวย)
+"ในร้านฉันมองหาพนักงานขาย(ญ)และฉันถามเธอว่า ""มีนาฬิกาผู้ชายดี ๆ ไหม""","Im Geschäft suche ich die Verkäuferin und frage sie: ""Haben Sie sehr gute Herrenuhren?""",- ดี ๆ: ดีมาก (ไม่ใช่สวย)
 เดือนมิถุนายนเขาจะมาหาฉัน,Im Juni kommt er zu mir.,
 ในปาก เธอ(๓)มีลูกกวาดอยู่แท่งหนึ่ง,Im Mund hat sie einen Lolly.,- ขึ้นประโยคด้วยบุพบท
 ในกระเป๋าเป้ ฉันมีสายชาร์จอันหนึ่งสำหรับโทรศัพท์ของฉัน,Im Rucksack habe ich ein Ladegerät für mein Handy.,
@@ -838,7 +838,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เรายังไม่อยากไป(n)บ้าน　แต่วันเสาร์เราต้องบินกลับไป<u>แล้ว</u>,Wir möchten nicht nach Hause gehen. Aber am Samstag müssen wir schon zurückfliegen.,
 พวกเราต้องเร่งฝีเท้าให้ไวขึ้น ไม่งั้นเราจะไปสายเกินนะ,"Wir müssen uns beeilen, sonst kommen wir zu spät.",
 เราขึ้นลิฟต์ไปถึงชั้น(E)สามและลง(ออกจาก)ลิฟต์,Wir nehmen den Aufzug in die dritte Etage und steigen aus.,
-พวกเราเป็นนักเรียนแลกเปลี่ยน และกำลังเตรียมตัวที่จะเดินทางไปยังประเทศเยอรมนี,Wir sind Austauschstudenten und bereiten eine Reise nach Deutschland vor.,
+พวกเราเป็นนักเรียนแลกเปลี่ยนและกำลังเตรียมตัวที่จะเดินทางไปยังประเทศเยอรมนี,Wir sind Austauschstudenten und bereiten eine Reise nach Deutschland vor.,
 เราอยู่ที่ที่ว่าการเมือง,Wir sind auf dem Rathaus.,
 เราวิ่งเข้าออกหลายร้านแต่ก็ไม่เจอรองเท้าสวย ๆ เลย,Wir sind durch viele Geschäfte gelaufen und haben keine schöne Schuhe gefunden.,- Perfekt
 เราได้บินสิบเอ็ดชั่วโมงไปปักกิ่ง,Wir sind elf Stunden nach Peking geflogen.,- Perfekt
