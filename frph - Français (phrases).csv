@@ -21,6 +21,7 @@ thaïlandais,français,หมายเหตุ
 เธอ(๓)มีผมสีทอง,Elle est blonde.,
 เธอ(๓ญ)นั้นอ่อนหวานกับแมว(พหู),Elle est douce envers les chats.,
 เธอ(๓)สวย,Elle est jolie.,
+เธอ(๓ญ)กับฉันกินแอปเปิล,Elle et moi mangeons des pommes.,
 เธอ(๓ญ)ทำชีส,Elle fait du fromage.,
 เธอ(๓)อ่านเพราะว่าเธอมีหนังสือเล่มหนึ่ง,Elle lit parce qu'elle a un livre.,
 เธอ(๓ญ)กินเครป(พหู) แต่เธออยากกินช็อกโกแลต,"Elle mange des crêpes, mais elle veut manger du chocolat.",
@@ -31,7 +32,7 @@ thaïlandais,français,หมายเหตุ
 พวกเขา(ญ)บอกว่าไม่,Elles disent non.,
 พวกเขา(ญ)อ่านหนังสือ(พหู)ของเรา,Elles lisent nos livres.,
 พวกเธอ(๓ญ)เขียนหนังสือเล่มหนึ่งหรอ,Est-ce qu'elles écrivent un livre?,eq
-นั่นคือนก(ตัวหนึ่ง)หรอ,Est-ce que c'est un oiseau?,e
+นั่นคือนก(ตัวหนึ่ง)หรอ,Est-ce que c'est un oiseau?,Ec
 เขามีหนังสืออยู่จำนวนหนึ่ง,Il a des livres.,
 เขามีแมวตัวใหม่หนึ่งตัว,Il a un nouveau chat.,
 เขามีเข็มขัดสีดำหนึ่งเส้น,Il a une ceinture noire.,
@@ -55,7 +56,7 @@ thaïlandais,français,หมายเหตุ
 เขาวางขนมปัง(+a),Il pose le pain.,
 เขาเป็นเจ้าของหมูตัวหนึ่ง,Il possède un cochon.,
 เขากลับจากโรงเรียน,Il rentre de l'école.,
-เขาชื่ออะไร,Il s'apelle comment?,SV
+เขาชื่ออะไร,Il s'appelle comment?,SV
 เขาปรารถนาที่จะกิน,Il souhaite manger.,
 เขา(ช)ไปจนถึงบ้านของเขา(ญ),Il va jusque chez elle.,
 มีแอปเปิลมากขึ้น,Il y a plus de pommes.,
@@ -106,6 +107,7 @@ thaïlandais,français,หมายเหตุ
 ฉันขอโทษ,Je suis désolé.,
 ฉันจะไปกินขนมปังบาเกต์อันหนึ่ง,Je vais manger une baguette.,
 ฉันอยากกินไก่,Je veux manger du poulet.,
+ฉันเห็นว่าเธออ่าน,Je vois que tu lis.,
 ฉันอยากอยู่ด้านข้างของแฟน(ญ)ของฉันในเครื่องบิน,Je voudrais être à côté de ma copine dans l'avion.,
 สัตว์ตัวหนัก,L'animal est lourd.,
 สัตว์<sub>(เอก)</sub>ทำให้เด็ก ๆ สนใจ,L'animal intéresse les enfants.,
