@@ -107,6 +107,7 @@ valencià,tailandés,Add Reverse
 (m.) l'estel,ดวงดาว,y
 (m.) l'estiu,ฤดูร้อน,y
 (m.) l'estómac,ท้อง,y
+(m.) l'executiu,ผู้บริหาร,y
 (m.) l'hivern,ฤดูหนาว,y
 (m.) l'home,ผู้ชาย,y
 (m.) l'hort,สวนผักผลไม้ในบ้าน,y
@@ -350,6 +351,7 @@ el colp,การต่อย (es: el golpe),y
 el colze,ข้อศอก,y
 el col·legi,โรงเรียน (c),y
 el company,เพื่อนร่วมชั้น เพื่อนร่วมงาน (ชาย),y
+el compte,เรื่องเล่า บิล,y
 el concert,คอนเสิร์ต,y
 el conductor,คนขับรถผู้ชาย (!x),y
 el coneixement,ความรู้,y
@@ -374,6 +376,7 @@ el dependent,ลูกจ้างผู้ชาย,y
 el desembre,ธันวาคม,y
 el desig,ความปรารถนา (es: el deseo),y
 el despatx,สำนักงาน (d),y
+el deute,หนี้,y
 el diagnòstic,การวินิจฉัยโรค,y
 el dijous,วันพฤหัสบดี,y
 el dilluns,วันจันทร์,y
@@ -433,6 +436,7 @@ el grec,ภาษากรีก / คนกรีก (ช),y
 el idioma,ภาษา (i),y
 el infermer,บุรุษพยาบาล,y
 el ingenier,วิศวกรผู้ชาย (!e),y
+el ingrés,รายได้,y
 el iogurt,โยเกิร์ต,y
 el italià,ภาษาอิตาลี / คนอิตาลี (ช),y
 el japonés,ภาษาญี่ปุ่น / คนญี่ปุ่น (ช),y
@@ -546,6 +550,7 @@ el port,ท่าเรือ,y
 el portugués,ภาษาโปรตุเกส / คนโปรตุเกส (ช),y
 el premi,รางวัล,y
 el preu,ราคา,y
+el producte,ผลิตภัณฑ์,y
 el professor,อาจารย์ (p ผู้ชาย),y
 el psicòleg,จิตแพทย์ (ช),y
 el pulmó,ปอด,y
