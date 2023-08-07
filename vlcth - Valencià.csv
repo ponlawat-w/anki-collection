@@ -108,7 +108,7 @@ valencià,tailandés,Add Reverse
 (m.) l'estel,ดวงดาว,y
 (m.) l'estiu,ฤดูร้อน,y
 (m.) l'estómac,ท้อง,y
-(m.) l'executiu,ผู้บริหาร,y
+(m.) l'executiu,ผู้บริหาร (!g),y
 (m.) l'hivern,ฤดูหนาว,y
 (m.) l'home,ผู้ชาย,y
 (m.) l'hort,สวนผักผลไม้ในบ้าน,y
@@ -426,7 +426,7 @@ el gelat,ไอศกรีม,y
 el gendre,ลูกเขย,y
 el gener,มกราคม,y
 el genoll,หัวเข่า,y
-el gerent,ผู้บริหารผู้ชาย,y
+el gerent,ผู้บริหารผู้ชาย (!e),y
 el germanastre,พี่ชายน้องชายต่างพ่อแม่,y
 el germà,พี่ชาย น้องชาย,y
 el gimnàs,ยิม,y
@@ -526,6 +526,7 @@ el peatge,ด่านเก็บค่าทางด่วน,y
 el pegament,กาว,y
 el peix,ปลา,y
 el peluquer,ช่างตัดผมผู้ชาย,y
+el percentatge,เปอร์เซ็นต์ ร้อยละ,y
 el perill,อันตราย (คำนาม),y
 el periodiste,นักข่าวผู้ชาย,y
 el periòdic,หนังสือพิมพ์,y
@@ -799,7 +800,7 @@ la fustera,ช่างไม้ผู้หญิง,y
 la futbolista,นักฟุตบอลผู้หญิง,y
 la galeta,คุกกี้,y
 la geniva,เหงือก,y
-la gerent,ผู้บริหารผู้หญิง,y
+la gerent,ผู้บริหารผู้หญิง (!e),y
 la germana,พี่สาว น้องสาว,y
 la germanastra,พี่สาวน้องสาวต่างพ่อแม่,y
 la gerra,ไห,y
