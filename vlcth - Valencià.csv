@@ -23,7 +23,8 @@ valencià,tailandés,Add Reverse
 (f.) l'eina,เครื่องมือ (es: herramienta),y
 (f.) l'eixida,ทางออก,y
 (f.) l'encisam,ผักสลัด,y
-(f.) l'enginyera,วิศวกร (ญ!i),y
+(f.) l'enginyera,วิศวกร (ญ),y
+(f.) l'enginyeria,วิศวกรรมศาสตร์,y
 (f.) l'escala,บันได,y
 (f.) l'escola,โรงเรียน (e),y
 (f.) l'escombra,ไม้กวาด (กาตาลุญญา),y
@@ -92,7 +93,7 @@ valencià,tailandés,Add Reverse
 (m.) l'empresari,พนักงานบริษัท,y
 (m.) l'encreuament,ทางแยก,y
 (m.) l'enemic,ศัตรู,y
-(m.) l'enginyer,วิศวกร (ช!i),y
+(m.) l'enginyer,วิศวกร (ช),y
 (m.) l'equip,ทีม,y
 (m.) l'escac,หมากรุก,y
 (m.) l'escalfor,ความร้อน (ร่างกาย),y
@@ -437,7 +438,6 @@ el grau,ระดับชั้น (!n),y
 el grec,ภาษากรีก / คนกรีก (ช),y
 el idioma,ภาษา (i),y
 el infermer,บุรุษพยาบาล,y
-el ingenier,วิศวกรผู้ชาย (!e),y
 el ingrés,รายได้,y
 el iogurt,โยเกิร์ต,y
 el italià,ภาษาอิตาลี / คนอิตาลี (ช),y
@@ -812,7 +812,6 @@ la grapadora,ที่เย็บกระดาษ,y
 la il·lusió,ภาพลวงตา,y
 la infermera,นางพยาบาลผู้หญิง,y
 la informàtica,วิชาคอมพิวเตอร์,y
-la ingeniera,วิศวกรผู้หญิง (!e),y
 la inversió,การลงทุน,y
 la llampada,ฟ้าแลบ,y
 la llanda,กระป๋อง,y
@@ -1111,8 +1110,9 @@ telefonar,โทรหา,y
 tercer,ที่สาม,y
 tindre,มี,y
 tocar,เรียก,y
+tocar el dos,(สำนวน) ไป หนี ออกไป,y
 tot i que,แม้ว่า (!e),y
-tot just,แค่ ไม่ถึง แทบจะไม่ถึง,y
+tot just,เพิ่ง แค่ ไม่ถึง แทบจะไม่ถึง,y
 tothom,ทุกคน,y
 traduir,แปล,y
 tranquil,สงบ,y
