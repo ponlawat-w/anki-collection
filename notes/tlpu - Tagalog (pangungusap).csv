@@ -8,7 +8,7 @@
 เดรสเธอตัวใหม่,Ang baro mo ay bago.,S~ (n+a)
 ชุดพื้นเมืองของเด็กนั้นใหม่,Ang baro ng bata ay bago.,S~
 เด็กนิสัยดี,Ang bata ay mabait.,S~
-ลมแรงนั้นหนาว,Ang hanging malakas ay malamig.,S~ a+n
+ลมแรงนั้นหนาว,Ang hanging malakas ay malamig.,S~ n+a
 แม่พวกเธอใจดี,Ang ina ninyo ay mabait.,S~ (a+n)
 พ่อของพวกเธอใจดี,Ang inyong ama ay mabait.,S~ (a+n)
 โต๊ะตัวนี้สะอาด,Ang mesang ito ay malinis.,S~
@@ -25,18 +25,18 @@
 แม่ละพ่อของเธอสบายดีไหม,Kumusta ang iyong ina at ama?,a+n
 สบายดีไหม,Kumusta ka?,
 คุณสบายดีไหมครับ,Kumusta po kayo?,
-รถของพวกเราเก่า,Luma ang aming kotse.,- ~S (a+n)<div>- ไม่รวมผู้ฟัง</div>
+รถของพวกเราเก่า,Luma ang aming kotse.,- ~S (a+n)<br>- ไม่รวมผู้ฟัง
 หนังสือเล่มใหม่มันสวย,Maganda ang bagong aklat.,~S a+s
 สวัสดีตอนเย็น,Magandang gabi.,
 สวัสดีตอนบ่ายเช่นกันครับ,Magandang hapon po naman.,
 สวัสดีตอนบ่าย,Magandang hapon.,
 สวัสดีตอนเช้าครับ,Magandang umaga po.,
-ดินสอของพวกเขาแท่งยาว,Mahaba ang kanilang lapis.,~S (a+n)
+ดินสอของพวกเขาแท่งยาว,Mahaba ang kanilang lapis.,~S a+n
 พวกเราจน,Mahihirap kami.,- ~S<br>- ไม่รวมผู้ฟัง
 โรงเรียนของเรา(ฉันและเธอ)ใหญ่,Malaki ang ating paaralan.,~S (a+n)
 บ้านหลังใหญ่,Malaki ang bahay.,~S
 บ้านหลังโน้นมันใหญ่,Malaki iyong bahay na iyon.,~S
-บ้านของฉันหลังเล็ก,Maliit ang aking bahay.,~S a+s
+บ้านของฉันหลังเล็ก,Maliit ang aking bahay.,~S a+n
 โรงเรียนเราเล็ก,Maliit ang paaralan natin.,~S (n+a)
 สิ่งนี้เล็ก,Maliit ito.,~S
 รองเท้าฉันมันเล็ก,Maliliit ang mga sapatos ko.,~S (n+a)
