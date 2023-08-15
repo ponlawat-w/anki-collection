@@ -11,13 +11,13 @@
 ลมแรงนั้นหนาว,Ang hanging malakas ay malamig.,S~ n+a
 แม่พวกเธอใจดี,Ang ina ninyo ay mabait.,S~ a+n
 พ่อของพวกเธอใจดี,Ang inyong ama ay mabait.,S~ a+n
-โต๊ะตัวนี้สะอาด,Ang mesang ito ay malinis.,S~ a+n
+โต๊ะตัวนี้สะอาด,Ang mesang ito ay malinis.,S~ n+a
 สิ่งเหล่านั้นใหญ่,Ang mga iyan ay malalaki.,S~
 รองเท้าสะอาด,Ang mga sapatos ay malilinis.,S~ พหูพจน์
 รถเราใหม่,Bago ang kotse namin.,- ~S n+a<div>- ไม่รวมผู้ฟัง</div>
 เธอเป็นผู้หญิง,Ikaw ay babae.,S~
 บ้านหลังใหญ่คือโรงเรียนแห่งหนึ่ง,Isang paaralan ang bahay na malaki.,~S n+a
-โต๊ะตัวนี้มันสะอาด,Itong mesang ito ay malinis.,S~ n+a
+โต๊ะตัวนี้มันสะอาด,Itong mesang ito ay malinis.,S~ a+n+a
 สิ่งนั้นคืออาหารของมารี,Iyan ay pagkain ni Mary.,S~
 พวกเราเป็นพี่น้อง,Kami ay magkapatid.,- S~<br>- ไม่รวมผู้ฟัง
 พวกเราคือจอห์นกับเฮเลน,Kami ay sina John at Helen.,- S~<br>- ไม่รวมผู้ฟัง
@@ -25,7 +25,7 @@
 แม่ละพ่อของเธอสบายดีไหม,Kumusta ang iyong ina at ama?,a+n
 สบายดีไหม,Kumusta ka?,
 คุณสบายดีไหมครับ,Kumusta po kayo?,
-รถของพวกเราเก่า,Luma ang aming kotse.,- ~S a+n<br>- ไม่รวมผู้ฟัง
+รถของพวกเรา(-2)เก่า,Luma ang aming kotse.,- ~S a+n<br>- ไม่รวมผู้ฟัง
 หนังสือเล่มใหม่มันสวย,Maganda ang bagong aklat.,~S a+n
 สวัสดีตอนเย็น,Magandang gabi.,
 สวัสดีตอนบ่ายเช่นกันครับ,Magandang hapon po naman.,
