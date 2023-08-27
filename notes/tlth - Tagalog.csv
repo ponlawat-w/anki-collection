@@ -2,9 +2,11 @@ Tagalog,ไทย,Add Reverse
 aking,ของฉัน (หน้านาม),y
 aklat,หนังสือ,y
 ako,ฉัน,y
+alin,อันไหน,y
 ama,พ่อ,y
 aming,ของเรา kami (หน้านาม),y
 anak,ลูก,y
+ano,อะไร,y
 araw,วัน,y
 asawa,สามี ภรรยา,y
 aso,สุนัข,y
@@ -12,6 +14,7 @@ ating,ของเรา tayo (หน้านาม),y
 babae,ผู้หญิง,y
 bago,ใหม่,y
 bahay,บ้าน,y
+bakit,ทำไม,y
 bansa,ประเทศ,y
 baro,ชุดพื้นเมือง,y
 bata,เด็ก,y
@@ -24,11 +27,13 @@ gabi,ตอนเย็น กลางคืน,y
 gamot,ยา,y
 gulay,ผัก,y
 guro,ครู,y
+gusto,ชอบ,y
 hangin,ลม,y
 hapon,ตอนบ่าย,y
 hayop,สัตว์,y
 ibon,นก,y
 ikaw,เธอ (S~),y
+ilan,กี่อัน กี่ชิ้น เท่าไหร่,y
 ina,แม่,y
 inyong,ของคุณ พหู/สุภาพ (หน้านาม),y
 isda,ปลา,y
@@ -38,8 +43,10 @@ iyon,นู้น โน้น,y
 iyong,ของเธอ (หน้านาม),y
 ka,เธอ (~S),y
 kaibigan,เพื่อน,y
+kailan,เมื่อไหร่,y
 kami,พวกเรา (ไม่รวมผู้ฟัง),y
 kanilang,ของพวกเขา sila (หน้านาม),y
+kanino,ของใคร,y
 kanyang,ของเขา siya (หน้านาม),y
 kapatid,พี่น้อง,y
 kape,กาแฟ,y
@@ -59,6 +66,7 @@ mabilis,เร็ว,y
 mabuti,ดี,y
 madilim,มืด,y
 maganda,สวยงาม,y
+magkano,เท่าไหร่,y
 mahaba,ยาว,y
 mahal,แพง มีค่า,y
 mahirap,จน,y
@@ -88,22 +96,26 @@ mo,ของเธอ (หลังนาม),y
 mura,ราคาถูก,y
 naman,เช่นกัน (!r),y
 namin,ของเรา kami (หลังนาม),y
+nasaan,ที่ไหน (ตำแหน่ง),y
 natin,ของเรา tayo (หลังนาม),y
 nila,ของพวกเขา (หลังนาม),y
 ninyo,ของคุณ พหู/สุภาพ (หลังนาม),y
 niya,ของเขา siya (หลังนาม),y
+paano,อย่างไร,y
 paaralan,โรงเรียน,y
 pagkain,อาหาร,y
+pangalan,ชื่อ,y
 papel,กระดาษ,y
 payat,ผอม,y
 puno,ต้นไม้,y
 pusa,แมว,y
 rin,ก็ เช่นกัน (!n),y
-saan,ที่ไหน,y
+saan,ที่ไหน (เหตุการณ์),y
 sapatos,รองเท้า,y
 sila,พวกเขา / เขา (สุภาพ),y
 silya,เก้าอี้,y
 simbahan,โบสถ์,y
+sino,ใคร,y
 siya,เขา (๓),y
 tahimik,เงียบ,y
 tamad,ขี้เกียจ,y
