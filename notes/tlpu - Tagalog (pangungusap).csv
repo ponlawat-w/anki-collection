@@ -15,10 +15,10 @@
 โต๊ะตัวนี้สะอาด,Ang mesang ito ay malinis.,S~ n+a
 สิ่งเหล่านั้นใหญ่,Ang mga iyan ay malalaki.,S~
 รองเท้าสะอาด,Ang mga sapatos ay malilinis.,S~ พหูพจน์
-ชื่อคุณคืออะไร,Ano ba ang pangalan ninyo?,n+a
+ชื่อคุณคืออะไร,Ano ba ang pangalan ninyo?,- n+a<br>- สุภาพ
 นั่นอะไร,Ano ba iyan?,
 เธอชอบอะไร,Anong gusto mo?,aQ
-ชื่อของพวกคุณคืออะไร,Anu-ano ba ang mga pangalan ninyo?,
+ชื่อของพวกคุณคืออะไร,Anu-ano ba ang mga pangalan ninyo?,n+a
 รถเราใหม่,Bago ang kotse namin.,- ~S n+a<br>- ไม่รวมผู้ฟัง
 พวกคุณชอบ(อยู่)ฟิลิปปินส์ไหม,Gusto ba ninyo sa Pilipinas?,
 เธอชอบอันนี้ไหม,Gusto mo ba ito?,~S
@@ -30,7 +30,7 @@
 สิ่งนั้นคืออาหารของมารี,Iyan ay pagkain ni Mary.,S~
 พวกเราเป็นพี่น้อง,Kami ay magkapatid.,- S~<br>- ไม่รวมผู้ฟัง
 พวกเราคือจอห์นกับเฮเลน,Kami ay sina John at Helen.,- S~<br>- ไม่รวมผู้ฟัง
-บ้านเหล่านี้เป็นของใคร,Kani-kanino ba ang mga bahay na iyan?,n+a
+บ้าน(พหู)หลังนั้นเป็นของใคร,Kani-kanino ba ang mga bahay na iyan?,n+a
 บ้านหลังนั้นเป็นของใคร,Kanino ba ang bahay na iyan?,n+a
 พวกเธอคือจอห์นกับเฮเลน,Kayo ay sina John at Helen.,S~
 แม่ละพ่อของเธอสบายดีไหม,Kumusta ang iyong ina at ama?,a+n
