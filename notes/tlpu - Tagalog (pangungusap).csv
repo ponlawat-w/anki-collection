@@ -23,8 +23,8 @@
 พวกคุณชอบ(อยู่)ฟิลิปปินส์ไหม,Gusto ba ninyo sa Pilipinas?,
 เธอชอบอันนี้ไหม,Gusto mo ba ito?,~S
 เธอเป็นผู้หญิง,Ikaw ay babae.,S~
-ลูกของคุณมีกี่คน,Ilan ang anak ninyo?,n+a
-ลูกของพวกเขามีกี่คน,Ilan-ilan ang mga anak nila?,n+a
+ลูกของคุณมีกี่คน,Ilan ba ang anak ninyo?,n+a
+ลูก ๆ ของพวกเขามีกี่คน,Ilan-ilan ba ang mga anak nila?,n+a
 บ้านหลังใหญ่คือโรงเรียนแห่งหนึ่ง,Isang paaralan ang bahay na malaki.,~S n+a
 โต๊ะตัวนี้มันสะอาด,Itong mesang ito ay malinis.,S~ a+n+a
 สิ่งนั้นคืออาหารของมารี,Iyan ay pagkain ni Mary.,S~
@@ -43,7 +43,7 @@
 สวัสดีตอนบ่ายเช่นกันครับ,Magandang hapon po naman.,
 สวัสดีตอนบ่าย,Magandang hapon.,
 สวัสดีตอนเช้าครับ,Magandang umaga po.,
-หนังสือเหล่านี้ราคาเท่าไหร่,Magka-magkano ba ang mga aklat?,
+หนังสือ(พหู)ราคาเท่าไหร่,Magka-magkano ba ang mga aklat?,
 หนังสือราคาเท่าไหร่,Magkano ba ang aklat?,
 ดินสอของพวกเขาแท่งยาว,Mahaba ang kanilang lapis.,~S a+n
 พวกเราจน,Mahihirap kami.,- ~S<br>- ไม่รวมผู้ฟัง
@@ -65,7 +65,7 @@
 พวกเขาเก่ง,Marurunong sila.,~S
 ปีเตอร์กับมารีเป็นเด็ก,Mga bata sina Peter at Mary.,~S
 มะนิลาและเซบูเป็นเมือง,Mga lunsod ang Maynila at Cebu.,~S
-เขาอยู่ที่ไหน,Nasaan siya?,
+เขาอยู่ที่ไหน,Nasaan ba siya?,
 เปโดรเก่งไหม,Si Pedro ba ay marunong?,S~
 ปีเตอร์เป็นผู้ชาย,Si Peter ay lalaki.,S~
 รูธเป็นผู้หญิง,Si Ruth ay babae.,S~
