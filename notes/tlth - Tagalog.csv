@@ -6,8 +6,10 @@ alin,อันไหน,y
 ama,พ่อ,y
 aming,ของเรา kami (หน้านาม),y
 anak,ลูก,y
+anim,หก (ตัวเลข),y
 ano,อะไร,y
-araw,วัน,y
+apat,สี่,y
+araw,วัน ดวงอาทิตย์,y
 asawa,สามี ภรรยา,y
 aso,สุนัข,y
 ating,ของเรา tayo (หน้านาม),y
@@ -22,9 +24,11 @@ bulaklak,ดอกไม้,y
 bundok,ภูเขา,y
 dagat,ทะเล,y
 dahon,ใบไม้,y
+dalawa,สอง,y
 damit,ชุด ผ้า,y
 gabi,ตอนเย็น กลางคืน,y
 gamot,ยา,y
+gaya,เท่ากัน (!p),y
 gulay,ผัก,y
 guro,ครู,y
 gusto,ชอบ,y
@@ -34,8 +38,10 @@ hayop,สัตว์,y
 ibon,นก,y
 ikaw,เธอ (S~),y
 ilan,กี่อัน กี่ชิ้น เท่าไหร่,y
+ilog,แม่น้ำ,y
 ina,แม่,y
 inyong,ของคุณ พหู/สุภาพ (หน้านาม),y
+isa,หนึ่ง,y
 isda,ปลา,y
 ito,นี้,y
 iyan,นั้น,y
@@ -50,13 +56,17 @@ kanino,ของใคร,y
 kanyang,ของเขา siya (หน้านาม),y
 kapatid,พี่น้อง,y
 kape,กาแฟ,y
+kasing,เท่ากัน (ประธานกับกรรม),y
 kayo,พวกเธอ คุณ,y
+kaysa,กว่า (!l),y
 ko,ของฉัน (หลังนาม),y
 kotse,รถ,y
 lalaki,ผู้ชาย,y
+lalo,กว่า (!k),y
 lamok,ยุง,y
 langit,ท้องฟ้า,y
 lapis,ดินสอ,y
+lima,ห้า,y
 luma,เก่า,y
 lunsod,เมือง,y
 luto,สุก (อาหาร),y
@@ -67,6 +77,7 @@ mabuti,ดี,y
 madilim,มืด,y
 maganda,สวยงาม,y
 magkano,เท่าไหร่,y
+magkasing,เท่ากัน (สองประธาน),y
 mahaba,ยาว,y
 mahal,แพง มีค่า,y
 mahirap,จน,y
@@ -89,15 +100,18 @@ mataas,สูง,y
 mataba,อ้วน,y
 matalino,ฉลาด,y
 matamas,หวาน,y
-matanda,แก่,y
+matanda,แก่ อายุเยอะ,y
+may,มี,y
 mayaman,รวย,y
 mesa,โต๊ะ,y
 mo,ของเธอ (หลังนาม),y
 mura,ราคาถูก,y
 naman,เช่นกัน (!r),y
 namin,ของเรา kami (หลังนาม),y
+napaka,เกินไป มากเกินไป,y
 nasaan,ที่ไหน (ตำแหน่ง),y
 natin,ของเรา tayo (หลังนาม),y
+ngiti,รอยยิ้ม,y
 nila,ของพวกเขา (หลังนาม),y
 ninyo,ของคุณ พหู/สุภาพ (หลังนาม),y
 niya,ของเขา siya (หลังนาม),y
@@ -106,22 +120,32 @@ paaralan,โรงเรียน,y
 pagkain,อาหาร,y
 pangalan,ชื่อ,y
 papel,กระดาษ,y
+pareho,เท่ากัน (!g!k),y
 payat,ผอม,y
 pera,เงิน,y
+pinaka,ที่สุด,y
+pito,เจ็ด,y
 puno,ต้นไม้,y
 pusa,แมว,y
+radyo,วิทยุ,y
 rin,ก็ เช่นกัน (!n),y
 saan,ที่ไหน (เหตุการณ์),y
+sampu,สิบ,y
 sapatos,รองเท้า,y
 sila,พวกเขา / เขา (สุภาพ),y
 silya,เก้าอี้,y
 simbahan,โบสถ์,y
 sino,ใคร,y
 siya,เขา (๓),y
+siyam,เก้า,y
 tahimik,เงียบ,y
 tamad,ขี้เกียจ,y
 tanghali,ตอนกลางวัน,y
 tao,คน,y
+tatlo,สาม,y
 tayo,ฉันและเธอ พวกเรา (รวมผู้ฟัง),y
 tubig,น้ำ,y
 umaga,ตอนเช้า,y
+wala,ไม่มี,y
+walo,แปด,y
+yelo,น้ำแข็ง,y

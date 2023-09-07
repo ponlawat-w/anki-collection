@@ -795,7 +795,7 @@ el ganso,ห่าน,y
 el garaje,โรงรถ,y
 el garito,บ่อน รังลับ,y
 el gas lacrimógeno,แก๊สน้ำตา,y
-el gasto,รายจ่าย,y
+el gasto,รายจ่าย (!d),y
 el gemelo,ฝาแฝด(แท้),y
 el gemelo (del cuerpo),กล้ามเนื้อส่วนน่อง (!p),y
 el gerente,ผู้จัดการ,y
@@ -1436,6 +1436,7 @@ haber gato encerrado,น่าสงสัย มีลับลมคมใน 
 hacer el equipaje,จัดกระเป๋า,y
 hacer furor,มีอิทธิพลต่อคนส่วนมาก,
 hacer hincapié,เน้นย้ำ,
+hacer la compra,ซื้อของชำของใช้ ไปซูเปอร์,y
 hacer pellas,โดดเรียน,y
 hambriento,ที่หิวโหย,y
 heredar,สืบทอด,
@@ -1458,7 +1459,7 @@ importar un comino,ไม่สำคัญ (สำนวน importar ~),y
 imprevisible,คาดเดาไม่ได้ ทำนายไม่ได้,y
 imprudente,ประมาท เลินเล่อ ไม่รอบคอบ (คำคุณศัพท์),y
 inaugurar,เปิด เริ่ม (สถานที่),y
-incitar,กระตุ้น ยั่วยุ,
+incitar,ยั่วยุ กระตุ้น เร้าให้เกิด,y
 incoloro,ที่ไม่มีสี,y
 inculcar,ปลูกฝัง สั่งสอน,y
 indispensable,ที่ขาดไม่ได้ ที่สำคัญ,y
@@ -1475,6 +1476,7 @@ insípido,จืด ที่ไม่มีรสชาติ,y
 interminable,ไม่จบไม่สิ้น,y
 intuir,หยั่งรู้ รู้สึกโดยสัญชาตญาณ,y
 invernal,(adj) ที่เกี่ยวกับฤดูหนาว,y
+ir de compras,ไปชอปปิง,y
 ir de copas,ไปดื่มเหล้า,y
 ir de empalme / ir de empalmada,การทำสิ่งหนึ่งสิ่งใดโดยเพิ่งเสร็จกิจกรรมก่อนหน้า,y
 ir de picos pardos,ไปเที่ยว (สำนวน),y
