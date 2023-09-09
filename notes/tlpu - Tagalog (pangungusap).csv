@@ -1,6 +1,6 @@
 ไทย,Tagalog,หมายเหตุ
 ฉันเป็นผู้ชาย,Ako ay lalaki.,S~
-ฉันมีเพื่อนอยู่ที่เมืองเกซอนซิตี้,Ako ay may kaibigan sa Quezon City.,S~
+ฉันมีเพื่อนอยู่ที่เมืองเกซอนซิตี้,Ako ay may kaibigan sa Quezon City.,SVO
 ฉันคือจอห์น,Ako ay si John.,S~
 มะนิลาเป็นเมืองหนึ่งของฟิลิปปินส์,Ang Maynila ay isang lunsod ng Pilipinas.,S~
 ลูกฉันไม่ได้ดีเท่ากับลูกของเขา,Ang aking anak ay hindi kasimbait ng anak niya.,S(a+n)VO(n+a)
@@ -22,7 +22,7 @@
 เธอชอบอะไร,Anong gusto mo?,aQ
 ชื่อของพวกคุณคืออะไร,Anu-ano ba ang mga pangalan ninyo?,n+a
 รถเราใหม่,Bago ang kotse namin.,- ~S n+a<br>- ไม่รวมผู้ฟัง
-รอยยิ้มเขาเหมือนกับดวงอาทิตย์,Gaya ng araw ang kanyang ngiti.,VOS
+รอยยิ้มเขาเหมือนกับดวงอาทิตย์,Gaya ng araw ang kanyang ngiti.,VOS(a+n)
 พวกคุณชอบ(อยู่)ฟิลิปปินส์ไหม,Gusto ba ninyo sa Pilipinas?,
 เธอชอบอันนี้ไหม,Gusto mo ba ito?,~S
 เธอเป็นผู้หญิง,Ikaw ay babae.,S~
@@ -75,7 +75,7 @@
 ปีเตอร์กับมารีเป็นเด็ก,Mga bata sina Peter at Mary.,~S
 มะนิลาและเซบูเป็นเมือง,Mga lunsod ang Maynila at Cebu.,~S
 เขาอยู่ที่ไหน,Nasaan ba siya?,
-พวกเขาฉลาดทั้งคู่(p),Pareho silang matalino.,~S<br>
+พวกเขาฉลาดทั้งคู่(p),Pareho silang matalino.,~S
 จอห์นไม่ได้เก่งเท่ากับปีเตอร์,Si John ay hindi kasindunong ni Peter.,SVO
 มาเรียสวยเท่ากับ(k)เอเลนา,Si Maria ay kasingganda ni Elena.,SVO
 เปโดรเก่งไหม,Si Pedro ba ay marunong?,S~
@@ -91,4 +91,4 @@
 เขาคือปีเตอร์,Siya ay si Peter.,S~
 พวกเรา(ฉันและเธอ)เป็นเพื่อนกัน,Tayo ay magkaibigan.,- S~<br>- รวมผู้ฟัง
 เธอไม่มีอาหารหรอ,Wala ka bang pagkain?,
-พวกเรา(-3)ไม่มีอาหาร,Walang pagkain kami.,~S
+พวกเรา(-3)ไม่มีอาหาร,Walang pagkain kami.,VOS
