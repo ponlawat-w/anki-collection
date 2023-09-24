@@ -8,6 +8,7 @@ español,tailandés,Add Reverse
 (zodiaco) Piscis,ราศีมีน,y
 (zodiaco) Sagitario,ราศีธนู,y
 (zodiaco) Virgo,ราศีกันย์,y
+(f.) el agua freática,น้ำบาดาลไม่มีแรงดัน,y
 (f.) el alga,สาหร่าย,y
 (f.) el ancla,สมอเรือ,y
 (f.) el asma,โรคหืด,y
@@ -408,7 +409,6 @@ el aforo,ความจุ (!c),y
 el afán,ความปรารถนา ความกระตือรือต้น,y
 el agente de tráfico,ตำรวจจราจร (โบกรถ),y
 el agua de origen,แหล่งน้ำ,y
-el agua freática,น้ำบาดาลไม่มีแรงดัน,y
 el aguijón,เหล็กใน ส่วนที่ใช้ต่อยของสัตว์,y
 el agujero,รู,y
 el ahijado,ลูกเลี้ยง,y
@@ -1589,7 +1589,7 @@ la caja de cambios manual,เกียร์ธรรมดา,y
 la cala,ส่วนเว้าของชายหาด,y
 la calabaza,ฟักทอง,y
 la calavera,หัวกะโหลก (ศิลปะ),y
-la calima,เมฆหมอก ฝุ่นควัน,y
+la calima,พายุทราย เมฆหมอก ฝุ่นควัน,y
 la calle de sentido único,ถนนเดินรถทางเดียว,y
 la calle sin salida,ทางตัน,y
 la callejuela,หุบเขา ถนนแคบ ๆ,y
@@ -1623,6 +1623,7 @@ la cepa,สายพันธุ์,y
 la cereza,เชอร์รี,y
 la cerradura,กลอนประตู,y
 la certeza,ความแน่นอน ความถูกต้อง (คำนามของ cierto),y
+la cesárea,การผ่าคลอด,y
 la chancla,รองเท้าแตะ,y
 la chapa,แผ่นโลหะ ฝาขวด เหรียญตรา,y
 la chatarra,เศษชิ้นส่วน เศษขยะ,
@@ -2247,7 +2248,7 @@ naufragar,อับปาง,y
 neoclásico,แบบคลาสสิกใหม่,y
 ni el tato,ไม่มีใครเลย,
 ni fú ni fá,เฉย ๆ,
-no dar ni un palo al agua,ไม่ทำอะไร (สำนวน),y
+no dar ni un palo al agua,ไม่ทำอะไร ไม่ทำงาน (สำนวน),y
 no tener pelos en la lengua,(สำนวน) พูดจาขวานผ่าซาก พูดตรง ๆ,y
 nocturno,ที่เกี่ยวกับตอนกลางคืน,y
 notarse,เห็นได้ชัด เริ่มสังเกตเห็นได้ เด่น,y
