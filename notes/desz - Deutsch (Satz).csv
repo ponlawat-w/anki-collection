@@ -403,6 +403,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันเอากุญแจออกมา,Ich hole den Schlüssel heraus.,
 ฉันจะไปรับเธอตอนสี่ทุ่ม,Ich hole dich um zehn Uhr ab.,du / umgangsprachlich
 ฉันได้ยินแต่เสียงเครื่องยนต์ของรถบรรทุกและรถราบนถนนชนบท,Ich höre nur den Motor des Lastwagens und die Autos auf der Landstraße.,
+ฉันอ่านลายมือเธอไม่ออก,Ich kann deine Handschrift nicht lesen.,
 ฉันให้พวกเธอยืมรถของฉันได้นะ,Ich kann euch mein Auto leihen.,
 ฉันสามารถเล่นสกีได้<b><u><i>ดี</i></u></b> แต่ว่าที่นี่ไม่มีหิมะเลย　ไม่สามารถเล่นสกีได้,"Ich kann gut Ski fahren, aber es gibt hier keinen Schnee. Man kann nicht Ski fahren.",- ไม่สามารถเล่นได้: ไม่มีใครเล่นได้
 ฉันสามารถอธิบายมัน(ช)ให้พวกคุณได้,Ich kann ihn Ihnen erklären.,- Sie
@@ -453,7 +454,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันพูดภาษาอิตาลีกับอังกฤษ,Ich spreche Italienisch und Englisch.,
 ฉันไม่พูดภาษาเยอรมัน,Ich spreche kein Deutsch.,
 ฉันตื่นนอนส่วนมากตอนแปดโมง,Ich stehe meistens um acht auf.,
-ฉันตื่นนอนตอนเจ็ดโมง　หลังจากนั้นก็ทำ(m)อาหารเช้า,Ich stehe um sieben Uhr auf. Dann mache ich Frühstück.,offiziell
+ฉันตื่นนอนตอนเจ็ดโมง　แล้วก็ทำ(m)อาหารเช้า,Ich stehe um sieben Uhr auf. Dann mache ich Frühstück.,offiziell
 ฉันขึ้นรถไฟ,Ich steige in den Zug ein.,
 ฉันวางขวดไว้บนโต๊ะ,Ich stelle die Flasche auf den Tisch.,
 ฉันกำลังหา(ซื้อ)ชุดเดรสหรือไม่ก็กระโปรงอยู่,Ich suche ein Kleid oder einen Rock.,
@@ -481,7 +482,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ในสนามบินมีผู้คน(M)มากมายที่ต้องการซื้อหรือเปลี่ยนตั๋วเครื่องบินของพวกเขาที่นี่,"Im Flughafen sind viele Menschen, die hier ihre Flugtickets kaufen oder ändern wollen.",
 "ในร้านฉันมองหาพนักงานขาย(ญ)และฉันถามเธอว่า ""มีนาฬิกาผู้ชายดี ๆ ไหม""","Im Geschäft suche ich die Verkäuferin und frage sie: ""Haben Sie sehr gute Herrenuhren?""",- ดี ๆ: ดีมาก (ไม่ใช่สวย)
 เดือนมิถุนายนเขาจะมาหาฉัน,Im Juni kommt er zu mir.,
-ในปาก เธอ(๓)มีลูกกวาดอยู่แท่งหนึ่ง,Im Mund hat sie einen Lolly.,- ขึ้นประโยคด้วยบุพบท
+ในปากเธอ(๓)มีลูกกวาดอยู่แท่งหนึ่ง,Im Mund hat sie einen Lolly.,- ขึ้นประโยคด้วยบุพบท
 ในกระเป๋าเป้<u><b>ฉันมี</b></u>สายชาร์จอันหนึ่งสำหรับโทรศัพท์ของฉัน,Im Rucksack habe ich ein Ladegerät für mein Handy.,
 ในฤดูร้อนเธอ(๓)ชอบกินไอศกรีม,Im Sommer isst sie gern Eis.,
 ในบ้านทั้งหลังมีหน้าต่างสามบาน,Im gesamten Haus gibt es drei Fenster.,
@@ -547,6 +548,7 @@ Luki กระโดดข้ามหน้าต่าง,Luki springt durch d
 บางคนเรียกสิ่งนี้ว่าการทำสมาธิ,Manche nennen das Meditation.,
 บางครั้งพวกเขาเอาเพื่อนมาทานอาหารด้วย,Manchmal bringen sie Freunde zum Essen mit.,
 บางครั้งฉันดูโทรทัศน์ตอนเย็น,Manchmal sehe ich abends fern.,
+มาร์เซลมากับไดอารีสีชมพูเล่มหนึ่ง,Marcel kommt mit einem rosafarbenen Tagebuch.,
 น้องชายของฉันเรียนเคมีและขยันมาก อาจารย์ของเขาชมเขาอยู่เสมอ,Mein Bruder studiert Chemie und ist sehr fleißig. Sein Professor lobt ihn immer.,
 เพื่อนของฉัน Michael มารอพวกเราอยู่ที่ทางออกของสนามบิน,Mein Freund Michael erwartet uns am Ausgang des Flughafens.,
 วันเกิดของฉันมันสำคัญมาก เธอรู้ไหม,"Mein Geburtstag ist sehr wichtig, weißt du?",
@@ -695,6 +697,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เธอ(๓)พูดกับพ่อแม่ของเธอเกี่ยวกับทุกเรื่อง,Sie spricht mit ihren Eltern über alles.,
 มัน(ญ)กระโดดไปที่โต๊ะ,Sie springt gegen den Tisch.,
 เธอ(๓)ไม่แนะนำฉันให้น้องชายของเธอรู้จัก,Sie stellt mich ihrem Bruder nicht vor.,
+พวกเขาหาทุกซอกทุกมุมในโรงเรียน,Sie suchen überall in der Schule.,
 เธอ(๓)ใส่หมวกใบหนึ่งอยู่บนหัว,Sie trägt auf dem Kopf einen Hut.,
 เธอ(๓)ใส่สร้อยคอเส้นหนึ่งอยู่รอบ ๆ คอ,Sie trägt eine Kette um den Hals.,
 พวกเขากอดกัน,Sie umarmen sich.,
