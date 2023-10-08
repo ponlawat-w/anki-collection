@@ -302,7 +302,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 เธอมียา/วิธีแก้ปวดหัวไหม,Hast du ein Medikament gegen Kopfschmerzen?,
 เธอมีเวลาตอน<u>ประมาณ</u>บ่ายสองโมงไหม,Hast du gegen vierzehn Uhr Zeit?,du / offiziell
 มีแผนทำอะไรวันนี้ช่วงบ่าย<u>แล้ว</u>หรือยัง,Hast du heute Nachmittag schon was vor?,du
-คุณมีจักรยานแล้วหรอ หรือว่าจักรยานตรงนี้เป็นของใคร,Hast du jetzt ein Fahrrad? Oder wem gehört das Fahrrad hier?,
+คุณมีจักรยานแล้วหรอ　หรือว่าจักรยานตรงนี้เป็นของใคร,Hast du jetzt ein Fahrrad? Oder wem gehört das Fahrrad hier?,
 เธอได้รับโปสการ์ดของฉันหรือยัง,Hast du meine Postkarte bekommen?,perfekt<br>โปรการ์ด - P
 เธอเห็นไฟฉายของฉันไหม,Hast du meine Taschenlampe gesehen?,- perfekt
 เธอยังหิวอยู่ไหม / ไม่ฉันไม่หิวแล้ว,"Hast du noch Hunger? / Nein, ich habe keinen Hunger mehr.",
@@ -321,9 +321,9 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 พรุ่งนี้เธอเอาขนมปังก้อนมา<u>หน่อยนะ</u>,Holst du bitte morgen Brötchen?,- du<br>- fragen
 รถบัสคันนี้หยุดที่ Marburg ไหม,Hält dieser Bus in Marburg?,
 แขวนรูปไว้ที่ผนังให้หน่อย,Häng das Bild bitte an die Wand.,"- du, bitte"
-ฉัน<u>ทำงานเป็น</u>คนขับรถ และทุก ๆ สัปดาห์จะขนมันฝรั่งทอดไปที่นั่น(dh),Ich arbeite als Fahrer und bringe jede Woche Pommes dorthin.,
+ฉัน<u>ทำงานเป็น</u>คนขับรถและทุก ๆ สัปดาห์จะขนมันฝรั่งทอดไปที่นั่น(dh),Ich arbeite als Fahrer und bringe jede Woche Pommes dorthin.,
 ฉันทำงานอย่างเร็ว เพราะการประชุม(M)จะเริ่มตอน 11 โมง,"Ich arbeite schnell, weil das Meeting um elf Uhr anfängt.",
-ฉันจะทำขนมเค้กวันนี้ ฉันอยากได้แป้งหนึ่งกิโล แอปเปิลสามลูก อพริคอตสี่ แล้วก็ไข่อีกหก,"Ich backe heute einen Kuchen. Ich brauche ein Kilo Mehl, drei Äpfen, vier Aprikosen und sechs Eier.",
+ฉันจะอบขนมเค้กวันนี้　ฉันอยากได้แป้งหนึ่งกิโล แอปเปิลสามลูก อพริคอตสี่แล้วก็ไข่อีกหก,"Ich backe heute einen Kuchen. Ich brauche ein Kilo Mehl, drei Äpfen, vier Aprikosen und sechs Eier.",
 ฉันได้รับของขวัญมากมายจากพี่น้องของฉันอยู่เสมอ,Ich bekomme von meinen Geschwistern immer viele Geschenke.,
 ฉันใช้สบู่สีขาว,Ich benutze die weiße Seife.,
 ฉันจ่ายค่าไวน์ ค่าอาหารเธอจ่าย,"Ich bezahle den Wein, das Essen bezahlst du.",
@@ -436,7 +436,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันต้องไปซ่อนตัว,Ich muss mich verstecken.,
 ฉันต้องไปซื้อของก่อน,Ich muss zuerst einkaufen gehen.,
 ฉันต้องไป(f/z)มหาวิทยาลัยก่อน,Ich muss zuerst zur Universität fahren.,
-ฉันไม่เคยต้องช่วยงานบ้านและฉันสามารถกินไอติมมากเท่าไหร่ก็ได้,"Ich musste nie im Haushalt helfen und durfte so viel Eis essen, wie ich wollte.",Präteritum
+ฉันไม่เคยต้องช่วยงานบ้านและสามารถกินไอติมมากเท่าไหร่ก็ได้,"Ich musste nie im Haushalt helfen und durfte so viel Eis essen, wie ich wollte.",Präteritum
 ฉันอยากจะรู้จักคุณมานาน<u>แล้ว</u>,Ich möchte Sie schon lange kennenlernen.,Sie
 ฉันก็อยากไปกินซูชิกับพวกเธอ,Ich möchte auch mit euch Sushi essen.,ihr
 ฉันขอไส้กรอกแกงกะหรี่หนึ่งกับน้ำแร่หนึ่ง,Ich möchte bitte eine Currywurst und ein Mineralwasser.,bitte
@@ -833,7 +833,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เราไม่มีอะไรร่วมกันเลย,Wir haben nichts gemeinsam.,
 เราเปิด(เต)กระเป๋าเดินทางของเราออก,Wir haben unsere Koffer ausgepackt.,- Perfekt
 พวกเราหา(f)ของของพวกเราไม่เจอ,Wir haben unsere Sachen nicht gefunden.,- perfekt
-เราได้ทานอาหารด้วยกันและหลังจากนั้นเราก็ไปดื่มกาแฟกันต่อ,Wir haben zusammen gegessen und dann haben wir noch einen Kaffee getrunken.,- Perfekt
+เราได้ทานอาหารด้วยกัน(และ)แล้วเรายังดื่มกาแฟกันต่อ,Wir haben zusammen gegessen und dann haben wir noch einen Kaffee getrunken.,- Perfekt
 พวกเรามีรถสองคัน เพราะว่าพวกเราชอบรถยนต์,"Wir haben zwei Autos, denn wir mögen Autos.",- เพราะว่า: denn
 พวกเรามีครูคนใหม่เมื่อวาน เราสนุกกันมาก,Wir hatten gestern einen neuen Lehrer. Wir hatten viel Spaß.,- Präteritum
 เราจะมาเวลาประมาณเจ็ดโมง,Wir kommen um etwa sieben Uhr.,
@@ -884,7 +884,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 คุณช่วยอธิบายใบแจ้งหนี้หน่อยได้ไหม,Würden Sie mir bitte die Rechnung erklären?,- W~
 เธอพาฉันเที่ยวชมเมืองได้ไหม,Zeigst du mir die Stadt?,
 ตอนกลางวันฉันทานอาหารตอนบ่ายสองครึ่ง,Zu Mittag habe ich um halb drei gegessen.,perfekt / umgangsprachlich
-ก่อนอื่นฉันจะไป(f→i)ตุรกี แล้วหลังจากนั้นก็จะบินไป(i)อเมริกา,Zuerst fahre ich in die Türkei und dann fliege ich in die USA.,
+ก่อนอื่นฉันจะไป(f→i)ตุรกีแล้วก็จะบินไป(i)อเมริกา,Zuerst fahre ich in die Türkei und dann fliege ich in die USA.,
 ในที่สุดเขาก็กินอาหารเที่ยงของเขา,Zuletzt isst er sein Mittagessen.,
 โชคดีที่เรามีน้ำ,Zum Glück haben wir Wasser.,
 ใน(เวลา)ทุกวันนี้ป่ามีขนาดเล็กลง,Zur heutigen Zeit ist der Wald kleiner.,
