@@ -11,17 +11,23 @@
 เดรสเธอตัวใหม่,Ang baro mo ay bago.,S~ n+a
 ชุดพื้นเมืองของเด็กนั้นใหม่,Ang baro ng bata ay bago.,S~
 เด็กนิสัยดี,Ang bata ay mabait.,S~
+เด็กกำลังพูด,Ang bata ay nagsasalita.,SV
+ผักนั้นดีสำหรับเด็ก ๆ,Ang gulay ay mabuti para sa mga bata.,SV
 ลมแรงนั้นหนาว,Ang hanging malakas ay malamig.,S~ n+a
 แม่<sub>(เอก)</sub>ของพวกเธอใจดี,Ang ina ninyo ay mabait.,S~ n+a
 พ่อของพวกเธอใจดี,Ang inyong ama ay mabait.,S~ a+n
 โต๊ะตัวนี้สะอาด,Ang mesang ito ay malinis.,S~ n+a
 สิ่งเหล่านั้นใหญ่,Ang mga iyan ay malalaki.,S~
+ชื่อของลูก ๆ ของเขาคือปีเตอร์และมารี,Ang mga pangalan ng kanilang mga anak ay Peter at Mary.,- SV<br>- a+n
 รองเท้าสะอาด,Ang mga sapatos ay malilinis.,S~ พหูพจน์
 ชื่อคุณคืออะไร,Ano ba ang pangalan ninyo?,- n+a<br>- สุภาพ
 นั่นอะไร,Ano ba iyan?,
 เธอชอบอะไร,Anong gusto mo?,aQ
 ชื่อของพวกคุณคืออะไร,Anu-ano ba ang mga pangalan ninyo?,n+a
 รถเราใหม่,Bago ang kotse namin.,- ~S n+a<br>- ไม่รวมผู้ฟัง
+อ่านนิทานเรื่องหนึ่งกันเถอะ,Bumasa tayo ng isang kuwento.,VSO
+เฮเลนมาถึงเมื่อวาน,Dumating si Helen kahapon.,VS
+พวกเขามาถึงที่ฟิลิปปินส์เมื่อเดือนที่แล้ว,Dumating sila rito sa Pilipinas noong isang buwan.,VSO
 รอยยิ้มเขาเหมือนกับดวงอาทิตย์,Gaya ng araw ang kanyang ngiti.,VOS(a+n)
 พวกคุณชอบ(อยู่)ฟิลิปปินส์ไหม,Gusto ba ninyo sa Pilipinas?,
 เธอชอบอันนี้ไหม,Gusto mo ba ito?,
@@ -74,6 +80,10 @@
 พวกเรา(-2)มีหนังสือเล่มใหม่,Mayroon kaming bagong aklat.,VSO(a+n)
 ปีเตอร์กับมารีเป็นเด็ก,Mga bata sina Peter at Mary.,~S
 มะนิลาและเซบูเป็นเมือง,Mga lunsod ang Maynila at Cebu.,~S
+พวกเขาเรียนพูดภาษาของฟิลิปปินส์,Nag-aaral silang magsalita ng wika ng Pilipinas.,VSO
+ลูก ๆ ของฉันกำลังเล่น,Naglalaro ang aking mga anak.,VS
+เขาทำอาหารด้วยผักและเนื้อ,Nagluluto siya ng gulay at karne.,VSO
+คุณได้หุงข้าวไหม,Nagluto ba kayo ng kanin?,VSO
 เขาอยู่ที่ไหน,Nasaan ba siya?,
 พวกเขาฉลาดทั้งคู่(p),Pareho silang matalino.,~S
 จอห์นไม่ได้เก่งเท่ากับปีเตอร์,Si John ay hindi kasindunong ni Peter.,SVO
@@ -81,14 +91,20 @@
 เปโดรเก่งไหม,Si Pedro ba ay marunong?,S~
 ปีเตอร์เป็นผู้ชาย,Si Peter ay lalaki.,S~
 รูธเป็นผู้หญิง,Si Ruth ay babae.,S~
+สมิธเขียน,Si Smith ay sumusulat.,SV
 พวกเขามีบ้านหลังสวยงาม,Sila ay may magandang bahay.,SVO(a+n)
+พวกเขาเรียนภาษาตากาล็อก,Sila ay nag-aaral ng Tagalog.,SVO
 เฮเลนและทอมนิสัยดี,Sina Helen at Tom ay mababait.,S~
 เฮเลนและทอมเป็นเด็ก,Sina Helen at Tom ay mga bata.,S~
 มาเรียกับเอเลนาสวยเท่ากัน,Sina Maria at Elena ay magkasingganda.,S~
+ปีเตอร์และมารีดื่มนมเยอะ ๆ ทุก ๆ วันเพื่อพวกเขาจะได้มีร่างกายที่แข็งแรง,Sina Peter at Mary ay umiinom ng maraming gatas araw-araw kaya sila malulusog.,SVO
 คุณเป็นใคร,Sino ba kayo?,
 คนนั้นเป็นใคร,Sinong taong iyan?,aQ n+a
 ใครเป็นลูก ๆ ของคุณ,Sinu-sino ba ang inyong mga anak?,a+n
 เขาคือปีเตอร์,Siya ay si Peter.,S~
 พวกเรา(ฉันและเธอ)เป็นเพื่อนกัน,Tayo ay magkaibigan.,- S~<br>- รวมผู้ฟัง
+เด็กกำลังดื่มนม,Umiinom ng gatas ang bata.,VOS
+พวกเขาดื่มนมเยอะ ๆ ทุก ๆ วัน,Umiinom sila ng maraming gatas araw-araw.,VSO
+เชิญดื่มกาแฟ,Uminom kayo ng kape.,VSO
 เธอไม่มีอาหารหรอ,Wala ka bang pagkain?,
 พวกเรา(-2)ไม่มีอาหาร,Walang pagkain kami.,VOS

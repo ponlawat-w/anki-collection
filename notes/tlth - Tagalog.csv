@@ -7,9 +7,13 @@ ama,พ่อ,y
 aming,ของเรา kami (หน้านาม),y
 anak,ลูก,y
 anim,หก (ตัวเลข),y
+animnapu,หกสิบ,y
 ano,อะไร,y
 apat,สี่,y
+apat na raan,สี่ร้อย,y
+apatnapu,สี่สิบ,y
 araw,วัน ดวงอาทิตย์,y
+araw-araw,ทุกวัน,y
 asawa,สามี ภรรยา,y
 aso,สุนัข,y
 ating,ของเรา tayo (หน้านาม),y
@@ -20,21 +24,36 @@ bakit,ทำไม,y
 bansa,ประเทศ,y
 baro,ชุดพื้นเมือง,y
 bata,เด็ก,y
+bigas,ข้าวสาร,y
+binibini,นางสาว,y
 bulaklak,ดอกไม้,y
+bumasa,อ่าน,y
+bumili,ซื้อ,y
 bundok,ภูเขา,y
+buwan,เดือน,y
 dagat,ทะเล,y
 dahon,ใบไม้,y
 dalawa,สอง,y
+dalawampu,ยี่สิบ,y
+dalawampu&#x27;t isa,ยี่สิบเอ็ด,y
+dalawampu&#x27;t lima,ยี่สิบห้า,y
+dalawang daan,สองร้อย,y
 damit,ชุด ผ้า,y
+dumating,มาถึง,y
 gabi,ตอนเย็น กลางคืน,y
 gamot,ยา,y
+gatas,นม,y
 gaya,เท่ากัน ราวกับ,y
+ginang,นาง,y
+ginoo,นาย,y
 gulay,ผัก,y
+gumawa,ทำ,y
 guro,ครู,y
 gusto,ชอบ,y
 hangin,ลม,y
 hapon,ตอนบ่าย,y
 hayop,สัตว์,y
+humingi,ถามถึง ถามหา,y
 ibon,นก,y
 ikaw,เธอ (S~),y
 ilan,กี่อัน กี่ชิ้น เท่าไหร่,y
@@ -42,32 +61,45 @@ ilog,แม่น้ำ,y
 ina,แม่,y
 inyong,ของคุณ พหู/สุภาพ (หน้านาม),y
 isa,หนึ่ง,y
+isang libo,หนึ่งพัน,y
 isda,ปลา,y
 ito,นี้,y
 iyan,นั้น,y
 iyon,นู้น โน้น,y
 iyong,ของเธอ (หน้านาม),y
 ka,เธอ (~S),y
+kahapon,เมื่อวาน,y
 kaibigan,เพื่อน,y
 kailan,เมื่อไหร่,y
 kami,พวกเรา (ไม่รวมผู้ฟัง),y
 kanilang,ของพวกเขา sila (หน้านาม),y
+kanin,ข้าวหุง,y
 kanino,ของใคร,y
 kanyang,ของเขา siya (หน้านาม),y
 kapatid,พี่น้อง,y
 kape,กาแฟ,y
 kasing,เท่ากัน (ประธานกับกรรม),y
+kaya,เพื่อที่ ดังนั้น,y
 kayo,พวกเธอ คุณ,y
 kaysa,กว่า (!l),y
 ko,ของฉัน (หลังนาม),y
 kotse,รถ,y
+kumain,กิน,y
+kumanta,ร้องเพลง (!u),y
+kuwento,นิทาน เรื่องราว,y
+labindalawa,สิบสอง,y
+labing-isa,สิบเอ็ด,y
+labintatlo,สิบสาม,y
 lalaki,ผู้ชาย,y
 lalo,กว่า (!k),y
 lamok,ยุง,y
 langit,ท้องฟ้า,y
 lapis,ดินสอ,y
 lima,ห้า,y
+limampu,ห้าสิบ,y
+limang daan,ห้าร้อย,y
 luma,เก่า,y
+lumangoy,ว่ายน้ำ,y
 lunsod,เมือง,y
 luto,สุก (อาหาร),y
 mababa,ต่ำ,y
@@ -75,9 +107,26 @@ mabait,นิสัยดี ใจดี,y
 mabilis,เร็ว,y
 mabuti,ดี,y
 madilim,มืด,y
+mag-aral,เรียน,y
+mag-away,ทะเลาะ,y
+mag-isip,คิด,y
+mag-usap,สนทนา,y
 maganda,สวยงาม,y
+magbayad,จ่าย,y
+magbili,ขาย,y
 magkano,เท่าไหร่,y
 magkasing,เท่ากัน (สองประธาน),y
+maglakad,เดิน,y
+maglaro,เล่น,y
+maglinis,ทำความสะอาด,y
+magluto,ทำอาหาร,y
+magpunta,ไป,y
+magsalita,พูด,y
+magsayaw,เต้น,y
+magsulat,เขียน (ลงไป),y
+magtanim,ปลูก,y
+magtanong,ถาม (คำถาม),y
+magulang,พ่อแม่,y
 mahaba,ยาว,y
 mahal,แพง มีค่า,y
 mahirap,จน,y
@@ -96,6 +145,7 @@ marumi,สกปรก,y
 marunong,เก่ง,y
 masama,เลว,y
 masarap,อร่อย,y
+masayang,มีความสุข,y
 mataas,สูง,y
 mataba,อ้วน,y
 matalino,ฉลาด,y
@@ -116,6 +166,7 @@ ngiti,รอยยิ้ม,y
 nila,ของพวกเขา (หลังนาม),y
 ninyo,ของคุณ พหู/สุภาพ (หลังนาม),y
 niya,ของเขา siya (หลังนาม),y
+noong,ในช่วง,y
 paano,อย่างไร,y
 paaralan,โรงเรียน,y
 pagkain,อาหาร,y
@@ -126,12 +177,17 @@ payat,ผอม,y
 pera,เงิน,y
 pinaka,ที่สุด,y
 pito,เจ็ด,y
+pitumpu,เจ็ดสิบ,y
+pumunta,ไป (ยังสถานที่),y
 puno,ต้นไม้,y
 pusa,แมว,y
 radyo,วิทยุ,y
 rin,ก็ เช่นกัน (!n),y
+rito,ที่นี,y
 saan,ที่ไหน (เหตุการณ์),y
 sampu,สิบ,y
+sandaa&#x27;t sampu,หนึ่งร้อยสิบ,y
+sandaan,หนึ่งร้อย,y
 sapatos,รองเท้า,y
 sila,พวกเขา / เขา (สุภาพ),y
 silya,เก้าอี้,y
@@ -139,14 +195,26 @@ simbahan,โบสถ์,y
 sino,ใคร,y
 siya,เขา (๓),y
 siyam,เก้า,y
+siyamnapu,เก้าสิบ,y
+sumulat,เขียน (จดหมาย ข้อความ),y
 tahimik,เงียบ,y
 tamad,ขี้เกียจ,y
 tanghali,ตอนกลางวัน,y
 tao,คน,y
 tatlo,สาม,y
+tatlong daan,สามร้อย,y
+tatlumpu,สามสิบ,y
 tayo,ฉันและเธอ พวกเรา (รวมผู้ฟัง),y
 tubig,น้ำ,y
+tumugtog,เล่น (ดนตรี),y
 umaga,ตอนเช้า,y
+umalis,ออกจาก,y
+umawit,ร้องเพลง (!k),y
+uminom,ดื่ม,y
+umiyak,ร้องไห้,y
+umupo,นั่ง,y
 wala,ไม่มี,y
 walo,แปด,y
+walumpu,แปดสิบ,y
+wika,ภาษา,y
 yelo,น้ำแข็ง,y
