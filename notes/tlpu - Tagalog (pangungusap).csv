@@ -75,7 +75,7 @@
 เธอสุขภาพดี,Malusog ka.,~S
 พวกเขาเก่ง,Marurunong sila.,~S
 พวกเรา(-2)มีอาหาร,May pagkain kami.,VOS
-เธอมีหนังสือเล่มใหม่ไหม,Mayroon ka bang bagong aklat?,
+เธอมีหนังสือเล่มใหม่ไหม,Mayroon ka bang bagong aklat?,- VSO
 เธอมีอาหารไหม,Mayroon ka bang pagkain?,VSO
 พวกเรา(-2)มีหนังสือเล่มใหม่,Mayroon kaming bagong aklat.,VSO(a+n)
 ปีเตอร์กับมารีเป็นเด็ก,Mga bata sina Peter at Mary.,~S
@@ -91,7 +91,7 @@
 เปโดรเก่งไหม,Si Pedro ba ay marunong?,S~
 ปีเตอร์เป็นผู้ชาย,Si Peter ay lalaki.,S~
 รูธเป็นผู้หญิง,Si Ruth ay babae.,S~
-สมิธเขียน,Si Smith ay sumusulat.,SV
+สมิธเขียน(!m),Si Smith ay sumusulat.,SV
 พวกเขามีบ้านหลังสวยงาม,Sila ay may magandang bahay.,SVO(a+n)
 พวกเขาเรียนภาษาตากาล็อก,Sila ay nag-aaral ng Tagalog.,SVO
 เฮเลนและทอมนิสัยดี,Sina Helen at Tom ay mababait.,S~

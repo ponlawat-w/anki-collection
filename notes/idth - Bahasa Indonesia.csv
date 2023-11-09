@@ -12,6 +12,8 @@ berapa,เท่าไหร่ อย่างไร,y
 besar,ใหญ่,y
 bukan,ไม่ใช่,y
 buku,หนังสือ,y
+cokelat,ช็อกโกแลต,
+daging,เนื้อ,y
 dan,และ,y
 dapur,ห้องครัว,y
 dari,จาก,y
@@ -24,10 +26,15 @@ dua,สอง,y
 dua belas,สิบสอง,y
 dua puluh,ยี่สิบ,y
 empat,สี่,y
+enak,อร่อย,y
 enam,หก,y
+es,เย็น น้ำแข็ง,y
+garam,เกลือ,
 gaun,ชุดเดรส,y
 gedung,อาคาร,y
-goreng,ผัด,y
+goreng,ทอด ผัด,y
+gula,น้ำตาล,
+harga,ราคา,y
 hitam,สีดำ,y
 hotel,โรงแรม,y
 ia,เธอ (ญ) / เขา (๓ญ),y
@@ -37,15 +44,18 @@ jalan,เดินทาง ถนน,y
 jeruk,ส้ม,y
 jumpa,พบ เจอ,y
 jus,น้ำผลไม้,y
+kacang,ถั่ว,y
 kalian,พวกเธอ,y
 kami,พวกเรา (ไม่รวมผู้ฟัง),y
 kamu,เธอ,y
 kaya,รวย,y
+kecap,ซีอิ๊ว,y
 kita,ฉันและเธอ พวกเรา (รวมผู้ฟัง),y
 kopi,กาแฟ,y
 koran,หนังสือพิมพ์,y
 kuat,แข็งแรง,y
 kucing,แมว,y
+kue,ขนมเค้ก,y
 lagi,อีกครั้ง,y
 lima,ห้า,y
 maaf,ขอโทษ,y
@@ -53,23 +63,33 @@ makan,กิน,y
 makanan,อาหาร,y
 malam,ตอนกลางคืน,y
 mana,ที่ไหน,y
+manis,หวาน,y
+mantap,ยอดเยี่ยม สุดยอด,y
 mau,ต้องการ,y
 membaca,อ่าน,y
 menulis,เขียน,y
 merah,สีแดง,y
 mereka,พวกเขา,y
+merica,พริกไทย,y
+minta,ขอ,y
 minum,ดื่ม,y
+minuman,เครื่องดื่ม,y
 nama,ชื่อ,y
 nasi,ข้าว,y
 pagi,ตอนเช้า,y
+panas,ร้อน,y
 pasar,ตลาด,y
 permisi,ขออภัย โทษที,y
 pesan,สั่ง (อาหาร),y
+pisang,กล้วย,y
 punya,มี,y
 putih,สีขาว,y
 restoran,ร้านอาหาร,y
+roti,โรตี ขนมปัง,y
 rumah,บ้าน,y
+sambal,ซอสพริก,y
 sampai,จนถึง ถึง,y
+sarapan,อาหารเช้า,y
 satu,หนึ่ง,y
 saya,ฉัน (!a),y
 sebelas,สิบเอ็ด,y
@@ -87,12 +107,15 @@ suka,ชอบ,y
 sup,ซุป,y
 surat,จดหมาย,y
 susu,นม,y
+tahu,เต้าหู้,y
 tahun,ปี,y
 teh,ชา,y
+telur,ไข่,y
 tidak,ไม่,y
 tiga,สาม,y
 tinggal,อยู่ อยู่กับที่,y
 toilet,ห้องน้ำ,y
+tomat,มะเขือเทศ,
 tujuh,เจ็ด,y
 umur,อายุ,y
 ya,ใช่,y
