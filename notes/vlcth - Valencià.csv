@@ -50,6 +50,7 @@ valencià,tailandés,Add Reverse
 (f.) l'orella,หู,y
 (f.) l'oïda,การได้ยิน,y
 (f.) l'àlgebra,พีชคณิต,y
+(f.) l'ànima,จิตใจ,y
 (f.) l'àvia,ย่า ยาย (a),y
 (f.) la història,ประวัติศาสตร์,y
 (f.) la jugadora,นักเล่นกีฬาผู้หญิง (j),y
@@ -100,6 +101,7 @@ valencià,tailandés,Add Reverse
 (m.) l'escriptor,นักเขียนผู้ชาย,y
 (m.) l'escriptori,โต๊ะเขียนหนังสือ,y
 (m.) l'escritori,โต๊ะเขียนหนังสือ (ES: el escritorio),y
+(m.) l'esperit,วิญญาณ,y
 (m.) l'espill,กระจก (e),y
 (m.) l'esport,กีฬา,y
 (m.) l'espàrrec,หน่อไม้ฝรั่ง,y
@@ -370,6 +372,7 @@ el cos,ร่างกาย,y
 el cosí,ลูกพี่ลูกน้องผู้ชาย,y
 el cotxe,รถ,y
 el cranc,ปู,y
+el cristià,คริสตศาสนิกชน,y
 el crit,การตะโกน เสียงตะโกน เสียงร้อง,y
 el cuiner,คนทำอาหารผู้ชาย กุ๊กผู้ชาย,y
 el cunyat,พี่เขย น้องเขย,y
@@ -397,6 +400,7 @@ el dit senyalador,นิ้วชี้,y
 el diumenge,วันอาทิตย์,y
 el divendres,วันศุกร์,y
 el dormitori,ห้องนอน,y
+el déu,พระเจ้า,y
 el farmacèutic,เภสัชกร (ช),y
 el febrer,กุมภาพันธ์,y
 el fem,ขยะ,y
@@ -589,6 +593,7 @@ el rus,ภาษารัสเซีย / คนรัสเซีย (ช),y
 el sabater,ช่างรองเท้า,y
 el sabó,สบู่,y
 el sacerdot,พระ,y
+el sant,นักบุญ,y
 el secretari,เลขาผู้ชาย,y
 el segell,สแตมป์,y
 el segle,ช่วงเวลา ศตวรรษ,y
@@ -700,6 +705,7 @@ infringir,ละเมิด,y
 italiana,เกี่ยวกับอิตาลี (ญ),y
 japonesa,เกี่ยวกับญี่ปุ่น (ญ),y
 jove,อายุน้อย,y
+jueu,ที่เกี่ยวกับยิว,y
 l'alumne,นักเรียน (a),y
 l'estudiant,นักเรียน (e),y
 l'holandés,ภาษาดัตช์ / คนดัตช์ (ช),y
@@ -762,6 +768,7 @@ la contable,นักบัญชีผู้หญิง,y
 la conversa,บทสนทนา,y
 la cortina,ผ้าม่าน,y
 la cosina,ลูกพี่ลูกน้องผู้หญิง,y
+la creu,กางเขน กากบาท,y
 la creïlla,มันฝรั่ง (!p),y
 la cuina,ห้องครัว,y
 la cuinera,คนทำอาหารผู้หญิง กุ๊กผู้หญิง,y
@@ -770,6 +777,7 @@ la cullera,ช้อน,y
 la cunyada,พี่สะใภ้ น้องสะใภ้,y
 la cèl·lula,เซลล์,y
 la data,วันที่,y
+la deessa,พระเจ้า (ญ.),y
 la dentista,ทันตแพทย์ผู้หญิง,y
 la dependenta,ลูกจ้างผู้หญิง,y
 la desfilada,ขบวนพาเรด,y
@@ -781,6 +789,7 @@ la facultat,คณะ (ในมหาวิทยาลัย),y
 la fam,ความหิว,y
 la farmàcia,ร้านขายยา,y
 la fava,ถั่วฝัก ถั่วปากอ้า,y
+la fe,ความเชื่อ,y
 la feina,อาชีพ (f),y
 la fematera,คนเก็บขยะผู้หญิง,y
 la festa,งานเลี้ยง วันหยุด,y
@@ -1082,6 +1091,7 @@ recentment,เร็ว ๆ นี้ ช่วงหลัง ๆ นี้,y
 refredar-se,เป็นหวัด,y
 regatejar,ต่อรองราคา,y
 relaxar-se,พักผ่อน,y
+religiós,ที่เคร่งศาสนา,y
 renegar,สบถ,y
 rentar,แปรง ขัด (๒),y
 rentar-se les dents,แปรงฟัน,y
