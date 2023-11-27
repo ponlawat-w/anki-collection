@@ -253,8 +253,10 @@ darrere,ด้านหลัง,y
 davall,ด้านล่าง ด้านใต้ (d),y
 davant,ข้างหน้า,y
 de colp i volta,จู่ ๆ ก็ (๔),y
+de franc,ฟรี (!d),y
 de sopte,จู่ ๆ ก็ (๒),y
 de tant en tant,นาน ๆ ที (es: de vez en cuando),y
+debades,ฟรี (!f),y
 deficiós,ยม ไม่อยากทำอะไร,y
 demanar,ร้องขอ,y
 demà,พรุ่งนี้,y
@@ -497,6 +499,7 @@ el model,นายแบบ นางแบบ,y
 el monitor,ครูผู้ช่วย (ผู้ชาย),y
 el monyo,มวยผม,y
 el motiu,แรงผลักดัน,y
+el motxo,ไม้ถูพื้น,y
 el muntanyisme,การปีนเขา,y
 el muscle,หัวไหล่ (!e),y
 el museu,พิพิธภัณฑ์,y
@@ -661,6 +664,7 @@ entremeliat,ซน ดื้อ,y
 equivocar-se,ทำผิดพลาด,y
 escoltar,ฟัง,y
 escriure,เขียน,y
+escurar,ล้าง ทำความสะอาด (!n!r),y
 esmorzar,ทานอาหารเช้า (es: almorzar),y
 esquerrer,ถนัดซ้าย,y
 esquiar,เล่นสกี,y
@@ -1036,6 +1040,7 @@ no gaire,ไม่เยอะมาก,y
 nombrós,ที่มีจำนวนมาก,y
 només,แค่ เพียง,y
 noruega,เกี่ยวกับนอร์เวย์ (ญ),y
+nyas coca,โคะ ว้าว โห,y
 nàixer,เกิด,y
 oblidar,ลืม,y
 ofegar-se,จมน้ำ หายใจไม่ออก,y
@@ -1101,6 +1106,8 @@ riure,หัวเราะ,y
 roig,สีแดง (!v),y
 ros,(ผม) สีทอง บลอนด์,y
 rosa,สีชมพู,y
+roín,แย่ เลว (!d),y
+roïna,แย่ เลว (ญ!d),y
 russa,เกี่ยวกับรัสเซีย (ญ),y
 ràpid,เร็ว ไว,y
 saber,รู้,y
@@ -1162,5 +1169,6 @@ vèncer,ชนะ มีชัยเหนือ (!g),y
 xerraire,ช่างพูด,y
 xicotet,เล็ก (x),y
 xinesa,เกี่ยวกับจีน (ญ),y
+xopar-se,เปียกโชก,y
 Àfrica,ทวีปแอฟริกา,y
 Àsia,ทวีปเอเชีย,y

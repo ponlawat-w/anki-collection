@@ -6,6 +6,7 @@ aku,ฉัน (!s),y
 anda,คุณ,y
 apel,แอปเปิล,y
 ayam,ไก่,y
+bank,ธนาคาร,y
 banyak,มาก เยอะ,y
 bayar,จ่าย,y
 berapa,เท่าไหร่ อย่างไร,y
@@ -49,6 +50,7 @@ kalian,พวกเธอ,y
 kami,พวกเรา (ไม่รวมผู้ฟัง),y
 kamu,เธอ,y
 kaya,รวย,y
+ke,ไปยัง,y
 kecap,ซีอิ๊ว,y
 kita,ฉันและเธอ พวกเรา (รวมผู้ฟัง),y
 kopi,กาแฟ,y
@@ -79,9 +81,11 @@ nasi,ข้าว,y
 pagi,ตอนเช้า,y
 panas,ร้อน,y
 pasar,ตลาด,y
+pergi,ไป,y
 permisi,ขออภัย โทษที,y
 pesan,สั่ง (อาหาร),y
 pisang,กล้วย,y
+pulang,กลับบ้าน,y
 punya,มี,y
 putih,สีขาว,y
 restoran,ร้านอาหาร,y
@@ -89,6 +93,7 @@ roti,โรตี ขนมปัง,y
 rumah,บ้าน,y
 sambal,ซอสพริก,y
 sampai,จนถึง ถึง,y
+sana,ตรงโน้น,y
 sarapan,อาหารเช้า,y
 satu,หนึ่ง,y
 saya,ฉัน (!a),y
@@ -116,6 +121,7 @@ tidak,ไม่,y
 tiga,สาม,y
 tinggal,อยู่ อยู่กับที่,y
 toilet,ห้องน้ำ,y
+toko,ร้านค้า,y
 tomat,มะเขือเทศ,
 tujuh,เจ็ด,y
 umur,อายุ,y
