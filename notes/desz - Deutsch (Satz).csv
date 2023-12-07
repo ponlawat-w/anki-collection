@@ -429,7 +429,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันปิดประตู,Ich mache die Tür zu.,- Trennbare Verben
 ฉันชอบเดือนธันวาคม,Ich mag den Dezember.,
 ฉันชอบเขามาก　ดังนั้นฉันจึงอยากซื้อของขวัญที่ดี(สวยงาม)ให้กับเขา,Ich mag ihn sehr. Deshalb möchte ich ihm ein schönes Geschenk kaufen.,
-ฉันชอบผักทุกอย่างยกเว้นมะเขือเทศ,Ich mag jedes Gemüse außer Tomaten.,
+ฉันชอบผักทุก(!a)อย่างยกเว้นมะเขือเทศ,Ich mag jedes Gemüse außer Tomaten.,
 ฉันไม่ชอบหมวกเหล่านี้เลยสักใบ,Ich mag keinen dieser Hüte.,
 ผมต้องไปแล้วตอนนี้ มันสาย<u>แล้ว</u>,Ich muss jetzt gehen. Es ist schon spät.,
 ฉันต้องกลับบ้านแล้ว<u>ตอนนี้</u>,Ich muss jetzt nach Hause gehen.,"- ไป: g, ยัง: n"
@@ -608,7 +608,7 @@ Michael จ้องมองไปที่ผู้ชายคนนั้น
 หลังจากเขาวิ่ง(!l) เขาก็หลับ,"Nachdem er rennt, schläft er.",
 ไม่เป็นไร ขอบคุณ ฉันอิ่มแล้ว,"Nein, danke. Ich bin satt.",อิ่ม - s~
 ไม่ ขอบคุณ ฉันไม่ชอบดื่มไวน์ขาว ฉัน<u>ชอบ</u>ไวน์แดงมากกว่า,"Nein, danke. Ich trinke nicht gern Weißwein. Ich möchte lieber Rotwein.",
-- Kommst du später?<br>- ไม่ ไม่ได้ หลังจากนั้นฉัน(ต้อง)ทำการบ้าน(พหู),"Nein, das geht nicht. Später mache ich Hausaufgaben.",
+- Kommst du später?<br>- ไม่ ไม่ได้　เดี๋ยวฉันทำการบ้าน(พหู),"Nein, das geht nicht. Später mache ich Hausaufgaben.",
 - Gibt es hier ein Telefon?<br>- ไม่ ที่นี่ไม่มีเลย,"Nein, hier gibt es keins.",
 ไม่ เธอ(๓)ไม่อยู่(z)บ้าน　เธอไป(f→n)ฝรั่งเศส,"Nein, sie ist nicht zu Hause. Sie fährt nach Frankreich.",
 ไม่มีใครรู้(k)คำตอบ,Niemand kennt die Antwort.,
