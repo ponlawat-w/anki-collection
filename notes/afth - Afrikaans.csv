@@ -10,6 +10,7 @@ agt,แปด,y
 almal,ทุกคน,y
 appel,แอปเปิล,y
 asseblief,ได้โปรด,y
+bed,เตียง,y
 beer,หมี,y
 begin,เริ่ม,y
 beurt,ตา (เล่นเกม) ผลัดกัน,y
@@ -66,6 +67,7 @@ jy,เธอ,y
 kaas,ชีส,y
 kameel,อูฐ,y
 kameelperd,ยีราฟ,y
+kan,สามารถ,y
 kat,แมว,y
 kennis,ความรู้ การรู้จัก,y
 kleur,สี,y
@@ -98,7 +100,9 @@ nul,ศูนย์,y
 of,หรือ,y
 oggend,ตอนเช้า,y
 olifant,ช้าง,y
+om,เวลา ณ เวลา ตอน~โมง,y
 ons,พวกเรา,y
+oor,หู หลังจาก,y
 oranje,สีส้ม,y
 oud,แก่,y
 ouer,พ่อแม่,y
@@ -111,6 +115,7 @@ presies,ใช่เลย ความแม่นยำ,y
 pynappel,สับปะรด,y
 reis,เที่ยว,y
 rooi,สีแดง,y
+rustig,เงียบ สงบ,y
 rys,ข้าว,y
 saam,ด้วยกันกับ,y
 sal,จะ,y
@@ -124,9 +129,11 @@ studeer,เรียน,y
 suster,พี่สาว / น้องสาว,y
 swart,สีดำ,y
 sy,เขา (ญ),y
+sê,พูด,y
 tagtig,แปดสิบ,y
 tien,สิบ,y
 tier,เสือ,y
+toe,ไปยัง แล้ว แล้วก็,y
 trein,รถไฟ,y
 trekker,รถแทรกเตอร์,y
 twaalf,สิบสอง,y
@@ -134,6 +141,7 @@ twee,สอง,y
 twintig,ยี่สิบ,y
 u,คุณ (สุภาพ),y
 uitgang,ทางออก,y
+uur,ชั่วโมง,y
 vandag,วันนี้,y
 veertien,สิบสี่,y
 verlese,ล่าสุด (!l),y

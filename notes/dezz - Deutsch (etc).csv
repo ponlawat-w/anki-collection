@@ -55,7 +55,7 @@ ausgezeichnet,Adj.,ยอดเยี่ยม (a),y
 ausleeren,V.,ทำให้ว่างเปล่า เอาออก ขจัด,y
 ausmachen,[Trennbare] V.,ปิด (สวิตช์),y
 auspacken,V.,แกะของ เปิดกระเป๋า,y
-aussagen,V.,ประกาศ,y
+aussagen,V.,ประกาศ (!m),y
 ausschalten,V.,ปิดสวิตช์ (as),y
 aussehen,V.,ดูเหมือนกับว่า ดูสีท่า,y
 aussteigen,V.,ลง (จากยานพาหนะ),y
@@ -371,7 +371,7 @@ manch,Pron.,บ้าง บาง(อัน),
 manchmal,Adv.,บางครั้ง,y
 meinen,V.,หมายถึง (ref),y
 meistens,Adv.,ส่วนใหญ่,y
-melden,V.,แจ้ง ประกาศ รายงาน,y
+melden,V.,แจ้ง ประกาศ รายงาน (!as),y
 merken,V.,สังเกตเห็น,y
 mieten,V.,เช่า,y
 mindestens,Adv.,อย่างน้อย เป็นอย่างต่ำ,y

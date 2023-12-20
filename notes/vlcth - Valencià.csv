@@ -413,7 +413,7 @@ el fillastre,ลูกติดผู้ชาย,y
 el fillol,ลูกเลี้ยงผู้ชาย,y
 el foc,ไฟ (!แสง),y
 el foguer,เตา,y
-el fontaner,ช่างประปา (f),y
+el fontaner,ช่างประปา (!ll),y
 el formatge,ชีส,y
 el forn de pa,ร้านขนมปัง,y
 el forner,คนทำขนมปังผู้ชาย,y
@@ -460,7 +460,7 @@ el lavabo,ห้องน้ำ (ส้วม),y
 el lector,เครื่องอ่าน ตัวอ่าน,y
 el llac,ทะเลสาบ,y
 el llamp,ฟ้าผ่า,y
-el llanterner,ช่างประปาผู้ชาย,y
+el llanterner,ช่างประปาผู้ชาย (!f),y
 el llapis,ดินสอ,y
 el llavis,ริมฝีปาก,y
 el llençol,ผ้าปูเตียง,y
@@ -833,7 +833,7 @@ la informàtica,วิชาคอมพิวเตอร์,y
 la inversió,การลงทุน,y
 la llampada,ฟ้าแลบ,y
 la llanda,กระป๋อง,y
-la llanternera,ช่างประปาผู้หญิง,y
+la llanternera,ช่างประปาผู้หญิง (!f),y
 la llar,ที่อยู่อาศัย,y
 la llengua,ภาษา (ll),y
 la llentilla,ถั่วเลนทิล (es: lenteja),y

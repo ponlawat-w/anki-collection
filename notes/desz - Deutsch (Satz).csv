@@ -182,7 +182,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 แมวสีดำนั้นเงียบสงบ,Die schwarze Katze ist ruhig.,
 นี่(!das)คือธรรมชาติ,Dies ist Natur.,
 รถบัส(สาย)นี้ปกติแล้วคนจะแน่นมากเลยนะ,Dieser Bus ist normalerweise sehr voll.,
-เมืองนี้ทำให้ฉันนึกถึงบ้านเกิด,Dieses Dorf erinnert mich an meinen Geburtsort.<br>,
+เมืองนี้ทำให้ฉันนึกถึงสถานที่เกิด,Dieses Dorf erinnert mich an meinen Geburtsort.,
 หมาสามตัวตามแมวสี่ตัวจนถึงที่ประตู,Drei Hunde folgen vier Katzen bis zum Tor.,
 ตาเธอแล้ว,Du bist dran.,
 เธอเหมือนหนูตัวหนึ่งเลย,Du bist einer Maus ähnlich.,
@@ -307,7 +307,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 เธอเห็นไฟฉายของฉันไหม,Hast du meine Taschenlampe gesehen?,- perfekt
 เธอยังหิวอยู่ไหม / ไม่ฉันไม่หิวแล้ว,"Hast du noch Hunger? / Nein, ich habe keinen Hunger mehr.",
 เมื่อวันศุกร์พวกเธอมีงานเยอะกันไหมที่สำนักงาน,Hattet ihr am Freitag viele Arbeit im Büro?,- Präteritum
-คุณ Hansen (ช) ไม่อยู่ เขาจะกลับมาในอีก 3 วัน,Herr Hansen ist verreist. Er kommt in drei Tagen zurück.,
+คุณ Hansen (ช) ไม่อยู่　เขาจะกลับมาในอีก 3 วัน,Herr Hansen ist verreist. Er kommt in drei Tagen zurück.,
 วันนี้ตอนเย็นหรอ ไม่ได้ ตอนนั้นฉันจะไป(g)กับ Hans ที่มหาวิทยาลัย,Heute Abend? Das geht nicht. Da gehe ich mit Hans in die Universität.,
 วันนี้อนุญาตให้ลูก ๆ ของฉันดูทีวีได้,Heute dürfen meine Kinder fernsehen.,
 ที่นี่ห้ามสูบบุหรี่,Hier darf man nicht rauchen.,man
@@ -464,7 +464,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันเพลียมาก ๆ ก็เลยนอนอยู่แต่บนเตียง　แต่วันนี้แข็งแรงเหมือนเดิมแล้ว,Ich war so müde und blieb nur im Bett. Aber heute bin ich wieder gesund.,- Präteritum &amp; Präsent
 ฉันไม่รู้ เราน่า(m)จะถามใครสักคนนะ,Ich weiß nicht. Wir müssen jemanden fragen.,
 ฉันไม่รู้อะไรเลยเกี่ยวกับอดีตของเขา,Ich weiß nichts über seine Vergangenheit.,
-ฉันตื่นนอนแล้วก็อาบน้ำ หลังจากนั้นฉันก็ไปทานอาหารเช้าอย่างสงบ,Ich werde wach und dusche. Danach gehe ich in Ruhe frühstücken.,- ตื่นนอน: ww<br>- ไปทาน: verb + verb
+ฉันตื่นนอน(!as)แล้วก็อาบน้ำ　หลังจากนั้นฉันก็ไปทานอาหารเช้า(ก.)อย่างสงบ,Ich werde wach und dusche. Danach gehe ich in Ruhe frühstücken.,
 ฉันไม่อยากสูญเสียเธอไป,Ich will dich nicht verlieren.,
 ฉันไม่อยากกินยา<sub>(พหู)</sub>,Ich will keine Tabletten nehmen.,- ยา (t)<br>- อยาก (ปราถนา w)
 ฉันอาศัยอยู่ในเมือง(D)เล็ก ๆ แห่งหนึ่ง　ตอนวันเสาร์อาทิตย์<b><i><u>ที่นี่</u></i></b>ไม่มีอะไรทำเลย,Ich wohne in einem kleinen Dorf. Am Wochenende ist hier nichts los.,
@@ -884,7 +884,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 คุณช่วยอธิบายใบแจ้งหนี้หน่อยได้ไหม,Würden Sie mir bitte die Rechnung erklären?,- W~
 เธอพาฉันเที่ยวชมเมืองได้ไหม,Zeigst du mir die Stadt?,
 ตอนกลางวันฉันทานอาหารตอนบ่ายสองครึ่ง,Zu Mittag habe ich um halb drei gegessen.,perfekt / umgangsprachlich
-ก่อนอื่นฉันจะไป(f→i)ตุรกีแล้วก็จะบินไป(i)อเมริกา,Zuerst fahre ich in die Türkei und dann fliege ich in die USA.,
+ก่อนอื่นฉันจะไป(f→i)ตุรกีและก็จะบินไป(i)อเมริกา,Zuerst fahre ich in die Türkei und dann fliege ich in die USA.,
 ในที่สุดเขาก็กินอาหารเที่ยงของเขา,Zuletzt isst er sein Mittagessen.,
 โชคดีที่เรามีน้ำ,Zum Glück haben wir Wasser.,
 ใน(เวลา)ทุกวันนี้ป่ามีขนาดเล็กลง,Zur heutigen Zeit ist der Wald kleiner.,
