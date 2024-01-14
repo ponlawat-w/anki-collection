@@ -836,7 +836,7 @@ el hierro forjado,เหล็กอ่อน (เหล็กที่ใช้
 el higo,ลูกฟิก,y
 el hijastro,ลูกติดผู้ชาย,y
 el hito,จุดเปลี่ยน จุดหมายสำคัญ,y
-el hogar,ที่อยู่อาศัย,y
+el hogar,ที่อยู่อาศัย (!v),y
 el hojaldre,พาย,y
 el hombro,ไหล่,y
 el homenaje,การคารวะ การเคารพ ความเป็นเกียรติ,y
@@ -1258,7 +1258,7 @@ el tractorista,คนขับรถแทรกเตอร์,y
 el tragaluz,หน้าต่างรับแสง,y
 el traje,ชุดสูท,y
 el transepto,ส่วนปีกของอาคารโบสถ์ (แนวนอนของกางเขน),y
-el transeúnte,คนเดินถนน,y
+el transeúnte,คนเดินถนน (!v!p),y
 el tranvía,รถราง,y
 el trapecio,สี่เหลี่ยมคางหมู,y
 el trapo,ผ้าขี้ริ้ว(แห้ง),y
@@ -1957,6 +1957,7 @@ la oración,โฮมรูม การกล่าวปราศรัย,y
 la orilla del mar,ชายทะเล,y
 la oruga,หนอนผีเสื้อ,y
 la pacotilla,ขยะไร้ค่า,y
+la pajarita,โบว์หูกระต่าย,y
 la pajita,หลอดดูด,y
 la pala,จอบ,y
 la palabrería,คำพูด คุยโว,y
@@ -2048,6 +2049,7 @@ la raíz,ราก,y
 la rebelión,การก่อกบฎ,y
 la receta,สูตรอาหาร,y
 la recopilación,การเก็บ รวบรวม (en: collection),y
+la redada,การจับกุม,y
 la regla (de la mujer),เมน ประจำเดือน,
 la regla (papelería),ไม้บรรทัด,y
 la rejilla,ตะแกรง ลูกกรง,y
@@ -2151,6 +2153,7 @@ la viruela,ฝีดาษ,y
 la viscosidad,ความเหนียว ความหนืด,y
 la vitrina,ตู้โชว์ ตู้แช่ (กระจก) (เช่นที่ใส่เค้ก ขนมปัง),y
 la vitrocerámica,เตาไฟฟ้า (กระจกแก้ว / เหนี่ยวนำ),y
+la vivienda,ที่อยู่อาศัย (!h),Y
 la vocación,ความเป็นไปที่โชคชะตาฟ้ากำหนด อาชีพ,y
 la vuelta al mundo,การเดินทางรอบโลก,y
 la xilografía,ศิลปะการแกะสลักไม้,y
