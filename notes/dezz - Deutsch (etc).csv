@@ -153,6 +153,7 @@ einmal,Adv.,ครั้งหนึ่ง คราวหนึ่ง,y
 einschalten,V.,เปิด (สวิตช์) <b><i><u>(ไม่ใช่ machen)</u></i></b>,y
 einschlafen,V.,หลับ (ผลอยหลับ),y
 einschließlich,Präf.,รวมไปถึง รวม…ด้วย,y
+einsteigen,V.,ขึ้น(รถ/ยานพาหนะ),y
 eintreffen,V.,มาถึง (!k),y
 einverstanden sein,V.,เห็นด้วย (!d),y
 einzeln,Adj.,ที่เป็นเฉพาะคน ที่เป็นแต่ละส่วนตัว (en: individual),y
@@ -536,7 +537,7 @@ stark,Adj.,รุนแรง แข็งแรง (!k),y
 stecken,V.,เสียบ,y
 stehen,V.,ยืน,y
 stehlen,V.,ขโมย,y
-steigen,V.,ขึ้นไป เข้าไป ขึ้น(รถ),y
+steigen,V.,ขึ้น เพิ่มขึ้น,y
 stellen,V.,วาง เอาวาง (สิ่งของ) (!l),y
 sterben,V.,เสียชีวิต,y
 stets,Adv.,อย่างมั่นคงต่อเนื่อง เสมอ ๆ ไม่เปลี่ยนแปลง,y
@@ -691,7 +692,7 @@ zuhören,V.,ฟัง,y
 zuletzt,Ad.,มาเป็นอันดับสุดท้าย ท้ายสุด,y
 zum Beispiel,,ยกตัวอย่าง เช่น,y
 zumachen,[Trennbare] V.,ปิด (ไม่ใช่ไฟฟ้า),y
-zunehmen,V.,เพิ่มขึ้น ขยายขึ้น มากขึ้น,y
+zunehmen,V.,ขยายขึ้น มากขึ้น เพิ่มขึ้น,y
 zurufen,V.,เรียก,y
 zurück,Adv.,กลับ ย้อน,y
 zusammen,Adv.,ด้วยกัน (จ่ายรวม),y
