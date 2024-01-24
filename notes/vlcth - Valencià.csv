@@ -39,6 +39,7 @@ valencià,tailandés,Add Reverse
 (f.) l'esquina,หัวมุม (e),y
 (f.) l'estació,สถานีรถไฟ,y
 (f.) l'estona,ช่วงเวลาสั้น ๆ (es: rato),y
+(f.) l'estovalla,ผ้าปูโต๊ะ,y
 (f.) l'euga,ม้าตัวเมีย,y
 (f.) l'hostessa,แอร์โฮสเตส,y
 (f.) l'illa,เกาะ,y
@@ -76,11 +77,13 @@ valencià,tailandés,Add Reverse
 (m.) l'aniversari,วันเกิด,y
 (m.) l'any llum,ปีแสง,y
 (m.) l'aparell,อุปกรณ์,y
+(m.) l'apòsit,พลาสเตอร์ปิดแผล,y
 (m.) l'arc de Sant Martí,รุ้งกินน้ำ,y
 (m.) l'armari,ตู้เสื้อผ้า,y
 (m.) l'arqueòleg,นักโบราณคดี,y
 (m.) l'arquitect,สถาปนิก,y
 (m.) l'arròs,ข้าว,y
+(m.) l'artell,ข้อนิ้ว,y
 (m.) l'as,ลา (สัตว์ !r),y
 (m.) l'aspecte,มุมมอง รูปลักษณ์,y
 (m.) l'assecador,ไดร์เป่าผม,y
@@ -93,6 +96,7 @@ valencià,tailandés,Add Reverse
 (m.) l'embotit,อาหารตระกูลไส้กรอก,y
 (m.) l'empresari,พนักงานบริษัท,y
 (m.) l'encreuament,ทางแยก,y
+(m.) l'endemà,วันถัดไป,y
 (m.) l'enemic,ศัตรู,y
 (m.) l'enginyer,วิศวกร (ช),y
 (m.) l'equip,ทีม,y
@@ -165,6 +169,7 @@ Veneçuela,ประเทศเวเนซุเอลา,y
 Xina,ประเทศจีน,y
 a finals de ~,ช่วงปลายเดือน,y
 a la cantonada,ที่ตรงหัวมุม,y
+a les palpes /  a les palpentes,ด้วยการคลำ,y
 a mitjan ~,ช่วงกลางเดือน,y
 a principis de ~,ช่วงต้นเดือน ~,y
 a prop,ใกล้,y
@@ -190,6 +195,7 @@ alemanya,เกี่ยวกับเยอรมัน (ญ),y
 aleshores,ดังนั้น ตอนนั้น (es: entonces) (!ll),y
 alt,สูง,y
 alçar-se,ตื่น (ลุก) (a!~x),y
+amagar,ซ่อน,y
 amarg,ขม,y
 amoïnar,ทำให้กังวล,y
 ample,หลวม กว้าง,y
@@ -203,6 +209,7 @@ ara mateix,ณ ตอนนี้ บัดเดี๋ยวนี้,y
 arribar,ไปถึง (กริยา),y
 arrissat,(ผม) หยักศก,y
 arrossegar,กระชาก,y
+arrunsar,ย่อลง ทำให้หดลง,y
 assecar,ทำให้แห้ง,y
 assolellat,ที่โดนแดด,y
 aturar,จับกุม หยุด,y
@@ -240,6 +247,7 @@ cavalcar,ขี่ (c),y
 cercar,ค้นหา,y
 checa,เกี่ยวกับเช็ก (ญ),y
 clar,แน่นอน แน่ชัด,y
+clavar un colp,ต่อย,y
 colossal,มหึมา มหาศาล (c),y
 comptar,เล่า,y
 conèixer,รู้จัก,y
@@ -259,6 +267,8 @@ de sopte,จู่ ๆ ก็ (๒),y
 de tant en tant,นาน ๆ ที (es: de vez en cuando),y
 debades,ฟรี (!f),y
 deficiós,ยม ไม่อยากทำอะไร,y
+delir,ทำลาย,y
+delir-se per,ต้องการเป็นอย่างมาก อยากอย่างมาก,y
 demanar,ร้องขอ,y
 demà,พรุ่งนี้,y
 descovrir,ค้นพบ หาเจอ (!t),y
@@ -268,6 +278,7 @@ despertar-se,ตื่น (!ll),y
 destre,ถนัดขวา,y
 destruir,รื้อถอน ทำลาย (!t),y
 deu ser que,จะเป็นเพราะว่า (es: será que),y
+deure,ควร,y
 dibuixar,วาดรูป,y
 dinar,ทานอาหาร(กลางวัน) (es: comer),y
 dins,ด้านใน,y
@@ -299,6 +310,7 @@ el bomber,นักดับเพลิงผู้ชาย,y
 el borrador,ยางลบ,y
 el bosc,ป่า,y
 el bou,กระทิง,y
+el bram,เสียงร้องของลา,y
 el braç,แขน,y
 el bressol,เปล,y
 el bròquil,บร็อคโคลี,y
@@ -408,6 +420,7 @@ el farmacèutic,เภสัชกร (ช),y
 el febrer,กุมภาพันธ์,y
 el fem,ขยะ,y
 el femater,คนเก็บขยะผู้ชาย,y
+el ferro,เหล็ก,y
 el fetge,ตับ,y
 el fill,ลูกชาย,y
 el fillastre,ลูกติดผู้ชาย,y
@@ -425,6 +438,7 @@ el fred,ความหนาวเย็น,y
 el front,หน้าผาก,y
 el fruit,ผลไม้,y
 el full de paper,กระดาษจด ชีท,y
+el fullet,แผ่นพับ ใบปลิว,y
 el fum,ควัน,y
 el fuster,ช่างไม้ผู้ชาย,y
 el futboliste,นักฟุตบอลผู้ชาย,y
@@ -652,8 +666,10 @@ el yayo,ปู่ ตา (y),y
 els Estats Units,สหรัฐอเมริกา,y
 els apunts,การจดบันทึก,y
 els deures,การบ้าน,y
+els ferros (dentals),เหล็กดัดฟัน,y
 els palets,ตะเกียบ,y
 els pantalons,กางเกง,y
+empipar,ทำให้รำคาญ ทำให้ขึ่นเคืองใจ,y
 empényer,ผลัก,y
 endavant,ตรงไป มุ่งไปหน้า ด้านหน้า (es: adelante),y
 endreçat,ที่สะอาด รักความเป็นระเบียบ,y
@@ -907,6 +923,7 @@ la periodista,นักข่าวผู้หญิง,y
 la perseverança,การทำเป็นประจำ,y
 la perxa,ไม้แขวนเสื้อ,y
 la peça,ชิ้น,y
+la pilotada,ลูกบอล,y
 la pinta,หวี (คำนาม),y
 la pintora,นักวาดภาพผู้หญิง,y
 la pintura,ภาพวาด,y
@@ -958,6 +975,7 @@ la sogra,แม่ยาย,y
 la solitud,ความโสด ความเหงา,y
 la sorra,ทราย (!a),y
 la sort,โชค,y
+la suor,เหงื่อ,y
 la sèrie,ซีรีส์,y
 la síndria,แตงโม (กาตาลุญญา),y
 la sòn,ความง่วง,y
@@ -1058,6 +1076,7 @@ patir,ทรมาน,y
 pedregar,(ลูกเห็บ)ตก,y
 pel que fa a,ในส่วนของ… ทางด้านของ…,y
 pentinar-se,หวีผม (คำกริยา),y
+per acabar-ho d'adobar,ซ้ำร้าย ยื่งไปกว่านั้น แย่ไปกว่านั้น,y
 per descomptat,แน่นอน (es: por supuesto),y
 perillós,อันตราย (คำวิเศษณ์),y
 permetre,อนุญาต,y
@@ -1127,6 +1146,7 @@ somriure,ยิ้ม,y
 sopar,รับประทานอาหารเย็น,y
 sota,ด้านล่าง ด้านใต้ (s),y
 sovint,บ่อย ๆ,y
+suar,เหงื่อออก,y
 sueca,เกี่ยวกับสวีเดน (ญ),y
 sumar,บวก รวม,y
 tailandesa,เกี่ยวกับไทย (ญ),y
@@ -1171,6 +1191,7 @@ vèncer,ชนะ มีชัยเหนือ (!g),y
 xerraire,ช่างพูด,y
 xicotet,เล็ก (x),y
 xinesa,เกี่ยวกับจีน (ญ),y
+xiular,เป่านกหวีด,y
 xopar-se,เปียกโชก,y
 Àfrica,ทวีปแอฟริกา,y
 Àsia,ทวีปเอเชีย,y
