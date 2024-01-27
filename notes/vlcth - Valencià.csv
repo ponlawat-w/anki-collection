@@ -6,6 +6,7 @@ valencià,tailandés,Add Reverse
 (f.) l'adreça,ที่อยู่,y
 (f.) l'advocada,ทนายความผู้หญิง,y
 (f.) l'agricultora,เกษตรกรผู้หญิง,y
+(f.) l'agulla,เข็ม,y
 (f.) l'alcaldesa,นายกเทศมนตรีผู้หญิง,y
 (f.) l'alfàbrega,กะเพรา,y
 (f.) l'ambulància,รถพยาบาล,y
@@ -25,6 +26,7 @@ valencià,tailandés,Add Reverse
 (f.) l'encisam,ผักสลัด,y
 (f.) l'enginyera,วิศวกร (ญ),y
 (f.) l'enginyeria,วิศวกรรมศาสตร์,y
+(f.) l'enveja,ความอิจฉา,y
 (f.) l'escala,บันได,y
 (f.) l'escola,โรงเรียน (e),y
 (f.) l'escombra,ไม้กวาด (กาตาลุญญา),y
@@ -199,13 +201,16 @@ amagar,ซ่อน,y
 amarg,ขม,y
 amoïnar,ทำให้กังวล,y
 ample,หลวม กว้าง,y
+amunt i avall,ในทุก ๆ ทาง,y
 anar,ไป,y
 anar a comprar,ซื้อของ,y
 anar-s'en,จาก ออกจาก ไป (es: irse),y
 anglesa,เกี่ยวกับอังกฤษ (ญ),y
 antic,ที่โบราณ,y
 aprendre,เรียน (es: aprender),y
+aprofitar,ใช้ประโยชน์ (es: aprovechar),y
 ara mateix,ณ ตอนนี้ บัดเดี๋ยวนี้,y
+arquejar,ทำให้งอ,y
 arribar,ไปถึง (กริยา),y
 arrissat,(ผม) หยักศก,y
 arrossegar,กระชาก,y
@@ -214,6 +219,7 @@ assecar,ทำให้แห้ง,y
 assolellat,ที่โดนแดด,y
 aturar,จับกุม หยุด,y
 aviat,เร็ว (เช้า),y
+avorrir,ทำให้เบื่อ,y
 avorrit,เบื่อ,y
 baix,เตี้ย ต่ำ,y
 baixar,ลง,y
@@ -228,6 +234,7 @@ blanc,สีขาว,y
 blau,สีน้ำเงิน,y
 boig,บ้า,y
 bonic,สวย น่ารัก (es: bonito),y
+brodar,เย็บปัก,y
 brut,สกปรก,y
 bufar,เป่าลม พ่นลมหายใจ หอบ,y
 buit,ว่างเปล่า,y
@@ -414,7 +421,9 @@ el dit petit,นิ้วก้อย,y
 el dit senyalador,นิ้วชี้,y
 el diumenge,วันอาทิตย์,y
 el divendres,วันศุกร์,y
+el dofí,ปลาโลมา,y
 el dormitori,ห้องนอน,y
+el drap,ผ้า,y
 el déu,พระเจ้า,y
 el farmacèutic,เภสัชกร (ช),y
 el febrer,กุมภาพันธ์,y
@@ -588,6 +597,7 @@ el quadern,สมุด (q),y
 el quart,หนึ่งในสี่,y
 el quilòmetre,กิโลเมตร,y
 el rabosot,จิ้งจอก,y
+el racó,หลืบ มุม,y
 el raig,รังสี รัศมี,y
 el raspall,แปรง (คำนาม),y
 el ratolí,หนู เมาส์ (คอม),y
@@ -642,7 +652,7 @@ el terreny,ที่ดิน,y
 el torneig,ทัวร์นาเมนต์,y
 el tramvia,รถราง,y
 el treball,อาชีพ (t),y
-el trellat,เหตุผล,y
+el trellat,เหตุผล (ความเมกเซนส์),y
 el tren,รถไฟ,y
 el tro,ฟ้าร้อง,y
 el trànsit,การจราจร,y
@@ -679,6 +689,8 @@ ensucrat,ซึ่งใส่น้ำตาล,y
 entelar-se,ขึ้นฝ้า,y
 entremeliat,ซน ดื้อ,y
 equivocar-se,ทำผิดพลาด,y
+esclatar,ระเบิด บาน,y
+esclatar a riure,หัวเราะออกมาอย่างดัง,y
 escoltar,ฟัง,y
 escriure,เขียน,y
 escurar,ล้าง ทำความสะอาด (!n!r),y
@@ -692,6 +704,7 @@ estirar,ดึง,y
 estret,แคบ คับ,y
 estúpid,โง่,y
 esvelt,ผอมเพรียว สลิม,y
+etzibar,ต่อย ขว้าง เถียง,
 europeu,ที่เกี่ยวกับยุโรป,y
 fals,ที่เป็นความเท็จ,y
 famós,มีชื่อเสียง,y
@@ -769,6 +782,7 @@ la carpeta,แฟ้ม,y
 la cartera,พนักงานไปรษณีย์ผู้หญิง,y
 la carxofa,อาร์ติโชก,y
 la ceba,หัวหอม,y
+la cella,คิ้ว,y
 la cerimònia,พิธี งานเฉลิมฉลอง,y
 la chiqueta,เด็กผู้หญิง (c),y
 la científica,นักวิทยาศาสตร์ผู้หญิง,y
@@ -940,6 +954,7 @@ la política,นักการเมืองผู้หญิง,y
 la poma,แอปเปิล,y
 la pont,สะพาน,y
 la por,ความกลัว,y
+la porqueria,ความสกปรก ของไม่มีค่า,y
 la porta,ประตู,y
 la postal,โปสการ์ด,y
 la premsa,สื่อ ผู้สื่อข่าว,y
@@ -956,10 +971,12 @@ la pàtria,บ้านเกิด ภูมิลำเนา,y
 la pèrdua,การสูญเสีย,y
 la química,วิชาเคมี,y
 la rasqueta,คราด,y
+la raó,เหตุผล (ความคิด ความสัมพันธ์),y
 la remolatxa,บีตรูต,y
 la rentadora,เครื่องซักผ้า,y
 la resposta,คำตอบ,y
 la reunió,การรวมตัว การประชุม,y
+la rialla,การหัวเราะ,y
 la roba,เสื้อผ้า,y
 la roda,ล้อรถ,y
 la rosada,เหมย,y
@@ -1037,6 +1054,7 @@ mai,ไม่เลย ไม่เคย,y
 malalt,ป่วย,y
 malgrat això,แม้อย่างนั้น,y
 mandrós,ขี้เกียจ,y
+maravellar,ทำให้อัศจรรย์ (es: maravillar),y
 marró,สีน้ำตาล,y
 massa,มากเกินไป / เกินไป,y
 mentider,ชอบโกหก,y
@@ -1111,6 +1129,7 @@ queixar-se,บ่น,y
 qui,ใคร,y
 rai,ไม่สำคัญ ดีแล้ว พอแล้ว ไม่มีปัญหา,y
 raspallar,แปรง ถู (๓),y
+reballar,เขวี้ยง ขว้าง,y
 rebre,รับ ได้รับ,y
 rebutjar,ปฏิเสธ,y
 recentment,เร็ว ๆ นี้ ช่วงหลัง ๆ นี้,y
@@ -1140,6 +1159,7 @@ senyora,คุณนายผู้หญิง,y
 senyoreta,คุณผู้หญิง(สาว),y
 ser,เป็น คือ,y
 seriós,ที่จริงจัง,y
+seure,นั่ง,y
 sincer,จริงใจ,y
 sobre,เหนือ ด้านบน (s),y
 somriure,ยิ้ม,y
