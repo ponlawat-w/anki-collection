@@ -50,7 +50,7 @@ aufstehen,V.,ตื่นนอน (ลุกจากที่นอน),y
 aufwachen,V.,ตื่น (รู้สึกตัว) (a),y
 aufwarten,V.,รอคอย(บางอย่าง) (+กรรม),y
 aus sein,V.,ปิดอยู่ (สวิตช์),y
-ausgeben,V.,ใช้จ่าย,y
+ausgeben,V.,ใช้จ่าย จับจ่ายใช้สอย (!จ่ายเงิน),y
 ausgezeichnet,Adj.,ยอดเยี่ยม (a),y
 ausleeren,V.,ทำให้ว่างเปล่า เอาออก ขจัด,y
 ausmachen,[Trennbare] V.,ปิด (สวิตช์),y
@@ -318,6 +318,7 @@ kalt,Adj.,หนาว,y
 kaputt,Adj.,พัง ชำรุด,y
 kaufen,V.,ซื้อ,y
 kaum,Adv.,แทบจะไม่,y
+keinerlei,Pron.,ไม่~เลยแม้แต่อันเดียว,y
 kennen,V.,รู้ รู้จัก,y
 kennenlernen,V.,รู้จัก,y
 klar,Adj.,แน่นอน ชัดเจน,y
@@ -371,6 +372,7 @@ malen,V.,วาดรูประบายสี,y
 manch,Pron.,บ้าง บาง(อัน),
 manchmal,Adv.,บางครั้ง,y
 meinen,V.,หมายถึง (ref),y
+meist,Adv.,ส่วนใหญ่ ส่วนมากของ~,y
 meistens,Adv.,ส่วนใหญ่,y
 melden,V.,แจ้ง ประกาศ รายงาน (!as),y
 merken,V.,สังเกตเห็น,y
@@ -678,6 +680,7 @@ während,Konj.,ในขณะที่ ระหว่างที่ (w) (+Gen
 wünschen,V.,ปรารถนา อวยพร,y
 würdig,Adj.,ทรงคุณค่า (en: worthy),y
 zahlen,V.,จ่าย (!be),y
+zahlreich,Adj.,จำนวนมาก,y
 zeichnen,V.,วาดรูป (!m),y
 zeigen,V.,แสดงให้เห็น,y
 ziemlich,Adj.,ค่อนข้าง,y

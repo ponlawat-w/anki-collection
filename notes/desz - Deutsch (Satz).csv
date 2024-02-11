@@ -183,7 +183,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 แมวสีดำนั้นเงียบสงบ,Die schwarze Katze ist ruhig.,
 นี่(!das)คือธรรมชาติ,Dies ist Natur.,
 รถบัส(สาย)นี้ปกติแล้วคนจะแน่นมากเลยนะ,Dieser Bus ist normalerweise sehr voll.,
-เมืองนี้ทำให้ฉันนึกถึงสถานที่เกิด,Dieses Dorf erinnert mich an meinen Geburtsort.,
+เมือง(!S)นี้ทำให้ฉันนึกถึงสถานที่เกิด,Dieses Dorf erinnert mich an meinen Geburtsort.,
 หมาสามตัวตามแมวสี่ตัวจนถึงที่ประตู,Drei Hunde folgen vier Katzen bis zum Tor.,
 ตาเธอแล้ว,Du bist dran.,
 เธอเหมือนหนูตัวหนึ่งเลย,Du bist einer Maus ähnlich.,
@@ -219,6 +219,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เขาเรียน(!s)ภาษาอังกฤษและสเปนมาจากในโรงเรียน,Er hat in der Schule Englisch und Spanisch gelernt.,- Perfekt
 เขาไม่มีเวลา,Er hat keine Zeit.,er
 เขาไม่ได้เลี้ยงสุนัข แต่เลี้ยงแมวต่างหาก,"Er hat keinen Hund, sondern eine Katze.",
+เขาไม่มีเพื่อนเลยแม้แต่คนเดียว,Er hat keinerlei Freunde.,
 เขา(ช)มีความสัมพันธ์(ความเชื่อมโยง)บางอย่างกับเพื่อน ๆ ของเธอ(๓)(พหู),Er hat manche Verbindungen zu ihren Freunden.,
 เขาเคยเล่าเรื่องเขา(คนนั้น)กับฉัน แต่แทบจะไม่บ่อยเลย,"Er hat mir von ihm erzählt, aber ganz selten.",- Perfekt
 เขา(ช)คุยโทรศัพท์กับเธอ(ญ),Er hat mit ihr telefoniert.,- perfekt<br>- โทรศัพท์: t
@@ -255,7 +256,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เขาพูดเร็วเกินไป,Er spricht zu schnell.,
 เขาหาเพลงจากในโทรศัพท์,Er sucht das Lied auf dem Handy.,
 เขาเข้าใจ　Ana มีหลายอย่างต้องทำ(t),Er versteht. Ana hat viel zu tun.,
-เมื่อกี้เขาคุยโทรศัพท์แปปนึง โทรคุยกับ Pameda,Er war kurz am Telefon. Er hat Pameda angerufen.,- präteritum. perfekt<br>- โทรคุย: ar
+เมื่อกี้เขาคุยโทรศัพท์แปปนึง　โทรคุยกับ Pameda,Er war kurz am Telefon. Er hat Pameda angerufen.,- präteritum. perfekt<br>- โทรคุย: ar
 เขาไม่รู้ว่าฉันรู้จัก Michael และว่าเขาเป็นเพื่อนของฉัน,"Er weiß nicht, dass ich Michael kenne und dass er mein Freund ist.",
 เขา (er) ตั้งใจจะไปเรียนที่ประเทศเยอรมนี,Er will in Deutschland studieren.,
 เขาแสดงให้ดูว่าไข่เอาไปทำอาหารอย่างไร,Er zeigt wie man Eier kocht.,
@@ -265,6 +266,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 ฉันชอบมัน(ก)มากกว่า,Es gefällt mir besser.,- ทำให้ชอบ
 มีสุนัขอยู่หนึ่งตัวในบ้านหลังนี้,Es gibt einen Hund in diesem Haus.,
 มีดอกไม้สวย ๆ อยู่ในสวน,Es gibt schöne Blumen im Garten.,
+มีกลุ่มเป็นจำนวนมาก(!v),Es gibt zahlreiche Gruppen.,
 มันเป็นคืน(!N)สุดท้ายของเธอ,Es ist dein letzter Abend.,
 มัน(ก)อยู่ตรงแม่น้ำไรน์พอดีเลย,Es ist direkt am Rhein.,
 มันคือสวนที่ไม่มีดอกไม้,Es ist ein Garten ohne Blumen.,
@@ -353,7 +355,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันต้องการชุดเดรสกลางคืนสำหรับงานแต่งงานของเพื่อน(ญ)ฉัน,Ich brauche ein Abendkleid für die Hochzeit von meiner Freundin.,
 ฉันเอาจานชามมาใส่เครื่องล้างจาน,Ich bringe das Geschirr in die Spülmaschine.,
 ฉันขอขอบคุณพวกเธอมาก,Ich danke euch sehr.,
-ฉันกดออดแต่ก็ไม่มีใครมาเปิดให้,"Ich drücke auf die Klingel, aber keiner macht auf.",
+ฉันกดออด แต่ก็ไม่มีใครมาเปิดให้,"Ich drücke auf die Klingel, aber keiner macht auf.",
 ฉันจะเล่าเรื่องสั้น ๆ ให้เธอฟัง,Ich erzähle dir eine kleine Geschichte.,
 ฉันไม่กินอะไรเลยตอนเย็น ส่วนเขากินแค่ของจุกจิกเล็กน้อย,Ich esse abends nichts und er isst nur eine Kleinigkeit.,
 ฉันชอบกินไส้กรอกกับพิซซ่า,Ich esse gern Wurst und Pizza.,
@@ -442,7 +444,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันต้องไป(f/z)มหาวิทยาลัยก่อน,Ich muss zuerst zur Universität fahren.,
 ฉันไม่เคยต้องช่วยงานบ้านและสามารถกินไอติมมากเท่าไหร่ก็ได้,"Ich musste nie im Haushalt helfen und durfte so viel Eis essen, wie ich wollte.",Präteritum
 ฉันอยากจะรู้จักคุณมานาน<u>แล้ว</u>,Ich möchte Sie schon lange kennenlernen.,Sie
-ฉันก็อยากไปกินซูชิกับพวกเธอ,Ich möchte auch mit euch Sushi essen.,ihr
+ฉันก็อยากกินซูชิกับพวกเธอ,Ich möchte auch mit euch Sushi essen.,
 ฉันขอไส้กรอกแกงกะหรี่หนึ่งกับน้ำแร่หนึ่ง,Ich möchte bitte eine Currywurst und ein Mineralwasser.,bitte
 ฉันอยากไปร้านอาหารมากกว่า,Ich möchte lieber ins Restaurant gehen.,
 ฉันอยากไปโรงภาพยนตร์<b><i><u>วันพรุ่งนี้</u></i></b> เพราะว่ามีหนังที่ดี(g)เรื่องหนึ่งกำลังฉายอยู่,"Ich möchte morgen ins Kino gehen, denn da läuft ein guter Film.",- เพราะว่า: denn
@@ -504,7 +506,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ปลามีค่ามากกว่าทองคำหรือไม่,Ist der Fisch mehr wert als Gold?,
 มีหมอในพวกเราไหม,Ist ein Arzt unter uns?,
 เขาพอใจกับชีวิตประจำวันของเขาหรือไม่,Ist er mit seinem Alltag zufrieden?,
-มัน(ช)อยู่ใต้โต๊ะหรือเปล่า หรือว่ามันอยู่หลังโซฟา,Ist er unter dem Tisch? Oder ist er hinter dem Sofa?,
+มัน(ช)อยู่ใต้โต๊ะหรือเปล่า　หรือว่ามันอยู่หลังโซฟา,Ist er unter dem Tisch? Oder ist er hinter dem Sofa?,
 มีอะไรไม่ดีเกิดขึ้นหรอ,Ist etwas Schkimmes passiert?,- perfekt
 ยังมีน้ำตาลเหลือไหม,Ist noch Zucker da?,
 มัน(ญ)อยู่ในกระเป๋าถือหรือเปล่า หรือว่าในกระเป๋าเป้,Ist sie in der Handtasche? Oder im Rucksack?,
@@ -734,6 +736,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เราสบตากัน,Unsere Augen treffen sich.,
 หนังสือ<sub>(พหู)</sub>ของพวกเราอยู่บนโต๊ะ,Unsere Bücher sind auf dem Tisch.,
 เพื่อน ๆ ของพวกเราอยาก(w)ไป(g)โรงละครกับเราวันนี้,Unsere Freunde wollen heute mit uns ins Theater gehen.,
+ทีมเรามีสมาชิกเป็นจำนวนมาก(!v),Unsere Mannschaft hat zahlreiche Mitglieder.,
 วันนี้เป็นวันเกิดคุณยายของพวกเรา เธออายุ 80 ปี เราจะฉลองวันเกิดให้คุณยายจากใจ,"Unsere Oma hat heute Geburtstag, sie ist achtzig Jahre alt. Wir gratulieren unserer Oma herzlich zum Geburtstag.",
 "ด้านล่างของ<b style=""text-decoration-line: underline; font-style: italic;"">เท้า</b>(พหู)ของเธอ(๓)คือหญ้าสีเขียว",Unter ihren Füßen ist grünes Gras.,- ขึ้นประโยคด้วยบุพบท
 อย่าลืมซักผ้านะ,Vergiss bitte die Wäsche nicht!,"- du, bitte!<br>- การซักผ้า (คำนาม)"

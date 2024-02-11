@@ -574,6 +574,7 @@ el carterista,นักล้วงกระเป๋า,y
 el cartucho,ปลอกกระสุนปืน,y
 el cartílago,กระดูกอ่อน,y
 el cartón,กระดาษลัง,y
+el carámbano,แท่งน้ำแข็ง,y
 el casco antiguo,ย่านเมืองเก่า,y
 el cascote,เศษหินเศษปูน,y
 el casero,เจ้าบ้าน นายหน้า,y
@@ -1333,6 +1334,7 @@ empañarse,เป็นฝ้า ขึ้นฝ้า,y
 empinado,ชัน,y
 emprender,เริ่ม (ธุรกิจ),y
 en cuanto,ทันทีที่,y
+en plan,ราวกับ เหมือน ในฐานะ (!c),y
 en vilo,หยุด เฝ้าคอยอย่างใจจดใจจอ ในสภาวะลุ้น การชะงัก,
 encajar,เข้าได้พอดี เสียบลงพอดี,y
 encargarse,รับผิดชอบ ทำหน้าที่ (en: handle),y
@@ -1914,6 +1916,7 @@ la meta,เส้นชัย,y
 la metalurgia,การแยกโลหะออกจากแร่ โลหวิทยา,y
 la meteorología,อุตุนิยมวิทยา,y
 la metodología,วิธีการ ขั้นตอน (en: methodology),y
+la metralleta,ปืนกลมือ,y
 la mezquita,มัสยิด,y
 la milésima,หนึ่งในพัน,y
 la mina,เหมืองแร่,y
@@ -2370,6 +2373,7 @@ recalcar,เน้นเสียง เน้นย้ำ,y
 rechinar,ทำเสียงเอี๊ยด,y
 recortar,ครอป,y
 recrudecer,ทำให้แย่ลง,
+recóndito,ที่ห่างไกล ที่ซ่อนเร้น,y
 redactar,เขียน (เป็นย่อหน้า เรียงความ),y
 redondo,กลม,y
 reencarnar,เกิดใหม่ กลับชาติมาเกิด,y
@@ -2491,7 +2495,7 @@ tener mucho morro,หน้าด้าน (สำนวน),y
 tener pájaros en la cabeza,เพ้อฝัน (สำนวน),y
 tener su foco en ~,ถือกำเนิดใน~,y
 terráqueo,ที่เกี่ยวกับโลก (!m),y
-tibio,อุ่น ไม่ร้อน,y
+tibio,ไม่ร้อน อุ่น อุณหภูมิห้อง,y
 tieso,แข็งทื่อ,y
 tirarse un pedo,(กริยา) ผายลม,y
 tiritar,สั่น ตัวสั่น (!c),y
