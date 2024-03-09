@@ -80,7 +80,7 @@ valencià,tailandés,Add Reverse
 (m.) l'aniversari,วันเกิด,y
 (m.) l'any llum,ปีแสง,y
 (m.) l'aparell,อุปกรณ์,y
-(m.) l'apòsit,พลาสเตอร์ปิดแผล,y
+(m.) l'apòsit,ผ้าปิดแผล,y
 (m.) l'arc de Sant Martí,รุ้งกินน้ำ,y
 (m.) l'armari,ตู้เสื้อผ้า,y
 (m.) l'arqueòleg,นักโบราณคดี,y
@@ -297,7 +297,7 @@ destre,ถนัดขวา,y
 destruir,รื้อถอน ทำลาย (!t),y
 deu ser que,จะเป็นเพราะว่า (es: será que),y
 deure,ควร,y
-devorar,ทุ่มแท ทำด้วยความตั้งใจ,y
+devorar,ทุ่มเท ทำด้วยความตั้งใจ,y
 dibuixar,วาดรูป,y
 dinar,ทานอาหาร(กลางวัน) (es: comer),y
 dins,ด้านใน,y
@@ -576,6 +576,7 @@ el pastís,ขนมเค้ก,y
 el patí,ชานบ้าน,y
 el peatge,ด่านเก็บค่าทางด่วน,y
 el pegament,กาว,y
+el pegat,พลาสเตอร์ปิดแผล,y
 el peix,ปลา,y
 el peluquer,ช่างตัดผมผู้ชาย,y
 el percentatge,เปอร์เซ็นต์ ร้อยละ,y
@@ -591,6 +592,7 @@ el pintor,นักวาดภาพผู้ชาย,y
 el pinzell,พู่กัน,y
 el pis,แฟลต อพาร์ตเมนต์ (es: piso),y
 el pit,อก หน้าอก,y
+el pitet,ผ้ากันเปื้อนสำหรับรับประทานอาหาร,y
 el plaer,ความปิติยินดี ความเพลิดเพลิน (es: el placer),y
 el plat,จาน,y
 el plugim,ฝนอ่อย,y
@@ -872,7 +874,7 @@ la flaire,กลิ่นหอม,y
 la flauta,ขลุ่ย,y
 la font,น้ำพุ,y
 la fornera,คนทำขนมปังผู้หญิง,y
-la forqueta,ส้อม,y
+la forquilla,ส้อม,y
 la fotocòpia,การถ่ายเอกสาร,y
 la fotògrafa,ช่างถ่ายรูปผู้หญิง,y
 la frase,ประโยค,y
@@ -1209,7 +1211,7 @@ somriure,ยิ้ม,y
 sopar,รับประทานอาหารเย็น,y
 sota,ด้านล่าง ด้านใต้ (s),y
 sovint,บ่อย ๆ,y
-suar,เหงื่อออก,y
+suar,เหงื่อออก (กริยา),y
 sucar,ถู,y
 sueca,เกี่ยวกับสวีเดน (ญ),y
 sumar,บวก รวม,y

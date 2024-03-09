@@ -253,6 +253,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เขานั่งอยู่ในห้องนั่งเล่น,Er sitzt im Wohnzimmer.,
 เขาพูดไม่ช้า,Er spricht nicht langsam.,
 เขาพูดเร็วพอ ๆ กันกับ Franka,Er spricht so schnell wie Franka.,
+เขาพูดทั้งภาษาอังกฤษและฝรั่งเศสทั้งคู่,Er spricht sowohl Englisch als auch Französisch.,
 เขาพูดเร็วเกินไป,Er spricht zu schnell.,
 เขาหาเพลงจากในโทรศัพท์,Er sucht das Lied auf dem Handy.,
 เขาเข้าใจ　Ana มีหลายอย่างต้องทำ(t),Er versteht. Ana hat viel zu tun.,
@@ -305,6 +306,7 @@ Franka แก่ที่สุด,Franka ist am ältesten.,
 คุณ(Sie)มีเอกสารอยู่กับตัวหรือไม่,Haben Sie die Dokumente dabei?,
 พวกเธอได้อ่านหนังสือพิมพ์กัน<b><u><i>แล้ว</i></u></b>หรือยัง,Habt ihr schon die Zeitung gelesen?,- Perfekt
 Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
+คุณได้ตรวจสอบสิ่งนี้ก่อนหรือยัง,Hast du das vorher geprüft?,
 เธอมียา/วิธีแก้ปวดหัวไหม,Hast du ein Medikament gegen Kopfschmerzen?,
 เธอมีเวลาตอน<u>ประมาณ</u>บ่ายสองโมงไหม,Hast du gegen vierzehn Uhr Zeit?,du / offiziell
 มีแผนทำอะไรวันนี้ช่วงบ่าย<u>แล้ว</u>หรือยัง,Hast du heute Nachmittag schon was vor?,du
@@ -437,6 +439,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันชอบเขามาก　ดังนั้นฉันจึงอยากซื้อของขวัญที่ดี(สวยงาม)ให้กับเขา,Ich mag ihn sehr. Deshalb möchte ich ihm ein schönes Geschenk kaufen.,
 ฉันชอบผักทุก(!a)อย่างยกเว้นมะเขือเทศ,Ich mag jedes Gemüse außer Tomaten.,
 ฉันไม่ชอบหมวกเหล่านี้เลยสักใบ,Ich mag keinen dieser Hüte.,
+ฉันชอบแมว(พหู)กับหมา(พหู)ทั้งคู่,Ich mag sowohl Katzen als auch Hunde.,
 ผมต้องไปแล้วตอนนี้ มันสาย<u>แล้ว</u>,Ich muss jetzt gehen. Es ist schon spät.,
 ฉันต้องกลับบ้านแล้ว<u>ตอนนี้</u>,Ich muss jetzt nach Hause gehen.,"- ไป: g, ยัง: n"
 ฉันต้องไปซ่อนตัว,Ich muss mich verstecken.,
@@ -536,7 +539,7 @@ Julia เรียกฉันจากที่<b><u>หน้า</u></b>ปร
 เขามาจากฝรั่งเศสใช่ไหม,Kommt er aus Frankreich?,er
 เมืองเคิล์นตั้งอยู่ริมแม่น้ำไรน์,Köln liegt am Rhein.,
 คุณช่วยนำทางไปสถานีรถไฟให้ผมหน่อย<b><u><i>ได้</i></u></b>ไหมครับ,Können Sie mir den Weg zum Bahnhof zeigen?,- Sie / Präsens
-คุณช่วยแนะนำ(อะไร)ให้ฉันหน่อยได้ไหม,Können Sie mir welche empfehlen?,Sie
+คุณช่วยแนะนำ(อะไร!e)ให้ฉันหน่อยได้ไหม,Können Sie mir welche empfehlen?,Sie
 คุณอ่านไม่ออกหรือ　ที่นี่ห้ามจอด　แต่ตรงนู้นจอดได้,Können Sie nicht lesen? Hier ist Parken verboten. Aber da kann man parken.,- Sie
 คุณช่วยบอก(s)ทางไปสถานีรถไฟหน่อยได้ไหม,Könnten Sie mir bitte den Weg zum Bahnhof sagen?,- Kt~
 อย่ามายุ่งกับฉันเลย,Lass mich in Ruhe.,- ปล่อยฉันอยู่อย่างสงบ ๆ
@@ -811,6 +814,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 ที่เคิล์นเป็นไงบ้าง,Wie läuft es in Köln?,
 ช่างน่าอายเสียจริง　ฉันไม่ควรจะหัวเราะออกไปดังขนาดนั้น แต่มันน่าตลกอย่างบอกไม่ถูก,"Wie peinlich. Ich hätte nicht so laut lachen sollen, aber es ist irgendwie lustig.",
 ฉันดูเป็นอย่างไรบ้าง,Wie sehe ich aus?,
+เราควรสำรองที่ล่วงหน้า,Wie sollen vorher reservieren.,
 ตอนนี้กี่โมงแล้ว,Wie spät ist es?,spät
 กี่โมงแล้ว,Wie viel Uhr ist es?,Uhr
 เขามีกระเป๋ากี่ใบ,Wie viele Taschen hat er?,

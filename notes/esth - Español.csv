@@ -1924,7 +1924,7 @@ la meta,เส้นชัย,y
 la metalurgia,การแยกโลหะออกจากแร่ โลหวิทยา,y
 la meteorología,อุตุนิยมวิทยา,y
 la metodología,วิธีการ ขั้นตอน (en: methodology),y
-la metralleta,ปืนกลมือ,y
+la metralleta,ปืนกลมือ (!s),y
 la mezquita,มัสยิด,y
 la milésima,หนึ่งในพัน,y
 la mina,เหมืองแร่,y
@@ -2022,6 +2022,7 @@ la pierna,ขา,y
 la pimienta,พริกไทย,y
 la pintura al óleo,ภาพวาดสีน้ำมัน,y
 la pinza,กิ๊บหนีบ,y
+la pinza de depilar,แหนบ,y
 la pipa,ไปป์,y
 la piratería,การคัดลอกซอฟต์แวร์แบบละเมิดลิขสิทธิ์,y
 la pitahaya,แก้วมังกร,y
@@ -2109,7 +2110,7 @@ la soberanía,อำนาจอธิปไตย,y
 la sobrina,หลานสาวของลุงป้าน้าอา,y
 la sombra,เงา,y
 la subasta,การประมูล,y
-la subfusil,ปืนกลมือ,y
+la subfusil,ปืนกลมือ (!m),y
 la sucursal,สาขา สำนักงานสาขา,y
 la suegra,แม่ยาย,y
 la superstición,ความเชื่อเหนือธรรมชาติ ผีสาง,y
@@ -2233,7 +2234,7 @@ manchego,คำคุณศัพท์ของ La Mancha,y
 manejar,"จัดการ รับมือ (en: handle, operate)",y
 maniatar,มัดมือ,y
 manosear,จับ คว้า คลำ,
-martillar,ตอก (ตะปู),y
+martillar,ตอก (ตะปู) ด้วยค้อน,y
 masticar,เคี้ยว,y
 matar moscas a cañonazos,ขี่ช้างจับตั๊กแตน,y
 materno,ที่เกี่ยวกับแม่,y
@@ -2425,6 +2426,7 @@ reír a carcajadas,หัวเราะที่เสียงดัง (reír
 reñir,เถียง ดุด่า,y
 rimar,คล้องจอง,y
 rizado,(ผม)หยักศก,y
+rociar,ฉีดสเปรย์,y
 roer,แทะ,y
 rogar,ร้องขอ (!p),y
 rojizo,สีแดง,

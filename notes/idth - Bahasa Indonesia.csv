@@ -40,6 +40,7 @@ harga,ราคา,y
 hitam,สีดำ,y
 hotel,โรงแรม,y
 ia,เธอ (ญ) / เขา (๓ญ),y
+ingat,จำ,y
 ini,นี้,y
 itu,~นั้น,y
 jalan,เดินทาง ถนน,y
@@ -64,6 +65,7 @@ kucing,แมว,y
 kue,ขนมเค้ก,y
 lagi,อีกครั้ง,y
 lima,ห้า,y
+lupa,ลืม,y
 maaf,ขอโทษ,y
 makan,กิน,y
 makanan,อาหาร,y
@@ -120,11 +122,13 @@ suka,ชอบ,y
 sup,ซุป,y
 surat,จดหมาย,y
 susu,นม,y
-tahu,เต้าหู้,y
+tahu,เต้าหู้ (n.),y
+tahu (v.),รู้,y
 tahun,ปี,y
 teh,ชา,y
 telur,ไข่,y
 tidak,ไม่,y
+tidur,นอนหลับ,y
 tiga,สาม,y
 tinggal,อยู่ อยู่กับที่,y
 toilet,ห้องน้ำ,y
