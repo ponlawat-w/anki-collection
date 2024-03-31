@@ -440,7 +440,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันชอบผักทุก(!a)อย่างยกเว้นมะเขือเทศ,Ich mag jedes Gemüse außer Tomaten.,
 ฉันไม่ชอบหมวกเหล่านี้เลยสักใบ,Ich mag keinen dieser Hüte.,
 ฉันชอบแมว(พหู)กับหมา(พหู)ทั้งคู่,Ich mag sowohl Katzen als auch Hunde.,
-ผมต้องไปแล้วตอนนี้ มันสาย<u>แล้ว</u>,Ich muss jetzt gehen. Es ist schon spät.,
+ผมต้องไปแล้วตอนนี้　มันสาย<u>แล้ว</u>,Ich muss jetzt gehen. Es ist schon spät.,
 ฉันต้องกลับบ้านแล้ว<u>ตอนนี้</u>,Ich muss jetzt nach Hause gehen.,"- ไป: g, ยัง: n"
 ฉันต้องไปซ่อนตัว,Ich muss mich verstecken.,
 ฉันต้องไปซื้อของก่อน,Ich muss zuerst einkaufen gehen.,
@@ -814,7 +814,6 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 ที่เคิล์นเป็นไงบ้าง,Wie läuft es in Köln?,
 ช่างน่าอายเสียจริง　ฉันไม่ควรจะหัวเราะออกไปดังขนาดนั้น แต่มันน่าตลกอย่างบอกไม่ถูก,"Wie peinlich. Ich hätte nicht so laut lachen sollen, aber es ist irgendwie lustig.",
 ฉันดูเป็นอย่างไรบ้าง,Wie sehe ich aus?,
-เราควรสำรองที่ล่วงหน้า,Wie sollen vorher reservieren.,
 ตอนนี้กี่โมงแล้ว,Wie spät ist es?,spät
 กี่โมงแล้ว,Wie viel Uhr ist es?,Uhr
 เขามีกระเป๋ากี่ใบ,Wie viele Taschen hat er?,
@@ -833,7 +832,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เราเข้าไปข้างใน ในนั้นไม่มีใครอยู่เลย,"Wir gehen hinein, doch es ist niemand da.",
 เราจะไปว่ายน้ำกัน เธอจะไปด้วยกันไหม,"Wir gehen schwimmen, kommst du mit?",du
 เราไปอย่างช้าสุดเก้าโมง,Wir gehen spätestens um neun.,
-พวกเราขอสุขสันต์วันเกิดแด่เธอนะ,Wir gratulieren dir ganz herzlich zum Geburtstag!,- !<br>- g
+พวกเราขอสุขสันต์วันเกิดแด่เธอนะ,Wir gratulieren dir ganz herzlich zum Geburtstag!,- !<br>- g + h
 พวกเรามีเงินเก็บอยู่,Wir haben Geld gespart.,perfekt
 เราได้พักเบรกและกินอาหารกลางวัน,Wir haben Pause gemacht und zu Mittag gegessen.,- Perfekt
 พวกเรามีทุกอย่าง รวมไปถึงส้มด้วย,"Wir haben alles, einschließlich Orangen.",
@@ -864,6 +863,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เราเกือบจะถึงที่นั้นแล้ว,Wir sind gleich da.,
 พวกเราอยู่บาร์เซโลนามาสี่วัน<u>แล้วตอนนี้</u>,Wir sind jetzt schon vier Tage in Barcelona.,
 พวกเรานั้นเชื่อถือได้เสมอและทำงานอย่างเป็นอาชีพ,Wir sind stets zuverlässig und arbeiten professionell.,
+เราควรสำรองที่ล่วงหน้า,Wir sollen vorher reservieren.,
 เราเดินเล่นกับบุคคลที่เป็นที่รู้จักคนหนึ่ง,Wir spazieren mit einer bekannten Person.,
 เราพูดคุยเกี่ยวกับสิ่งนั้น,Wir sprechen darüber.,
 เราลงจากรถ,Wir steigen aus dem Auto.,
