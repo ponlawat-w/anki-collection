@@ -478,7 +478,7 @@ der Palast,Palast,die Paläste,พระราชวัง,y
 der Papagei,Papagei,die Papageien,นกแก้ว,y
 der Partner,Partner,die Partner,คู่หู,y
 der Pass,Pass,die Pässe,หนังสือเดินทาง,y
-der Patient,Patient,die Patienten,คนไข้,y
+der Patient,Patient,die Patienten,คนไข้ (!K),y
 der Pfannkuchen,,,แพนเค้ก,y
 der Pfeffer,Pfeffer,die Pfeffer,พริกไทย,y
 der Pfirsich,Pfirsich,die Pfirsiche,ลูกพีช,y
@@ -629,7 +629,7 @@ der Zufall,Zufall,die Zufälle,ความบังเอิญ,y
 der Zug,Zug,die Züge,รถไฟ (!B),y
 der Zwilling,Zwilling,die Zwillinge,ฝาแฝด,y
 der/die Fremde,Fremde,die Fremden,คนแปลกหน้า,y
-der/die Kranke,Kranke,die Kranken,ผู้ป่วย,y
+der/die Kranke,Kranke,die Kranken,ผู้ป่วย (!P),y
 der/die Verwandte,Verwandte,die Verwandten,ญาติ,y
 die Abteilung,,,แผนก,y
 die Adresse,Adresse,die Adressen,ที่อยู่,y
