@@ -1,0 +1,30 @@
+#!/bin/zsh
+
+collectionPath=~/Library/Application\ Support/Anki2/ponlawat_w/collection.anki2
+
+if [ ! -d ./src ]; then
+    git clone https://github.com/ponlawat-w/AnkiCollectionIO.git src
+fi
+
+git -C ./src pull origin master
+dotnet restore src
+dotnet run --project ./src/CLI/AnkiCollectionToCsv $collectionPath ./notes || exit
+
+git diff
+echo -n "Do you want to commit? (y/n): "
+read confirmation
+if [ "$confirmation" != "y" ]; then
+    exit 0
+fi
+git add -A
+git status
+
+commitMessage="Updated $(($(date +'%Y') + 543))/$(date +'%m/%d %H:%M')"
+git commit -m $commitMessage
+
+echo -n "Do you want to push? (y/n): "
+read confirmation
+if [ "$confirmation" != "y" ]; then
+    exit 0
+fi
+git push
