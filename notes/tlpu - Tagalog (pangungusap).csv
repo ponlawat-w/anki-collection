@@ -26,6 +26,9 @@
 เธอชอบอะไร,Anong gusto mo?,aQ
 ชื่อของพวกคุณคืออะไร,Anu-ano ba ang mga pangalan ninyo?,n+a
 รถเรา(-2)ใหม่,Bago ang kotse namin.,~S n+a
+พวกเรา(+2)นับเงิน,Bilangin natin ang pera.,P
+ฉันอ่านจดหมาย,Binasa ko ang sulat.,P
+เด็กซื้อหนังสือ,Binili ng bata ang aklat.,P
 เราอ่านนิทานเรื่องหนึ่งกันเถอะ,Bumasa tayo ng isang kuwento.,VSO
 เฮเลนมาถึงเมื่อวาน,Dumating si Helen kahapon.,VS
 พวกเขามาถึงที่นี่ฟิลิปปินส์เมื่อเดือนที่แล้ว,Dumating sila rito sa Pilipinas noong isang buwan.,VSO
@@ -38,6 +41,8 @@
 บ้านหลังใหญ่คือโรงเรียนแห่งหนึ่ง,Isang paaralan ang bahay na malaki.,~S n+a
 โต๊ะตัวนี้มันสะอาด,Itong mesang ito ay malinis.,S~ a+n+a
 สิ่งนั้นคืออาหารของมารี,Iyan ay pagkain ni Mary.,S~
+พวกเขากินกล้วย(พหู)ไหม,Kakain ba nila ang mga saging?,P
+ปีเตอร์กินปลา,Kakanin ni Peter ang isda.,P
 พวกเราเป็นพี่น้อง,Kami ay magkapatid.,- S~<br>- ไม่รวมผู้ฟัง
 พวกเรา(-2)มีบ้านอยู่ที่มะนิลา,Kami ay may bahay sa Maynila.,SVO
 พวกเราคือจอห์นกับเฮเลน,Kami ay sina John at Helen.,- S~<br>- ไม่รวมผู้ฟัง
@@ -49,6 +54,7 @@
 แม่ละพ่อของเธอสบายดีไหม,Kumusta ba ang iyong ina at ama?,a+n
 สบายดีไหม,Kumusta ka?,
 คุณสบายดีไหมครับ,Kumusta po kayo?,
+แม่บ้านจะทำกับข้าวด้วยผัก,Lulutuin ng katulong ang gulay.,P
 รถของพวกเรา(-2)เก่า,Luma ang aming kotse.,- ~S a+n<br>- ไม่รวมผู้ฟัง
 หนังสือเล่มใหม่มันสวย,Maganda ang bagong aklat.,~S a+n
 ผู้หญิงก็สวยหรือเปล่า,Maganda rin ba ang babae?,~S
@@ -87,6 +93,7 @@
 เขาทำอาหารด้วยผักและเนื้อ,Nagluluto siya ng gulay at karne.,VSO
 คุณได้หุงข้าวไหม,Nagluto ba kayo ng kanin?,VSO (สุภาพ)
 เขาอยู่ที่ไหน,Nasaan ba siya?,
+มาร์ตาทำความสะอาดบ้านของพวกเขา,Nilinis ni Marta ang kanilang bahay.,P
 พวกเขาฉลาดทั้งคู่(p),Pareho silang matalino.,~S
 เราเจอกันได้ไหม,Pwede ba kitang makilala?,
 จอห์นไม่ได้เก่งเท่ากับปีเตอร์,Si John ay hindi kasindunong ni Peter.,SVO

@@ -4,6 +4,7 @@ ada,อยู่ที่,y
 air,น้ำ,y
 aku,ฉัน (!s),y
 anda,คุณ,y
+anjing,สุนัข,y
 apel,แอปเปิล,y
 ayam,ไก่,y
 bank,ธนาคาร,y
@@ -12,6 +13,7 @@ bayar,จ่าย,y
 berapa,เท่าไหร่ อย่างไร,y
 besar,ใหญ่,y
 bisa,สามารถ,y
+bola,ลูกบอล,y
 bukan,ไม่ใช่,y
 buku,หนังสือ,y
 cokelat,ช็อกโกแลต,
@@ -81,6 +83,7 @@ menulis,เขียน,y
 merah,สีแดง,y
 mereka,พวกเขา,y
 merica,พริกไทย,y
+milik,สิ่งของ,y
 minta,ขอ,y
 minum,ดื่ม,y
 minuman,เครื่องดื่ม,y
@@ -91,6 +94,7 @@ nasi,ข้าว,y
 pagi,ตอนเช้า,y
 panas,ร้อน,y
 pasar,ตลาด,y
+pensil,ดินสอ,y
 pergi,ไป,y
 permisi,ขออภัย โทษที,y
 pesan,สั่ง (อาหาร),y
@@ -140,3 +144,5 @@ tomat,มะเขือเทศ,
 tujuh,เจ็ด,y
 umur,อายุ,y
 ya,ใช่,y
+~ku,ของฉัน,y
+~mu,ของเธอ,y
