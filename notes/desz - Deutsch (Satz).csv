@@ -70,7 +70,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 ฉันชอบ(g)ชุดเดรสตัวนี้นะ　แต่<u><b>ฉันคิด</b></u>ว่ามันแพงเกินไป,Das Kleid gefällt mir ganz gut. Aber ich finde es zu teuer.,
 ชุดเดรสตัวเล็ก,Das Kleid ist klein.,
 ฉันไม่ชอบชุดเดรสนี้　มันแพงเกินไปสำหรับฉัน,Das Kleid mag ich nicht. Es ist mir zu teuer.,
-คอนเสิร์ตเริ่มเวลา 7:30 น.,Das Konzert fängt um halb acht an.,umgangsprachlich
+คอนเสิร์ตเริ่มเวลาเจ็ดโมงครึ่ง,Das Konzert fängt um halb acht an.,
 ชีวิตที่ชานเมืองนั้นเรียบง่ายกว่า,Das Leben auf dem Land ist einfacher.,
 ผู้คนต่างตื่นเต้น,Das Publikum ist begeistert.,
 ห้องนอนอยู่ข้างห้องครัว,Das Schlafzimmer ist neben der Küche.,
@@ -191,7 +191,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เธอ(๒)ไม่ต้องการ(b)ไป,Du brauchst nicht zu gehen.,
 เธอห้ามยอมแพ้เด็ดขาด,Du darfst nie aufgeben.,
 คุณ(d)สามารถมองเห็นม้า(พหู)ได้จากในรูป(B),Du kannst Pferde auf dem Bild sehen.,
-เธอต้องล้างห้องน้ำ,Du musst das Badezimmer putzen.,
+เธอต้องล้างห้องน้ำ(~z),Du musst das Badezimmer putzen.,
 เธอควรภูมิใจในตัวเอง,Du sollst stolz auf dich sein.,
 ไม่สำคัญว่าเขาอายุเท่าไหร่,"Egal, wie alt er ist.",
 เพื่อนคนหนึ่งได้ลองเปลี่ยนยางรถยนต์ดู,Ein Freund hat probiert den Reifen zu wechseln.,- Perfekt
@@ -523,6 +523,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ทุกวันฉันเตรียมอาหารเช้า,Jeden Tag bereite ich das Frühstück zu.,
 <u>ทุกวัน</u>ฉันตื่นนอนตอนหกโมง,Jeden Tag stehe ich um sechs Uhr auf.,offiziell
 ผู้เข้าร่วม<sub>(!Artikel)</sub>แต่ละคนต่างก็นำคำถาม(เอก)ของตัวเองมา,Jeder Teilnehmer bringt seine eigene Frage.,
+ทุกคน(!a)ต้องการหยุดพักร้อน,Jeder braucht Urlaub.,
 Julia <u>ก็</u>มีผมสีน้ำตาล　แต่มันยาวกว่า<u>ของฉัน</u>,Julia hat auch braunes Haar. Es ist aber länger als meines.,
 Julia เป็นน้องสาวของฉัน และเราอาศัยอยู่ในบ้านหลังเดียวกันในลอนดอน,Julia ist meine Schwester und wir leben im selben Haus in London.,
 Julia เรียกฉันจากที่<b><u>หน้า</u></b>ประตูบ้าน,Julia ruft mir von der Haustür zu.,
@@ -769,7 +770,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 ทำไมเขาถึงใส่หมวก(ใบหนึ่ง),Warum trägt er einen Hut?,
 ทำไมเธอไม่แต่งตัว,Warum ziehst du dich nicht an?,du
 <u>รับ</u>อะไรดีครับ,Was bekommen Sie?,Sie
-เธอทำอะไรในวันเสาร์อาทิตย์,Was hast du am Wochenende gemacht?,- perfekt
+เธอได้ทำอะไรในวันเสาร์อาทิตย์,Was hast du am Wochenende gemacht?,- perfekt
 เมื่อวานเธอทำอะไร,Was hast du gestern gemacht?,
 เมื่อวานเธอไปทำอะไร　เธอไม่มาเข้าเรียนเลย,Was hast du gestern gemacht? Du bist nicht zum Unterricht gekommen.,perfekt
 เกิดอะไรขึ้นกับเขา(ญ),Was ist mit ihr passiert?,
