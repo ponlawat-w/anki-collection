@@ -44,6 +44,7 @@ das Café,Café,die Cafés,ร้านกาแฟ,y
 das Chinesisch,Chinesisch,,ภาษาจีน,y
 das Croissant,Croissant,die Croissants,ครัวซองต์,y
 das Dach,Dach,die Dächer,หลังคา,y
+das Date,Date,,การออกเดท,y
 das Datum,Datum,die Daten,วันที่,y
 das Dokument,Dokument,die Dokumente,เอกสาร (!B),y
 das Dorf,Dorf,die Dörfer,เมือง (d),y
@@ -257,6 +258,7 @@ der Anzug,Anzug,die Anzüge,ชุดสูท,y
 der Apfel,Apfel,die Äpfen,แอปเปิล,y
 der Apotheker,Apotheker,die Apotheker,เภสัชกร,y
 der April,April,,เมษายน,y
+der Arbeitskollege,,,เพื่อนร่วมงาน,y
 der Arbeitsort,,,สถานที่ทำงาน,y
 der Architekt,Architekt,die Architekten,สถาปนิก,y
 der Arm,Arm,die Arme,แขน,y
@@ -634,6 +636,7 @@ der/die Verwandte,Verwandte,die Verwandten,ญาติ,y
 die Abteilung,,,แผนก,y
 die Adresse,Adresse,die Adressen,ที่อยู่,y
 die Ahnung,Ahnung,die Ahnungen,ความรู้ทันเหตุการณ์ ความคิด,y
+die Allergie,Allergie,die Allergien,อาการแพ้,y
 die Alpen,Alpen,,เทือกเขาแอลปส์,y
 die Angst,Angst,die Ängst,ความกลัว,y
 die Ansichtskarte,Ansichtskarte,die Ansichtskarten,โปสการ์ด (!P),y
