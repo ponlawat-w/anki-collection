@@ -290,7 +290,7 @@ darrere,ด้านหลัง,y
 davall,ด้านล่าง ด้านใต้ (d),y
 davant,ข้างหน้า,y
 de colp i volta,จู่ ๆ ก็ (๔),y
-de debò,ที่จริงจัง,y
+de debò,ที่จริงจัง (!s),y
 de franc,ฟรี (!d),y
 de sopte,จู่ ๆ ก็ (๒),y
 de tant en tant,นาน ๆ ที (es: de vez en cuando),y
@@ -699,7 +699,7 @@ el terreny,ที่ดิน,y
 el torneig,ทัวร์นาเมนต์,y
 el tramvia,รถราง,y
 el treball,อาชีพ (t),y
-el trellat,เหตุผล (ความเมกเซนส์),y
+el trellat,เหตุผล (ความเมกเซนส์) (!r),y
 el tren,รถไฟ,y
 el tro,ฟ้าร้อง,y
 el trànsit,การจราจร,y
@@ -1045,7 +1045,7 @@ la pàtria,บ้านเกิด ภูมิลำเนา,y
 la pèrdua,การสูญเสีย,y
 la química,วิชาเคมี,y
 la rasqueta,คราด,y
-la raó,เหตุผล (ความคิด ความสัมพันธ์),y
+la raó,เหตุผล (ความคิด ความสัมพันธ์) (!t),y
 la remolatxa,บีตรูต,y
 la rentadora,เครื่องซักผ้า,y
 la resposta,คำตอบ,y
@@ -1239,7 +1239,7 @@ senyor,คุณผู้ชาย,y
 senyora,คุณนายผู้หญิง,y
 senyoreta,คุณผู้หญิง(สาว),y
 ser,เป็น คือ,y
-seriós,ที่จริงจัง,y
+seriós,ที่จริงจัง (adj),y
 seure,นั่ง,y
 sincer,จริงใจ,y
 sobre,เหนือ ด้านบน (s),y
