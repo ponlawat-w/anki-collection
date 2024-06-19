@@ -67,6 +67,7 @@ adobar,หมักซอส,y
 adoctrinar,ล้างสมอง ทำให้หลงเชื่อ,y
 adosar,วางข้าง ๆ กัน วางติดกัน,y
 adscribir,มอบหมาย,
+adueñarse de,ฉกฉวย ครอบงำ,y
 advertir,เตือน,
 afable,สุภาพ เรียบร้อย,y
 afeitarse,โกนหนวด,y
@@ -89,7 +90,7 @@ aislante,ที่เป็นฉนวน,y
 ajardinar,ทำให้เป็นพื้นที่สีเขียว ทำให้เป็นสวน,y
 ajeno,ที่เกี่ยวกับของคนอื่น ที่ไม่เกี่ยวข้อง,y
 ajo y agua,ช่างมันและทนมันไป,y
-alardear,โอ้อวด (a),y
+alardear,โอ้อวด (!p),y
 alargar,ทำให้ยาวขึ้น (กริยาของ largo),y
 alcanzar,ถึง ทำได้ ทัน,
 aliviar,บรรเทา (อาการ),y
@@ -438,7 +439,7 @@ el aliento,ลมหายใจ (!v!ción),y
 el almacén,โกดัง,y
 el almanaque,ปฏิทิน (!c),y
 el alquiler,การให้เช่า (~l~),y
-el alud,ดินถล่ม (คำสั้น),y
+el alud,ดินถล่ม (!d),y
 el ama de casa,พ่อบ้าน แม่บ้าน,y
 el amuleto,เครื่องราง ของขลัง,y
 el analgésico,ยาแก้ปวด,y
@@ -639,7 +640,7 @@ el colgante,สร้อยคอ,y
 el colirio,ยาหยอดตา,y
 el collage,ภาพปะติด,y
 el colmillo,เขี้ยว,y
-el comedor,โรงอาหาร,y
+el comedor,โรงอาหาร (!cf),y
 el comentarista,นักวิจารณ์,y
 el comodín,ไพ่โจกเกอร์ ไวล์ดการ์ด,y
 el complejo,ปมด้อย,y
@@ -705,7 +706,7 @@ el desnivel,ทางชัน (d),y
 el despacho,สำนักงาน,y
 el despilfarro,การใช้อย่างสิ้นเปลือง,y
 el despliegue,การติดตั้ง (en: deployment),y
-el desprendimiento,ดินถล่ม (คำยาว),y
+el desprendimiento,ดินถล่ม (!a),y
 el destello,ฟ้าแลบ ประกายไฟ ประกายแสง แสงแวบ ๆ,y
 el destornillador,ไขควง,y
 el desván,ห้องใต้หลังคา (!b),y
@@ -1889,7 +1890,7 @@ la jefatura,ความเป็นผู้นำ,y
 la jerarquía,ความเป็นลำดับขั้น (en: hierarchy),y
 la jeringa,เข็มฉีดยา,y
 la judía,ถั่ว ถั่วแขก,y
-la ladera,เนินภูเขา ชันเขา,y
+la ladera,ชันของภูเขา,y
 la laguna,ทะเลสาบ จุดอ่อน ช่องโหว่,y
 la lanzadera,ชัตเติลบัส,y
 la lavadora,เครื่องซักผ้า,y
@@ -1910,7 +1911,7 @@ la llanta,ล้อรถ (เฉพาะด้านใน),y
 la llanura,ที่ราบ,y
 la llave inglesa,ประแจ,y
 la llovizna,ฝนอ่อย,y
-la loma,เนินเขา ภูเขาลูกเล็ก ๆ,y
+la loma,ภูเขาลูกเล็ก ๆ,y
 la lombriz,หนอน (!o),y
 la longaniza,ไส้กรอก,y
 la losa,แผ่นหิน (ที่ใช้ทำพื้นอาคาร),y
@@ -2386,7 +2387,7 @@ precipitarse,เร่งรีบ,
 prefigurar,(คำกริยา) พยากรณ์ คาดการณ์ บอกเหตุล่วงหน้า,y
 prematuro,ซึ่งมาก่อนเวลา ซึ่งมาก่อนวัย,y
 presenciar,เป็นพยาน ประจักษ์ในเหตุการณ์,y
-presumir,อวด (p),y
+presumir,อวด (!a),y
 pretender,ตั้งใจ หวังว่า คาดว่า,
 privar (de ~),ช่วงชิง~ แย่ง~,
 profundizar,เรียนรู้ให้ลึกซึ้ง,y
