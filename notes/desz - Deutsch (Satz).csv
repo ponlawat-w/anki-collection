@@ -507,7 +507,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ในคิวในสนามบินมีนักธุรกิจ(!Km)อยู่สองสามคน,In der Schlange im Flughafen sind einige Geschäftsleute.,
 ในปีนี้เราไปพักร้อนที่ประเทศไทย ไม่ใช่ออสเตรเลีย,"In diesem Jahr machen wir Urlaub in Thailand, nicht in Australien.",
 ในอีก 1 สัปดาห์เขาจะบินไปจีน,In einer Woche fliegt er nach China.,
-ในบริษัทของเราเรามีเวลาทำงานที่ยืดหยุ่น,In unserer Firma haben wir Gleitzeit.,
+ในบริษัท(!B)ของเราเรามีเวลาทำงานที่ยืดหยุ่น,In unserer Firma haben wir Gleitzeit.,
 ในอีกสี่เดือนเราจะได้ลูกอีกคนหนึ่ง　เป็นเด็กผู้หญิง,In vier Monaten bekommen wir noch ein Baby. Es ist Mädchen.,
 เธออาศัยอยู่ที่ชั้นเท่าไหร่,In welchem Stockwerk wohnst du?,- du<br>- ชั้น: Stockwerk
 ในอีกสองเดือนจะเป็นการสอบ(p)ภาษาเยอรมันของเธอ(๓),In zwei Monaten ist ihre Deutschprüfung.,
@@ -535,6 +535,7 @@ Julia เรียกฉันจากที่<b><u>หน้า</u></b>ปร
 รับกาแฟไหมครับ,Kann ich Ihnen einen Kaffee anbieten?,- พูดกับ Sie ในแบบสุภาพ<br>- ขอเสนอกาแฟให้คุณได้ไหมครับ
 ฉันช่วยอะไรคุณได้บ้าง,Kann ich Ihnen helfen?,- Sie<br>- ฉันสามารถช่วยได้ไหม
 ให้ผมช่วยอะไรไหมครับ,Kann ich Ihnen helfen?,Sie
+ฉันสามารถคุยกับคุณตอนนี้ได้ไหม,Kann ich jetzt mit Ihnen sprechen?,
 เธอช่วยอธิบายอันนี้ให้ฉันหน่อยได้ไหม,Kannst du mir das erklären?,
 ขอฉันยืมปากกา(ks)สักด้ามหน่อยได้ไหม,Kannst du mir einen Kugelschreiber leihen?,
 เธออ่านหนังสือได้เฉพาะตอนใส่แว่นตาใช่ไหม,Kannst du nur mit Brille lesen?,
@@ -598,7 +599,7 @@ Luki กระโดดข้ามหน้าต่าง,Luki springt durch d
 น้องสาวของฉันขี้อายเล็กน้อย　โดยเฉพาะอย่างยิ่ง<sub>(va)</sub>เวลาที่เขารู้จักคนใหม่ ๆ,"Meine Schwester ist etwas schüchtern. Vor allem, wenn sie neue Leute kennenlernt.",
 พี่สาวของฉันแต่งงาน(แล้ว)และอาศัย(!w)อยู่ในประเทศสหรัฐอเมริกา,Meine Schwester ist verheiratet und lebt in den USA.,
 พี่สาวของฉันอายุมากกว่าฉัน เธออายุ 27 ปี,"Meine Schwester ist älter als ich, sie ist siebenundzwanzig Jahre alt.",
-กระเป๋าฉันไม่อยู่ มันน่าหงุดหงิด เอกสารทั้งหมดของฉันอยู่ในกระเป๋าใบนั้น,Meine Tasche ist weg. Das ist ärgerlich. Alle meine Dokumente sind in der Tasche.,
+กระเป๋าฉันไม่อยู่　มันน่าหงุดหงิด　เอกสารทั้งหมดของฉันอยู่ในกระเป๋าใบนั้น,Meine Tasche ist weg. Das ist ärgerlich. Alle meine Dokumente sind in der Tasche.,
 หมายเลขโทรศัพท์ของฉันคือ 77 23 69,Meine Telefonnummer ist siebenundsiebzig dreiundzwanzig neunundsechzig.,
 บ้านฉันสวยและสว่าง ห้องนอนของฉันค่อนข้างใหญ่,Meine Wohnung ist schön und hell. Mein Schlafzimmer ist ziemlich groß.,บ้าน - W~
 Michael อยู่ในห้อง<sub>(บ้าน)</sub>　เขาต้องอ่านหนังสือเรียน　Julia กับฉันเดินทางมุ่งหน้าไปยังร้านอาหาร,Michael bleibt in der Wohnung. Er muss lernen. Julia und ich gehen in Richtung Restaurant.,
@@ -857,7 +858,8 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เราได้ทานอาหารด้วยกัน(และ)แล้วเรายังดื่มกาแฟกันต่อ,Wir haben zusammen gegessen und dann haben wir noch einen Kaffee getrunken.,- Perfekt
 พวกเรามีรถสองคัน เพราะว่าพวกเราชอบรถยนต์,"Wir haben zwei Autos, denn wir mögen Autos.",- เพราะว่า: denn
 พวกเรามีครูคนใหม่เมื่อวาน　เราสนุกกันมาก,Wir hatten gestern einen neuen Lehrer. Wir hatten viel Spaß.,- Präteritum
-เราจะมาเวลาประมาณเจ็ดโมง,Wir kommen um etwa sieben Uhr.,
+เราจะมาเวลาประมาณ(!g)เจ็ดโมง,Wir kommen um etwa sieben Uhr.,
+พวกเราสามารถยืนยันสิ่งนั้นได้,Wir können das bestätigen.,
 พวกเราทำกับข้าวไม่เป็น,Wir können nicht kochen.,
 พวกเราอ่านหนังสือเล่มสุดท้าย,Wir lesen das letzte Buch.,
 พวกเราอ่านหนังสือเล่มหนึ่งให้พวกเขาฟัง,Wir lesen ihnen ein Buch vor.,

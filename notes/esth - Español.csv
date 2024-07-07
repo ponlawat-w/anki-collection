@@ -1088,7 +1088,7 @@ el perdigón,ก้อนกลม ๆ ลูกกลม ๆ,y
 el perico,นกแก้วเล็ก,y
 el periscopio,กล้องส่องของเรือดำน้ำ,y
 el perrillo,ไกปืน,y
-el perímetro,เส้นรอบรูป,y
+el perímetro,เส้นรอบรูป (!วงกลม),y
 el pescador,ชาวประมง,y
 el petardo,ประทัด,y
 el petrolero,เรือบรรทุกน้ำมัน,y
@@ -1167,7 +1167,7 @@ el recorrido,เส้นทาง การเดินทาง,y
 el recreo,ช่วงพัก ช่วงเบรก (ในโรงเรียน),y
 el referéndum,ประชามติ,y
 el refrán,คำพูด ภาษิต คำพังเพย,y
-el regadío,การชลประทาน (ให้น้ำ),y
+el regadío,การชลประทาน,y
 el regocijo,ความสุข ความสนุกสนาน ความเบิกบานยินดี,
 el rehén,ตัวประกัน,y
 el relato,เรื่องสั้น,y
@@ -1196,7 +1196,7 @@ el retroceso,การถอยกลับ,y
 el retrovisor exterior,กระจกข้าง,y
 el retrovisor interior,กระจกมองหลัง,y
 el riachuelo,ลำห้วย,y
-el riego,การชลประทาน (!ให้น้ำ),y
+el riego,การรดน้ำต้นไม้,y
 el rincón,มุม (หัวมุม),y
 el rinoceronte,แรด,y
 el riñón,ไต,y
@@ -1685,6 +1685,7 @@ la cima,ยอดเขา (c~!b),y
 la cinta andadora,เครื่องลู่วิ่ง,y
 la cinta métrica,สายวัด / ตลับเมตร (!f),y
 la cintura,เอว,y
+la circunferencia,เส้นรอบวง,y
 la ciruela,ลูกพลัม ลูกพรุน,y
 la cista,หลุมเก็บของโบราณ หลุมศพโบราณ,y
 la cisterna,แทงก์น้ำ,y
@@ -1873,10 +1874,11 @@ la hucha,กระปุกออมสิน,y
 la huelga,ประท้วง (สไตรค์),y
 la huerta,ที่ดินเพาะปลูก ไร่นา,y
 la humillación,ความน่าละอายใจ ความอัปยศอดสู,y
+la ikurriña,ธงแคว้นบาสก์,y
 la inauguración,งานเปิดตัว,y
-la incertidumbre,ความไม่แน่นอน ความไม่มั่นใจ,y
+la incertidumbre,ความไม่แน่นอน ความไม่มั่นใจ (!~dad),y
 la incineración,การเผาศพ,
-la incredulidad,ความไม่เชื่อถือ ความกังขา ความสงสัย,y
+la incredulidad,ความไม่เชื่อถือ ความกังขา ความสงสัย (!~e),y
 la infracción,การละเมิด การทำผิดกฎหมาย (!v),y
 la ingle,ขาหนีบ ต้นขา ง่ามขา,y
 la iniciativa,การริเริ่ม ความเป็นผู้นำ,y
