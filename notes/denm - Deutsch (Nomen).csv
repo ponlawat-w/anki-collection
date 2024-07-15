@@ -308,6 +308,7 @@ der Bus,Bus,die Busse,รถบัส รถประจำทาง,y
 der Bäcker,Bäcker,,คนทำขนมปัง,y
 der Bär,Bär,die Bären,หมี,y
 der Bürger,Bürger,die Bürger,พลเมือง,y
+der Bürgermeister,Bürgermeister,,นายอำเภอ ผู้ว่า,y
 der Cappuccino,Cappuccino,die Cappuccinos,คาปูชิโน,y
 der Champagner,Champagner,die Champagner,แชมเปญ,y
 der Chef,Chef,die Chefs,เจ้านาย,y
@@ -367,6 +368,7 @@ der Geburtstag,Geburtstag,die Geburtstage,วันเกิด,y
 der Gedanke,Gedanke,die Gedanken,ความคิด,y
 der Gegner,Gegner,die Gegner,คู่แข่ง,y
 der Geldschein,Geldschein,,ธนบัตร,y
+der Geschäftsführer,,,ผู้บริหาร,y
 der Großvater,Großvater,die Großväter,ปู่ ตา (ß),y
 der Grund,Grund,die Gründe,เหตุผล,y
 der Gruß,Gruß,die Grüße,การทักทาย คำทักทาย,y
@@ -857,6 +859,7 @@ die Mensa,Mensa,die Mensen,โรงอาหาร (!K),y
 die Miete,Miete,die Mieten,ค่าเช่า,y
 die Mikrowelle,Mikrowelle,die Mikrowellen,ไมโครเวฟ,y
 die Milch,Milch,die Milch,นม,y
+die Milliarde,Milliarde,die Milliarden,พันล้าน,y
 die Million,Million,die Millionen,ล้าน,y
 die Mittagspause,Mittagspause,die Mittagspausen,พักกลางวัน,y
 die Mitte,Mitte,die Mitten,ตรงกลาง,y

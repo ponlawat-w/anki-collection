@@ -22,7 +22,7 @@ allgemein,Adj.,ทั่วไป โดยทั่วไป,y
 als,Konj.,กว่า ในขณะที่,y
 alt,Adj.,เก่า แก่,y
 an sein,V.,เปิดอยู่ (สวิตช์),y
-an ~ teilnehmen,V.,เข้าร่วม ~,y
+an ~ teilnehmen,V.,เข้าร่วม ~ (!m),y
 anbieten,V.,เสนอ แนะนำให้,y
 ander,Adj.,อื่น,y
 anfangen,V.,เริ่ม (a),y
@@ -90,6 +90,7 @@ besorgt,Adj.,เป็นกังวล,y
 bestellen,V.,สั่ง,y
 bestätigen,V.,ยืนยัน รับรู้,y
 besuchen,V.,(กริยา)เยี่ยม,y
+betrachten,V.,ดู ตรวจสอบ พิจารณา,y
 bevor,Konj.,ก่อน,y
 bezahlen,V.,จ่าย (be),y
 bilden,V.,สร้าง (!bauen),y
@@ -164,6 +165,7 @@ empfehlen,V.,แนะนำ,y
 endlich,Adv.,ท้ายที่สุด ในที่สุด,y
 entlang,Präp.,ตามแนว ขนานไป,y
 entlangfahren,V.,ไปตามแนว,y
+entscheiden,V.,ตัดสินใจ เลือก,y
 entschuldigen,V.,ยกโทษ ให้อภัย,y
 entweder ~ oder,Konk.,ไม่ ~ ก็ (en: either ~ or),y
 ergänzen,V.,เติม ทำให้สมบูรณ์,y
@@ -386,6 +388,7 @@ mit dem Hund Gassi gehen,,พาหมาไปเดินเล่น,y
 mitbringen,V.,เอาไปด้วย(กับ) (!n),y
 miteinander,Adv.,ด้วยกัน (!g),y
 mitkommen,V.,มาด้วย,y
+mitmachen,V.,เข้าร่วม มีส่วนร่วม (!t),y
 mittags,Adv.,ตอนเที่ยง,y
 mitternachts,Adv.,ช่วงเที่ยงคืน,y
 morgen,Adv.,พรุ่งนี้,y
