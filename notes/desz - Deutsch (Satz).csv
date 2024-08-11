@@ -201,7 +201,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 อีกแค่หนึ่งเดือนแล้วฉันจะเป็นอิสระเหมือนดั่งสายลม,Ein weiterer Monat und ich bin frei wie der Wind.,
 (ขอ)น้ำแร่ไม่อัดก๊าซ 1 ขวด,"Eine Flasche Mineralwasser ohne Kohlensäure, bitte.",
 แมวตัวหนึ่งเคยอยู่บนโต๊ะ,Eine Katze ist auf dem Tisch gewesen.,Perfekt
-ขอให้เป็นวันที่ดี,Einen schönen Tag noch.,
+ขอให้เป็นวันที่ดี(!g),Einen schönen Tag noch.,
 เช้าวันหนึ่งมีพายุ(G),Eines Morgens gibt es ein Gewitter.,
 หนึ่งมีค่าน้อยกว่าสอง,Eins ist weniger als zwei.,
 ขอโทษนะคะ รถไฟขบวนถัดไปที่จะไป Dessau ออกเมื่อไหร่,"Entschuldigung, wann fährt der nächste Zug nach Dessau ab?",
@@ -292,9 +292,9 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 Franka แก่ที่สุด,Franka ist am ältesten.,
 แฟรงก์เฟิร์ตไม่ใหญ่เท่าเบอร์ลิน แต่แฟรงก์เฟิร์ตมีสนามบินขนาดใหญ่อยู่แห่งหนึ่ง,"Frankfurt ist nicht so groß wie Berlin, aber Frankfurt hat einen großen Flughafen.",
 แฟรงก์เฟิร์ตอยู่ไกลออกไป,Frankfurt ist weit weg.,
-คุณ Schmidt (ญ) อยู่เมืองไทยมา 30 ปีและรักเมืองไทยมาก,Frau Schmidt lebt seit dreißig Jahren in Thailand und liebt Thailand sehr.,
+คุณ Schmidt (ญ) อาศัยอยู่(!w)ที่เมืองไทยมา 30 ปีและรักเมืองไทยมาก,Frau Schmidt lebt seit dreißig Jahren in Thailand und liebt Thailand sehr.,
 ตอนเช้าตรู่ฉันวิ่งออกกำลัง,Frühmorgens jogge ich.,
-ห้าน้อยกว่าแปด,Fünf ist kleiner als acht.,
+ห้าน้อยกว่าแปด,Fünf ist kleiner als acht.,!w
 เธอชอบเชื้อเชิตไหม,Gefällt dir das Hemd?,(es: gustar)
 ไปเดินเล่นสิ,Geh doch spazieren!,- du!<br>- doch
 เธอจะเข้าเมืองไป(g)กับพวกเราไหม,Gehst du mit uns in die Stadt?,du
@@ -461,7 +461,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันเข้าร่วมงานสัมมนาสองแห่ง,Ich nehme an zwei Seminaren teil.,
 ฉันขึ้นรถเมล์คันถัดไป,Ich nehme den nächsten Bus.,
 ฉันบอกผู้ชายคนนั้นว่าฉันต้องไปเอามือถือของฉัน<b><i><u>ก่อน</u></i></b>,"Ich sage dem Mann, dass ich zuerst noch mein Handy holen muss.",
-ฉันเปิด(es)วิทยุ ตอนนี้มันเปิดอยู่,Ich schalte das Radio ein. Jetzt ist es an.,
+ฉันเปิด(es)วิทยุ　ตอนนี้มันเปิดอยู่,Ich schalte das Radio ein. Jetzt ist es an.,
 ฉันเขียนหนังสือเล่มนี้เพื่อเธอโดยเฉพาะ,Ich schreibe dieses Buch extra für dich.,
 ฉันเขียนจดหมาย(ฉบับหนึ่ง)ให้พ่อแม่ของฉัน,Ich schreibe meinen Eltern einen Brief.,
 ฉันเจอ(!t)เขาบ้างเป็นบางครั้ง(!m),Ich sehe ihn ab und zu.,
@@ -633,7 +633,7 @@ Michael จ้องมองไปที่ผู้ชายคนนั้น
 ไม่มีใครรู้(!w)คำตอบ,Niemand kennt die Antwort.,
 ไม่มีใครรู้ว่าเขาจะมาวันนี้ไหม,"Niemand weiß, ob er heute kommt.",
 พกร่มไปด้วยสิ ไม่งั้นเดี๋ยวเปียกนะ,"Nimm den Regenschirm mit, sonst wirst du nass.",
-ปกติแล้วเราจะพักเที่ยงกันครึ่งชั่วโมง แต่ถ้าหลังประชุมแล้วเรามักจะพักนานกว่าหน่อย,"Normalerweise machen wir eine halbe Stunde Mittagspause, aber nach Meetings machen wir oft ein bisschen länger Pause.",
+ปกติแล้วเราจะพักเที่ยงกันครึ่งชั่วโมง แต่ถ้าหลังประชุมแล้วเรา<u><b>มัก</b></u>จะพักนานกว่าหน่อย,"Normalerweise machen wir eine halbe Stunde Mittagspause, aber nach Meetings machen wir oft ein bisschen länger Pause.",
 สัปดาห์หน้าเป็นวันเกิดของ Franka,Nächste Woche hat Franka Geburtstag.,
 สัปดาห์หน้าฉันจะอายุ 29 ปี,Nächste Woche werde ich neunundzwanzig.,
 เดือนหน้าฉันมีสอบ(K-พหู)และฉันต้องอ่านหนังสือสอบเยอะ,Nächsten Monat schreibe ich Klausuren und ich muss viel lernen.,
@@ -750,7 +750,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 หนังสือ<sub>(พหู)</sub>ของพวกเราอยู่บนโต๊ะ,Unsere Bücher sind auf dem Tisch.,
 เพื่อน ๆ ของพวกเราอยาก(w)ไป(g)โรงละครกับเราวันนี้,Unsere Freunde wollen heute mit uns ins Theater gehen.,
 ทีมเรามีสมาชิกเป็นจำนวนมาก(!v),Unsere Mannschaft hat zahlreiche Mitglieder.,
-วันนี้เป็นวันเกิดคุณยายของพวกเรา เธออายุ 80 ปี เราจะฉลองวันเกิดให้คุณยายจากใจ,"Unsere Oma hat heute Geburtstag, sie ist achtzig Jahre alt. Wir gratulieren unserer Oma herzlich zum Geburtstag.",
+วันนี้เป็นวันเกิดคุณยาย(!G)ของพวกเรา เธออายุ 80 ปี　เราจะฉลองวันเกิดให้คุณยายจากใจ,"Unsere Oma hat heute Geburtstag, sie ist achtzig Jahre alt. Wir gratulieren unserer Oma herzlich zum Geburtstag.",
 "ด้านล่างของ<b style=""text-decoration-line: underline; font-style: italic;"">เท้า</b>(พหู)ของเธอ(๓)คือหญ้าสีเขียว",Unter ihren Füßen ist grünes Gras.,- ขึ้นประโยคด้วยบุพบท
 อย่าลืมซักผ้านะ,Vergiss bitte die Wäsche nicht!,"- du, bitte!<br>- การซักผ้า (คำนาม)"
 อย่าลืม　พรุ่งนี้เธอต้องเอาเอกสาร(P)ไปส่งให้แพทย์,Vergiss nicht. Morgen musst du das Papier beim Arzt abgeben.,
@@ -881,7 +881,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 เราพูดคุยเกี่ยวกับสิ่งนั้น,Wir sprechen darüber.,
 เราลงจากรถ,Wir steigen aus dem Auto.,
 เรากำลังมองหาของขวัญให้(für)เพื่อน(ญ)ของเรา　เธอชอบทำอาหารและชอบดื่มชา,Wir suchen ein Geschenk für unsere Freundin. Sie kocht gern und trinkt gern Tee.,
-พวกเราอยู่กินข้าวกันที่ร้านอาหารที่ดีแห่งหนึ่งกับครอบครัวและเพื่อน ๆ ของเราและอยู่จนถึงตอนเย็น,Wir waren mit unseren Familien und Freunden in einem guten Restaurant essen und sind bis zum Abend geblieben.,Präteritum / Perfekt
+พวกเราอยู่กินข้าวกันที่ร้านอาหารที่ดีแห่งหนึ่งกับครอบครัว(พหู)และเพื่อน ๆ ของเราและอยู่จนถึงตอนเย็น,Wir waren mit unseren Familien und Freunden in einem guten Restaurant essen und sind bis zum Abend geblieben.,Präteritum / Perfekt
 พวกเรารอ(aw)พวกเธอที่นี่,Wir warten hier auf euch.,
 เราทิ้งของไปหลายชิ้น,Wir werfen viele Sachen weg.,
 เราอยากไปสระว่ายน้ำทุกวัน แต่ว่าไปได้แค่สัปดาห์ละครั้ง,"Wir wollten jeden Tag ins Schwimmbad gehen, aber wir durften nur einmal pro Woche gehen.",Präteritum
