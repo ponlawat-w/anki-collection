@@ -48,6 +48,7 @@ ia,เธอ (ญ) / เขา (๓ญ),y
 ingat,จำ,y
 ini,นี้,y
 itu,~นั้น,y
+jaket,เสื้อแจกเกต,y
 jalan,เดินทาง ถนน,y
 jatuh,ตก หกล้ม,y
 jeruk,ส้ม,y
@@ -63,6 +64,7 @@ ke,ไปยัง,y
 kecap,ซีอิ๊ว,y
 keluar,ออกไปข้างนอก,y
 kembali,กลับมา,y
+kemeja,เสื้อเชิต,y
 kita,ฉันและเธอ พวกเรา (รวมผู้ฟัง),y
 kopi,กาแฟ,y
 koran,หนังสือพิมพ์,y
@@ -79,9 +81,11 @@ malam,ตอนกลางคืน,y
 mana,ที่ไหน,y
 manis,หวาน,y
 mantap,ยอดเยี่ยม สุดยอด,y
+mantel,เสื้อโค้ต,y
 masuk,เข้าไปข้างใน,y
 mau,ต้องการ,y
 membaca,อ่าน,y
+membawa,เอามา,y
 membeli,ซื้อ,y
 menulis,เขียน,y
 merah,สีแดง,y
@@ -99,6 +103,7 @@ pagi,ตอนเช้า,y
 pakain,เสื้อผ้า,y
 panas,ร้อน,y
 pasar,ตลาด,y
+payung,ร่ม,y
 pensil,ดินสอ,y
 pergi,ไป,y
 permisi,ขออภัย โทษที,y
@@ -108,8 +113,10 @@ pulang,กลับบ้าน,y
 punya,มี,y
 putih,สีขาว,y
 restoran,ร้านอาหาร,y
+rok,กระโปรง,y
 roti,โรตี ขนมปัง,y
 rumah,บ้าน,y
+sabuk,เข็มขัด,y
 sambal,ซอสพริก,y
 sampai,จนถึง ถึง (เวลา),y
 sana,ตรงโน้น,y
