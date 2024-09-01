@@ -444,7 +444,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 ฉันชอบเขามาก　ดังนั้นฉันจึงอยากซื้อของขวัญที่ดี(สวยงาม)ให้กับเขา,Ich mag ihn sehr. Deshalb möchte ich ihm ein schönes Geschenk kaufen.,
 ฉันชอบผักทุก(!a)อย่างยกเว้นมะเขือเทศ,Ich mag jedes Gemüse außer Tomaten.,
 ฉันไม่ชอบหมวกเหล่านี้เลยสักใบ,Ich mag keinen dieser Hüte.,
-ฉันชอบแมว(พหู)กับหมา(พหู)ทั้งคู่,Ich mag sowohl Katzen als auch Hunde.,
+ฉันชอบแมว(พหู)กับหมา(พหู)ทั้งคู่,Ich mag sowohl Katzen als auch Hunde.,~
 ผมต้องไปแล้วตอนนี้　มันสาย<u>แล้ว</u>,Ich muss jetzt gehen. Es ist schon spät.,
 ฉันต้องกลับบ้านแล้ว<u>ตอนนี้</u>,Ich muss jetzt nach Hause gehen.,"- ไป: g, ยัง: n"
 ฉันต้องไปซ่อนตัว,Ich muss mich verstecken.,
@@ -560,7 +560,7 @@ Julia เรียกฉันจากที่<b><u>หน้า</u></b>ปร
 ทางด้านซ้ายของบ้านของฉันเป็นซุปเปอร์มาร์เก็ตแห่งหนึ่งและทางด้านขวาของบ้านของฉันเป็นร้านขายดอกไม้แห่งหนึ่ง,Links neben meinem Haus ist ein Supermarkt und rechts neben meinem Haus ist ein Blumengeschäft.,
 Luki กระโดดข้ามหน้าต่าง,Luki springt durch das Fenster.,
 เปิดไฟหน่อยได้ไหม,Machst du bitte das Licht an?,- du<br>- คำถาม<br>- bitte
-เธอชอบหมาพอ ๆ กับแมวใช่ไหม,Magst du Hunde sowie Katzen?,
+เธอชอบหมาพอ ๆ กับแมวใช่ไหม,Magst du Hunde sowie Katzen?,(s)
 เธอชอบเพื่อนร่วมงาน(ญ)คนใหม่ไหม,Magst du die neue Kollegin?,
 ได้ยินเสียงอะไรบางอย่างตรงประตูหลังของรถบรรทุก,Man hört Lärm an der Hintertür des Lastwagens.,
 คนบางคนก็เป็นแบบนั้น,Manche Menschen sind so.,
