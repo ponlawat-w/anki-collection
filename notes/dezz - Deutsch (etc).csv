@@ -518,6 +518,7 @@ sich bedanken,V.,กล่าวคำขอบคุณ,y
 sich beeilen,V.,รีบ เร่ง,y
 sich bewegen,V.,เคลื่อนไหว,
 sich bewerben,V.,สมัคร เข้าแข่งขัน,y
+sich entspannen,V.,ผ่อนคลาย,y
 sich unterhalten,V.,สนทนา,y
 sicher,Adj.,ปลอดภัย,y
 sichtbar,Adj.,ที่มองเห็นได้,y
@@ -548,7 +549,7 @@ stark,Adj.,รุนแรง แข็งแรง (!k),y
 stecken,V.,เสียบ,y
 stehen,V.,ยืน,y
 stehlen,V.,ขโมย,y
-steigen,V.,ขึ้น เพิ่มขึ้น,y
+steigen,V.,ขึ้น เพิ่มขึ้น (!zn),y
 stellen,V.,วาง เอาวาง (สิ่งของ) (!l),y
 sterben,V.,เสียชีวิต,y
 stets,Adv.,อย่างมั่นคงต่อเนื่อง เสมอ ๆ ไม่เปลี่ยนแปลง,y

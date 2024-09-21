@@ -288,7 +288,7 @@ curt,สั้น,y
 córrer,วิ่ง,y
 damunt,เหนือ ด้านบน (d),y
 darrere,ด้านหลัง,y
-davall,ด้านล่าง ด้านใต้ (d),y
+davall,ด้านล่าง ด้านใต้ (!s),y
 davant,ข้างหน้า,y
 de colp i volta,จู่ ๆ ก็ (๔),y
 de debò,ที่จริงจัง (!s),y
@@ -1251,7 +1251,7 @@ sobre,เหนือ ด้านบน (s),y
 somriure,ยิ้ม,y
 sopar,รับประทานอาหารเย็น,y
 sospitar,สงสัย คลางแคลงใจ (!d),y
-sota,ด้านล่าง ด้านใต้ (s),y
+sota,ด้านล่าง ด้านใต้ (!d),y
 sovint,บ่อย ๆ,y
 suar,เหงื่อออก (กริยา),y
 sucar,ถู ถูไปกับ,y

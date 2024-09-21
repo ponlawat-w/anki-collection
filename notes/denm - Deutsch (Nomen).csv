@@ -217,7 +217,7 @@ das Studio,Studio,die Studios,ห้องสตูดิโอ,y
 das Stück,Stück,die Stücke,ชิ้น,y
 das Tagebuch,,,ไดอารี,y
 das Taschentuch,,,ผ้าเช็ดหน้า,y
-das Team,Team,die Teams,ทีม,y
+das Team,Team,die Teams,ทีม (!M),y
 das Telefon,Telefon,die Telefons,โทรศัพท์,y
 das Tennis,Tennis,,เทนนิส,y
 das Ticket,Ticket,die Tickets,ตั๋ว,y
@@ -490,6 +490,7 @@ der Pfannkuchen,,,แพนเค้ก,y
 der Pfeffer,Pfeffer,die Pfeffer,พริกไทย,y
 der Pfirsich,Pfirsich,die Pfirsiche,ลูกพีช,y
 der Pilz,Pilz,die Pilze,เห็ด,y
+der Plan,Plan,die Pläne,แผน แผนงาน,y
 der Platz,Platz,die Plätze,ลาน ที่ว่าง ที่,y
 der Polizist,Polizist,die Polizisten,ตำรวจ (เจ้าพนักงาน),y
 der Porsche,Porsche,,รถปอร์เช,y
@@ -848,7 +849,7 @@ die Lücke,Lücke,die Lücken,ช่องว่าง หลุม,y
 die Mahlzeit,Mahlzeit,die Mahlzeiten,มื้ออาหาร (!S),y
 die Mailbox,Mailbox,die Mailboxen,กล่องจดหมาย,y
 die Mango,Mango,die Mangos,มะม่วง,y
-die Mannschaft,Mannschaft,die Mannschaften,ทีม,y
+die Mannschaft,Mannschaft,die Mannschaften,ทีม (!T),y
 die Marmelade,Marmelade,die Marmeladen,แยม,y
 die Maschine,Maschine,die Maschinen,เครื่องจักร,y
 die Mathematik,Mathematik,,คณิตศาสตร์,y
