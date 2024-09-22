@@ -3,26 +3,34 @@ Duits,ภาษาเยอรมัน,y
 Engels,ภาษาอังกฤษ,y
 Franse,ภาษาฝรั่งเศส,y
 Italiaans,ภาษาอิตาลี,y
+Sjina,ประเทศจีน,y
 Spaans,ภาษาสเปน,y
+Suid Afrika,แอฟริกาใต้,y
 aand,ตอนเย็น,y
 aangename,ยินดี (!p),y
 agt,แปด,y
 almal,ทุกคน,y
 appel,แอปเปิล,y
 asseblief,ได้โปรด,y
+babalas,เมาค้าง,y
+ball,ลูกบอล,y
 bed,เตียง,y
 beer,หมี,y
 begin,เริ่ม,y
 beurt,ตา (เล่นเกม) ผลัดกัน,y
 beurtkrag,การผลัดกันใช้ไฟ (en: load shedding),y
+bier,เบียร์,y
 blou,สีฟ้า,y
 boom,ต้นไม้,y
 boompie,ต้นไม้ต้นเล็ก,y
 boot,เรือ,y
+bord,จาน,y
+bottel,ขวด,y
 braai,บาร์บีคิว,y
 broer,พี่ชาย / น้องชาย,y
 brood,ขนมปัง,y
 daardie,~นั้น,y
+dae,วัน (พหูพจน์),y
 dag,วัน,y
 dertien,สิบสาม,y
 dertig,สามสิบ,y
@@ -30,7 +38,10 @@ dinsdag,วันอังคาร,y
 dit,มัน สิ่งนี้,y
 doen,ทำ,y
 donderdag,วันพฤหัสบดี,y
+doos,คนเลว คนไม่ดี,y
 drie,สาม,y
+drink,ดื่ม,y
+dronk,เมา,y
 een,หนึ่ง,y
 eet,กิน,y
 ek,ฉัน,y
@@ -43,15 +54,21 @@ gedurende,ในขณะ ระหว่าง,y
 gee,ให้,y
 geel,สีเหลือง,y
 geluid,เสียง,y
+genug,เพียงพอ พอแล้ว,y
+gesuip,เมามาก,y
 gister,เมื่อวาน,y
+glase,แก้ว (พหูพจน์),y
+glass,แก้ว,y
 goed,ดี,y
 graag,อยาก (คำช่วย),y
 groen,สีเขียว,y
 haai,ฉลาม,y
+haar,เขา (ญ.กรรม) / ของเขา (ญ),y
 hierdie,~นี้,y
 hoe,อย่างไร,y
 hoekom,ทำไม,y
 hoeveel,มากเท่าไหร่,y
+hom,เขา (ช.กรรม),y
 hond,สุนัข,y
 honderd,หนึ่งร้อย,y
 hondjie,ลูกหมา หมาตัวเล็ก,y
@@ -75,11 +92,13 @@ kat,แมว,y
 kennis,ความรู้ การรู้จัก,y
 kleur,สี,y
 koei,วัว,y
+koek,ขนมเค้ก (!t),y
 koerant,หนังสือพิมพ์,y
 koffie,กาแฟ,y
 komkommer,แตงกวา,y
 kos,มีราคา,y
 krag,แรง กำลัง พลัง ความแข็งแรง,y
+kreef,กุ้งมังกร,y
 laas,ล่าสุด (!v),y
 lees,อ่าน,y
 leeu,สิงโต,y
@@ -90,6 +109,7 @@ man,ผู้ชาย,y
 meisie,เด็กผู้หญิง,y
 melk,นม,y
 met,กับ ด้วย,y
+mooi,สวยงาม,y
 motorfiets,รถเครื่อง,y
 my,ของฉัน,y
 môre,ช่วงเช้า พรุ่งนี้,y
@@ -100,6 +120,8 @@ nege,เก้า,y
 net,แค่ เพียง,y
 netso,ตามอย่างนั้น,y
 nommer,หมายเลข,y
+nooit,ไม่เคย,y
+nou,ใหม่,y
 nul,ศูนย์,y
 of,หรือ,y
 oggend,ตอนเช้า,y
@@ -116,25 +138,37 @@ pienk,สีชมพู,y
 piesang,กล้วย,y
 praat,พูด (!s),y
 presies,ใช่เลย ความแม่นยำ,y
+pyn,ความเจ็บปวด,y
 pynappel,สับปะรด,y
 reis,เที่ยว,y
 rooi,สีแดง,y
+rooiwyn,ไวน์แดง,y
 rustig,เงียบ สงบ,y
 rys,ข้าว,y
+rêgtig,เป็นความจริง,y
 saam,ด้วยกันกับ,y
 sal,จะ,y
 saterdag,วันเสาร์,y
 ses,หก,y
 sewe,เจ็ด,y
 sien,ดู,y
+sjokolade,ช็อกโกแลต,y
+soek,อยากได้,y
+soen,จูบ,y
+soentjie,หอมแก้ม,y
+sokker,ฟุตบอล,y
 sondag,วันอาทิตย์,y
+spiel,เล่น,y
 spyskaart,เมนูอาหาร,y
 studeer,เรียน,y
+stuk,ชิ้น,y
+stukke,ชิ้น (พหูพจน์),y
 suster,พี่สาว / น้องสาว,y
 swart,สีดำ,y
-sy,เขา (ญ),y
+sy,เขา (ญ) / ของเขา (ช),y
 sê,พูด (!p),y
 tagtig,แปดสิบ,y
+tert,ขนมเค้ก (!k),y
 tien,สิบ,y
 tier,เสือ,y
 toe,ไปยัง แล้ว แล้วก็,y
@@ -146,7 +180,9 @@ twintig,ยี่สิบ,y
 u,คุณ (สุภาพ),y
 uitgang,ทางออก,y
 uur,ชั่วโมง,y
+van,จาก นามสกุล,y
 vandag,วันนี้,y
+vannaand,คืนนี้,y
 veertien,สิบสี่,y
 verlese,ล่าสุด (!l),y
 vier,สี่,y
@@ -157,11 +193,16 @@ vrydag,วันศุกร์,y
 vyf,ห้า,y
 waar,ที่ไหน,y
 wanneer,เมื่อไหร่,y
+want,เพราะว่า,y
 wat,อะไร,y
 wees,เป็น อยู่ คือ,y
 werk,ทำงาน,y
 wie,ใคร,y
+wil,อยาก,y
 wit,สีขาว,y
+witwyn,ไวน์ขาว,y
 woensdag,วันพุธ,y
+worrtle,แครรอท,y
 wors,ไส้กรอก,y
+wyn,ไวน์,y
 wêreld,โลก,y
