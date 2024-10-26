@@ -209,7 +209,7 @@ fliegen,V.,บินไป,y
 folgen,V.,ติดตาม,y
 fotografieren,V.,ถ่ายรูป,y
 fragen,V.,ถาม,y
-frei,Adj.,ว่าง,y
+frei,Adj.,ว่าง (!l),y
 frei haben,V.,ว่าง (กริยา),y
 fremd,Adj.,แปลก (f),y
 fressen,V.,กิน (ใช้กับสัตว์),y
@@ -218,7 +218,7 @@ freundlich,Adj.,เป็นมิตร,y
 frisch,Adj.,สด (新鮮),y
 fröhlich,Adj.,[คำคุณศัพท์] ยินดี ปรีดา มีความสุข (!g),y
 früh,Adj.,เช้า ไว,y
-frühestens,Adv.,อย่างเร็วที่สุด (!s),y
+frühestens,Adv.,อย่างเร็วที่สุด อย่างเช้าที่สุด (!s),y
 frühmorgens,Adv.,เช้าตรู่,y
 funkeln,V.,สะท้อนแสง เป็นระยิบระยับ,y
 fühlen,V.,รู้สึก,y
@@ -355,7 +355,7 @@ laufen,V.,วิ่ง (!r),y
 laut,Adj.,เสียงดัง,y
 lecker,Adj.,อร่อย,y
 ledig,Adj.,โสด,y
-leer,Adj.,ว่างเปล่า,y
+leer,Adj.,ว่างเปล่า (!f),y
 legen,V.,วางลง (!s),y
 leicht,Adj.,น้ำหนักเบา,y
 leider,Adv.,เกรงว่า เป็นที่น่าเสียดายว่า,y
