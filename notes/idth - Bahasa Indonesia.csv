@@ -50,6 +50,7 @@ ia,เธอ (ญ) / เขา (๓ญ),y
 ingat,จำ,y
 ini,นี้,y
 itu,~นั้น,y
+jadi,ดังนั้น ก็ ก็เลย,y
 jaket,เสื้อแจกเกต,y
 jalan,เดินทาง ถนน,y
 jatuh,ตก หกล้ม,y
@@ -62,6 +63,7 @@ kalian,พวกเธอ,y
 kami,พวกเรา (ไม่รวมผู้ฟัง),y
 kamu,เธอ,y
 kantong celana,กระเป๋ากางเกง,y
+karena,เพราะว่า,y
 kaus,ทีเชิต,y
 kaus kaki,ถุงเท้า,y
 kaya,รวย,y
@@ -70,6 +72,7 @@ kecap,ซีอิ๊ว,y
 keluar,ออกไปข้างนอก,y
 kembali,กลับมา,y
 kemeja,เสื้อเชิต,y
+ketika,ในขณะที่,y
 kita,ฉันและเธอ พวกเรา (รวมผู้ฟัง),y
 kopi,กาแฟ,y
 koran,หนังสือพิมพ์,y
@@ -104,6 +107,7 @@ minuman,เครื่องดื่ม,y
 mulai,เริ่ม,y
 muncul,โผล่มา ปรากฏ,y
 nama,ชื่อ,y
+namun,แต่ ทว่า (!t),y
 nasi,ข้าว,y
 pagi,ตอนเช้า,y
 pakaian,เสื้อผ้า,y
@@ -154,7 +158,7 @@ tahu (n.),เต้าหู้,y
 tahu (v.),รู้,y
 tahun,ปี,y
 tangan,มือ,y
-tapi,แต่,y
+tapi,แต่ (!n),y
 tas,กระเป๋า,y
 teh,ชา,y
 telur,ไข่,y
