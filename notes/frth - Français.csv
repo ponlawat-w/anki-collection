@@ -1,14 +1,17 @@
 français,thaïlandais,Add Reverse
+(f.) Italie,ประเทศอิตาลี,y
 (f.) l'abeille,ผึ้ง,y
 (f.) l'araignée,แมงมุม,y
 (f.) l'eau,น้ำ,y
 (f.) l'huile,น้ำมัน,y
+(f.) l'idée,ความคิด ไอเดีย,y
 (f.) l'orange,ส้ม (ผลไม้),y
 (f.) l'école,โรงเรียน,y
 (f.pl.) les frites,มันฝรั่งทอด,y
 (f.pl.) les toilettes,ห้องน้ำ,y
 (m.) l'alcool,แอลกอฮอล์ เหล้า,y
 (m.) l'an,ปี,y
+(m.) l'anniversaire,วันเกิด,y
 (m.) l'argent,เงิน,y
 (m.) l'aéroport,สนามบิน,y
 (m.) l'examen,การสอบ,y
@@ -134,6 +137,7 @@ grave,หนักหนา สาหัส,y
 gris,สีเทา,y
 gros,ขนาดใหญ่ อ้วน,y
 génial,ยอดเยี่ยม (!p),y
+habiter,อาศัย อยู่ พำนัก,y
 ici,ที่นี่,y
 important,สำคัญ,y
 impossible,เป็นไปไม่ได้,y
@@ -169,6 +173,7 @@ la femme,ผู้หญิง,y
 la fille,เด็กผู้หญิง,y
 la fourmi,มด,y
 la fraise,สตรอว์เบอร์รี,y
+la fête,งานเลี้ยง ปาร์ตี้,y
 la jupe,กระโปรง,y
 la lettre,จดหมาย,y
 la main,มือ,y
@@ -177,6 +182,7 @@ la mouche,แมลงวัน,y
 la mère,แม่,y
 la nourriture,อาหาร,y
 la place,สถานที่,y
+la plante,พืช ต้นไม้,y
 la poche,กระเป๋า (เล็ก),y
 la pomme,แอปเปิล,y
 la recette,สูตรอาหาร,y
@@ -187,13 +193,16 @@ la salade,สลัด,y
 la semaine,สัปดาห์,y
 la soupe,ซุป,y
 la souris,หนู,y
+la sœur,พี่สาว น้องสาว,y
 la table,โต๊ะ,y
+la tasse,แก้วกาแฟ,y
 la tomate,มะเขือเทศ,y
 la tortue,เต่า,y
 la télé,โทรทัศน์ (ย่อ),y
 la vache,วัว,y
 la veste,เสื้อแจ็กเก็ต,y
 la viande,เนื้อ,y
+la voiture,รถยนต์,y
 laid,น่าเกลียด,y
 lancer,ขว้าง โยน,y
 large,กว้าง,y
@@ -217,12 +226,15 @@ le citron,มะนาว,y
 le cochon,หมู (ตัว),y
 le costume,ชุดสูท,y
 le coupain,แฟน (ช),y
+le cousin,ลูกพี่ลูกน้อง,y
+le couteau,มีด,y
 le dauphin,ปลาโลมา,y
 le dîner,อาหารเย็น,y
 le fils,ลูกชาย,y
 le football,ฟุตบอล,y
 le fromage,ชีส,y
 le fruit,ผลไม้,y
+le frère,พี่ชาย น้องชาย,y
 le gant,ถุงมือ,y
 le garçon,เด็กผู้ชาย,y
 le guitariste,มือกีตาร์,y
@@ -242,6 +254,7 @@ le légume,ผัก,y
 le magasin,ร้านค้า,y
 le manteau,เสื้อโค้ต,y
 le marché,ตลาด,y
+le mari,สามี,y
 le matin,ตอนเช้า,y
 le menu,เมนู,y
 le mot,คำ คำพูด คำศัพท์,y
@@ -328,6 +341,7 @@ pauvre,ยากจน,y
 pendant que,ในช่วง ในขณะที่,y
 perdre,สูญเสีย ทำหาย,y
 petit,เล็ก,y
+peut-être,บางที อาจจะ,y
 photographier,ถ่ายรูป,y
 pleuvoir,ฝนตก,y
 plus,มากกว่า,y
