@@ -28,6 +28,7 @@ das Becken,Becken,,อ่าง ถัง,y
 das Bein,Bein,die Beine,ขา,y
 das Beispiel,Beispiel,die Beispiele,ตัวอย่าง,y
 das Benzin,Benzin,,น้ำมัน (เบนซิน),y
+das Besteck,Besteck,,เครื่องครัว,y
 das Bett,Bett,die Betten,เตียง,y
 das Bettlaken,Bettlaken,die Bettlaken,ผ้าปูที่นอน (!~b),y
 das Betttuch,,,ผ้าปูที่นอน (~t),y
@@ -586,6 +587,7 @@ der Termin,Termin,die Termine,การประชุม การนัดห�
 der Test,Test,die Tests,การทดสอบ (T),y
 der Tierarzt,,,สัตวแพทย์,y
 der Tisch,Tisch,die Tische,โต๊ะ,y
+der Topf,Topf,die Töpfe,หม้อ,y
 der Tourist,Tourist,die Touristen,นักท่องเที่ยว,y
 der Transport,Transport,die Transporte,การขนส่ง คมนาคม (!L),y
 der Traum,Traum,die Träume,ความฝัน,y
@@ -679,6 +681,7 @@ die Biologie,Biologie,,ชีววิทยา,y
 die Birne,Birne,die Birnen,ลูกแพร,y
 die Blume,Blume,die Blumen,ดอกไม้,y
 die Bluse,Bluse,die Blusen,เสื้อเชิตผู้หญิง,y
+die Bohne,Bohne,die Bohnen,ถั่ว,y
 die Botschaft,Botschaft,die Botschaften,สถานทูต,y
 die Bratkartoffeln,Bratkartoffeln,,มันฝรั่งผัด,y
 die Brille,Brille,die Brillen,แว่นตา,y
@@ -937,11 +940,13 @@ die Schulter,Schulter,die Schultern,หัวไหล่,y
 die Schweinebraten,Schweinebraten,,หมูย่าง,y
 die Schwester,Schwester,die Schwestern,พี่สาว น้องสาว,y
 die Schwägerin,Schwägerin,die Schwägerinnen,พี่สะใภ้ น้องสะใภ้,y
+die Schürze,Schürze,die Schürzen,ผ้ากันเปื้อน,y
 die Schüssel,Schüssel,die Schüsseln,ถ้วย,y
 die Sehenswürdigkeit,Sehenswürdigkeit,die Sehenswürdigkeiten,สถานที่ท่องเที่ยว,y
 die Seife,Seife,die Seifen,สบู่,y
 die Sekretärin,,die Sekretärinnen,เลขา (ญ),y
 die Sekunde,Sekunde,die Sekunden,วินาที<br>,y
+die Serviette,Serviette,die Servietten,ผ้าเช็ดหน้า ทิชชู่,y
 die Sicherheit,Sicherheit,,ความปลอดภัย,y
 die Socke,Socke,die Socken,ถุงเท้า,y
 die Sonne,Sonne,die Sonnen,ดวงอาทิตย์,y
@@ -1008,6 +1013,7 @@ die Vorlesung,Vorlesung,die Vorlesungen,คาบเรียน คาบบร
 die Wachtel,Wachtel,die Wachteln,นกกระทา,y
 die Wahrheit,,,ความจริง,y
 die Wand,Wand,die Wände,ผนัง,y
+die Wanderung,,,การเดินป่า,y
 die Ware,Ware,die Waren,สินค้า ผลิตภัณฑ์,y
 die Warmmiete,,,ค่าเช่ารวม,y
 die Waschmaschine,Waschmaschine,die Waschmaschinen,เครื่องซักผ้า,y
