@@ -1,5 +1,6 @@
 français,thaïlandais,Add Reverse
 (f.) Italie,ประเทศอิตาลี,y
+(f.) Suisse,สวิตเซอร์แลนด์,y
 (f.) l'abeille,ผึ้ง,y
 (f.) l'araignée,แมงมุม,y
 (f.) l'eau,น้ำ,y
@@ -110,6 +111,7 @@ dormir,หลับ,y
 doux,หวาน นุ่ม สุภาพ,y
 drôle,ตลก,y
 dès,จาก ทันทีที่,y
+déjà,แล้ว,y
 désolé,ขอโทษ ที่รู้สึกผิด,y
 ensemble,ด้วยกัน,y
 entendre,ได้ยิน,y
@@ -149,6 +151,7 @@ jeune,ที่อายุน้อย เด็ก,y
 joli,สวยงาม หล่อ งดงาม (!b),y
 jouer,เล่น,y
 jusque,จนกระทั่ง ไปถึง,y
+juste,แค่ เพียง ใช่,y
 l'enfant,เด็ก,y
 la baguette,ขนมปังบาเกต์,y
 la baleine,ปลาวาฬ,y
@@ -246,11 +249,13 @@ le joueur,ผู้เล่น นักกีฬา,y
 le jour,วัน,y
 le journal,หนังสือพิมพ์,y
 le jus,น้ำผลไม้,y
+le lac,ทะเลสาบ,y
 le lait,นม,y
 le lion,สิงโต,y
 le livre,หนังสือ,y
 le loup,หมาป่า,y
 le légume,ผัก,y
+le macaron,มาการอง,y
 le magasin,ร้านค้า,y
 le manteau,เสื้อโค้ต,y
 le marché,ตลาด,y
@@ -264,13 +269,17 @@ le pantalon,กางเกง,y
 le papillon,ผีเสื้อ,y
 le parapluie,ร่ม,y
 le parent,ผู้ปกครอง,y
+le pays,ประเทศ,y
 le perroquet,นกแก้ว,y
 le poisson,ปลา,y
 le poivre,พริกไทย,y
 le porc,เนื้อหมู,y
+le portable,โทรศัพท์มือถือ,y
 le portefeuille,กระเป๋าเงิน,y
 le poulet,ไก่,y
+le pull,เสื้อกันหนาว สเวตเตอร์,y
 le père,พ่อ,y
+le quartier,หนึ่งในสี่ ย่าน เขต,y
 le raisin,องุ่น,y
 le repas,มื้ออาหาร,y
 le requin,ปลาฉลาม,y
@@ -292,6 +301,7 @@ le tigre,เสือ,y
 le train,รถไฟ,y
 le verre,แก้ว,y
 le vin,ไวน์,y
+le vélo,จักรยาน,y
 le zoo,สวนสัตว์,y
 les maths,คณิตศาสตร์,y
 les pâtes,พาสต้า,y
