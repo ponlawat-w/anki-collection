@@ -26,23 +26,36 @@
 นั่นอะไร,Ano ba iyan?,
 เธอชอบอะไร,Anong gusto mo?,aQ
 ชื่อของพวกคุณคืออะไร,Anu-ano ba ang mga pangalan ninyo?,n+a
+เขาไม่ชอบกินไข่ข้าว,Ayaw niyang kanin ang balut.,P
+เขาไม่ชอบดื่มนม,Ayaw siyang uminom ng gatas.,
 รถเรา(-2)ใหม่,Bago ang kotse namin.,~S n+a
 พวกเรา(+2)นับเงิน,Bilangin natin ang pera.,P
 ฉันอ่านจดหมาย,Binasa ko ang sulat.,P
 เด็กซื้อหนังสือ,Binili ng bata ang aklat.,P
 ผู้หญิงอายุน้อยซื้อหนังสือ,Binili ng batang babae ang aklat.,P
 เราอ่านนิทานเรื่องหนึ่งกันเถอะ,Bumasa tayo ng isang kuwento.,VSO
+ฉันต้องเขียนถึงเพื่อนของฉันในสหรัฐอเมริกา,Dapat akong sumulat sa aking kaibigan sa Estados Unidos.,
+เด็ก ๆ ต้องกินผัก,Dapat kumain ng gulay ang mga bata.,VOS
+เขาต้องดื่มนม,Dapat niyang inumin ang gatas.,P
+เขาต้องดื่มนม,Dapat siyang uminom ng gatas.,
+ปีเตอร์ต้องเขียนเรื่องของเขาคืนนี้,Dapat sulatin ni Peter ang kanyang kuwento ngayong gabi.,P
 เฮเลนมาถึงเมื่อวาน,Dumating si Helen kahapon.,VS
 พวกเขามาถึงที่นี่ฟิลิปปินส์เมื่อเดือนที่แล้ว,Dumating sila rito sa Pilipinas noong isang buwan.,VSO
 รอยยิ้มเขาเหมือนกับดวงอาทิตย์,Gaya ng araw ang kanyang ngiti.,VOS(a+n)
 พวกคุณชอบ(อยู่)ฟิลิปปินส์ไหม,Gusto ba ninyo sa Pilipinas?,
 เธอชอบอันนี้ไหม,Gusto mo ba ito?,
+เธอชอบกินขนมปังไหม,Gusto mo bang kumain ng tinapay?,
+พวกเขาชอบเขียนนิทานในภาษาตากาล็อก,Gusto nilang sulatin ang kuwento sa Tagalog.,P
+เด็กชอบดื่มนม,Gustong uminom ng gatas ng bata.,
+ฉันชอบ(!g)เรียนภาษาตากาล็อก,Ibig kong mag-aral ng Tagalog.,
+พวกเขาชอบ(!g)พูดภาษาตากาล็อก,Ibig nilang magsalita ng Tagalog.,
 เธอเป็นผู้หญิง,Ikaw ay babae.,S~
 ลูกของคุณมีกี่คน,Ilan ba ang anak ninyo?,n+a
 ลูก ๆ ของพวกเขามีกี่คน,Ilan-ilan ba ang mga anak nila?,n+a
 บ้านหลังใหญ่คือโรงเรียนแห่งหนึ่ง,Isang paaralan ang bahay na malaki.,~S n+a
 โต๊ะตัวนี้มันสะอาด,Itong mesang ito ay malinis.,S~ a+n+a
 สิ่งนั้นคืออาหารของมารี,Iyan ay pagkain ni Mary.,S~
+นักเรียน(พหู)จำเป็นต้องเรียนทุกวัน,Kailangang mag-aral ang mga istudiyante araw-araw.,
 พวกเขากินกล้วย(พหู)ไหม,Kakain ba nila ang mga saging?,P
 ปีเตอร์กินปลา,Kakain ni Peter ang isda.,P
 พวกเราเป็นพี่น้อง,Kami ay magkapatid.,- S~<br>- ไม่รวมผู้ฟัง
@@ -58,6 +71,8 @@
 คุณสบายดีไหมครับ,Kumusta po kayo?,
 แม่บ้านจะทำกับข้าวด้วยผัก,Lulutuin ng katulong ang gulay.,P
 รถของพวกเรา(-2)เก่า,Luma ang aming kotse.,- ~S a+n<br>- ไม่รวมผู้ฟัง
+ฉันทำความสะอาดรองเท้าของเธอได้,Maari akong maglinis ng iyong sapatos.,
+ขอเธอทำความสะอาดรองเท้าของฉันได้ไหม,Maari bang linisin mo ang aking sapatos?,P
 หนังสือเล่มใหม่มันสวย,Maganda ang bagong aklat.,~S a+n
 ผู้หญิงก็สวยหรือเปล่า,Maganda rin ba ang babae?,~S
 สวัสดีตอนเย็น,Magandang gabi.,
