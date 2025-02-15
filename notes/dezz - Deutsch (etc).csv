@@ -44,6 +44,7 @@ aufgeben,V.,ยอมแพ้,y
 aufhören,V.,หยุด (a),y
 aufmachen,[Trennbare] V.,เปิด (ไม่ใช่ไฟฟ้า),y
 aufpassen,V.,ระวัง ดูดี ๆ ตั้งใจดู,y
+aufregend,Adj.,น่าตื่นเต้น,y
 aufräumen,V.,จัด ทำความสะอาด,y
 aufschreiben,V.,จด,y
 aufstehen,V.,ตื่นนอน (ลุกจากที่นอน),y
@@ -91,7 +92,7 @@ bestellen,V.,สั่ง,y
 bestätigen,V.,ยืนยัน รับรู้,y
 besuchen,V.,(กริยา)เยี่ยม,y
 betrachten,V.,ดู ตรวจสอบ พิจารณา,y
-beunruhigt,Adj.,ที่กังวล ที่ไม่สบายใจ,y
+beunruhigt,Adj.,ที่กังวล ที่ไม่สบายใจ (!bs),y
 bevor,Konj.,ก่อน,y
 bezahlen,V.,จ่าย (be),y
 bilden,V.,สร้าง (!bauen),y
@@ -134,6 +135,7 @@ draußen,Adj.,ข้างนอก (d),y
 dreckig,Adj.,สกปรก (!s),y
 drehen,V.,หัน หมุน,y
 dritt,Adj.,ที่สาม,y
+drüben,Adv.,แถว ๆ นั้น,y
 dumm,Adj.,โง่,y
 dunkel,Adj.,มืด,y
 durch,Präp.,ผ่านทาง,y
@@ -712,6 +714,7 @@ zunehmen,V.,ขยายขึ้น มากขึ้น เพิ่มขึ
 zurufen,V.,เรียก,y
 zurück,Adv.,กลับ ย้อน,y
 zusammen,Adv.,ด้วยกัน (จ่ายรวม),y
+zustimmen,V.,เห็นด้วย,y
 zuständig,Adj.,ที่รับผิดชอบ ที่เกี่ยวข้อง ที่มีหน้าที่/อำนาจ,y
 zusätzlich,Adj.,ที่เพิ่มเติม,y
 zuverlässig,Adj.,เชื่อถือได้ (!s),y

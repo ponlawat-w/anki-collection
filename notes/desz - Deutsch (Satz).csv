@@ -85,6 +85,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 นั่นเป็นคำปรารถนาของคุณยายของเธอ,Das ist der Wunsch deiner Großmutter.,
 นี่คือคุณผู้หญิงของบ้าน,Das ist die Dame des Hauses.,
 นั่นเป็นผู้หญิงที่สามีเขาเป็นหมอ,"Das ist die Frau, deren Mann Arzt ist.",
+นั่นคือพนักงาน(ญ)คนที่ลูกชายของเขาป่วย,"Das ist die Mitarbeiterin, deren Sohn krank ist.",
 นี่คือชั่วโมงสุดท้ายของวัน,Das ist die letzte Stunde des Tages.,
 นี่คือปราสาท　ปราสาทชื่อว่า Neuschwanstein　มันสวยมากและมีชื่อเสียงมาก,Das ist ein Schloss. Das Schloss heißt Neuschwanstein. Es ist sehr schön und sehr bekannt.,
 นั่นเป็นก้อนหินสีเหลือง,Das ist ein gelber Stein.,
@@ -173,6 +174,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 พี่สาวของเพื่อน(ญ)ของฉันแต่งงานแล้ว,Die Schwester von meiner Freundin ist schon verheiratet.,
 สบู่มีสีขาว,Die Seife ist weiß.,
 เก้าอี้นวม<sub>(พหู)</sub>นั่งสบาย<b><u><i>มาก</i></u></b>และมันมีราคาถูก<sub>(คุ้มค่า)</sub>,Die Sessel sind sehr bequem und sie sind günstig.,
+การบ้านภาษาสเปน(พหู)สัปดาห์นี้มันน่าสนใจมาก เธอเห็นด้วยกับฉันไหม,"Die Spanish-Hausaufgaben diese Woche sind interessant, stimmst du mir zu?",
 แม่น้ำ Spree สะท้อนแสงอาทิตย์(เป็นประกายระยิบระยับ),Die Spree funkelt in der Sonne.,
 เก้าอี้ดูทันสมัยและสวย,Die Stühle sind modern und schön.,พหูพจน์
 ค่าเช่ารวมทั้งหมด 450 ยูโรต่อเดือน,Die Warmmiete ist vierhundertfünfzig Euro pro Monat.,
@@ -248,7 +250,7 @@ Bärlin กับ Franka อยู่ที่งานเลี้ยง,Bärli
 เขาไม่ทั้งสูงหรือเตี้ย,Er ist weder groß noch klein.,
 เขาพอใจกับการรักษา,Er ist zufrieden mit der Pflege.,
 เขาอ่านหนังสือหนึ่งเล่มทุก ๆ ปี,Er liest ein Buch jährlich.,
-เขาวิ่งช้ากว่า,Er läuft langsamer.,
+เขาวิ่ง(!r)ช้ากว่า,Er läuft langsamer.,
 เขาไม่ชอบกีฬา,Er mag keinen Sport.,er
 เขาอยากได้(!b)นาฬิกา(จาก)อังกฤษเรือนหนึ่ง,Er möchte eine englische Uhr.,
 เขาหลับทันทีที่เขาไปที่เตียง,Er schläft sobald er ins Bett geht.,
@@ -496,7 +498,7 @@ Hans ตอบคำถามครู,Hans antwortet dem Lehrer.,
 อาการปวดของคุณ<sub>(Sie)</sub>อาจรุนแรง<sub>(อันตราย)</sub>ขึ้นได้,Ihre Schmerzen können gefährlich sein.,
 การเสพติดของเขา(ญ)นั้นไม่ดีต่อสุขภาพ,Ihre Sucht ist nicht gesund.,
 ในสนามบินมีผู้คน(M)มากมายที่ต้องการซื้อหรือเปลี่ยนตั๋วเครื่องบินของพวกเขาที่นี่,"Im Flughafen sind viele Menschen, die hier ihre Flugtickets kaufen oder ändern wollen.",
-"ในร้านฉันมองหาพนักงานขาย(ญ)และฉันถามเธอว่า ""มีนาฬิกาผู้ชายดี ๆ ไหม""","Im Geschäft suche ich die Verkäuferin und frage sie: ""Haben Sie sehr gute Herrenuhren?""",- ดี ๆ: ดีมาก (ไม่ใช่สวย)
+"ในร้านฉันมองหาพนักงานขาย(ญ)และฉันถามเธอว่า ""คุณมีนาฬิกาผู้ชายดี ๆ ไหม""","Im Geschäft suche ich die Verkäuferin und frage sie: ""Haben Sie sehr gute Herrenuhren?""",- ดี ๆ: ดีมาก (ไม่ใช่สวย)
 เดือนมิถุนายนเขาจะมาหาฉัน,Im Juni kommt er zu mir.,
 ในปากเธอ(๓)มีลูกกวาดอยู่แท่งหนึ่ง,Im Mund hat sie einen Lolly.,- ขึ้นประโยคด้วยบุพบท
 ในกระเป๋าเป้<u><b>ฉันมี</b></u>สายชาร์จอันหนึ่งสำหรับโทรศัพท์ของฉัน,Im Rucksack habe ich ein Ladegerät für mein Handy.,
@@ -543,6 +545,7 @@ Julia เรียกฉันจากที่<b><u>หน้า</u></b>ปร
 เธออ่านหนังสือได้เฉพาะตอนใส่แว่นตาใช่ไหม,Kannst du nur mit Brille lesen?,
 ไม่มีปัญหา งั้นเราเจอกันหกโมงที่ในเมือง,Kein Problem. Dann sehen wir uns um sechs Uhr in der Stadt.,- เจอ: s
 ไม่รู้สิ,Keine Ahnung.,ไม่มีไอเดีย
+ผู้ปกครองรู้จักคุณครูทุกคนของลูกของพวกเขาไหม,Kennen die Eltern alle Lehrer ihrer Kinder?,
 มา เราจะเดินตัดสวนสาธารณะ มันใกล้กว่า,"Komm, wir gehen durch den Park, das ist kürzer.",
 อย่าเข้ามาใกล้ฉันเกินไปนะ,Komme mir nicht zu nahe!,!
 คุณ(Sie)จะไม่มา(k→z)งานเลี้ยงหรือ / ไปสิ แต่เดี๋ยวอีกแปป,"Kommen Sie nicht zur Party? / Doch, aber ein bisschen später.",
@@ -810,6 +813,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 ตอนที่เธอ(๓ญ)กิน ฉันจะดื่ม,"Wenn sie isst, trinke ich.",
 เธอคือใคร,Wer bist du?,
 ใครอยู่กับ(!m)เธอ(๓)ในโรงพยาบาล,Wer ist bei ihr im Krankenhaus?,
+ที่อยู่ตรงนั้นคือใคร,Wer ist das da drüben?,
 คุณเป็นใครหรอครับ,Wer sind Sie?,Sie
 คุณอายุเท่าไหร่,Wie alt bist du?,du
 ลูกชายของคุณอายุเท่าไหร่,Wie alt ist Ihr Sohn?,Sie?
@@ -821,6 +825,7 @@ Peter โทรศัพท์หาเพื่อน(ญ)ของเขา,Pe
 คุณชื่ออะไร,Wie heißt du?,du
 หมาเขาชื่ออะไร,Wie heißt sein Hund?,
 หมายเลขโทรศัพท์ของคุณ(Sie)คืออะไร,Wie ist Ihre Telefonnummer?,Sie
+ชื่อของครู(ญ)ของเธอคืออะไร,Wie ist der Name deiner Lehrerin?,
 สลัดเป็นอย่างไรบ้าง,Wie ist der Salat?,
 เธออยู่(sein)ที่เยอรมนีมานานเท่าไหร่<b><u><i>แล้ว</i></u></b>,Wie lange bist du schon in Deutschland?,
 เราพักกลางวันกันนานแค่ไหน,Wie lange haben wir Mittagspause?,
