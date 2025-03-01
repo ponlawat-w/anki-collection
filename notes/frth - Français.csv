@@ -4,6 +4,7 @@ français,thaïlandais,Add Reverse
 (f.) l'abeille,ผึ้ง,y
 (f.) l'araignée,แมงมุม,y
 (f.) l'eau,น้ำ,y
+(f.) l'espèce,ชนิด ประเภท,y
 (f.) l'huile,น้ำมัน,y
 (f.) l'idée,ความคิด ไอเดีย,y
 (f.) l'orange,ส้ม (ผลไม้),y
@@ -58,6 +59,7 @@ avoir,มี,y
 bas,ต่ำ เตี้ย,y
 beau,สวย ดูดี (!j),y
 beaucoup,มาก,y
+bien sûr,แน่นอน ใช่เลย,y
 bientôt,ไว ๆ นี้ ที่จะถึงนี้,y
 blanc,สีขาว,y
 bleu,สีน้ำเงิน,y
@@ -87,6 +89,7 @@ comprendre,เข้าใจ,y
 concerner,ทำผลกระทบ ทำให้กังวล,y
 connaître,รู้จัก,y
 contenir,บรรจุ,y
+content,ปลาบปลื้มใจ ดีใจ,y
 contre,vs,y
 couper,ตัด,y
 courir,วิ่ง,y
@@ -125,6 +128,7 @@ facile,ง่าย (!s),y
 faible,อ่อนแอ,y
 faire,ทำ,y
 falloir,จำเป็นต้อง (ไม่มีประธาน) ขาด,y
+fatigué,เหนื่อย,y
 fermer,ปิด,y
 finir,ทำเสร็จ (!t),y
 folle,บ้า (ญ),y
@@ -158,6 +162,7 @@ la baleine,ปลาวาฬ,y
 la bière,เบียร์,y
 la boisson,เครื่องดื่ม,y
 la botte,รองเท้าบูต,y
+la boulangerie,ร้านขายขนมปัง เบเกอรี่,y
 la carotte,แครอท,y
 la ceinture,เข็มขัด,y
 la chatte,แมวตัวเมีย,y
@@ -180,11 +185,13 @@ la fraise,สตรอว์เบอร์รี,y
 la fête,งานเลี้ยง ปาร์ตี้,y
 la jupe,กระโปรง,y
 la lettre,จดหมาย,y
+la limonade,น้ำมะนาว,y
 la main,มือ,y
 la maison,บ้าน,y
 la mouche,แมลงวัน,y
 la mère,แม่,y
 la nourriture,อาหาร,y
+la part,ชิ้น ส่วน,y
 la place,สถานที่,y
 la plante,พืช ต้นไม้,y
 la poche,กระเป๋า (เล็ก),y
@@ -195,6 +202,7 @@ la rose,ดอกกุหลาบ,y
 la réservation,การจอง,y
 la salade,สลัด,y
 la semaine,สัปดาห์,y
+la soirée,ตอนเย็น ตอนหัวค่ำ,y
 la soupe,ซุป,y
 la souris,หนู,y
 la surprise,เซอร์ไพรส์ เรื่องประหลาดใจ,y
@@ -219,6 +227,7 @@ le besoin,ความจำเป็น,y
 le beurre,เนย,y
 le billet,ตั๋ว,y
 le bonbon,ลูกอม ขนมหวาน,y
+le bureau,โต๊ะทำงาน ห้องทำงาน,y
 le bœuf,เนื้อวัว,y
 le cadeau,ของขวัญ,y
 le canard,เป็ด,y
@@ -419,6 +428,7 @@ vers,ไปยัง มุ่งหน้าไปยัง,y
 vert,สีเขียว,y
 violet,สีม่วง,y
 visiter,เยี่ยม ไปเที่ยวหา,y
+vite,อย่างเร็ว อย่างรวดเร็ว เร็ว ๆ,y
 vivre,อยู่อาศัย,y
 voir,เห็น ดู (!r),y
 vouloir,อยาก,y

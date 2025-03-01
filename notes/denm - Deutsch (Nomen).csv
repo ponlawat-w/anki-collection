@@ -24,6 +24,7 @@ das Auto,Auto,die Autos,รถยนต์ (!W),y
 das Baby,Baby,die Babys,เด็กทารก,y
 das Bad,Bad,die Bäder,ห้องอาบน้ำ (ไม่ Zimmer),y
 das Badezimmer,,,ห้องอาบน้ำ (zimmer),y
+das Ballet,Ballet,,การเต้นบัลเลต์,y
 das Becken,Becken,,อ่าง ถัง,y
 das Bein,Bein,die Beine,ขา,y
 das Beispiel,Beispiel,die Beispiele,ตัวอย่าง,y
@@ -52,7 +53,7 @@ das Dokument,Dokument,die Dokumente,เอกสาร (!B),y
 das Dorf,Dorf,die Dörfer,เมือง (d),y
 das Ei,Ei,die Eier,ไข่,y
 das Einfamilienhaus,,,บ้านอยู่หนึ่งครอบครัว,y
-das Einkaufszentrum,,,ศูนย์การค้า ห้างสรรพสินค้า,y
+das Einkaufszentrum,,,ศูนย์การค้า ห้างสรรพสินค้า (!h),y
 das Eis,Eis,die Eis,น้ำแข็ง ไอศกรีม,y
 das Ende,Ende,die Enden,จุดสิ้นสุด การสำเร็จเสร็จสิ้น,y
 das Erdgeschoss,,,ชั้นล่าง (ชั้นหนึ่ง),y
@@ -126,6 +127,7 @@ das Interesse,Interesse,die Interessen,ความสนใจ,y
 das Jahr,Jahr,die Jahre,ปี,y
 das Jahrhundert,,,ศตวรรษ,y
 das Kaninchen,Kaninchen,,กระต่าย,y
+das Kaufhaus,,,ห้างสรรพสินค้า (!z),y
 das Kehrblech,Kehrblech,die Kehrbleche,ที่ตักผง,y
 das Kilo,Kilo,die Kilos,กิโล,y
 das Kind,Kind,die Kinder,ลูก,y
@@ -292,6 +294,7 @@ der Bescheid,Bescheid,die Bescheide,การแจ้งเตือน กา�
 der Besen,Besen,die Besen,ไม้กวาด,y
 der Besitzer,Besitzer,die Besitzer,เจ้าของ,y
 der Besuch,Besuch,die Besuche,การเยี่ยม,y
+der Betreiber,,,ผู้ควบคุม ผู้ปฏิบัติการ,y
 der Bettbezug,Bettbezug,die Bettbezüge,ผ้าปูเตียง (!~l),y
 der Bewohner,Bewohner,,ผู้อยู่อาศัย,y
 der Bezirk,Bezirk,die Bezirke,ย่าน เขต,y
