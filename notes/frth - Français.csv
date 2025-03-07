@@ -24,6 +24,7 @@ français,thaïlandais,Add Reverse
 (m.) l'ours,หมี,y
 (m.) l'âge,อายุ,y
 (m.) l'éléphant,ช้าง,y
+(m.) l'étage,ชั้น,y
 (m.) l'étudiant,นักเรียน,y
 (m.) l'œuf,ไข่,y
 acheter,ซื้อ,y
@@ -165,12 +166,14 @@ la botte,รองเท้าบูต,y
 la boulangerie,ร้านขายขนมปัง เบเกอรี่,y
 la carotte,แครอท,y
 la ceinture,เข็มขัด,y
+la chambre,ห้องนอน,y
 la chatte,แมวตัวเมีย,y
 la chaussette,ถุงเท้า,y
 la chaussure,รองเท้า,y
 la chemise,เสื้อเชิต,y
 la chienne,สุนัขตัวเมีย,y
 la chose,สิ่งของ,y
+la clé,กุญแจ,y
 la confiture,แยม,y
 la copine,แฟน (ญ),y
 la couleur,สี,y
@@ -382,6 +385,7 @@ préféré,ที่โปรดปราน ที่ชอบ,y
 prêt,พร้อม,y
 pur,บริสุทธิ์,y
 quand,เมื่อไหร่,y
+quatrième,อันดับที่สี่,y
 qui,ใคร,y
 rapide,เร็ว,y
 regarder,ดู (!v),y
