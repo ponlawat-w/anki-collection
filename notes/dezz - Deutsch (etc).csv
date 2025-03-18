@@ -160,7 +160,7 @@ einschlafen,V.,หลับ (ผลอยหลับ),y
 einschließlich,Präf.,รวมไปถึง รวม…ด้วย,y
 einsteigen,V.,ขึ้น(รถ/ยานพาหนะ),y
 eintreffen,V.,มาถึง (!k),y
-einverstanden sein,V.,เห็นด้วย (!d),y
+einverstanden sein,V.,เห็นด้วย (!d!zs),y
 einzeln,Adj.,ที่เป็นเฉพาะคน ที่เป็นแต่ละส่วนตัว (en: individual),y
 einziehen,V.,ย้ายเข้ามาอยู่,y
 eiskalt,Adj.,หนาวมาก หนาวจนแข็ง,y
@@ -574,6 +574,7 @@ teuer,Adj.,แพง,y
 todmüde,Adj.,เหนื่อยมาก ๆ หมดแรง,y
 toll,Adj.,ยอดเยี่ยม (t),y
 tragen,V.,แบก หาม สวม,y
+traurig,Adj.,เศร้า,y
 treffen,V.,เจอ พบ,y
 trocken,Adj.,แห้ง,y
 trotz,Präp.,แม้ว่า (+ คำนาม),y

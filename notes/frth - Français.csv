@@ -82,6 +82,7 @@ chercher,ค้นหา,y
 chez,(บุพบท) ที่บ้าน,y
 chinois,ที่เกี่ยวกับจีน,y
 clair,ชัดเจน ซีด สว่าง,y
+collègue,เพื่อนร่วมงาน,y
 combien,มากเท่าไหร่,y
 commander,สั่ง ร้องขอ,y
 commencer,เริ่ม,y
@@ -216,6 +217,7 @@ la tomate,มะเขือเทศ,y
 la tortue,เต่า,y
 la télé,โทรทัศน์ (ย่อ),y
 la vache,วัว,y
+la valise,กระเป๋าเดินทาง,y
 la veste,เสื้อแจ็กเก็ต,y
 la viande,เนื้อ,y
 la voiture,รถยนต์,y
@@ -233,6 +235,7 @@ le bonbon,ลูกอม ขนมหวาน,y
 le bureau,โต๊ะทำงาน ห้องทำงาน,y
 le bœuf,เนื้อวัว,y
 le cadeau,ของขวัญ,y
+le canapé,โซฟา,y
 le canard,เป็ด,y
 le chapeau,หมวก,y
 le chat,แมว,y
@@ -241,6 +244,7 @@ le chien,สุนัข,y
 le chocolat,ช็อกโกแลต,y
 le citron,มะนาว,y
 le cochon,หมู (ตัว),y
+le collège,สถาบัน วิทยาลัย โรงเรียน,y
 le costume,ชุดสูท,y
 le coupain,แฟน (ช),y
 le cousin,ลูกพี่ลูกน้อง,y
@@ -297,6 +301,7 @@ le quartier,หนึ่งในสี่ ย่าน เขต,y
 le raisin,องุ่น,y
 le repas,มื้ออาหาร,y
 le requin,ปลาฉลาม,y
+le retard,การมาช้า เสียเวลา,y
 le riz,ข้าว,y
 le robot,หุ่นยนต์,y
 le sac,ถุง กระเป๋า,y
@@ -377,6 +382,7 @@ pourquoi,ทำไม,y
 pouvoir,สามารถ,y
 premier,อันดับที่หนึ่ง,y
 prendre,เอา ดื่ม รับ,y
+pressé,รีบร้อน,y
 prochain,ถัดไป,y
 proposer,เสนอ,y
 propre,สะอาด,y
