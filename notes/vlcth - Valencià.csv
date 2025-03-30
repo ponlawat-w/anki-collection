@@ -104,6 +104,7 @@ valencià,tailandés,Add Reverse
 (m.) l&#x27;embolcall,การห่อของขวัญหรือสินค้า,y
 (m.) l'embotit,อาหารตระกูลไส้กรอก,y
 (m.) l'empresari,พนักงานบริษัท,y
+(m.) l'encanteri,การปลุกเสก,y
 (m.) l'encreuament,ทางแยก,y
 (m.) l'endemà,วันถัดไป,y
 (m.) l'enemic,ศัตรู,y
@@ -232,6 +233,7 @@ arribar,ไปถึง (กริยา),y
 arrissat,(ผม) หยักศก,y
 arromangar-se,เลิกแขนเสื้อ,y
 arrossegar,กระชาก,y
+arrufar el nas,ทำจมูกย่น ยกจมูกขึ้น,y
 arruixar,ฉีด สาด โปรย,y
 arrunsar,ย่อลง ทำให้หดลง,y
 assecar,ทำให้แห้ง ตากให้แห้ง,y
@@ -298,6 +300,7 @@ de franc,ฟรี (!d),y
 de sopte,จู่ ๆ ก็ (๒),y
 de tant en tant,นาน ๆ ที (es: de vez en cuando),y
 debades,ฟรี (!f),y
+decebre,ทำให้ผิดหวัง,y
 deficiós,ยม ไม่อยากทำอะไร,y
 delir,ทำลาย (!t),y
 delir-se per,ต้องการเป็นอย่างมาก อยากอย่างมาก,y
@@ -502,6 +505,7 @@ el germà,พี่ชาย น้องชาย,y
 el gimnàs,ยิม,y
 el glaçó,ก้อนน้ำแข็ง,y
 el glop,อึก,y
+el goig,ความดีใจ ความยินดี ปีติยินดี,y
 el gos,สุนัข,y
 el got,แก้ว (พาชนะ),y
 el granger,ชาวนา (!c),y
@@ -700,12 +704,14 @@ el tall,การตัด หั่นชิ้น,y
 el tamboret,เก้าอี้สูงหน้าบาร์,y
 el tap,ฝา,y
 el tema,หัวข้อ,y
+el terratrèmol,แผ่นดินไหว,y
 el terreny,ที่ดิน,y
 el torneig,ทัวร์นาเมนต์,y
 el tramvia,รถราง,y
 el treball,อาชีพ (t),y
 el trellat,เหตุผล (ความเมกเซนส์) (!r),y
 el tren,รถไฟ,y
+el tret,การยิง การพุ่งออก,y
 el tro,ฟ้าร้อง,y
 el trànsit,การจราจร,y
 el turc,ภาษาตุรกี / คนตุรกี (ช),y
@@ -763,10 +769,12 @@ esquerrer,ถนัดซ้าย,y
 esquiar,เล่นสกี,y
 estalviar,เก็บออม ประหยัด,y
 estatunidenc,ที่เกี่ยวกับสหรัฐอเมริกา,y
+estendre,ขยายออก,y
 estimar,ชอบ รัก,y
 estirar,ดึง,y
 estret,แคบ คับ,y
 estripar,แกะออก ผ่าไส้,y
+estufarrar / estarrufar,(ขน)ลุก,y
 estúpid,โง่,y
 esvelt,ผอมเพรียว สลิม,y
 etzibar,ต่อย ขว้าง เถียง,
@@ -828,6 +836,7 @@ la bombera,นักดับเพลิงผู้หญิง,y
 la bossa,กระเป๋าถือ,y
 la botifarra,ไส้กรอก(เลือด),y
 la botiga,ร้านค้า,y
+la botzina,เสียงแตร(รถ),y
 la branca,กิ่งก้านสาขา,y
 la brusa,ชุดสตรี,y
 la bufanda,ผ้าพันคอ,y
@@ -1019,6 +1028,7 @@ la periodista,นักข่าวผู้หญิง,y
 la perseverança,การทำเป็นประจำ,y
 la perxa,ไม้แขวนเสื้อ,y
 la peça,ชิ้น,y
+la piga,กระ,y
 la pilota,ลูกบอล,y
 la pinta,หวี (คำนาม),y
 la pintora,นักวาดภาพผู้หญิง,y
@@ -1129,6 +1139,7 @@ llavors,ตอนนั้น ดังนั้น (es: entonces) (!a),y
 llegir,อ่าน,y
 lleig,น่าเกลียด อัปลักษณ์,y
 llest,ฉลาด,y
+lleuger,เบา บาง ไม่บาดเจ็บ,y
 llevar-se,ลุก (ตื่น) (ll),y
 llis,(ผม) ตรง,y
 lliure,ว่าง,y
@@ -1179,6 +1190,7 @@ patir,ทรมาน,y
 pedregar,(ลูกเห็บ)ตก,y
 pel que fa a,ในส่วนของ… ทางด้านของ…,y
 penedir-se,รู้สึกผิด เสียใจ,y
+penjar,ห้อย แขวน,y
 pentinar-se,หวีผม (คำกริยา),y
 per acabar-ho d'adobar,ซ้ำร้าย ยิ่งไปกว่านั้น แย่ไปกว่านั้น,y
 per descomptat,แน่นอน (es: por supuesto),y
@@ -1240,6 +1252,7 @@ roïna,แย่ เลว (ญ!d),y
 russa,เกี่ยวกับรัสเซีย (ญ),y
 ràpid,เร็ว ไว,y
 saber,รู้,y
+sacsejar,สะบัด เขย่าออก,y
 sec,แห้ง,y
 segon,ที่สอง,y
 sentir,รู้สึก ได้ยิน ขอโทษ,y
@@ -1282,6 +1295,7 @@ trencar,ทำให้พัง (!d),y
 trencat,พัง ชำรุด,y
 treure,หยิบ เอาออก,y
 triar,เลือก,y
+trigar,ใช้เวลา,y
 trist,เศร้า,y
 trobar,พบ เจอ,y
 trobar a faltar,คิดถึง,y
