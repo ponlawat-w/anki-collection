@@ -20,6 +20,8 @@ français,thaïlandais,Add Reverse
 (m.) l'aéroport,สนามบิน,y
 (m.) l'examen,การสอบ,y
 (m.) l'homme,ผู้ชาย,y
+(m.) l'hôpital,โรงพยาบาล,y
+(m.) l'hôtel,โรงแรม,y
 (m.) l'insecte,แมลง,y
 (m.) l'oignon,หัวหอม,y
 (m.) l'oiseau,นก,y
@@ -104,6 +106,7 @@ coûter,มีราคา,y
 croire,เชื่อ,y
 cuisiner,ทำอาหาร,y
 danser,เต้น,y
+dehors,ข้างนอก,y
 demain,วันพรุ่งนี้,y
 depuis,จาก ตั้งแต่,y
 dernier,สุดท้าย ล่าสุด,y
@@ -191,11 +194,13 @@ la famille,ครอบครัว,y
 la farine,แป้ง,y
 la femme,ผู้หญิง,y
 la fille,เด็กผู้หญิง,y
+la fleur,ดอกไม้,y
 la fourmi,มด,y
 la fraise,สตรอว์เบอร์รี,y
 la fête,งานเลี้ยง ปาร์ตี้,y
 la gare,สถานี,y
 la glace,ไอศกรีม,y
+la grand-mère,ย่า ยาย,y
 la jupe,กระโปรง,y
 la lettre,จดหมาย,y
 la limonade,น้ำมะนาว,y
@@ -269,9 +274,11 @@ le fruit,ผลไม้,y
 le frère,พี่ชาย น้องชาย,y
 le gant,ถุงมือ,y
 le garçon,เด็กผู้ชาย,y
+le grand-père,ปู่ ตา,y
 le guitariste,มือกีตาร์,y
 le gâteau,เค้ก,y
 le haricot,ถั่วแขก,y
+le jardin,สวน,y
 le jean,กางเกงยีน,y
 le jeu,เกม,y
 le joueur,ผู้เล่น นักกีฬา,y

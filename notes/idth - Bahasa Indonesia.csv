@@ -12,11 +12,16 @@ bank,ธนาคาร,y
 banyak,มาก เยอะ,y
 bayar,จ่าย,y
 berada,อยู่ตรง อยู่ที่,y
+berangkat,ออกเดินทาง,y
 berapa,เท่าไหร่ อย่างไร,y
+berbicara,พูด,y
 berdiri,ยืนขึ้น,y
 berhasil,ประสบความสำเร็จ,y
 berhenti,หยุด,y
 berjalan,เดิน,y
+bersaing,แข่งขัน,y
+bertemu,พบ เจอ (กันเอง),y
+berubah,เปลี่ยนแปลง,y
 besar,ใหญ่,y
 bisa,สามารถ,y
 bola,ลูกบอล,y
@@ -60,7 +65,7 @@ jaket,เสื้อแจกเกต,y
 jalan,เดินทาง ถนน,y
 jatuh,ตก หกล้ม,y
 jeruk,ส้ม,y
-jumpa,พบ เจอ,y
+jumpa,พบ เจอ (เป็นทางการ),y
 jus,น้ำผลไม้,y
 kacang,ถั่ว,y
 kaki,เท้า,y
@@ -114,6 +119,7 @@ muncul,โผล่มา ปรากฏ,y
 nama,ชื่อ,y
 namun,อย่างไรก็ตาม,y
 nasi,ข้าว,y
+nol,ศูนย์,y
 pagi,ตอนเช้า,y
 pakaian,เสื้อผ้า,y
 panas,ร้อน,y
@@ -140,12 +146,16 @@ sarung tangan,ถุงมือ,y
 satu,หนึ่ง,y
 saya,ฉัน (!a),y
 sebelas,สิบเอ็ด,y
+sejuta,ล้าน,y
 sekolah,โรงเรียน,y
 selamat,มีความสุข,y
 selesai,ทำเสร็จ เสร็จสิ้น,y
 sembilan,เก้า,y
 sepatu,รองเท้า,y
 sepuluh,สิบ,y
+seratus,ร้อย,y
+seratus dua puluh sembilan,หนึ่งร้อยยี่สิบเก้า,y
+seribu,พัน,y
 setuju,เห็นด้วย,y
 siang,ตอนกลางวัน,y
 siapa,ใคร,y
