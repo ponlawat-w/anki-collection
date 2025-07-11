@@ -10,14 +10,18 @@ atau,หรือ,y
 ayam,ไก่,y
 bank,ธนาคาร,y
 banyak,มาก เยอะ,y
+bawang putih,กระเทียม,y
 bayar,จ่าย,y
 bekerja,ทำงาน,y
 belajar,ศึกษา เรียน,y
 berada,อยู่ตรง อยู่ที่,y
 berangkat,ออกเดินทาง,y
 berapa,เท่าไหร่ อย่างไร,y
+berasal,มา มาจาก พื้นเพ,y
 berbicara,พูด,y
 berdiri,ยืนขึ้น,y
+bergerak,เคลื่อนไหว,y
+berharap,หวัง หวังว่า,y
 berhasil,ประสบความสำเร็จ,y
 berhenti,หยุด,y
 berjalan,เดิน,y
@@ -25,12 +29,16 @@ berkembang,คืบหน้า ก้าวหน้า,y
 berkumpul,รวมตัวกัน,y
 berkunjung,เยี่ยมเยียน,y
 berlaku,ใช้งานได้ มีผล,y
+bermain,เล่น,y
+berpikir,คิด,y
 bersaing,แข่งขัน,y
+bersama,ด้วยกัน กับ,y
 bertemu,พบ เจอ (กันเอง),y
 berubah,เปลี่ยนแปลง,y
 besar,ใหญ่,y
 bisa,สามารถ,y
 bola,ลูกบอล,y
+buaya,จระเข้,y
 bukan,ไม่ใช่,y
 buku,หนังสือ,y
 celana,กางเกง,y
@@ -40,7 +48,7 @@ dan,และ,y
 dapur,ห้องครัว,y
 dari,จาก,y
 dasi,เนกไท,y
-datang,มา เยี่ยม,y
+datang,มา เยี่ยม ถึง,y
 delapan,แปด,y
 dengan,กับ ด้วย,y
 di,ที่ ใน,y
@@ -65,6 +73,7 @@ hotel,โรงแรม,y
 ia,เธอ (ญ) / เขา (๓ญ),y
 ingat,จำ,y
 ini,นี้,y
+itik,เป็ด,y
 itu,~นั้น,y
 jadi,ดังนั้น ก็ ก็เลย,y
 jaket,เสื้อแจกเกต,y
@@ -73,9 +82,12 @@ jatuh,ตก หกล้ม,y
 jeruk,ส้ม,y
 jumpa,พบ เจอ (เป็นทางการ),y
 jus,น้ำผลไม้,y
+kaca,แก้ว กระจก,y
+kaca mata,แว่นตา,y
 kacang,ถั่ว,y
 kaki,เท้า,y
 kalian,พวกเธอ,y
+kamar,ห้อง,y
 kami,พวกเรา (ไม่รวมผู้ฟัง),y
 kamu,เธอ,y
 kantong celana,กระเป๋ากางเกง,y
@@ -88,6 +100,7 @@ kecap,ซีอิ๊ว,y
 keluar,ออกไปข้างนอก,y
 kembali,กลับมา,y
 kemeja,เสื้อเชิต,y
+kereta,รถไฟ,y
 ketika,ในขณะที่,y
 kita,ฉันและเธอ พวกเรา (รวมผู้ฟัง),y
 kopi,กาแฟ,y
@@ -107,6 +120,7 @@ manis,หวาน,y
 mantap,ยอดเยี่ยม สุดยอด,y
 mantel,เสื้อโค้ต,y
 masuk,เข้าไปข้างใน,y
+mata,ดวงตา,y
 mau,ต้องการ,y
 memakai,สวมใส่,y
 membaca,อ่าน,y
@@ -137,6 +151,7 @@ permisi,ขออภัย โทษที (!m),y
 pesan,สั่ง (อาหาร),y
 pisang,กล้วย,y
 pulang,กลับบ้าน,y
+pulau,เกาะ,y
 punya,มี,y
 putih,สีขาว,y
 restoran,ร้านอาหาร,y
@@ -144,6 +159,7 @@ rok,กระโปรง,y
 roti,โรตี ขนมปัง,y
 rumah,บ้าน,y
 sabuk,เข็มขัด,y
+sakit,ป่วย,y
 sambal,ซอสพริก,y
 sampai,จนถึง ถึง (เวลา),y
 sana,ตรงโน้น,y
@@ -178,6 +194,7 @@ syal,ผ้าพันคอ,y
 tahu (n.),เต้าหู้,y
 tahu (v.),รู้,y
 tahun,ปี,y
+taksi,รถแท็กซี่,y
 tangan,มือ,y
 tapi,แต่,y
 tas,กระเป๋า,y
