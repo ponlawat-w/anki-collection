@@ -5,9 +5,11 @@ air,น้ำ,y
 aku,ฉัน (!s),y
 anda,คุณ,y
 anjing,สุนัข,y
+apa,อะไร,y
 apel,แอปเปิล,y
 atau,หรือ,y
 ayam,ไก่,y
+bagaimana,เป็นอย่างไร,u
 bank,ธนาคาร,y
 banyak,มาก เยอะ,y
 bawang putih,กระเทียม,y
@@ -91,6 +93,7 @@ kamar,ห้อง,y
 kami,พวกเรา (ไม่รวมผู้ฟัง),y
 kamu,เธอ,y
 kantong celana,กระเป๋ากางเกง,y
+kapan,เมื่อไหร่,y
 karena,เพราะว่า,y
 kaus,ทีเชิต,y
 kaus kaki,ถุงเท้า,y
@@ -100,6 +103,7 @@ kecap,ซีอิ๊ว,y
 keluar,ออกไปข้างนอก,y
 kembali,กลับมา,y
 kemeja,เสื้อเชิต,y
+kenapa,ทำไม,y
 kereta,รถไฟ,y
 ketika,ในขณะที่,y
 kita,ฉันและเธอ พวกเรา (รวมผู้ฟัง),y
@@ -215,3 +219,4 @@ yang,ที่ (คำเชื่อม),y
 ~ku,ของฉัน,y
 ~mu,ของเธอ,y
 ~nya,ของเขา,y
+อาหารของพวกเขาเป็นอย่างไร,Bagaimana makanan mereka?,
