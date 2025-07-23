@@ -6,6 +6,7 @@ aku,ฉัน (!s),y
 anda,คุณ,y
 anjing,สุนัข,y
 apa,อะไร,y
+apakah,ใช่ไหม,y
 apel,แอปเปิล,y
 atau,หรือ,y
 ayam,ไก่,y
@@ -16,6 +17,7 @@ bawang putih,กระเทียม,y
 bayar,จ่าย,y
 bekerja,ทำงาน,y
 belajar,ศึกษา เรียน,y
+benar,ถูกต้อง จริง,y
 berada,อยู่ตรง อยู่ที่,y
 berangkat,ออกเดินทาง,y
 berapa,เท่าไหร่ อย่างไร,y
@@ -130,6 +132,7 @@ memakai,สวมใส่,y
 membaca,อ่าน,y
 membawa,เอามา,y
 membeli,ซื้อ,y
+mengapa,เหตุใด,y
 menulis,เขียน,y
 merah,สีแดง,y
 mereka,พวกเขา,y
@@ -152,6 +155,7 @@ payung,ร่ม,y
 pensil,ดินสอ,y
 pergi,ไป,y
 permisi,ขออภัย โทษที (!m),y
+pertanyaan,คำถาม,y
 pesan,สั่ง (อาหาร),y
 pisang,กล้วย,y
 pulang,กลับบ้าน,y
@@ -164,6 +168,7 @@ roti,โรตี ขนมปัง,y
 rumah,บ้าน,y
 sabuk,เข็มขัด,y
 sakit,ป่วย,y
+salah,ผิด ไม่จริง,y
 sambal,ซอสพริก,y
 sampai,จนถึง ถึง (เวลา),y
 sana,ตรงโน้น,y
@@ -219,4 +224,3 @@ yang,ที่ (คำเชื่อม),y
 ~ku,ของฉัน,y
 ~mu,ของเธอ,y
 ~nya,ของเขา,y
-อาหารของพวกเขาเป็นอย่างไร,Bagaimana makanan mereka?,
