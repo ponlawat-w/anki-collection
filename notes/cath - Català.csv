@@ -51,6 +51,7 @@ català valencià,tailandés,Add Reverse
 (f.) l'obrera,คนงานผู้หญิง,y
 (f.) l'oficina,สำนักงาน (o),y
 (f.) l'oliva,มะกอก,y
+(f.) l'olla,หม้อ,y
 (f.) l'olor,กลิ่น,y
 (f.) l'ombra,เงา,y
 (f.) l'orella,หู,y
@@ -113,6 +114,7 @@ català valencià,tailandés,Add Reverse
 (m.) l'equip,ทีม,y
 (m.) l'esbufec,การถอนหายใจ,y
 (m.) l'escac,หมากรุก,y
+(m.) l'escalfament,วอร์มร่างกาย ความร้อน,y
 (m.) l'escalfor,ความร้อน (ร่างกาย),y
 (m.) l'escriptor,นักเขียนผู้ชาย,y
 (m.) l'escriptori,โต๊ะเขียนหนังสือ,y
@@ -149,6 +151,7 @@ català valencià,tailandés,Add Reverse
 (m.) l'ordinador,คอมพิวเตอร์,y
 (m.) l'os,กระดูก,y
 (m.) l'ou,ไข่,y
+(m.) l'ou ferrat,ไข่ดาว,y
 (m.) l'ull,ดวงตา,y
 (m.) l'àmbit,สายงาน,y
 (m.) l'ànec,เป็ด,y
@@ -160,6 +163,7 @@ Amèrica del Sud,ทวีปอเมริกาใต้,y
 Anglaterra,ประเทศอังกฤษ,y
 Angèria,ประเทศอัลจีเรีย,y
 Bolívia,ประเทศโบลิเวีย,y
+Camboja,กัมพูชา,y
 Canadà,ประเทศแคนาดา,y
 Chile,ประเทศชิลี,y
 Colòmbia,ประเทศโคลัมเบีย,y
@@ -219,6 +223,7 @@ amunt i avall,ในทุก ๆ ทาง,y
 anar,ไป,y
 anar a comprar,ซื้อของ,y
 anar-s'en,จาก ออกจาก ไป (es: irse),y
+anar-se'n en orris,พังทลาย สูญเปล่า ล้มเหลวโดยสิ้นเชิง,y
 anglesa,เกี่ยวกับอังกฤษ (ญ),y
 anomenar,เสนอชื่อ,y
 antic,ที่โบราณ,y
@@ -250,11 +255,14 @@ barat,(ราคา) ถูก,y
 batre,ตี,y
 berenar,ทานอาหารบ่าย-เย็น (es: merendar),y
 beure,ดื่ม (b),y
+beure a morro,ดื่มโดยตรง (โดนปาก),y
 beure al gallet,ยกดื่มโดยไม่โดนปาก,y
 blanc,สีขาว,y
 blau,สีน้ำเงิน,y
 boig,บ้า,y
+bollir,ต้ม เดือด,y
 bonic,สวย น่ารัก (es: bonito),y
+bramar,ตะโกน (ลา)ร้อง,y
 brodar,เย็บปัก,y
 brut,สกปรก,y
 bufar,เป่าลม พ่นลมหายใจ หอบ,y
@@ -651,6 +659,7 @@ el quadern,สมุด (q),y
 el quart,หนึ่งในสี่,y
 el quilòmetre,กิโลเมตร,y
 el rabosot,จิ้งจอก,y
+el raconet,มุมเล็ก ๆ พื้นที่ว่างเล็ก ๆ,y
 el racó,หลืบ มุม,y
 el raig,รังสี รัศมี,y
 el raspall,แปรง (คำนาม),y
@@ -770,6 +779,7 @@ esmorzar,ทานอาหารเช้า (es: almorzar),y
 esquerrer,ถนัดซ้าย,y
 esquiar,เล่นสกี,y
 estalviar,เก็บออม ประหยัด,y
+estar-ne fins als nassos,เบื่อเต็มทน เหลืออด,y
 estatunidenc,ที่เกี่ยวกับสหรัฐอเมริกา,y
 estendre,ขยายออก,y
 estimar,ชอบ รัก,y
@@ -796,6 +806,7 @@ fosc,มืด,y
 francesa,เกี่ยวกับฝรั่งเศส (ญ),y
 fregar,ถู (พื้น) [คำกริยา],y
 fregir,ทอด,y
+fumejar,ปล่อยควัน,y
 gairebé,เกือบ (!q),y
 generós,ใจดี ใจกว้าง,y
 gens de,ไม่สักนิด แม้แต่น้อย (นามนับไม่ได้),y
@@ -835,6 +846,7 @@ la bleda,ผักชาร์ด,y
 la boca,ปาก,y
 la boira,หมอก,y
 la bombera,นักดับเพลิงผู้หญิง,y
+la bombolla,ฟอง แผลพุพอง,y
 la bossa,กระเป๋าถือ,y
 la botifarra,ไส้กรอก(เลือด),y
 la botiga,ร้านค้า,y
@@ -891,6 +903,7 @@ la cuina,ห้องครัว,y
 la cuinera,คนทำอาหารผู้หญิง กุ๊กผู้หญิง,y
 la cuixa,น่อง,y
 la cullera,ช้อน,y
+la cullerada,ช้อน (ลักษณนาม),y
 la cunyada,พี่สะใภ้ น้องสะใภ้,y
 la cèl·lula,เซลล์,y
 la dansa,การเต้น (!b),y
@@ -1088,6 +1101,7 @@ la solitud,ความโสด ความเหงา,y
 la son,ความง่วง,y
 la sorra,ทราย (!a),y
 la sort,โชค,y
+la suavitat,ความนุ่มนวล,y
 la suor,เหงื่อ,y
 la sèrie,ซีรีส์,y
 la síndria,แตงโม (กาตาลุญญา),y
@@ -1124,6 +1138,7 @@ la veïna,เพื่อนบ้าน (ผู้หญิง),y
 la víctima,เหยื่อ ผู้ประสบภัย,y
 la xarxa,เครือข่าย,y
 la xifra,ตัวเลข (!n),y
+la ximpleria,ความงี่เง่า เรื่องปัญญาอ่าน,y
 la yaya,ย่า ยาย (y),y
 lent,ช้า,y
 les ceres,สีเทียน,y
@@ -1154,6 +1169,7 @@ malalt,ป่วย,y
 malgrat això,แม้อย่างนั้น,y
 mandrós,ขี้เกียจ,y
 maravellar,ทำให้อัศจรรย์ (es: maravillar),y
+marejar,เมา(รถ) เวียนหัว,y
 marró,สีน้ำตาล,y
 massa,มากเกินไป / เกินไป,y
 mentider,ชอบโกหก,y
@@ -1202,6 +1218,7 @@ permetre,อนุญาต,y
 pertànyer,เป็นของ,y
 pesar,ชั่งน้ำหนัก,y
 pessimist,มองโลกในแง่ลบ,y
+petar,ทำเสียงกระทบ สั่น ปากสั่น,y
 petit,เล็ก (p),y
 pitjar,เหยียบ เน้น ย้ำ,y
 pitjor,แย่กว่า,y
@@ -1273,6 +1290,7 @@ sospitar,สงสัย คลางแคลงใจ (!d),y
 sota,ด้านล่าง ด้านใต้ (!d),y
 sovint,บ่อย ๆ,y
 suar,เหงื่อออก (กริยา),y
+suau,นุ่ม เบา,y
 sucar,ถู ถูไปกับ,y
 sueca,เกี่ยวกับสวีเดน (ญ),y
 sumar,บวก รวม,y
