@@ -142,6 +142,7 @@ faire,ทำ,y
 falloir,จำเป็นต้อง (ไม่มีประธาน) ขาด,y
 fatigué,เหนื่อย,y
 fermer,ปิด,y
+fermé,ที่ปิดอยู่,y
 finir,ทำเสร็จ (!t),y
 folle,บ้า (ญ),y
 fort,แข็งแรง,y
@@ -175,8 +176,10 @@ la bière,เบียร์,y
 la boisson,เครื่องดื่ม,y
 la botte,รองเท้าบูต,y
 la boulangerie,ร้านขายขนมปัง เบเกอรี่,y
+la brioche,ขนมปังบริยอช,y
 la carotte,แครอท,y
 la ceinture,เข็มขัด,y
+la chaise,เก้าอี้,y
 la chambre,ห้องนอน,y
 la chatte,แมวตัวเมีย,y
 la chaussette,ถุงเท้า,y
@@ -195,6 +198,7 @@ la farine,แป้ง,y
 la femme,ผู้หญิง,y
 la fille,เด็กผู้หญิง,y
 la fleur,ดอกไม้,y
+la fourchette,ส้อม,y
 la fourmi,มด,y
 la fraise,สตรอว์เบอร์รี,y
 la fête,งานเลี้ยง ปาร์ตี้,y
@@ -215,6 +219,7 @@ la place,สถานที่,y
 la plante,พืช ต้นไม้,y
 la poche,กระเป๋า (เล็ก),y
 la pomme,แอปเปิล,y
+la porte,ประตู,y
 la recette,สูตรอาหาร,y
 la robe,เสื้อ ชุดเดรส,y
 la rose,ดอกกุหลาบ,y
