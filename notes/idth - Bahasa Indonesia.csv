@@ -11,15 +11,18 @@ apakah,ใช่ไหม,y
 apel,แอปเปิล,y
 atau,หรือ,y
 ayam,ไก่,y
+baca,อ่าน,y
 bagaimana,เป็นอย่างไร,u
 bangun,ก่อสร้าง สร้าง,y
 bank,ธนาคาร,y
 bantu,ช่วยเหลือ,y
 banyak,มาก เยอะ,y
+bawa,เอามา,y
 bawang putih,กระเทียม,y
 bayar,จ่าย,y
 bekerja,ทำงาน,y
 belajar,ศึกษา เรียน,y
+beli,ซื้อ,y
 benar,ถูกต้อง จริง,y
 berada,อยู่ตรง อยู่ที่,y
 berangkat,ออกเดินทาง,y
@@ -147,12 +150,7 @@ mantel,เสื้อโค้ต,y
 masuk,เข้าไปข้างใน,y
 mata,ดวงตา,y
 mau,ต้องการ,y
-memakai,สวมใส่,y
-membaca,อ่าน,y
-membawa,เอามา,y
-membeli,ซื้อ,y
 mengapa,เหตุใด,y
-menulis,เขียน,y
 merah,สีแดง,y
 merah muda,สีชมพู,y
 mereka,พวกเขา,y
@@ -170,9 +168,10 @@ nasi,ข้าว,y
 nol,ศูนย์,y
 oranye,สีส้ม,y
 pagi,ตอนเช้า,y
+pakai,สวมใส่,y
 pakaian,เสื้อผ้า,y
 panas,ร้อน,y
-panggil,เรียก โทรหา,y
+panggil,เรียก,y
 pasar,ตลาด,y
 payung,ร่ม,y
 pensil,ดินสอ,y
@@ -241,6 +240,8 @@ toko,ร้านค้า,y
 tomat,มะเขือเทศ,
 topi,หมวก,y
 tujuh,เจ็ด,y
+tulang,กระดูก,y
+tulis,เขียน,y
 umur,อายุ,y
 ungu,สีม่วง,y
 warna,สี,y
