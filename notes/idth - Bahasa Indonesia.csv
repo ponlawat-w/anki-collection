@@ -17,13 +17,14 @@ bangun,ก่อสร้าง สร้าง,y
 bank,ธนาคาร,y
 bantu,ช่วยเหลือ,y
 banyak,มาก เยอะ,y
+baru,ใหม่,y
 bawa,เอามา,y
 bawang putih,กระเทียม,y
 bayar,จ่าย,y
 bekerja,ทำงาน,y
 belajar,ศึกษา เรียน,y
 beli,ซื้อ,y
-benar,ถูกต้อง จริง,y
+benar,ถูกต้อง จริง (ทางการ),y
 berada,อยู่ตรง อยู่ที่,y
 berangkat,ออกเดินทาง,y
 berapa,เท่าไหร่ อย่างไร,y
@@ -47,6 +48,7 @@ bersama,ด้วยกัน กับ,y
 bertemu,พบ เจอ (กันเอง),y
 berubah,เปลี่ยนแปลง,y
 besar,ใหญ่,y
+betul,ถูกต้อง ใช่เลย (กันเอง),y
 biru,สีน้ำเงิน,y
 bisa,สามารถ,y
 bola,ลูกบอล,y
@@ -71,6 +73,7 @@ dengan,กับ ด้วย,y
 dengar,ได้ยิน ฟัง,y
 di,ที่ ใน,y
 dia,เขา,y
+dingin,เย็น หนาว,y
 dompet,กระเป๋าสตางค์,y
 dorong,ผลัก ดัน,y
 dua,สอง,y
@@ -86,6 +89,7 @@ gaun,ชุดเดรส,y
 gedung,อาคาร,y
 goreng,ทอด ผัด,y
 gula,น้ำตาล,
+hangat,อุ่น อบอุ่น,y
 harga,ราคา,y
 hijau,สีเขียว,y
 hitam,สีดำ,y
@@ -121,6 +125,7 @@ kaus kaki,ถุงเท้า,y
 kaya,รวย,y
 ke,ไปยัง,y
 kecap,ซีอิ๊ว,y
+kecil,เล็ก,y
 keluar,ออกไปข้างนอก,y
 kembali,กลับมา,y
 kemeja,เสื้อเชิต,y
@@ -199,6 +204,7 @@ sarung tangan,ถุงมือ,y
 satu,หนึ่ง,y
 saya,ฉัน (!a),y
 sebelas,สิบเอ็ด,y
+sedikit,นิดหน่อย,y
 sejuta,ล้าน,y
 sekolah,โรงเรียน,y
 selamat,มีความสุข,y
