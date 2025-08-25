@@ -4,19 +4,23 @@ abu-abu,สีเทา,y
 ada,มีอยู่ อยู่ที่,y
 air,น้ำ,y
 aku,ฉัน (!s),y
+anak,เด็ก ลูก,y
 anda,คุณ,y
 anjing,สุนัข,y
 apa,อะไร,y
 apakah,ใช่ไหม,y
 apel,แอปเปิล,y
 atau,หรือ,y
+awas,ระวัง,y
 ayam,ไก่,y
 baca,อ่าน,y
 bagaimana,เป็นอย่างไร,u
+bagus,สวย ดี เยี่ยม,y
+bahagia,มีความสุข,y
 bangun,ก่อสร้าง สร้าง,y
 bank,ธนาคาร,y
 bantu,ช่วยเหลือ,y
-banyak,มาก เยอะ,y
+banyak,เยอะ มาก,y
 baru,ใหม่,y
 bawa,เอามา,y
 bawang putih,กระเทียม,y
@@ -34,6 +38,7 @@ berdiri,ยืนขึ้น,y
 bergerak,เคลื่อนไหว,y
 berharap,หวัง หวังว่า,y
 berhasil,ประสบความสำเร็จ,y
+berhati-hati,ระมัดระวัง,y
 berhenti,หยุด,y
 beri,ให้,y
 berjalan,เดิน,y
@@ -45,20 +50,31 @@ bermain,เล่น,y
 berpikir,คิด,y
 bersaing,แข่งขัน,y
 bersama,ด้วยกัน กับ,y
+bersih,สะอาด,y
 bertemu,พบ เจอ (กันเอง),y
 berubah,เปลี่ยนแปลง,y
 besar,ใหญ่,y
+besok,พรุ่งนี้,y
 betul,ถูกต้อง ใช่เลย (กันเอง),y
+biasa,ธรรมดา ปกติ,y
+bilik,ห้อง (มาเลย์),y
 biru,สีน้ำเงิน,y
 bisa,สามารถ,y
+bodoh,โง่,y
 bola,ลูกบอล,y
+boleh,ได้ อนุญาต,y
+bomba,ดับเพลิง,y
 buat,ทำ,y
 buaya,จระเข้,y
 buka,เปิด,y
 bukan,ไม่ใช่,y
+bukit,เนินเขา ภูเขาเตี้ย ๆ,y
 buku,หนังสือ,y
+bungkus,ห่อ แพ็ก กลับบ้าน,y
+cantik,สวยงาม,y
 cari,หา ค้นหา,y
 celana,กางเกง,y
+cincau,เฉาก๊วย,y
 coba,ลอง พยายาม,y
 cokelat,ช็อกโกแลต สีน้ำตาล,y
 daging,เนื้อ,y
@@ -68,12 +84,14 @@ dapur,ห้องครัว,y
 dari,จาก,y
 dasi,เนกไท,y
 datang,มา เยี่ยม ถึง,y
+dekat,ใกล้,y
 delapan,แปด,y
 dengan,กับ ด้วย,y
 dengar,ได้ยิน ฟัง,y
 di,ที่ ใน,y
 dia,เขา,y
-dingin,เย็น หนาว,y
+dilarang,ห้าม (ถูกห้าม),y
+dingin,เย็น หนาว (ไม่ดี),y
 dompet,กระเป๋าสตางค์,y
 dorong,ผลัก ดัน,y
 dua,สอง,y
@@ -91,6 +109,7 @@ goreng,ทอด ผัด,y
 gula,น้ำตาล,
 hangat,อุ่น อบอุ่น,y
 harga,ราคา,y
+hari,วัน,y
 hijau,สีเขียว,y
 hitam,สีดำ,y
 hotel,โรงแรม,y
@@ -104,6 +123,9 @@ jaga,ดูแล เฝ้า รักษา,y
 jaket,เสื้อแจกเกต,y
 jalan,เดินทาง ถนน,y
 jatuh,ตก หกล้ม,y
+jauh,ไกล,y
+jelas,ชัดเจน แน่ชัด,y
+jelek,น่าเกลียด,y
 jeruk,ส้ม,y
 jual,ขาย,y
 jumpa,พบ เจอ (เป็นทางการ),y
@@ -116,6 +138,7 @@ kaki,เท้า,y
 kalian,พวกเธอ,y
 kamar,ห้อง,y
 kami,พวกเรา (ไม่รวมผู้ฟัง),y
+kampung,หมู่บ้าน ชนบท,y
 kamu,เธอ,y
 kantong celana,กระเป๋ากางเกง,y
 kapan,เมื่อไหร่,y
@@ -127,19 +150,25 @@ ke,ไปยัง,y
 kecap,ซีอิ๊ว,y
 kecil,เล็ก,y
 keluar,ออกไปข้างนอก,y
+kemarin,เมื่อวาน,y
 kembali,กลับมา,y
 kemeja,เสื้อเชิต,y
 kenapa,ทำไม,y
 kereta,รถไฟ,y
 ketika,ในขณะที่,y
+kiblat,ทิศละหมาด,y
 kita,ฉันและเธอ พวกเรา (รวมผู้ฟัง),y
 kopi,กาแฟ,y
 koran,หนังสือพิมพ์,y
+kosong,ศูนย์ (มาเลย์),y
+kotor,สกปรก,y
 kuat,แข็งแรง,y
 kucing,แมว,y
 kue,ขนมเค้ก,y
 kuning,สีเหลือง,y
 lagi,อีกครั้ง,y
+lain,อื่น แตกต่าง,y
+lelaki,ผู้ชาย,y
 lempar,ขว้าง โยน,y
 lihat,ดู มอง,y
 lima,ห้า,y
@@ -165,11 +194,16 @@ milik,ของ สิ่งของ,y
 minta,ขอ,y
 minum,ดื่ม,y
 minuman,เครื่องดื่ม,y
+mirip,คล้าย เหมือน ใกล้เคียง,y
+miskin,จน,y
+muda,อายุน้อย,y
+mudah,ง่าย,y
 mulai,เริ่ม,y
 muncul,โผล่มา ปรากฏ,y
 nama,ชื่อ,y
 namun,อย่างไรก็ตาม,y
 nasi,ข้าว,y
+negeri,ประเทศ รัฐ,y
 nol,ศูนย์,y
 oranye,สีส้ม,y
 pagi,ตอนเช้า,y
@@ -177,14 +211,21 @@ pakai,สวมใส่,y
 pakaian,เสื้อผ้า,y
 panas,ร้อน,y
 panggil,เรียก,y
+pangkalan,ท่าเรือ จุดจอด,y
+panjang,ยาว นาน,y
 pasar,ตลาด,y
 payung,ร่ม,y
+pencuci,ภารโรง คนทำความสะอาด,y
+pendek,สั้น เตี้ย,y
 pensil,ดินสอ,y
+penuh,เต็ม แน่น,y
 pergi,ไป,y
 permisi,ขออภัย โทษที (!m),y
 pertanyaan,คำถาม,y
 pesan,สั่ง (อาหาร),y
+pintar,ฉลาด เก่ง,y
 pisang,กล้วย,y
+pria,ผู้ชาย (ทางการ),y
 pulang,กลับบ้าน,y
 pulau,เกาะ,y
 punya,มี,y
@@ -192,24 +233,31 @@ putih,สีขาว,y
 restoran,ร้านอาหาร,y
 rok,กระโปรง,y
 roti,โรตี ขนมปัง,y
+ruang,ห้อง (พื้นที่สำหรับ~),y
 rumah,บ้าน,y
+rusak,เสีย พัง ชำรุด,y
 sabuk,เข็มขัด,y
 sakit,ป่วย,y
 salah,ผิด ไม่จริง,y
 sambal,ซอสพริก,y
 sampai,จนถึง ถึง (เวลา),y
 sana,ตรงโน้น,y
+sangat,มาก,y
 sarapan,อาหารเช้า,y
 sarung tangan,ถุงมือ,y
 satu,หนึ่ง,y
 saya,ฉัน (!a),y
 sebelas,สิบเอ็ด,y
+sedih,เศร้า เสียใจ,y
 sedikit,นิดหน่อย,y
+sejuk,เย็น หนาว (ดี),y
 sejuta,ล้าน,y
 sekolah,โรงเรียน,y
 selamat,มีความสุข,y
+selapas,หลังจาก,y
 selesai,ทำเสร็จ เสร็จสิ้น,y
 sembilan,เก้า,y
+sempurna,สมบูรณ์แบบ ดีเลิศ,y
 sepatu,รองเท้า,y
 sepuluh,สิบ,y
 seratus,ร้อย,y
@@ -224,6 +272,8 @@ situ,ตรงนั้น,y
 sore,ตอนบ่าย ตอนเย็น,y
 stroberi,สตรอว์เบอร์รี,y
 suka,ชอบ,y
+sulit,ยาก,y
+sungai,แม่น้ำ,y
 sup,ซุป,y
 surat,จดหมาย,y
 susu,นม,y
@@ -232,6 +282,8 @@ tahu (n.),เต้าหู้,y
 tahu (v.),รู้,y
 tahun,ปี,y
 taksi,รถแท็กซี่,y
+tampan,หล่อ,y
+tandas,ห้องน้ำ สุขา,y
 tangan,มือ,y
 tapi,แต่,y
 tarik,ดึง ลาก,y
@@ -243,11 +295,13 @@ tidak,ไม่,y
 tidur,นอนหลับ,y
 tiga,สาม,y
 tinggal,อยู่ อยู่กับที่,y
+tinggi,สูง,y
 toilet,ห้องน้ำ,y
 toko,ร้านค้า,y
 tolak,ปฏิเสธ,y
 tomat,มะเขือเทศ,
 topi,หมวก,y
+tua,แก่,y
 tujuh,เจ็ด,y
 tulang,กระดูก,y
 tulis,เขียน,y
@@ -256,6 +310,8 @@ turut,ตาม เชื่อฟัง,y
 tutup,ปิด,y
 umur,อายุ,y
 ungu,สีม่วง,y
+untuk,เพื่อ สำหรับ,y
+wanita,ผู้หญิง,y
 warna,สี,y
 ya,ใช่,y
 yang,ที่ (คำเชื่อม),y

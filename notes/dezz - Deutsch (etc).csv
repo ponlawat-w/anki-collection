@@ -38,7 +38,7 @@ ansonsten,Adj.,ไม่งั้นก็ มิฉะนั้น (!s),y
 anstarren,V.,จ้องมอง (~s~),y
 anziehen,V.,สวมใส่ (!~h),y
 arm,Adj.,จน,y
-auf,präp.,บน (!ü),y
+auf,präp.,อยู่บน (สัมผัส),y
 auf sein,V.,เปิดอยู่ (ไม่ใช้ไฟฟ้า),y
 aufgeben,V.,ยอมแพ้,y
 aufhören,V.,หยุด (a),y
@@ -155,6 +155,7 @@ eindeutig,Adj.,ชัดเจน แน่ชัด (!d),y
 einfach,Adj.,ง่าย,y
 einige,pron.,บ้าง 2 - 3,y
 einkaufen,V.,ซื้อของ,y
+einladen,V.,ชวน,y
 einmal,Adv.,ครั้งหนึ่ง คราวหนึ่ง,y
 einschalten,V.,เปิด (สวิตช์) <b><i><u>(ไม่ใช่ machen)</u></i></b>,y
 einschlafen,V.,หลับ (ผลอยหลับ),y
@@ -355,7 +356,6 @@ können,V.,สามารถ,y
 kühl,Adj.,เย็น,y
 kürzlich,Adv.,เร็ว ๆ นี้ ช่วงนี้ (k),y
 lachen,"V. ",หัวเราะ,y
-laden,V.,ชวน,y
 langsam,Adj.,ช้า (ความเร็ว),y
 langweilig,Adj.,น่าเบื่อ,y
 lassen,V.,ออก ทิ้งไว้,y
@@ -443,7 +443,7 @@ nämlich,Adv.,คือว่า แบบว่า เพราะว่า,y
 nötig,Adj.,ที่จำเป็น (๒),y
 nützlich,Adj.,"มีประโยชน์ เป็นพระคุณ (en: useful, helpful)",y
 ob,Konj.,ว่า…หรือไม่ (en: whether),y
-oben,Adv.,ข้างบน (!ü),y
+oben,Adv.,ข้างบน ด้านบน,y
 obwohl,Konj.,แม้ว่า (!t),y
 oder,Konj.,หรือ (o),y
 offen,Adj.,ที่เปิดอยู่,y
@@ -532,6 +532,7 @@ sich beugen,V.,ก้มหน้า,y
 sich bewegen,V.,เคลื่อนไหว,
 sich bewerben,V.,สมัคร เข้าแข่งขัน,y
 sich entspannen,V.,ผ่อนคลาย,y
+sich gewöhnen an,V.,ปรับตัว ทำให้ชิน,y
 sich unterhalten,V.,สนทนา,y
 sicher,Adj.,ปลอดภัย,y
 sichtbar,Adj.,ที่มองเห็นได้,y
@@ -739,7 +740,7 @@ zögern,V.,ลังเล,y
 ärgerlich,Adj.,หงุดหงิด อารมณ์เสีย โกรธ,y
 öffentlich,Adj.,สาธารณะ,y
 öffnen,V.,เปิด,y
-über,Präp.,อยู่เหนือ อยู่บน (!o),y
+über,Präp.,อยู่เหนือ อยู่บน (ไม่สัมผัส),y
 überall,Adv.,ทุกที่,y
 überfluten,V.,(น้ำ)ท่วม,y
 überhaupt,Part.,เลย ว่าแต่ สุด,y
