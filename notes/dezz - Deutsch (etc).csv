@@ -626,6 +626,7 @@ verheiraten,V.,แต่งงาน (v),y
 verheiratet,Adj.,สมรส(แล้ว),y
 verkaufen,V.,ขาย,y
 verlassen,V.,ออกจาก (~l),y
+verliebt,Adj.,อยู่ในความรัก ตกหลุมรัก,y
 verlieren,V.,ทำหาย สูญเสีย,y
 verlängern,V.,ขยาย เลื่อนออก ทำให้ยาวขึ้น (lang → V.),y
 verpacken,V.,ห่อ แพ็ค,y
@@ -728,7 +729,7 @@ zunehmen,V.,ขยายขึ้น มากขึ้น เพิ่มขึ
 zurufen,V.,เรียก,y
 zurück,Adv.,กลับ ย้อน,y
 zusammen,Adv.,ด้วยกัน (จ่ายรวม),y
-zustimmen,V.,เห็นด้วย,y
+zustimmen,V.,เห็นด้วย (!sein),y
 zuständig,Adj.,ที่รับผิดชอบ ที่เกี่ยวข้อง ที่มีหน้าที่/อำนาจ,y
 zusätzlich,Adj.,ที่เพิ่มเติม,y
 zuverlässig,Adj.,เชื่อถือได้ (!s),y

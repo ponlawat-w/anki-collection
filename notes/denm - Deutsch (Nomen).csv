@@ -326,6 +326,7 @@ der Computer,Computer,die Computer,คอมพิวเตอร์,y
 der Cousin,Cousin,die Cousins,ลูกพี่ลูกน้อง,y
 der Damenschuh,,,รองเท้าผู้หญิง,y
 der Daumen,Daumen,die Daumen,นิ้วโป้ง,y
+der Deckel,Deckel,die Deckel,ฝา ปก ที่ปิด,y
 der Dezember,Dezember,,ธันวาคม,y
 der Dienstag,,,วันอังคาร,y
 der Dolmetscher,Dolmetscher,,ล่าม (อาชีพ),y
@@ -660,6 +661,7 @@ die Abteilung,,,แผนก,y
 die Adresse,Adresse,die Adressen,ที่อยู่,y
 die Ahnung,Ahnung,die Ahnungen,ความรู้ทันเหตุการณ์ ความคิด,y
 die Allergie,Allergie,die Allergien,อาการแพ้,y
+die Allgemeine Geschäftsbedingungen,,,ข้อกำหนดและเงื่อนไขทั่วไป,y
 die Alpen,Alpen,,เทือกเขาแอลปส์,y
 die Angst,Angst,die Ängst,ความกลัว,y
 die Ansichtskarte,Ansichtskarte,die Ansichtskarten,โปสการ์ด (!P),y
@@ -683,6 +685,7 @@ die Bank,Bank,die Bänke,ธนาคาร,y
 die Bar,Bar,die Bars,บาร์ ผับ,y
 die Batterie,Batterie,die Batterien,แบตเตอรี (!A),y
 die Bauchschmerzen,,,ปวดท้อง,y
+die Bedingung,,,เงื่อนไข ข้อกำหนด,y
 die Beratung,,die Beratungen,คำแนะนำ คำปรึกษา (!A),y
 die Bevölkerung,,,ประชากร,y
 die Beziehung,,,ความสัมพันธ์ (ระหว่างบุคคล),y
@@ -709,7 +712,7 @@ die Dame,Dame,die Damen,สุภาพสตรี คุณผู้หญิ�
 die Daten,,,ข้อมูล,y
 die Dauer,Dauer,,ระยะเวลา (!P!~r),y
 die Decke,Decke,die Decken,ผ้าห่ม เพดาน,y
-die Dienstleitung,,,การบริการ,y
+die Dienstleitung,,,งานบริการ การบริการ,y
 die Digitaluhr,Digitaluhr,die Digitaluhren,นาฬิกาดิจิตัล,y
 die Disko,Disko,die Diskos,ดิสโก,y
 die Diät,Diät,die Diäten,การไดเอ็ต,y
@@ -832,6 +835,7 @@ die Kneipe,Kneipe,die Kneipen,ผับ,y
 die Kohle,Kohle,die Kohlen,ถ่าน คาร์บอน,y
 die Kohlensäure,Kohlensäure,die Kohlensäuren,ก๊าซ อัดลม,y
 die Kommode,Kommode,die Kommoden,ตู้ลิ้นชัก,y
+die Komödie,Komödie,die Komödien,การแสดงตลก,y
 die Konditorei,Konditorei,die Konditoreien,ร้านขนมเค้ก,y
 die Konzentration,,,การจดจ่อ,y
 die Kopfhörer,Kopfhörer,,หูฟัง (พหู),y

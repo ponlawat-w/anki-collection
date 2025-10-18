@@ -25,6 +25,7 @@ français,thaïlandais,Add Reverse
 (m.) l'homme,ผู้ชาย,y
 (m.) l'hôpital,โรงพยาบาล,y
 (m.) l'hôtel,โรงแรม,y
+(m.) l'ingénieur,วิศวกร,y
 (m.) l'insecte,แมลง,y
 (m.) l'oignon,หัวหอม,y
 (m.) l'oiseau,นก,y
@@ -62,6 +63,7 @@ arriver,มาถึง,y
 attendre,รอ,y
 au-delà,ไกลออกไปกว่า,y
 aujourd'hui,วันนี้,y
+aussi,ด้วย เช่นกัน,y
 autant de,เยอะมาก เยอะเท่ากับ,y
 autre,อื่น อันอื่น อีก,y
 avant,ก่อน,y
@@ -249,6 +251,7 @@ la valise,กระเป๋าเดินทาง,y
 la vendeuse,พนักงานขาย (ญ),y
 la veste,เสื้อแจ็กเก็ต,y
 la viande,เนื้อ,y
+la ville,เมือง,y
 la voiture,รถยนต์,y
 laid,น่าเกลียด,y
 lancer,ขว้าง โยน,y
@@ -435,6 +438,7 @@ prêt,พร้อม,y
 pur,บริสุทธิ์,y
 quand,เมื่อไหร่,y
 quatrième,อันดับที่สี่,y
+quelqu'un,บางคน,y
 qui,ใคร,y
 rapide,เร็ว,y
 regarder,ดู (!v),y
