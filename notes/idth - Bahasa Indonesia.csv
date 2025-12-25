@@ -13,10 +13,12 @@ apel,แอปเปิล,y
 atau,หรือ,y
 awas,ระวัง,y
 ayam,ไก่,y
+babi,หมู,y
 baca,อ่าน,y
 bagaimana,เป็นอย่างไร,u
 bagus,สวย ดี เยี่ยม,y
 bahagia,มีความสุข,y
+bakso,ลูกชิ้น,y
 bangun,ก่อสร้าง สร้าง,y
 bank,ธนาคาร,y
 bantu,ช่วยเหลือ,y
@@ -152,6 +154,8 @@ kaya,รวย,y
 ke,ไปยัง,y
 kecap,ซีอิ๊ว,y
 kecil,เล็ก,y
+kedua,ที่สอง,y
+kelapa,มะพร้าว,y
 keluar,ออกไปข้างนอก,y
 kemarin,เมื่อวาน,y
 kembali,กลับมา,y
@@ -230,6 +234,7 @@ penuh,เต็ม แน่น,y
 pergi,ไป,y
 permisi,ขออภัย โทษที (!m),y
 persen,ร้อยละ เปอร์เซนต์,y
+pertama,ที่หนึ่ง,y
 pertanyaan,คำถาม,y
 pesan,สั่ง (อาหาร),y
 pintar,ฉลาด เก่ง,y
@@ -237,9 +242,12 @@ pisang,กล้วย,y
 pria,ผู้ชาย (ทางการ),y
 pulang,กลับบ้าน,y
 pulau,เกาะ,y
+puluhan,หลายสิบ,y
 punya,มี,y
 putih,สีขาว,y
+ratusan,หลายร้อย,y
 restoran,ร้านอาหาร,y
+ribuan,หลายพัน,y
 rok,กระโปรง,y
 roti,โรตี ขนมปัง,y
 ruang,ห้อง (พื้นที่สำหรับ~),y
@@ -269,6 +277,7 @@ selapas,หลังจาก,y
 selesai,ทำเสร็จ เสร็จสิ้น,y
 selusin,หนึ่งโหล,y
 sembilan,เก้า,y
+semiliar,หนึ่งพันล้าน,y
 sempurna,สมบูรณ์แบบ ดีเลิศ,y
 sepatu,รองเท้า,y
 sepuluh,สิบ,y
