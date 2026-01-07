@@ -371,6 +371,7 @@ der Friseur,Friseur,die Friseure,ช่างทำผม ช่างตัด�
 der Frühling,Frühling,die Frühlinge,ฤดูใบไม้ผลิ,y
 der Fuß,Fuß,die Füße,เท้า,y
 der Fußball,Fußball,die Fußbälle,ฟุตบอล,y
+der Fön,Fön,die Föhne,ไดร์เป่าผม,y
 der Füller,Füller,die Füller,ปากกาหมึกซึม,y
 der Garten,Garten,die Gärten,สวน,y
 der Gast,Gast,die Gäste,แขก,y
@@ -449,7 +450,7 @@ der Laptop,Laptop,die Laptops,คอมพิวเตอร์โนตบุ�
 der Lastwagen,Lastwagen,die Lastwagen,รถบรรทุก,y
 der Lautsprecher,Lautsprecher,die Lautsprecher,ลำโพง,y
 der Leder,Leder,,หนังสัตว์,y
-der Leiter,Leiter (Person),die Leiter,ผู้จัดการ,y
+der Leiter,Leiter (Person),die Leiter,ผู้จัดการ หัวหน้า,y
 der Lichtschalter,,die Lichtschalter,สวิตช์ไฟ,y
 der Liebling,Liebling,die Lieblinge,ของโปรด ของชอบ,y
 der Liter,Liter,die Liter,ลิตร,y
@@ -484,6 +485,8 @@ der Nachbar,Nachbarn,die Nachbarn,เพื่อนบ้าน,y
 der Nachmittag,Nachmittag,die Nachmittage,ตอนบ่าย,y
 der Nachname,Nachname,die Nachnamen,นามสกุล (N…),y
 der Nachtisch,Nachtisch,die Nachtische,ของหวาน อาหารหลังมื้อหลัก,y
+der Nagel,Nagel,die Nagel,เล็บ,y
+der Nagelknipser,Nagelknipser,die Nagelknipser,กรรไกรตัดเล็บ,y
 der Name,Name,die Namen,ชื่อ,y
 der Neffe,Neffe,die Neffen,หลานชาย (ของลุงป้าน้าอา),y
 der Norden,Norden,,ทิศเหนือ,y
@@ -587,6 +590,7 @@ der Stift,Stift,die Stifte,ปากกา (S),y
 der Stock,Stock,die Stock,ชั้น (s),y
 der Strand,Strand,die Strände,ชายหาด,y
 der Straßenname,,,ชื่อถนน,y
+der Streichholz,Streichholz,die Streichhölzer,ไม้ขีดไฟ,y
 der Streit,Streit,die Streite,การแข่งขัน การถกเถียง การทะเลาะ,y
 der Stress,Stress,,ความเครียด,y
 der Strom,Strom,,ไฟฟ้า พลังงาน,y
@@ -862,7 +866,7 @@ die Landstraße,,,ถนนชนบท,y
 die Last,Last,die Lasten,น้ำหนัก สัมภาระ,y
 die Lehrerin,,die Lehrerinnen,ครู (ญ),y
 die Leiter,Leiter (Sache),die Leitern,บันไดเกิ๋น,y
-die Leitzahl,Leitzahl,,รหัส,y
+die Leitzahl,Leitzahl,,รหัสตัวเลข,y
 die Leute,Leute,,ผู้คน,y
 die Liebe,Liebe,die Lieben,ความรัก,y
 die Lieferung,,die Lieferungen,การส่งพัสดุ การขนส่งสินค้า,y
@@ -1055,7 +1059,7 @@ die Wolke,Wolke,die Wolken,ก้อนเมฆ,y
 die Wurst,Wurst,die Würste,ไส้กรอก,y
 die Wärme,Wärme,,ความอบอุ่น,y
 die Wäsche,Wäsche,die Wäschen,การล้าง การซักผ้า,y
-die Zahl,Zahl,die Zahlen,ตัวเลข รหัส,y
+die Zahl,Zahl,die Zahlen,ตัวเลข จำนวน,y
 die Zahnbürste,Zahnbürste,die Zahnbürsten,แปรงสีฟัน,y
 die Zahnpasta,Zahnpasta,die Zahnpastas,ยาสีฟัน,y
 die Zahnschmerzen,,,ปวดฟัน,y
