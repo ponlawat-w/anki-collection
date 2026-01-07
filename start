@@ -8,6 +8,7 @@ fi
 
 git -C ./src pull origin master
 dotnet restore src
+rm ./notes/*.csv
 dotnet run --project ./src/CLI/AnkiCollectionToCsv $collectionPath ./notes || exit
 
 git diff
