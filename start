@@ -11,6 +11,8 @@ dotnet restore src
 rm ./notes/*.csv
 dotnet run --project ./src/CLI/AnkiCollectionToCsv $collectionPath ./notes || exit
 
+cp ./notes/*.csv ~/Library/Mobile\ Documents/iCloud~is~workflow~my~workflows/Documents/Anki/
+
 git diff
 echo -n "Do you want to commit? (y/n): "
 read confirmation
