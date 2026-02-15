@@ -49,6 +49,7 @@ das Croissant,Croissant,die Croissants,ครัวซองต์,y
 das Dach,Dach,die Dächer,หลังคา,y
 das Date,Date,,การออกเดท,y
 das Datum,Datum,die Daten,วันที่,y
+das Denkmal,Denkmal,die Denkmäler,อนุสาวรีย์ รูปปั้น,y
 das Dokument,Dokument,die Dokumente,เอกสาร (!B),y
 das Dorf,Dorf,die Dörfer,เมือง (d),y
 das Ei,Ei,die Eier,ไข่,y
@@ -306,6 +307,7 @@ der Bewohner,Bewohner,,ผู้อยู่อาศัย,y
 der Bezirk,Bezirk,die Bezirke,ย่าน เขต,y
 der Bezug,Bezug,die Bezüge,ผ้าคลุม,y
 der Bilderrahmen,Bilderrahmen,die Bilderrahmen,กรอบรูป,y
+der Bioladen,,,ร้านขายผลิตภัณฑ์เพื่อสุขภาพ ออร์แกนิก,y
 der Blattsalat,,,สลัดใบเขียว,y
 der Bleistift,Bleistift,die Bleistifte,ดินสอ,y
 der Blick,Blick,die Blicke,วิว ทิวทัศน์,y
@@ -362,6 +364,7 @@ der Film,Film,die Filme,ภาพยนตร์ (f),y
 der Finger,Finger,die Finger,นิ้วมือ,y
 der Fisch,Fisch,die Fische,ปลา,y
 der Fischmarkt,Fischmarkt,,ตลาดปลา,y
+der Flohmarkt,,,ตลาดนัด ตลาดของเก่า,y
 der Flug,Flug,die Flüge,เที่ยวบิน,y
 der Flughafen,Flughafen,die Flughäfen,สนามบิน,y
 der Flur,Flur,die Flure,โถงทางเดิน,y
@@ -998,6 +1001,7 @@ die Stelle,Stelle,die Stellen,ตำแหน่งงาน,y
 die Stille,,,ความเงียบ,y
 die Strategie,Strategie,die Strategien,กลยุทธ์ ยุทธศาสตร์,y
 die Straße,Straße,die Straßen,ถนน,y
+die Straßenbahn,,,รถราง,y
 die Straßenseite,Straßenseite,die Straßenseiten,ฟากถนน,y
 die Stunde,Stunde,die Stunden,ชั่วโมง คาบ,y
 die Sucht,Sucht,,การเสพติด,y
