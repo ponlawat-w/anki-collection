@@ -123,6 +123,7 @@ das Huhn,Huhn,die Hühner,ไก่ตัวเมีย,y
 das Hähnchen,Hähnchen,die Hähnchen,ไก่ เนื้อไก่,y
 das Häschen,Häschen,die Häschen,ลูกกระต่าย,y
 das Häuschen,,,กระท่อม บ้านหลังเล็ก ๆ,y
+das Imbiss,Imbiss,die Imbisse,แผงขายอาหาร ร้านอาหารเล็ก ๆ,y
 das Innere,Innere,die Inneren,ภายใน,y
 das Insekt,Insekt,die Insekten,แมลง,y
 das Interesse,Interesse,die Interessen,ความสนใจ,y
@@ -220,7 +221,7 @@ das Souvenir,Souvenir,die Souvenires,ของฝาก,y
 das Spaghetti,Spaghetti,,สปาเกตตี,y
 das Spielzeug,Spielzeug,die Spielzeuge,ของเล่น (Sz),y
 das Stadion,Stadion,die Stadien,สเตเดียม,y
-das Stadtviertel,,,เขต ตำบล ย่าน,y
+das Stadtviertel,,,ละแวก ย่าน หมู่บ้าน (เล็ก),y
 das Stadtzentrum,,,ใจกลางเมือง,y
 das Steak,Steak,die Steaks,สเต็ก,y
 das Streichholz,Streichholz,die Streichhölzer,ไม้ขีดไฟ,y
@@ -305,7 +306,7 @@ der Besuch,Besuch,die Besuche,การเยี่ยม,y
 der Betreiber,,,ผู้ควบคุม ผู้ปฏิบัติการ,y
 der Bettbezug,Bettbezug,die Bettbezüge,ผ้าปูเตียง (!~l),y
 der Bewohner,Bewohner,,ผู้อยู่อาศัย,y
-der Bezirk,Bezirk,die Bezirke,ย่าน เขต,y
+der Bezirk,Bezirk,die Bezirke,ย่าน เขต ตำบล (กลาง),y
 der Bezug,Bezug,die Bezüge,ผ้าคลุม,y
 der Bilderrahmen,Bilderrahmen,die Bilderrahmen,กรอบรูป,y
 der Bioladen,,,ร้านขายผลิตภัณฑ์เพื่อสุขภาพ ออร์แกนิก,y
@@ -451,7 +452,7 @@ der Kühlschrank,Kühlschrank,die Kühlschränke,ตู้เย็น,y
 der Künstler,,,ศิลปิน,y
 der Lachs,Lachs,die Lachse,ปลาแซลมอน,y
 der Laden,Laden,die Läden,ร้าน (!G),y
-der Landkreis,Landkreis,die Landkreise,ตำบล,y
+der Landkreis,Landkreis,die Landkreise,เขต อำเภอ (ใหญ่ ถัดจากรัฐ),y
 der Laptop,Laptop,die Laptops,คอมพิวเตอร์โนตบุก,y
 der Lastwagen,Lastwagen,die Lastwagen,รถบรรทุก,y
 der Lautsprecher,Lautsprecher,die Lautsprecher,ลำโพง,y
@@ -505,7 +506,7 @@ der Oktober,Oktober,,ตุลาคม,y
 der Onkel,Onkel,die Onkel,ลุง,y
 der Opa,Opa,die Opas,ปู่ ตา (O),y
 der Orangensaft,Orangensaft,die Orangensäfte,น้ำส้ม,y
-der Ort,Ort,die Orte,เมือง หมู่บ้าน สถานที่,y
+der Ort,Ort,die Orte,สถานที่ เมือง หมู่บ้าน,y
 der Osten,Osten,,ทิศตะวันออก,y
 der Palast,Palast,die Paläste,พระราชวัง,y
 der Papagei,Papagei,die Papageien,นกแก้ว,y
@@ -718,6 +719,7 @@ die Brust,Brust,die Brüste,หน้าอก,y
 die Brücke,Brücke,die Brücken,สะพาน,y
 die Buchhandlung,Buchhandlung,die Buchhandlungen,ร้านหนังสือ,y
 die Bushaltestelle,Bushaltestelle,die Bushaltestellen,ป้ายรถเมล์,y
+die Butter,Butter,,เนย,y
 die Bäckerei,Bäckerei,die Bäckereien,เบเกอรี่,y
 die Bürste,Bürste,die Bürsten,แปรง,y
 die Chemie,Chemie,,เคมี,y
@@ -919,6 +921,7 @@ die Nebenkosten,,,ค่าเช่า (ส่วนที่เป็นสา
 die Nichte,Nichte,die Nichten,หลานสาว (ของลุงป้าน้าอา),y
 die Nordsee,Nordsee,,ทะเลเหนือ,y
 die Not,Not,die Nöte,ความต้องการ,y
+die Notiz,Notiz,die Notizen,การจดโน้ต ข้อความสั้น,y
 die Nudel,Nudel,die Nudeln,ก๋วยเตี๋ยว พาสต้า,y
 die Nummer,Nummer,die Nummern,เลข,y
 die Nähe,Nähe,,ละแวกใกล้ ๆ บริเวณใกล้ ๆ (คำนาม),y

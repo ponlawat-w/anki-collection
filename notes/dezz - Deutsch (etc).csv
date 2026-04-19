@@ -49,7 +49,7 @@ aufräumen,V.,จัด ทำความสะอาด,y
 aufschreiben,V.,จด,y
 aufstehen,V.,ตื่นนอน (ลุกจากที่นอน),y
 aufwachen,V.,ตื่น (รู้สึกตัว) (a),y
-aufwarten,V.,รอคอย(บางอย่าง) (+กรรม),y
+aufwarten,V.,รอคอย(บางอย่าง) (+กรรม) จัดเตรียม,y
 aus sein,V.,ปิดอยู่ (สวิตช์),y
 ausgeben,V.,ใช้จ่าย จับจ่ายใช้สอย (!จ่ายเงิน),y
 ausgezeichnet,Adj.,ยอดเยี่ยม (a),y
@@ -70,7 +70,7 @@ baden,V.,แช่น้ำ เล่นน้ำ ว่ายน้ำ,y
 bald,Adv.,เร็ว ๆ นี้ (ที่จะถึงนี้) (!k),y
 bauen,V.,ก่อสร้าง (อาคาร),y
 bedeuten,V.,มีความหมาย,y
-begeistert,Adj.,ตื่นเต้น ประทับใจ กระตือรือร้น,y
+begeistert,Adj.,ที่รู้สึกตื่นเต้น ประทับใจ กระตือรือร้น (≠ น่าตื่นเต้น),y
 begrüßen,V.,ทักทาย,y
 beide,pron.,ทั้งคู่,y
 bekannt,Adj.,มีชื่อเสียง (เป็นที่รู้จัก),y
@@ -473,7 +473,7 @@ regelmäßig,Adj.,เป็นไปตามกฎ,y
 regnen,V.,(ฝน)ตก,y
 reich,Adj.,รวย,y
 reichen,V.,ทำให้เพียงพอ,y
-reinigen,V.,ทำความสะอาด (ทำให้สะอาด),y
+reinigen,V.,ทำความสะอาด (ขจัดคราบ เช็ดถู ล้าง),y
 reinkommen,V.,เข้า<b><i><u>มา</u></i></b>ข้างใน,y
 reiten,V.,ขี่,y
 rennen,V.,วิ่ง (!l),y
