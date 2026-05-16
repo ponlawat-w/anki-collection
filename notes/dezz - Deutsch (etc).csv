@@ -29,7 +29,7 @@ anfangen,V.,เริ่ม (a),y
 angeln,V.,ตกปลา,y
 anhaben,V.,"สวมใส่ (!t, !az)",y
 anklicken,V.,คลิก,y
-ankommen,V.,มาถึง,y
+ankommen,V.,มาถึง (!e),y
 anmachen,[Trennbare] V.,เปิด (สวิตช์),y
 annehmen,V.,ตอบรับ ตอบตกลง (!sein),y
 anrufen,V.,โทรหา,y
@@ -423,6 +423,7 @@ nebenan,Adv.,ข้าง ๆ ถัดไป,y
 neblig,Adj.,ที่มีหมอก,y
 nehmen,V.,หยิบ จับ ขึ้น,y
 nennen,V.,เรียก ตั้งชื่อ,y
+nerven,V.,รบกวน ทำให้รำคาญ,y
 nervig,Adj.,น่ารำคาญ,y
 nervös,Adj.,ประหม่า ตื่นเต้น,y
 nett,Adj.,ใจดี,y
@@ -576,7 +577,7 @@ stolz,Adj.,ภูมิใจ,y
 stoppen,V.,หยุด (s),y
 stricken,V.,เย็บ,y
 stundenlang,Adj.,นานหลายชั่วโมง,y
-stören,V.,รบกวน,y
+stören,V.,รบกวน ขัดจังหวะ,y
 suchen,V.,หา,y
 sächlich,Adj.,ที่เป็นเพศกลาง,y
 südlich,Adj.,ทางทิศใต้,y
