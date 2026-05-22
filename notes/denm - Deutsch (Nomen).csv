@@ -69,6 +69,7 @@ das Fenster,Fenster,,หน้าต่าง,y
 das Ferienhaus,,,บ้านพักตากอากาศ,y
 das Feuer,Feuer,die Feuer,ไฟ (!แสง),y
 das Fieber,Fieber,,ไข้,y
+das Fitnessstudio,,,ยิม,y
 das Fleisch,Fleisch,,เนื้อ,y
 das Flugzeug,Flugzeug,die Flugzeuge,เครื่องบิน,y
 das Fläschchen,Fläschchen,die Fläschchen,ขวดขนาดเล็ก,y
@@ -236,6 +237,7 @@ das Tennis,Tennis,,เทนนิส,y
 das Ticket,Ticket,die Tickets,ตั๋ว,y
 das Tier,Tier,die Tiere,สัตว์,y
 das Tischtuch,,,ผ้าปูโต๊ะ,y
+das Toilettenpapier,,,กระดาศชำระ,y
 das Tor,Tor,die Tore,ประตู(นอกบ้าน) ซุ้ม,y
 das Training,Training,die Training,การฝึก การซ้อม,y
 das Tuch,Tuch,die Tücher,ผ้า,y
@@ -726,6 +728,7 @@ die Bäckerei,Bäckerei,die Bäckereien,เบเกอรี่,y
 die Bürste,Bürste,die Bürsten,แปรง,y
 die Chemie,Chemie,,เคมี,y
 die Cola,Cola,die Colas,โคล่า,y
+die Creme,Creme,die Cremen,ครีม โลชั่น,y
 die Dame,Dame,die Damen,สุภาพสตรี คุณผู้หญิง,y
 die Daten,,,ข้อมูล,y
 die Dauer,Dauer,,ระยะเวลา (!P!~r),y
@@ -996,6 +999,7 @@ die Sicherheit,Sicherheit,,ความปลอดภัย,y
 die Socke,Socke,die Socken,ถุงเท้า,y
 die Sonne,Sonne,die Sonnen,ดวงอาทิตย์,y
 die Sonnenbrille,,,แว่นตากันแดด,y
+die Sonnencreme,,die Sonnencremes,ครีมกันแดด,y
 die Sonnenuhr,,,นาฬิกาแดด,y
 die Sorge,Sorge,die Sorgen,ความกังวล,y
 die Soße,Soße,die Soßen,ซอส,y
