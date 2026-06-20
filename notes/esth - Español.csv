@@ -1666,6 +1666,7 @@ la alfombrilla,แผ่นรองเมาส์,y
 la alhabaca,กะเพรา,y
 la almohada,หมอน,y
 la alusión,การพาดพิง การอ้างถึง,
+la amasadora,เครื่องนวดแป้ง,y
 la ampolla,แผลพุพอง,y
 la angustia,ความเครียดวิตกกังวล อาการคลื่นไส้,y
 la antelación,การแจ้งให้ทราบ,y
@@ -1692,7 +1693,7 @@ la autovía,ทางหลวง,y
 la avellana,เฮเซลนัท,y
 la avena,ข้าวโอ๊ต,y
 la aversión,ความเกลียดชัง ความขยะแขยง,
-la avispa,ตัวต่อ,y
+la avispa,ตัวต่อ (แมลง),y
 la axila,รักแร้,y
 la azafata,แอร์โฮสเตส พนักงานต้อนรับบนเครื่องบิน,y
 la azotea,ดาดฟ้า,y
@@ -1706,7 +1707,8 @@ la barraca,กระท่อม,y
 la barrera,ไม้กั้น ที่กั้นบนถนน,y
 la barriga,พุง ท้อง (b),y
 la bata,เสื้อคลุมอาบน้ำ เสื้อคลุมนอน,y
-la batidora,เครื่องตี มิกเซอร์,y
+la batidora de varillas,เครื่องตี มิกเซอร์,y
+la batidora de vaso,เครื่องปั่น,y
 la bayeta,ผ้าเช็ดโต๊ะ ผ้าขี้ริ้ว(หมาด),y
 la bellota,ลูกโอ๊ก,y
 la berenjena,มะเขือม่วง,y
@@ -2021,7 +2023,6 @@ la lengua vehicular,ภาษากลาง,y
 la leña,หลัว ฟืน,y
 la libra,ปอนด์,y
 la libreta,สมุดบันทึก,y
-la licuadora,เครื่องปั่น,y
 la liebre,กระต่ายป่า,y
 la lima de uñas,ตะไบเล็บ,y
 la limonada,น้ำมะนาว,y
