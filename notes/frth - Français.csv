@@ -468,7 +468,7 @@ quand,เมื่อไหร่,y
 quatrième,อันดับที่สี่,y
 quelqu'un,บางคน,y
 qui,ใคร,y
-rapide,เร็ว,y
+rapide,เร็ว (!v),y
 regarder,ดู (!v),y
 rentrer,กลับ,y
 respecter,เคารพ,y
@@ -514,7 +514,7 @@ vers,ไปยัง มุ่งหน้าไปยัง,y
 vert,สีเขียว,y
 violet,สีม่วง,y
 visiter,เยี่ยม ไปเที่ยวหา,y
-vite,อย่างเร็ว อย่างรวดเร็ว เร็ว ๆ,y
+vite,อย่างเร็ว อย่างรวดเร็ว เร็ว ๆ (!r),y
 vivre,อยู่อาศัย,y
 voir,เห็น ดู (!r),y
 vouloir,อยาก,y
