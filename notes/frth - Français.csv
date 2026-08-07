@@ -196,6 +196,7 @@ la boulangerie,ร้านขายขนมปัง เบเกอรี่,
 la brioche,ขนมปังบริยอช,y
 la capitale,เมืองหลวง,y
 la carotte,แครอท,y
+la carte,บัตร,y
 la ceinture,เข็มขัด,y
 la cerise,เชอร์รี,y
 la chaise,เก้าอี้,y
@@ -442,12 +443,15 @@ orange,สีส้ม,y
 ou,หรือ,y
 ouvrir,เปิด,y
 où,ที่ไหน,y
+par,ด้วย สำหรับ ผ่านทาง,y
 parce que,เพราะว่า (๒),y
 parfait,สมบูรณ์แบบ ยอดเยี่ยม (!g),y
 parler,พูด,y
 parmi,อยู่ท่ามกลาง ล้อมรอบไปด้วย,y
 partir,ออกไป ออกจาก,y
+pas du tout,ไม่เลย,y
 pauvre,ยากจน,y
+payer,จ่าย,y
 pendant que,ในช่วง ในขณะที่,y
 perdre,สูญเสีย ทำหาย,y
 perdu,หลง หลงทาง,y
