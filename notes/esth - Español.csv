@@ -435,6 +435,7 @@ el acero,เหล็ก (!h),y
 el acertijo,เกมปริศนา เกมแก้ปัญหา ปัญหาเชาว์ (en: puzzle),y
 el acontecimiento,เหตุการณ์ (a),y
 el acueducto,สะพานส่งน้ำ,y
+el acupuntor,หมอฝังเข็ม,y
 el adhesivo,สติกเกอร์ (!p),y
 el adoquín,หินกรวด,y
 el aerosol,สเปรย์ ละออง,y
@@ -569,6 +570,7 @@ el brazo de gitano,แยมโรล,y
 el brioche,ขนมปังนุ่ม (ด้านบนเป็นก้อนหน่วย ๆ),y
 el bronce,ทองแดง,y
 el brote,การแพร่กระจายของโรคติดต่อ (outbreak),y
+el brécol,บลอกโคลี,y
 el brócoli,บร็อคโคลี,y
 el bucle,วงเวียน วัฏจักร ลูป,y
 el buey,วัวตัวผู้,y
@@ -1305,6 +1307,7 @@ el salpicadero,แผงคอนโซลรถยนต์,y
 el saltamontes,ตั๊กแตน,y
 el santuario,ปูชนียสถาน สถานที่ศักดิ์สิทธิ์,y
 el sapo,คางคก,y
+el sarcófago,โลงศพหินโบราณ,y
 el sauce (árbol),ต้นหลิว,y
 el secador,ไดร์เป่าผม,y
 el segundero,เข็มวินาที,y
@@ -1599,6 +1602,7 @@ hipar,สะอึก,y
 hipermétrope,ที่สายตายาว,y
 hispalense,ที่มาจาก Sevilla / คำคุณศัพท์ของ Sevilla,y
 holgazanear,นั่ง ๆ นอน ๆ ไม่ทำอะไร ทำตัวขี้เกียจ,y
+homologado,ที่ได้รับรองมาตรฐานอุตสาหกรรม,y
 hortera,รสนิยมต่ำ ไร้ค่า,y
 hortofrutícola,เกี่ยวกับผลผลิตทางการเกษตร,y
 hostigar,รังแก ทรมาน รบกวน ทำให้รำคาญ (h),y
@@ -1659,6 +1663,7 @@ la acelga,ผักชาร์ด,y
 la acequia,รางน้ำ คูน้ำ,y
 la acrofobia,โรคกลัวความสูง,y
 la acuarela,สีน้ำ,y
+la acupuntura,การฝังเข็ม,y
 la aduana,ศุลกากร,y
 la afeitadora,ที่โกนหนวด,y
 la agarradera,ที่จับ (!m),y
@@ -1678,6 +1683,7 @@ la alhabaca,กะเพรา,y
 la almohada,หมอน,y
 la alusión,การพาดพิง การอ้างถึง,
 la amasadora,เครื่องนวดแป้ง,y
+la amenorrea,ภาวะขาดประจำเดือน,y
 la ampolla,แผลพุพอง,y
 la angustia,ความเครียดวิตกกังวล อาการคลื่นไส้,y
 la antelación,การแจ้งให้ทราบ,y
@@ -1761,7 +1767,7 @@ la calle sin salida,ทางตัน,y
 la callejuela,หุบเขา ถนนแคบ ๆ,y
 la campana extractora,เครื่องดูดอากาศ,y
 la campanilla,ลิ้นไก่ (!u),y
-la cana,ผมหงอก,y
+la cana,ผมหงอก (คำนาม),y
 la canasta,ตะกร้า ห่วงบาสเกตบอล,y
 la canica,ลูกแก้ว,y
 la cantera,เหมืองหิน,y
@@ -1997,6 +2003,7 @@ la hipoteca,การจำนอง,y
 la hipotermia,ภาวะตัวเย็นเกิน,y
 la hoguera,กองเพลิง (ใหญ่),y
 la horma,แม่พิมพ์รองเท้า,y
+la hormesis,ปรากฏการณ์กระตุ้นด้วยสารพิษระดับน้อยแล้วส่งผลดี,y
 la hormiga,มด,y
 la hortofruticultura,การทำเกษตรกรรม (!a),y
 la hucha,กระปุกออมสิน,y
@@ -2140,6 +2147,7 @@ la objeción,การเห็นต่าง การคัดค้าน,y
 la obra (de construcción),ไซต์ก่อสร้าง,y
 la ojera,ถุงใต้ตา,y
 la oligarquía,การปกครองโดยคนไม่กี่คนเป็นใหญ่,y
+la oligomenorrea,ภาวะขาดประจำเดือน,y
 la onomástica,วิสามานยนามศาสตร์,y
 la onza,ออนซ์,y
 la oración,โฮมรูม การกล่าวปราศรัย,y
@@ -2171,8 +2179,10 @@ la pata palmeada,เท้าเป็นพังผืด,y
 la patada,การเตะ,y
 la patera,เรือบดเล็ก (เช่น เรือขนผู้อพยพ),y
 la patilla,จอน (เคราด้านข้าง),y
+la patología,พยาธิวิทยา,y
 la patria,บ้านเกิด ภูมิลำเนา,y
 la patrulla,สายตรวจ ตำรวจลาดตระเวน,y
+la pauta,บรรทัดฐาน แนวทาง เกณฑ์,y
 la peca,กระ,y
 la pechuga,อก (เนื้อสัตว์),y
 la peculiaridad,ลักษณะเฉพาะ,
@@ -2299,6 +2309,7 @@ la sombra,เงา,y
 la subasta,การประมูล,y
 la subfusil,ปืนกลมือ (!m),y
 la sucursal,สาขา สำนักงานสาขา,y
+la sudadera,เสื้อกันหนาว,y
 la suegra,แม่ยาย,y
 la superstición,ความเชื่อเหนือธรรมชาติ ผีสาง,y
 la suricata,เมียร์แคต,y
@@ -2356,6 +2367,7 @@ la ventisca,พายุหิมะ,y
 la verja,รั้ว,y
 la viabilidad,ความอยู่รอดได้,y
 la viga,คาน,y
+la virguería,ผลงานชิ้นเอก,y
 la virtud,ข้อเสีย,y
 la viruela,ฝีดาษ,y
 la viscosidad,ความเหนียว ความหนืด,y
@@ -2474,6 +2486,7 @@ ni el tato,ไม่มีใครเลย,
 ni fú ni fá,เฉย ๆ,
 no dar ni un palo al agua,ไม่ทำอะไร ไม่ทำงาน (สำนวน),y
 no tener pelos en la lengua,(สำนวน) พูดจาขวานผ่าซาก พูดตรง ๆ,y
+nocivo,ที่มีผลร้าย เป็นโทษ เป็นอันตราย ที่ส่งผลเสีย,y
 nocturno,ที่เกี่ยวกับตอนกลางคืน,y
 notarse,เห็นได้ชัด เริ่มสังเกตเห็นได้ เด่น,y
 nupcial,ที่เกี่ยวกับพิธีแต่งงาน,y
@@ -2486,6 +2499,7 @@ obviar,หลีกเลี่ยง (o),y
 "ojos que no ven, corazón que no siente",เมื่อไม่รู้ไม่เห็นย่อมไม่รู้สึก,y
 okupar,ครอบครอง/เข้าไปอยู่โดยไม่ได้รับอนุญาต,y
 opuesto,ที่อยู่ตรงข้าม,y
+ordeñar,รีด(นม) คั้นน้ำ,y
 orinar,ปัสสาวะ (ทางการ),y
 oscurecer,ทำให้มืด,y
 otorgar,มอบรางวัล ให้รางวัล,y
@@ -2518,6 +2532,7 @@ percatar,รู้ถึง (มึ้ง) (p),y
 perder los estribos,(สำนวน) ฟิวส์ขาด ปรี๊ดแตก สูญเสียความอดทน สูญเสียการควบคุม,y
 perforar,เจาะรู แทง,y
 perjudicar,ทำลาย (p),y
+permeable,ที่ซึมผ่านได้,y
 pernoctar,ค้างคืน,y
 perseguir,แสวงหา ไล่ตาม,y
 perspicaz,หลวก เฉลียว ฉลาด,y
@@ -2586,6 +2601,7 @@ rayar,ขีด ทำให้เป็นรอย,y
 reanudar,ทำต่อ ดำเนินการต่อ,y
 rebobinar,ย้อนเวลา (กริยา),y
 rebotar,เด้ง สะท้อน เด้งกระดึ๋ง ตีกลับ,y
+rebozar,ชุบแป้งทอด,y
 recalcar,เน้นเสียง เน้นย้ำ,y
 rechinar,ทำเสียงเอี๊ยด,y
 recortar,ครอป,y
@@ -2672,6 +2688,7 @@ semejante,ซึ่งใกล้เคียง (ไม่ใช่ similar),y
 semejarse,ดูเหมือน (กริยา s),y
 sensato,ที่มีเหตุผล ที่เมคเซนส์,y
 sensible,ที่มีไหวพริบ ที่มีวิจารณญาณ เฉลียวฉลาด,y
+separar el grano de la paja,แยกเรื่องดีและเรื่องไม่ดีออกจากกัน,y
 sepultar,ฝังดิน (!e),y
 ser un rata,ขี้เหนียว (สำนวน) (!t),y
 ser un trozo de pan,เป็นคนดี,
@@ -2737,6 +2754,7 @@ tieso,แข็งทื่อ,y
 tirarse un pedo,(กริยา) ผายลม,y
 tiritar,ตัวสั่น (หนาว/กลัว),y
 titubear,เขินอาย พูดแบบติด ๆ ขัด ๆ,y
+torpedear,ยิงตอร์ปิโด ขัดขวาง,y
 toser,ไอ,y
 tozudo,หัวแข็ง,y
 tragar,กลืน,y
