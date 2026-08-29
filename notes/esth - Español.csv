@@ -48,6 +48,7 @@ abuchear,ส่งเสียงโห่,y
 acampar,เข้าแคมป์,y
 acechar,ติดตามแบบลับ ๆ,y
 acertar,ทายถูก ตรงเป้า,y
+achacar,โยนความผิด (!e),y
 aciago,อัปมงคล อัปโชค ที่ไม่ดี,y
 acicalar,ทำความสะอาด ไซร้เห็บเหา,y
 acoger,ยอมรับ ให้การยอมรับ รองรับการลี้ภัย,y
@@ -274,6 +275,7 @@ coser,เย็บ,y
 cosquillear,ทำให้จั้กจี้ ทำให้คัน,y
 costero,ที่อยู่ชายฝั่ง,y
 cotidiano,ประจำวัน (คุณศัพท์),y
+cotizar,เสียภาษี สมทบประกันสังคม ประเมินราคา,y
 cotorrear,คุยเรื่อยเปื่อย,y
 cretino,โง่,
 crucial,สำคัญ,
@@ -326,6 +328,7 @@ desahogarse,ปลดปล่อย ระบาย (อารมณ์),y
 desarticular,แยกชิ้นส่วน แกะออก เข้าสลาย,y
 desatar,แก้มัด แก้เชือก,y
 desbordar las previsiones,เหนือความคาดหมาย,
+descalzo,ที่ไม่ใส่รองเท้า เท้าเปล่า,y
 descarrilar,ตกราง,y
 descifrar,ถอดรหัส,y
 descojonarse,ขำขี้แตกขี้แตน,y
@@ -384,7 +387,7 @@ dubitativo,ที่สงสัย ที่เต็มไปด้วยค�
 dulcificar,ทำให้หวาน ทำให้อ่อน,y
 dócil,เชื่อง ว่านอนสอนง่าย,y
 echar brotes,(ต้นไม้)แตกหน่อ แตกต้นอ่อน,y
-echar la culpa,โทษ กล่าวโทษ,y
+echar la culpa,โทษ กล่าวโทษ (!a),y
 echar margaritas a los cerdos,(สำนวน) ไก่ได้พลอย,y
 echar una bronca,ดุด่าอย่างรุนแรง,
 echar una mano,(ยื่นมือ)เข้าไปช่วยเหลือ,y
@@ -776,6 +779,7 @@ el dorso (de la mano),หลังมือ,y
 el duelo,การไว้อาลัย (!l),y
 el déficit,การขาดทุน,y
 el egorro,ความยาก ความลำบากลำบน,
+el eje,แกน เพลา,y
 el ejecutivo,ผู้บริหาร,y
 el embalse,เขื่อน,y
 el embrague,คลัทช์,y
@@ -1506,6 +1510,7 @@ escatimar,หวง ประหยัด,y
 escrutar,นับ คิด วิเคราะห์ (e),y
 esculpir,แกะสลัก,y
 escupir,ถ่มน้ำลาย,y
+escurridizo,ที่เข้าใจยาก ที่ลื่น,y
 esfumar,ทำให้เบลอ ทำให้อ่อนลง,y
 eslovaco,ที่เกี่ยวกับสโลวาเกีย,y
 espabilado,หัวไว หลวก ไหวพริบดี,y
@@ -1554,6 +1559,7 @@ fecundar,ผสมพันธ์ (สัตว์) (en: fertilise ≠ es: ferti
 ferroviario,ที่เกี่ยวกับรถไฟ,y
 fetén,ยอดเยี่ยม เจ๋ง,
 fiarse de,เชื่อถือ (f),y
+ficticio,ที่แต่งขึ้น ที่สมมติ,y
 filantrópico,เพื่อการกุศล ที่เกี่ยวกับสาธารณประโยชน์,y
 filial,ที่เกี่ยวกับลูก,y
 fingir,แกล้ง ทำเป็น แสร้ง,y
@@ -1618,6 +1624,7 @@ importar un comino,ไม่สำคัญ (สำนวน importar ~),y
 imprevisible,คาดเดาไม่ได้ ทำนายไม่ได้,y
 imprudente,ประมาท เลินเล่อ ไม่รอบคอบ (คำคุณศัพท์),y
 inaugurar,เปิด เริ่ม (สถานที่),y
+incesante,ที่ไม่ขาดสาย ที่ไม่หยุดหย่อน ที่ต่อเนื่อง,y
 incitar,ยั่วยุ กระตุ้น เร้าให้เกิด,y
 incoloro,ที่ไม่มีสี,y
 inculcar,ปลูกฝัง สั่งสอน,y
@@ -1821,6 +1828,7 @@ la cita (palabra),การอ้างถึง โควต,y´
 la clara,ไข่ขาว,y
 la claustrofobia,โรคกลัวที่แคบ,y
 la clavícula,กระดูกไหปลาร้า,y
+la clorofila,คลอโรฟิลล์,y
 la cláusula,ข้อกำหนด (เงื่อนไข),y
 la coca,ขนมปังที่เป็นเบเกอรี่แบน ๆ,y
 la codorniz,นกกระทา,y
@@ -1876,6 +1884,7 @@ la cáscara,เปลือก,y
 la célula,เซลล์,y
 la cúpula,โดม,y
 la deflación,เงินฝืด,y
+la dejadez,ความปล่อยปะละเลย ความเพิกเฉย,y
 la delincuencia,การประพฤติไม่ดี,y
 la dentadura postiza,ฟันปลอม,y
 la depuradora,โรงบำบัดน้ำเสีย,y
@@ -1993,6 +2002,7 @@ la harina,แป้ง,y
 la hebilla,หัวเข็มขัด,y
 la hembra,ตัวเมีย,y
 la hepatitis,โรคตับอักเสบ,y
+la herbicida,ยาฆ่าหญ้า,y
 la herida,แผลบาดเจ็บ,y
 la hermanastra,พี่สาวน้องสาวต่างพ่อแม่,y
 la hermorragia nasal,เลือดกำเดา,y
@@ -2122,6 +2132,7 @@ la mostaza,มัสตาร์ด,y
 la mozzarella,ชีสมอสซาเรลลา,y
 la mudanza,การย้ายบ้าน,y
 la muela,ฟันกราม,y
+la muela de juicio,ฟันคุด,y
 la mugre,ขี้ดิน,y
 la mula,ล่อ (สัตว์),y
 la multa,ค่าปรับ,y
@@ -2201,6 +2212,7 @@ la persiana,ม่านบังแดด,y
 la pesadilla,ฝันร้าย,y
 la pescadería,ร้านขายปลา,y
 la pestaña,ขนตา,y
+la pesticida,ยาฆ่าแมลง,y
 la petanca,เปตอง,y
 la pezuña,กีบม้า อุ้งเท้า,y
 la pica (de una carta),(ไพ่) โพธิ์ดำ,y
@@ -2592,6 +2604,7 @@ quedar mal,ไม่เข้ากันกับ(สิ่งของ เส�
 quemar,เผา,y
 quitar la mesa,เก็บโต๊ะ,y
 radiante,ส่องสว่าง มีความสุข,
+ralentizar,ทำให้ช้าลง หน่วง ชะลอ,y
 ranchero,ที่เกี่ยวกับการทำฟาร์มและปศุสัตว์,y
 rapar,โกนผม โกนขน,y
 rascar,เกา,y
@@ -2780,6 +2793,7 @@ turbio,ขุ่น,y
 turquesa,สีน้ำเงินอมเขียว,y
 ultrajar,ดูหมิ่น หยาม,y
 un pelín,นิดหน่อย,
+un pez que se muerde la cola,ปัญหางูกินหาง,y
 urdir,ห่อ หุ้ม,
 vacilar,ตะกุกตะกัก โอนเอน ลังเล,y
 vanguardista,ซึ่งก้าวหน้า หัวก้าวหน้า,
