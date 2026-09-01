@@ -315,7 +315,8 @@ le dauphin,ปลาโลมา,y
 le docteur,หมอ,y
 le dîner,อาหารเย็น,y
 le fils,ลูกชาย,y
-le football,ฟุตบอล,y
+le foot,ฟุตบอล (สั้น),y
+le football,ฟุตบอล (ยาว),y
 le fromage,ชีส,y
 le fruit,ผลไม้,y
 le frère,พี่ชาย น้องชาย,y
@@ -384,6 +385,7 @@ le sel,เกลือ,y
 le serpent,งู,y
 le singe,ลิง,y
 le soir,ตอนเย็น,y
+le sport,กีฬา,y
 le stress,ความเครียด,y
 le sucre,น้ำตาล,y
 le supermarché,ซุปเปอร์มาร์เก็ต,y
@@ -463,6 +465,7 @@ photographier,ถ่ายรูป,y
 pleuvoir,ฝนตก,y
 plus,มากกว่า,y
 plusiers,หลากหลาย เยอะ,y
+populaire,มีชื่อเสียง,y
 porter,สวม ใส่ พก แบก หาม,y
 poser,วาง เอาไว้,y
 posséder,เป็นเจ้าของ (เจ้าของ=ประธาน),y
@@ -475,6 +478,7 @@ prochain,ถัดไป,y
 proposer,เสนอ,y
 propre,สะอาด,y
 près,ใกล้ ๆ,y
+préférer,ชอบมากกว่า,y
 préféré,ที่โปรดปราน ที่ชอบ,y
 prêt,พร้อม,y
 pur,บริสุทธิ์,y

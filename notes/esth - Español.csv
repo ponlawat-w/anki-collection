@@ -71,6 +71,7 @@ adosar,วางข้าง ๆ กัน วางติดกัน,y
 adscribir,มอบหมาย,
 adueñarse de,ฉกฉวย ครอบงำ,y
 advertir,เตือน,
+adyacente,ที่อยู่ติดกัน,y
 afable,สุภาพ เรียบร้อย,y
 afeitarse,โกนหนวด,y
 aferrarse,ยึดมั่นถือมั่น จับแน่น,y
@@ -241,7 +242,7 @@ chivarse,col. ฟ้อง,y
 chungo,(ภาษาพูด) ยาก อันตราย เสี่ยง (caló),y
 cimbrearse,ไหวพริ้ว,y
 clandestino,ที่เป็นความลับ (c),y
-clavar,ตอกตะปู ปักหมุด,y
+clavar,ตอกตะปู ปักหมุด (!m),y
 cobarde,ขี้ขลาด,y
 cobre,สีทองแดง (!b),y
 cocer,ต้ม อบ,y
@@ -255,10 +256,12 @@ como sardinas en lata,อัดกันเป็นกลากระป๋อ�
 compaginar,รวมและทำให้สมดุล บูรณาการณ์ ประยุกต์,y
 comprometerse a (hacer algo),ยินยอมที่จะ (ทำ),y
 comulgar,รับศีลมหาสนิท,y
+concebir,เข้าใจ (แนวคิด) ปฏิสนธิ,t
 conceder,ยินยอม มอบให้,
 concienciar,ทำให้ตื่นตัว ทำให้เห็นความสำคัญ,y
 confabularse,สมรู้ร่วมคิด วางแผนอย่างลับ ๆ,y
 conjeturar,สันนิษฐาน คาดเดา คาดคะเน,y
+contabilizar,ลงบัญชี นับ คำนวน,y
 contemplar,นั่งจ้อง พิจารณา ไตร่ตรอง,y
 contemplativo,ที่ลึกซึ้ง ที่เกี่ยวกับการเข้าฌาน,
 controvertir,โต้เถียง (!d),y
@@ -271,6 +274,7 @@ corredizo,แบบเลื่อน,y
 correr el riesgo,เข้าไปเสี่ยง,y
 correrse la voz,กระจายข่าว,
 cortar el bacalao,ขี้สั่ง ทำตัวเป็นผู้นำด้านการตัดสินใจ (สำนวน cortar ~),y
+cosechar,เก็บเกี่ยว เก็บผลผลิต,y
 coser,เย็บ,y
 cosquillear,ทำให้จั้กจี้ ทำให้คัน,y
 costero,ที่อยู่ชายฝั่ง,y
@@ -469,6 +473,7 @@ el alicate,คีมหนีบ คีมตัด,y
 el aliento,ลมหายใจ (!v!ción),y
 el almacén,โกดัง,y
 el almanaque,ปฏิทิน (!c),y
+el almidón,แป้ง (สารสกัด),y
 el alquiler,การให้เช่า (~l~),y
 el alud,ดินถล่ม (!d),y
 el ama de casa,พ่อบ้าน แม่บ้าน,y
@@ -889,6 +894,7 @@ el golpe bajo,ล่วงเกิน,y
 el golpe de calor,โรคลมแดด,y
 el gorrión,นกกระจอก,y
 el gotelé,ผนังบ้านแบบขรุขระ,y
+el goteo,การหยด เสียงหยดน้ำ,y
 el gozne,บานพับ (!b),y
 el gozo,ความดีใจ ความยินดี ปีติยินดี,y
 el grajo,อีกา (!c),y
@@ -1210,6 +1216,7 @@ el portero automático,แผงออด (ของอพาร์ตเมน�
 el pozo,บ่อน้ำ,y
 el prado,สนามหญ้า (๒),y
 el precipio,เหว หน้าผา,y
+el prejuicio,อคติ ความลำเอียง,y
 el preso,นักโทษ,y
 el prestigio,ชื่อเสียง เกียรติยศ,y
 el presupuesto,ร่างงบประมาณ,y
@@ -1320,6 +1327,7 @@ el semáforo de peatones,สัญญาณไฟคนข้าม,y
 el senado,วุฒิสภา,y
 el senderismo,ไฮกิง,y
 el sendero,ทาง เส้นทาง (s),y
+el seno,ค่าไซน์ เต้านม ส่วนเว้า,y
 el serrucho,เลื่อย (คำนาม),y
 el serrín,ขี้เลื่อย,y
 el silbato,หวูด,y
@@ -1620,6 +1628,7 @@ hurtar,ขโมย (!r),y
 idílico,งดงามตามธรรมชาติ งดงามและสงบสุข,y
 ileso,ซึ่งไม่ได้รับอันตราย,y
 impasible,ที่ไม่แสดงอารมณ์ ไม่ดูทุกข์ร้อน,y
+imperturbable,ที่ไม่สะทกสะท้าน สุขุม เยือกเย็น,y
 importar un comino,ไม่สำคัญ (สำนวน importar ~),y
 imprevisible,คาดเดาไม่ได้ ทำนายไม่ได้,y
 imprudente,ประมาท เลินเล่อ ไม่รอบคอบ (คำคุณศัพท์),y
@@ -2293,6 +2302,7 @@ la rotura,การแตกหัก ชำรุดทรุดโทรม,y
 la rueda,ล้อรถ (รวมยาง),y
 la rueda de prensa,งานแถลงข่าว,y
 la ruptura,การแตกหัก การเลิกคบ,y
+la rúcula,ผักร็อกเกต,y
 la sanción,การลงโทษ,y
 la sangría (en texto),(คำนาม) ย่อหน้า (tab),y
 la sartén,กระทะ,y
@@ -2630,6 +2640,7 @@ regir,ปกครอง ควบคุม บริหารราชการ
 regocijar,ยินดีปรีดา,y
 relinchar,(ม้า)ร้อง,y
 remangar,เลิก (แขนเสื้อ),y
+remitir,ส่ง อ้างอิง ทุเลา,y
 remolcar,ลากจูง,y
 remontar,เอาชนะ ทวนกระแส,y
 remugar,เคี้ยวเอื้อง ครุ่นคิด ค่อย ๆ พิจารณา (๓),y
@@ -2709,6 +2720,7 @@ serruchar,เลื่อย (กริยา),y
 si bien,แม้ว่า ในขณะที่,
 siempre que,ตราบใดที่ ก็ต่อเมื่อ,y
 sigiloso,(adj.) ที่แอบ ๆ ลับ ๆ,y
+sinuoso,ที่คดเคี้ยว ที่เลี้ยว ที่เว้า,y
 sirio,คุณศัพท์ของซีเรีย,y
 sobrecoger,ทำให้สะดุ้ง ทำให้กลัว,
 sobresalir,ยื่นออก โผล่ออก โดดเด่น แตกต่าง (!a),y
