@@ -15,6 +15,7 @@ français,thaïlandais,Add Reverse
 (f.) l'idée,ความคิด ไอเดีย,y
 (f.) l'orange,ส้ม (ผลไม้),y
 (f.) l'école,โรงเรียน,y
+(f.) l'équipe,ทีม,y
 (f.pl.) les frites,มันฝรั่งทอด,y
 (f.pl.) les toilettes,ห้องน้ำ,y
 (m.) l'alcool,แอลกอฮอล์ เหล้า,y
@@ -386,6 +387,7 @@ le serpent,งู,y
 le singe,ลิง,y
 le soir,ตอนเย็น,y
 le sport,กีฬา,y
+le stade,สเตเดียม สนามกีฬา,y
 le stress,ความเครียด,y
 le sucre,น้ำตาล,y
 le supermarché,ซุปเปอร์มาร์เก็ต,y
@@ -447,7 +449,7 @@ orange,สีส้ม,y
 ou,หรือ,y
 ouvrir,เปิด,y
 où,ที่ไหน,y
-par,ด้วย สำหรับ ผ่านทาง,y
+par,ด้วย สำหรับ ผ่านทาง (!à),y
 parce que,เพราะว่า (๒),y
 parfait,สมบูรณ์แบบ ยอดเยี่ยม (!g),y
 parler,พูด,y
@@ -542,7 +544,7 @@ vouloir,อยาก,y
 voyager,เดินทาง ท่องเที่ยว,y
 vrai,ที่เป็นความจริง,y
 à côté de,ด้านข้างของ~,y
-à travers,ผ่านทาง โดยใช้,y
+à travers,ผ่านทาง โดยใช้ (!p),y
 ça,สิ่งนั้น,y
 écrire,เขียน,y
 énorme,ยิ่งใหญ่ ใหญ่โต (es: enorme),y
