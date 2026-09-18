@@ -264,6 +264,7 @@ conjeturar,สันนิษฐาน คาดเดา คาดคะเน,
 contabilizar,ลงบัญชี นับ คำนวน,y
 contemplar,นั่งจ้อง พิจารณา ไตร่ตรอง,y
 contemplativo,ที่ลึกซึ้ง ที่เกี่ยวกับการเข้าฌาน,
+contraer,หด เกร็ง บีบ,y
 controvertir,โต้เถียง (!d),y
 convidar,เชิญชวน เสนอให้,y
 conyugal,เกี่ยวกับการแต่งงาน เกี่ยวกับชีวิตหลังสมรส (!m),y
@@ -543,7 +544,7 @@ el baloncesto,บาสเกตบอล,y
 el banquete,งานเลี้ยง (!f),y
 el barranco,หุบเหว ร่องลำธาร,y
 el barrio periférico,ย่านชานเมือง,y
-el barro,ดินเหนียว โคลน,y
+el barro,ดินเหนียว โคลน (!f),y
 el barroco,บารอก,y
 el bastión,ป้อมปราการ (b),y
 el bastoncillo,คอตตอนบัด,y
@@ -641,6 +642,7 @@ el casco antiguo,ย่านเมืองเก่า,y
 el cascote,เศษหินเศษปูน,y
 el casero,เจ้าบ้าน นายหน้า,y
 el catedrático,อาจารย์ (c),y
+el cateto,ด้านประกอบมุมฉาก,y
 el catrín,โครงกระดูกตกแต่งในเทศกาลไว้บรรพบุรุษของเม็กซิโก,y
 el caza,เครื่องบินรบ,y
 el cazador,นักล่า,y
@@ -1213,6 +1215,7 @@ el portarrollo,แกนจ่ายทิชชู่,y
 el portazo,เสียงกระแทก (เช่น เสียงปิดประตู),y
 el portero,โกล(ตำแหน่ง) พนักงานเปิดประตู,y
 el portero automático,แผงออด (ของอพาร์ตเมนต์),y
+el postulado,ทฤษฎีบท สัจพจน์,y
 el pozo,บ่อน้ำ,y
 el prado,สนามหญ้า (๒),y
 el precipio,เหว หน้าผา,y
@@ -1502,6 +1505,7 @@ entregarse,มอบตัว,y
 entretener,ทำให้สนุกสนาน (en: entertain),y
 entristecer,ทำให้เศร้า,y
 entumecer,ชา ทำให้เหน็บชา (!ให้ยาชา),y
+enunciar,แถลง,y
 envejecer,แก่ขึ้น (กริยา),y
 envenenar,วางยาพิษ ใส่ยาพิษ,y
 enésimo,ที่มากมาย (e),y
@@ -2019,6 +2023,7 @@ la hernia discal,โรคหมอนรองกระดูกทับเส
 la hijastra,ลูกติดผู้หญิง,y
 la hipermetropía,อาการสายตายาว,y
 la hipoteca,การจำนอง,y
+la hipotenusa,ด้านตรงข้ามมุมฉาก,y
 la hipotermia,ภาวะตัวเย็นเกิน,y
 la hoguera,กองเพลิง (ใหญ่),y
 la horma,แม่พิมพ์รองเท้า,y
@@ -2247,7 +2252,7 @@ la polilla,ผีเสื้อกลางคืน,y
 la porcelana,เครื่องปั้นดินเผาเคลือบ,y
 la potasa,ด่าง โพแทช,y
 la pradera,สนามหญ้า (๓),y
-la premisa,สมมติฐาน,
+la premisa,สมมติฐาน,y
 la premonición,การเตือนล่วงหน้า การสังหรณ์ใจ,y
 la presa,เหยื่อ,y
 la preservación,การทำเป็นประจำ,y
